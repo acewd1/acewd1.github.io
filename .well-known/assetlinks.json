@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "tech.dnnr.artista",
+        "sha256_cert_fingerprints":
+          ["AC:01:80:D4:DA:81:3F:4F:D1:C3:1D:53:2E:E4:22:8E:B5:10:A2:94:D9:CA:3B:94:92:0F:D0:0E:E7:FD:16:1E"]
+      }
+    }
+  ]
