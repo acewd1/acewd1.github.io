@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "3A97MMQ86A.tech.dnnr.artista",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
