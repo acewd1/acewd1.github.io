@@ -10,165 +10,160 @@
           "price": "1.99"
         },
         {
-          "name": "BBQ Chicken Pizza",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/90460.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bbq-chicken-pizza-090460",
-          "price": "5.49"
+          "name": "Fine Grain Pink Salt",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/76300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fine-grain-pink-salt-076300",
+          "price": "1.69"
         },
         {
-          "name": "Golden Rounds Crackers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/94889-golden-rounds-crackers.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/golden-rounds-crackers-094889",
-          "price": "2.99"
+          "name": "Okonomiyaki Japanese Vegetable Pancake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79679.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/okonomiyaki-japanese-vegetable-pancake-079679",
+          "price": "4.99"
         },
         {
-          "name": "Cambozola® Triple Cream Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/31883.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cambozola-triple-cream-cheese-031883",
-          "price": "13.99"
+          "name": "Japanese Mini Taiyaki",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/75997.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/japanese-mini-taiyaki-075997",
+          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Tom Yum Seasoned Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/78103.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tom-yum-seasoned-snack-mix-078103",
-          "price": "3.49"
-        },
-        {
-          "name": "Shrimp Noodle Rolls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/76087.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shrimp-noodle-rolls-076087",
-          "price": "3.99"
-        },
-        {
-          "name": "Passion Fruit Meringue Tartelettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79862.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/passion-fruit-meringue-tartelettes-079862",
+
+          "name": "Japanese Mini Taiyaki",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/75997.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/japanese-mini-taiyaki-075997",
           "price": "4.99"
         },
         {
-          "name": "Garlic Butter Irish Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79817.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-irish-potato-chips-079817",
+          "name": "Sandwich Rolls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/78138.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-rolls-078138",
+          "price": "3.49"
+        },
+        {
+          "name": "Pineapple Teriyaki Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/81225.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-teriyaki-chicken-meatballs-081225",
+          "price": "4.29"
+        },
+        {
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
           "price": "2.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Garlic Butter Irish Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79817.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-irish-potato-chips-079817",
-          "price": "2.99"
+          "name": "Spicy Pink Salt with Crushed Red Chili Pepper",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/76362.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-pink-salt-with-crushed-red-chili-pepper-076362",
+          "price": "1.99"
         },
         {
-          "name": "Tom Yum Seasoned Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/78103.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tom-yum-seasoned-snack-mix-078103",
-          "price": "3.49"
+          "name": "Fine Grain Pink Salt",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/76300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fine-grain-pink-salt-076300",
+          "price": "1.69"
         },
         {
-          "name": "Passion Fruit Meringue Tartelettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79862.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/passion-fruit-meringue-tartelettes-079862",
+          "name": "Okonomiyaki Japanese Vegetable Pancake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79679.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/okonomiyaki-japanese-vegetable-pancake-079679",
           "price": "4.99"
         },
         {
-          "name": "Celebration Cake Pretzels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80347.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/celebration-cake-pretzels-080347",
-          "price": "2.99"
+          "name": "Japanese Mini Taiyaki",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/75997.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/japanese-mini-taiyaki-075997",
+          "price": "4.99"
         }
       ]
     },
     "Beverage": {
       "going_fast": [
         {
+          "name": "Sparkling Matcha Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "price": "1.99"
+        },
+        {
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "price": "3.99" 
+        },
+        {
+          "name": "Emma Reichart Rosé Pinot Noir",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "price": "5.99" 
+        },
+        {
           "name": "Organic Fruit Punch Juice Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/77918.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-punch-juice-beverage-177918",
           "price": "3.99"
-        },
-        {
-          "name": "Hardywood® Dark Chocolate Peanut Butter Porter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/81803.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-dark-chocolate-peanut-butter-porter-081803",
-          "price": "3.75" 
-        },
-        {
-          "name": "Organic Unfiltered Apple Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/42866.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unfiltered-apple-juice-042866",
-          "price": "5.49" 
-        },
-        {
-          "name": "100% Red Tart Cherry Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
-          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Matcha Green Tea Latte Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
-          "price": "4.99"
+          "name": "Everything But The Bartender Classic Lime Margarita",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/78890.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-classic-lime-margarita-178890",
+          "price": "9.99"
+        },
+        {
+          "name": "Sparkling Matcha Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "price": "1.99"
+        },
+        {
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "price": "3.99" 
         },
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
-        },
-        {
-          "name": "Organic Cold Pressed Green Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
-          "price": "5.99"
-        },
-        {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
         }
       ],
       "whats_new": [
+        {
+          "name": "Sparkling Matcha Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "price": "1.99"
+        },
+        {
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "price": "3.99" 
+        },
+        {
+          "name": "Emma Reichart Rosé Pinot Noir",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "price": "5.99" 
+        },
         {
           "name": "Organic Fruit Punch Juice Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/77918.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-punch-juice-beverage-177918",
           "price": "3.99"
-        },
-        {
-          "name": "Hardywood® Dark Chocolate Peanut Butter Porter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/81803.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-dark-chocolate-peanut-butter-porter-081803",
-          "price": "3.75" 
-        },
-        {
-          "name": "Organic Unfiltered Apple Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/42866.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unfiltered-apple-juice-042866",
-          "price": "5.49" 
-        },
-        {
-          "name": "100% Red Tart Cherry Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
-          "price": "4.99"
         }
       ]
     },
     "Flowers": {
       "going_fast": [
-        {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58033.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-058033",
-          "price": "9.99"
-        },
         {
           "name": "Easy Bouquet Wrap",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/webp-1280.webp",
@@ -186,14 +181,20 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         }
       ],
       "popular": [
         {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58033.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-058033",
-          "price": "9.99"
+          "name": "Tulips 20 Stem Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
+          "price": "12.99"
         },
         {
           "name": "Peony Tulips Bunch",
@@ -202,25 +203,19 @@
           "price": "8.99"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         },
         {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "6.99"
         }
       ],
       "whats_new": [
-        {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58033.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-058033",
-          "price": "9.99"
-        },
         {
           "name": "Easy Bouquet Wrap",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/webp-1280.webp",
@@ -238,86 +233,92 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         }
       ]
     },
     "Everything Else": {
       "going_fast": [
         {
-          "name": "Mini Pastel Canvas Tote Bags",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79986.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pastel-canvas-tote-bags-079986",
-          "price": "2.99"
-        },
-        {
-          "name": "Springle Jangle for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/80929.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/springle-jangle-for-dogs-080929",
-          "price": "4.49"
-        },
-        {
-          "name": "Organic Fruit & Vegetable Wash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76120.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-vegetable-wash-076120",
-          "price": "3.99"
-        },
-        {
-          "name": "Crispy Chicken Chips Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
           "price": "4.99"
+        },
+        {
+          "name": "Berry Glow Body Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
+          "price": "12.99"
+        },
+        {
+          "name": "Invisible Gel Body Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+          "price": "12.99"
+        },
+        {
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         }
       ],
       "popular": [
         {
-          "name": "Mini Pastel Canvas Tote Bags",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79986.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pastel-canvas-tote-bags-079986",
-          "price": "2.99"
+          "name": "Berry Glow Body Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
+          "price": "12.99"
         },
         {
-          "name": "Springle Jangle for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/80929.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/springle-jangle-for-dogs-080929",
-          "price": "4.49"
-        },
-        {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         },
         {
           "name": "Stand-Up Collapsable Grocery Tote",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
           "price": "3.99"
+        },
+        {
+          "name": "Invisible Gel Body Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+          "price": "12.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Mini Pastel Canvas Tote Bags",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79986.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pastel-canvas-tote-bags-079986",
-          "price": "2.99"
-        },
-        {
-          "name": "Springle Jangle for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/80929.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/springle-jangle-for-dogs-080929",
-          "price": "4.49"
-        },
-        {
-          "name": "Organic Fruit & Vegetable Wash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76120.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-vegetable-wash-076120",
-          "price": "3.99"
-        },
-        {
-          "name": "Crispy Chicken Chips Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
           "price": "4.99"
+        },
+        {
+          "name": "Berry Glow Body Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
+          "price": "12.99"
+        },
+        {
+          "name": "Invisible Gel Body Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+          "price": "12.99"
+        },
+        {
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         }
       ]
     }
