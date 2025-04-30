@@ -44,21 +44,35 @@
       "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/62834.png/jcr:content/renditions/webp-640.webp",
       "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-chip-hold-the-cone-062834",
       "price": "3.99",
-      "note": "A mini ice cream cone with a chocolate chip ice cream filling."
+      "note": "Nobody stops at one Not even legends"
     },
     {
       "name": "Fig Butter",
       "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/96478.png/jcr:content/renditions/webp-640.webp",
       "product_url": "https://www.traderjoes.com/home/products/pdp/fig-butter-096478",
       "price": "2.99",
-      "note": "A sweet spread made from figs, perfect for toast or cheese boards."
+      "note": "No fig, no guests. That’s the pantry law"
     },
     {
       "name": "Garlic Flavored Olive Oil",
       "image_url": "https://m.media-amazon.com/images/I/71VY+8xRMZL.jpg",
       "product_url": "",
       "price": "15.99",
-      "note": "A versatile oil infused with garlic flavor, great for cooking or drizzling."
+      "note": "Garlic flavor without the garlic hassle Chef’s shortcut"
+    },
+    {
+      "name": "4 Almond Croissants",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/98265.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/4-almond-croissants-098265",
+      "price": "5.99",
+      "note": "Waking up to the smell of these baking in the morning is pure bliss"
+    },
+    {
+      "name": "Sunscreen Spray SPF 50+",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/95003.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/sunscreen-spray-spf-50-095003",
+      "price": "5.99",
+      "note": "Cool, non-sticky, no white cast—just smooth protection that never lets me down"
     }
   ],
   "faves_2025": [
@@ -89,6 +103,34 @@
       "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-640.webp",
       "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
       "price": "2.99"
+    },
+    {
+      "category": "Cheese",
+      "name": "Chevre Goat Cheese",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/19751.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/chevre-goat-cheese-019751",
+      "price": "2.99"
+    },
+    {
+      "category": "Lunch & Dinner",
+      "name": "Butter Chicken with Basmati Rice",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/99032.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/butter-chicken-with-basmati-rice-099032",
+      "price": "4.49"
+    },
+    {
+      "category": "Bath, Body & Home",
+      "name": "Brazil Nut Body Oil",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78041.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-oil-078041",
+      "price": "6.99"
+    },
+    {
+      "category": "Sweet Treat",
+      "name": "Sublime Ice Cream Sandwiches",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/90987.png/jcr:content/renditions/webp-1280.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/sublime-ice-cream-sandwiches-090987",
+      "price": "4.99"
     }
   ]
 }
