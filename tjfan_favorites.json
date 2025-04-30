@@ -1,0 +1,94 @@
+{
+  "last_updated": "2025-04-29T10:00:00Z",
+  "all_time_greats": [
+    {
+      "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+      "price": "2.99"
+    },
+    {
+      "name": "Mandarin Orange Chicken",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/66563.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-orange-chicken-066563",
+      "price": "4.99"
+    },
+    {
+      "name": "Dark Chocolate Peanut Butter Cups",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/94064.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-peanut-butter-cups-094064",
+      "price": "5.99"
+    },
+    {
+      "name": "Peanut Butter Filled Pretzel Nuggets",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/00691.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/peanut-butter-filled-pretzel-nuggets-000691",
+      "price": "2.69"
+    },
+    {
+      "name": "Unexpected Cheddar Cheese",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/96923.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-096923",
+      "price": "3.99"
+    },
+    {
+      "name": "Soy Chorizo",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20804/92463.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/soy-chorizo-092463",
+      "price": "2.99"
+    }
+  ],
+  "curated_picks": [
+    {
+      "name": "Chocolate Chip Hold the Cone",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/62834.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-chip-hold-the-cone-062834",
+      "price": "3.99",
+      "note": "A mini ice cream cone with a chocolate chip ice cream filling."
+    },
+    {
+      "name": "Fig Butter",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/96478.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/fig-butter-096478",
+      "price": "2.99",
+      "note": "A sweet spread made from figs, perfect for toast or cheese boards."
+    },
+    {
+      "name": "Garlic Flavored Olive Oil",
+      "image_url": "https://m.media-amazon.com/images/I/71VY+8xRMZL.jpg",
+      "product_url": "",
+      "price": "15.99",
+      "note": "A versatile oil infused with garlic flavor, great for cooking or drizzling."
+    }
+  ],
+  "faves_2025": [
+    {
+      "category": "Produce",
+      "name": "Teeny Tiny Avocados",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/context-images/75444-teeny-tiny-avocados-web.jpg/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-avocados-6-count-075444",
+      "price": "4.99"
+    },
+    {
+      "category": "Appetizer",
+      "name": "Creamy Spinach & Artichoke Dip",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/78032.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-spinach-artichoke-dip-078032",
+      "price": "3.79"
+    },
+    {
+      "category": "Breakfast & Brunch",
+      "name": "Hashbrowns",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/94769.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/hashbrowns-094769",
+      "price": "2.99"
+    },
+    {
+      "category": "Snacks",
+      "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+      "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-640.webp",
+      "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+      "price": "2.99"
+    }
+  ]
+}
