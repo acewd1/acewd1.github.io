@@ -1,31 +1,31 @@
 {
-  "last_updated": "2025-04-30T11:00:00Z",
+  "last_updated": "2025-05-04T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "Buffalo Ranch Popcorn",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80927.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-ranch-popcorn-080927",
-          "price": "2.99"
-        },
-        {
-          "name": "Premium Beef Bone-In Rib Eye Steak",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80307.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-beef-bone-in-rib-eye-steak-080307",
-          "price": "17.99"
-        },
-        {
-          "name": "Roasted Green Vegetables",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/81060.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/roasted-green-vegetables-081060",
+          "name": "Lemon Basil Pasta Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/61301.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-basil-pasta-salad-061301",
           "price": "4.99"
         },
         {
-          "name": "Fiesta Salad with Shrimp",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/81837.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fiesta-salad-with-shrimp-081837",
-          "price": "6.99"
+          "name": "Solid Light Yellowfin Tuna iin Extra Virgin Olive Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/74667.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/solid-light-yellowfin-tuna-iin-extra-virgin-olive-oil-074667",
+          "price": "2.49"
+        },
+        {
+          "name": "Organic Lemon Torchietti Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/74954.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-lemon-torchietti-pasta-074954",
+          "price": "2.99"
+        },
+        {
+          "name": "Organic Tofu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20804/06237.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-tofu-006237",
+          "price": "2.49"
         }
       ],
       "popular": [
@@ -37,22 +37,22 @@
           "price": "4.99"
         },
         {
-          "name": "Buffalo Ranch Popcorn",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80927.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-ranch-popcorn-080927",
-          "price": "2.99"
-        },
-        {
-          "name": "Roasted Green Vegetables",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/81060.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/roasted-green-vegetables-081060",
-          "price": "4.99"
-        },
-        {
-          "name": "Sour Strawberry Candy Belts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78932.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sour-strawberry-candy-belts-078932",
+          "name": "Soft Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/76395.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/soft-pretzel-twists-076395",
           "price": "3.49"
+        },
+        {
+          "name": "Pineapple Teriyaki Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/81225.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-teriyaki-chicken-meatballs-081225",
+          "price": "4.29"
+        },
+        {
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
         }
       ],
       "whats_new": [
