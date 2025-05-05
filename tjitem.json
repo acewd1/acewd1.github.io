@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04T11:00:00Z",
+  "last_updated": "2025-05-05T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -43,19 +43,31 @@
           "price": "3.49"
         },
         {
-          "name": "Pineapple Teriyaki Chicken Meatballs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/81225.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-teriyaki-chicken-meatballs-081225",
-          "price": "4.29"
+          "name": "Organic Arugula",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/32591.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-arugula-032591",
+          "price": "2.29"
         },
         {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "name": "Shishito Peppers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80336.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shishito-peppers-080336",
           "price": "2.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Sweet & Spicy Rice Cracker Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79429.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-spicy-rice-cracker-mix-079429",
+          "price": "2.49"
+        },
+        {
+          "name": "Teeny Tiny Strawberry Rhubarb Pies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81482.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-strawberry-rhubarb-pies-081482",
+          "price": "5.49"
+        },
         {
           "name": "Buffalo Ranch Popcorn",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80927.png/jcr:content/renditions/webp-1280.webp",
@@ -67,27 +79,15 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80307.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/premium-beef-bone-in-rib-eye-steak-080307",
           "price": "17.99"
-        },
-        {
-          "name": "Roasted Green Vegetables",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/81060.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/roasted-green-vegetables-081060",
-          "price": "4.99"
-        },
-        {
-          "name": "Fiesta Salad with Shrimp",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/81837.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fiesta-salad-with-shrimp-081837",
-          "price": "6.99"
         }
       ]
     },
     "Beverage": {
       "going_fast": [
         {
-          "name": "Emma Reichart Rosé Pinot Noir",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "name": "Cinsault Rosé Maison Barboulot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/79060.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cinsault-rose-maison-barboulot-079060",
           "price": "5.99" 
         },
         {
@@ -111,28 +111,28 @@
       ],
       "popular": [
         {
-          "name": "Citrus Berry Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79345.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/citrus-berry-herbal-tea-079345",
-          "price": "2.99"
-        },
-        {
-          "name": "Sparkling Matcha Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
-          "price": "1.99"
-        },
-        {
-          "name": "Everything But The Bartender Classic Lime Margarita",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/78890.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-classic-lime-margarita-178890",
+          "name": "Susumaniello Ruggero di Bardo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
           "price": "9.99"
         },
         {
-          "name": "Organic Margarita Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
-          "price": "3.99" 
+          "name": "Josephsbrau Hefeweizen",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75189.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/josephsbrau-hefeweizen-175189",
+          "price": "5.99"
+        },
+        {
+          "name": "Motif Cabernet Sauvignon Red Hills Lake County",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/76075.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/motif-cabernet-sauvignon-red-hills-lake-county-076075",
+          "price": "5.49"
+        },
+        {
+          "name": "Spindrift Island Punch Sparkling Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/81308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spindrift-island-punch-sparkling-water-181308",
+          "price": "7.49" 
 
         }
       ],
@@ -246,12 +246,6 @@
     "Everything Else": {
       "going_fast": [
         {
-          "name": "Garden Party Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
-          "price": "8.99"
-        },
-        {
           "name": "Peony Scented Bath Fizzer",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
@@ -268,6 +262,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
           "price": "12.99"
+        },
+        {
+          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
+          "price": "3.49"
         }
       ],
       "popular": [
@@ -284,16 +284,16 @@
           "price": "3.99"
         },
         {
+          "name": "Night Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80359.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/night-cream-080359",
+          "price": "9.99"
+        },
+        {
           "name": "Daily Facial Mineral Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
           "price": "12.99"
-        },
-        {
-          "name": "Fresh Blooms Ultra Moisturizing Hand Cream",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81213.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-blooms-ultra-moisturizing-hand-cream-081213",
-          "price": "4.99"
         }
       ],
       "whats_new": [
