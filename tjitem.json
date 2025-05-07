@@ -1,8 +1,14 @@
 {
-  "last_updated": "2025-05-05T11:00:00Z",
+  "last_updated": "2025-05-07T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Seedless Lemons",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/74895.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seedless-lemons-074895",
+          "price": "2.99"
+        },
         {
           "name": "Lemon Basil Pasta Salad",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/61301.png/jcr:content/renditions/webp-1280.webp",
@@ -20,12 +26,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/74954.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-lemon-torchietti-pasta-074954",
           "price": "2.99"
-        },
-        {
-          "name": "Organic Tofu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20804/06237.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-tofu-006237",
-          "price": "2.49"
         }
       ],
       "popular": [
@@ -49,10 +49,10 @@
           "price": "2.29"
         },
         {
-          "name": "Shishito Peppers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80336.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shishito-peppers-080336",
-          "price": "2.99"
+          "name": "Thick, Bold & Spicy Red Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/78789.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/thick-bold-spicy-red-sauce-078789",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -61,6 +61,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79429.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-spicy-rice-cracker-mix-079429",
           "price": "2.49"
+        },
+        {
+          "name": "Milton Creamery Morning Harvest Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/80525.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/milton-creamery-morning-harvest-cheese-080525",
+          "price": "4.99"
         },
         {
           "name": "Teeny Tiny Strawberry Rhubarb Pies",
@@ -73,12 +79,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80927.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-ranch-popcorn-080927",
           "price": "2.99"
-        },
-        {
-          "name": "Premium Beef Bone-In Rib Eye Steak",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80307.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-beef-bone-in-rib-eye-steak-080307",
-          "price": "17.99"
         }
       ]
     },
@@ -111,10 +111,10 @@
       ],
       "popular": [
         {
-          "name": "Susumaniello Ruggero di Bardo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
-          "price": "9.99"
+          "name": "Sparkling Matcha Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "price": "1.99"
         },
         {
           "name": "Josephsbrau Hefeweizen",
@@ -123,10 +123,10 @@
           "price": "5.99"
         },
         {
-          "name": "Motif Cabernet Sauvignon Red Hills Lake County",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/76075.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/motif-cabernet-sauvignon-red-hills-lake-county-076075",
-          "price": "5.49"
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         },
         {
           "name": "Spindrift Island Punch Sparkling Water",
@@ -278,10 +278,10 @@
           "price": "8.99"
         },
         {
-          "name": "Stand-Up Collapsable Grocery Tote",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
-          "price": "3.99"
+          "name": "Body Wash & Serum Duo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/79371.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/body-wash-serum-duo-079371",
+          "price": "12.99"
         },
         {
           "name": "Night Cream",
