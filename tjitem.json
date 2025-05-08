@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-07T11:00:00Z",
+  "last_updated": "2025-05-08T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,29 +30,30 @@
       ],
       "popular": [
         {
+          "name": "Thick, Bold & Spicy Red Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/78789.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/thick-bold-spicy-red-sauce-078789",
+          "price": "3.99"
 
+        },
+        {
           "name": "Japanese Mini Taiyaki",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/75997.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/japanese-mini-taiyaki-075997",
           "price": "4.99"
+
+        },
+        {
+          "name": "Giant Baked Beans in Tomato Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/56278.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-baked-beans-in-tomato-sauce-056278",
+          "price": "1.99"
         },
         {
           "name": "Soft Pretzel Twists",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/76395.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/soft-pretzel-twists-076395",
           "price": "3.49"
-        },
-        {
-          "name": "Organic Arugula",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/32591.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-arugula-032591",
-          "price": "2.29"
-        },
-        {
-          "name": "Thick, Bold & Spicy Red Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/78789.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thick-bold-spicy-red-sauce-078789",
-          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -246,10 +247,10 @@
     "Everything Else": {
       "going_fast": [
         {
-          "name": "Peony Scented Bath Fizzer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
-          "price": "4.99"
+          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
+          "price": "3.49"
         },
         {
           "name": "Berry Glow Body Set",
@@ -264,10 +265,10 @@
           "price": "12.99"
         },
         {
-          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
-          "price": "3.49"
+          "name": "Organic Fruit & Vegetable Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76120.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-vegetable-wash-076120",
+          "price": "3.99"
         }
       ],
       "popular": [
@@ -275,6 +276,12 @@
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-0735685",
+          "price": "8.99"
+        },
+        {
+          "name": "Garden Party Scented Candle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
           "price": "8.99"
         },
         {
@@ -288,12 +295,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80359.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/night-cream-080359",
           "price": "9.99"
-        },
-        {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
         }
       ],
       "whats_new": [
