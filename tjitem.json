@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-12T11:00:00Z",
+  "last_updated": "2025-05-14T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,10 +30,10 @@
       ],
       "popular": [
         {
-          "name": "Thick, Bold & Spicy Red Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/78789.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thick-bold-spicy-red-sauce-078789",
-          "price": "3.99"
+          "name": "Root Beer Float Pieces",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
+          "price": "3.79"
 
         },
         {
@@ -44,9 +44,9 @@
 
         },
         {
-          "name": "Pasture Raised Large Brown Eggs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20304/62124.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasture-raised-large-brown-eggs-062124",
+           "name": "Raspberry, Vanilla & Blueberry Macarons",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79860.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-vanilla-blueberry-macarons-079860",
           "price": "5.99"
         },
         {
@@ -58,28 +58,28 @@
       ],
       "whats_new": [
         {
-          "name": "Raspberry, Vanilla & Blueberry Macarons",
+          "name": "Organic Guava Fruit Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/81300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-guava-fruit-spread-081300",
+          "price": "2.99"
+        },
+        {
+           "name": "Raspberry, Vanilla & Blueberry Macarons",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79860.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-vanilla-blueberry-macarons-079860",
           "price": "5.99"
         },
         {
-           "name": "Sweet & Spicy Rice Cracker Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79429.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-spicy-rice-cracker-mix-079429",
-          "price": "2.49"
+          "name": "Strawberry Baton Wafer Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78104.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-baton-wafer-cookies-078104",
+          "price": "1.99"
         },
         {
-          "name": "Milton Creamery Morning Harvest Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/80525.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/milton-creamery-morning-harvest-cheese-080525",
-          "price": "4.99"
-        },
-        {
-          "name": "Teeny Tiny Strawberry Rhubarb Pies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81482.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-strawberry-rhubarb-pies-081482",
-          "price": "5.49"
+          "name": "Toscano Cheese Crunchy Chili Onion",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/80961.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/toscano-cheese-crunchy-chili-onion-080961",
+          "price": "11.99"
 
         }
       ]
@@ -87,42 +87,36 @@
     "Beverage": {
       "going_fast": [
         {
-          "name": "Cinsault Rosé Maison Barboulot",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/79060.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cinsault-rose-maison-barboulot-079060",
-          "price": "5.99" 
+          "name": "Sparkling Tea & Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
+          "price": "1.99"
         },
         {
-          "name": "Organic Unfiltered Apple Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/42866.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unfiltered-apple-juice-042866",
-          "price": "5.49" 
+          "name": "Copilot Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81939.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "http://traderjoes.com/home/products/pdp/copilot-pinot-noir-2023-081939",
+          "price": "7.99" 
         },
         {
-          "name": "100% Red Tart Cherry Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
-          "price": "4.99" 
+          "name": "Copilot Chardonnay 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81938.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/copilot-chardonnay-2023-081938",
+          "price": "7.99" 
         },
         {
-          "name": "Casone Toscana Governo All'uso Toscano 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/80806.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/casone-toscana-governo-alluso-toscano-2023-080806",
-          "price": "7.99"
+          "name": "Josephsbrau Grapefruit Radler",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/79344.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/josephsbrau-grapefruit-radler-179344",
+          "price": "5.99"
         }
       ],
       "popular": [
         {
-          "name": "Sparkling Matcha Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "name": "Sparkling Tea & Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
-        },
-        {
-          "name": "Josephsbrau Hefeweizen",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75189.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/josephsbrau-hefeweizen-175189",
-          "price": "5.99"
         },
         {
           "name": "Matcha Green Tea Powder",
@@ -131,14 +125,26 @@
           "price": "7.99"
         },
         {
-          "name": "Spindrift Island Punch Sparkling Water",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/81308.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spindrift-island-punch-sparkling-water-181308",
-          "price": "7.49" 
+          "name": "Sparkling Matcha Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
+          "price": "1.99"
+        },
+        {
+          "name": "Matcha Green Tea Latte Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
+          "price": "4.99" 
 
         }
       ],
       "whats_new": [
+        {
+          "name": "Sparkling Tea & Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
+          "price": "1.99"
+        },
         {
           "name": "Citrus Berry Herbal Tea",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79345.png/jcr:content/renditions/webp-1280.webp",
@@ -156,12 +162,7 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
           "price": "3.99" 
-        },
-        {
-          "name": "Emma Reichart Rosé Pinot Noir",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
-          "price": "5.99" 
+
         }
       ]
     },
@@ -248,10 +249,10 @@
     "Everything Else": {
       "going_fast": [
         {
-          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
-          "price": "3.49"
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "price": "3.99"
         },
         {
           "name": "Berry Glow Body Set",
@@ -260,16 +261,16 @@
           "price": "12.99"
         },
         {
-          "name": "Invisible Gel Body Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
-          "price": "12.99"
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
         },
         {
-          "name": "Organic Fruit & Vegetable Wash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76120.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-vegetable-wash-076120",
-          "price": "3.99"
+          "name": "Garden Party Scented Candle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
+          "price": "8.99"
         }
       ],
       "popular": [
@@ -280,21 +281,21 @@
           "price": "8.99"
         },
         {
-          "name": "Garden Party Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
+          "name": "Brazil Nut Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "price": "5.99"
+        },
+        {
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
           "price": "8.99"
         },
         {
-          "name": "Springle Jangle for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/80929.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/springle-jangle-for-dogs-080929",
-          "price": "4.49"
-        },
-        {
-          "name": "Night Cream",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80359.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/night-cream-080359",
+          "name": "Retinol Night Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
           "price": "9.99"
         }
       ],
