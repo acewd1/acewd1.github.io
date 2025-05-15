@@ -1,64 +1,16 @@
 {
-  "last_updated": "2025-05-14T11:00:00Z",
+  "last_updated": "2025-05-16T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "Seedless Lemons",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/74895.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seedless-lemons-074895",
-          "price": "2.99"
-        },
-        {
-          "name": "Lemon Basil Pasta Salad",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/61301.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-basil-pasta-salad-061301",
-          "price": "4.99"
-        },
-        {
-          "name": "Solid Light Yellowfin Tuna iin Extra Virgin Olive Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/74667.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/solid-light-yellowfin-tuna-iin-extra-virgin-olive-oil-074667",
+          "name": "Parsley Crackers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79652.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/parsley-crackers-079652",
           "price": "2.49"
         },
         {
-          "name": "Organic Lemon Torchietti Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/74954.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-lemon-torchietti-pasta-074954",
-          "price": "2.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "Root Beer Float Pieces",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
-          "price": "3.79"
-
-        },
-        {
-          "name": "Pineapple Teriyaki Chicken Meatballs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/81225.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-teriyaki-chicken-meatballs-081225",
-          "price": "4.29"
-
-        },
-        {
-           "name": "Raspberry, Vanilla & Blueberry Macarons",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79860.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-vanilla-blueberry-macarons-079860",
-          "price": "5.99"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        }
-      ],
-      "whats_new": [
-        {
-          "name": "Organic Guava Fruit Spread",
+           "name": "Organic Guava Fruit Spread",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/81300.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-guava-fruit-spread-081300",
           "price": "2.99"
@@ -74,12 +26,60 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78104.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-baton-wafer-cookies-078104",
           "price": "1.99"
+        }
+      ],
+      "popular": [
+        {
+          "name": "Parsley Crackers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79652.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/parsley-crackers-079652",
+          "price": "2.49"
+
         },
         {
-          "name": "Toscano Cheese Crunchy Chili Onion",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/80961.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/toscano-cheese-crunchy-chili-onion-080961",
-          "price": "11.99"
+          "name": "Root Beer Float Pieces",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
+          "price": "3.79"
+
+        },
+        {
+          "name": "Pineapple Teriyaki Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/81225.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-teriyaki-chicken-meatballs-081225",
+          "price": "4.29"
+        },
+        {
+           "name": "Organic Guava Fruit Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/81300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-guava-fruit-spread-081300",
+          "price": "2.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "Parsley Crackers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79652.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/parsley-crackers-079652",
+          "price": "2.49"
+        },
+        {
+           "name": "Organic Guava Fruit Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/81300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-guava-fruit-spread-081300",
+          "price": "2.99"
+        },
+        {
+           "name": "Raspberry, Vanilla & Blueberry Macarons",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79860.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-vanilla-blueberry-macarons-079860",
+          "price": "5.99"
+        },
+        {
+          "name": "Strawberry Baton Wafer Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78104.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-baton-wafer-cookies-078104",
+          "price": "1.99"
 
         }
       ]
@@ -93,6 +93,12 @@
           "price": "1.99"
         },
         {
+          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
+          "price": "19.99" 
+        },
+        {
           "name": "Copilot Pinot Noir 2023",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81939.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "http://traderjoes.com/home/products/pdp/copilot-pinot-noir-2023-081939",
@@ -103,12 +109,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81938.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/copilot-chardonnay-2023-081938",
           "price": "7.99" 
-        },
-        {
-          "name": "Josephsbrau Grapefruit Radler",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/79344.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/josephsbrau-grapefruit-radler-179344",
-          "price": "5.99"
         }
       ],
       "popular": [
@@ -125,16 +125,16 @@
           "price": "7.99"
         },
         {
-          "name": "Sparkling Matcha Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/79235.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-matcha-lemonade-079235",
-          "price": "1.99"
+          "name": "Joe Medium Roast Ground Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56332.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/joe-medium-roast-ground-coffee-056332",
+          "price": "6.49"
         },
         {
-          "name": "Matcha Green Tea Latte Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
-          "price": "4.99" 
+          "name": "Organic Cold Pressed Green Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
+          "price": "5.99" 
 
         }
       ],
@@ -195,28 +195,30 @@
       ],
       "popular": [
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
-        },
-        {
+
           "name": "Peony Tulips Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/66115.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/peony-tulips-bunch-066115",
           "price": "8.99"
         },
         {
-          "name": "Peonies - 5 Stems",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
-          "price": "9.99"
+          "name": "Tulips 20 Stem Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
+          "price": "12.99"
+
         },
         {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "9.99"
+          "name": "Easy Bouquet Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
+          "price": "1.49"
+        },
+        {
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -287,10 +289,10 @@
           "price": "5.99"
         },
         {
-          "name": "Ultra Hydrating Gel Moisturizer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
-          "price": "8.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         },
         {
           "name": "Retinol Night Serum",
@@ -319,9 +321,9 @@
           "price": "12.99"
         },
         {
-          "name": "Invisible Gel Body Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
           "price": "12.99"
         }
       ]
