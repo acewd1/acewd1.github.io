@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-19T11:00:00Z",
+  "last_updated": "2025-05-20T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -10,37 +10,30 @@
           "price": "3.29"
         },
         {
-           "name": "Skipjack Tuna Fillets in Olive Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/75995.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/skipjack-tuna-fillets-in-olive-oil-075995",
-          "price": "3.99"
+           "name": "Organic Sour Apple Watermelon Fruit Leather Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81316.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sour-apple-watermelon-fruit-leather-wrap-081316",
+          "price": "0.49"
         },
         {
-           "name": "Boneless Grilled Mackerel Fillets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77645.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/boneless-grilled-mackerel-fillets-077645",
+           "name": "Spicy Mango Habanero Guacamole",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
           "price": "3.49"
         },
         {
-          "name": "Meatball Calzone",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/80527.png/jcr:content/renditions/webp-1280.webp",
+          "name": "Roasted Tomato Labneh Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81050.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/meatball-calzone-080527",
-          "price": "6.99"
+          "price": "3.49"
         }
       ],
       "popular": [
         {
-          "name": "Hashbrowns",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/94769.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hashbrowns-094769",
-          "price": "2.99"
-
-        },
-        {
-          "name": "Angus Chuck, Brisket & Sirloin Beef Patties",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/79580.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/angus-chuck-brisket-sirloin-beef-patties-079580",
-          "price": "9.99"
+          "name": "Plain Pizza Dough",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/92334.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/plain-pizza-dough-092334",
+          "price": "1.49"
 
         },
         {
@@ -48,12 +41,19 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75848.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-potato-poblano-pepper-tacos-075848",
           "price": "4.99"
+
         },
         {
-           "name": "Chicken Shawarma Bowl",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/76705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-shawarma-bowl-076705",
+          "name": "Vegetable Bird's Nests",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/50378.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-birds-nests-050378",
           "price": "3.99"
+        },
+        {
+           "name": "Organic Uncured Grass Fed Beef Hot Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/76253.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-uncured-grass-fed-beef-hot-dogs-076253",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -64,22 +64,22 @@
           "price": "3.29"
         },
         {
-           "name": "Skipjack Tuna Fillets in Olive Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/75995.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/skipjack-tuna-fillets-in-olive-oil-075995",
-          "price": "3.99"
+           "name": "Organic Sour Apple Watermelon Fruit Leather Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81316.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sour-apple-watermelon-fruit-leather-wrap-081316",
+          "price": "0.49"
         },
         {
-           "name": "Boneless Grilled Mackerel Fillets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77645.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/boneless-grilled-mackerel-fillets-077645",
+           "name": "Spicy Mango Habanero Guacamole",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
           "price": "3.49"
         },
         {
-          "name": "Meatball Calzone",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/80527.png/jcr:content/renditions/webp-1280.webp",
+          "name": "Roasted Tomato Labneh Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81050.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/meatball-calzone-080527",
-          "price": "6.99"
+          "price": "3.49"
 
         }
       ]
@@ -88,53 +88,53 @@
       "going_fast": [
         {
           "name": "Organic Columbia Anei Fair Trade Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81419.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/62093.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-columbia-anei-fair-trade-small-lot-coffee-081419",
           "price": "9.99"
         },
         {
           "name": "Sparkling Tea & Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
         },
         {
           "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/97401.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
           "price": "19.99" 
         },
         {
           "name": "Copilot Pinot Noir 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81939.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62771.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "http://traderjoes.com/home/products/pdp/copilot-pinot-noir-2023-081939",
           "price": "7.99" 
         }
       ],
       "popular": [
         {
-          "name": "Organic Jalapeño Limeade",
+          "name": "Tequila Blanco",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-jalapeno-limeade-058825",
-          "price": "2.79"
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tequila-blanco-062093",
+          "price": "19.99"
         },
         {
-          "name": "Everything But The Bartender Classic Lime Margarita",
+          "name": "Susumaniello Ruggero di Bardo",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/78890.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-classic-lime-margarita-178890",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
           "price": "9.99"
         },
         {
-          "name": "Aperito Spritz",
+          "name": "Kentucky Bourbon",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/aperito-spritz-177935",
-          "price": "6.99"
+          "product_url": "https://www.traderjoes.com/home/products/pdp/kentucky-bourbon-097401",
+          "price": "14.99"
         },
         {
-          "name": "Organic Coconut Smoothie",
+          "name": "Maison Barboulot Cabernet Syrah",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/65258.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-coconut-smoothie-065258",
-          "price": "2.79" 
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maison-barboulot-cabernet-syrah-062771",
+          "price": "5.99" 
 
         }
       ],
@@ -277,22 +277,22 @@
       ],
       "popular": [
         {
-          "name": "Gummy Bear Flavored Lip Duo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75123.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gummy-bear-flavored-lip-duo-075123",
-          "price": "6.99"
+          "name": "Brazil Nut Body Scrub",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74814.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-scrub-074814",
+          "price": "5.99"
         },
         {
-          "name": "Woodlands Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75664.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/woodlands-scented-candle-075664",
+          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
+          "price": "3.49"
+        },
+        {
+          "name": "Chicken & Bone Broth Recipe Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76863.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-bone-broth-recipe-dog-treats-076863",
           "price": "3.99"
-        },
-        {
-          "name": "Peach Mango Scented Foaming Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74955.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-mango-scented-foaming-hand-soap-074955",
-          "price": "2.99"
         },
         {
           "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
