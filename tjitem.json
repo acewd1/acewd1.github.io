@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-05-20T11:00:00Z",
+  "last_updated": "2025-05-24T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Coffee Lover's Espresso Beans",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/62909.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coffee-lovers-espresso-beans-062909",
+          "price": "1.29"
+        },
+        {
+           "name": "Cilantro Salad Dressing",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/36420.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cilantro-salad-dressing-036420",
+          "price": "3.99"
+        },
         {
           "name": "Hard Top Chocolate Shell Topping",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/80040.png/jcr:content/renditions/webp-1280.webp",
@@ -10,50 +22,38 @@
           "price": "3.29"
         },
         {
-           "name": "Organic Sour Apple Watermelon Fruit Leather Wrap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81316.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sour-apple-watermelon-fruit-leather-wrap-081316",
-          "price": "0.49"
-        },
-        {
-           "name": "Spicy Mango Habanero Guacamole",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
-          "price": "3.49"
-        },
-        {
-          "name": "Roasted Tomato Labneh Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81050.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/meatball-calzone-080527",
-          "price": "3.49"
+          "name": "Skipjack Tuna Fillets in Olive Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/75995.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/skipjack-tuna-fillets-in-olive-oil-075995",
+          "price": "3.99"
         }
       ],
       "popular": [
         {
-          "name": "Plain Pizza Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/92334.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/plain-pizza-dough-092334",
-          "price": "1.49"
-
-        },
-        {
-          "name": "Crispy Potato & Poblano Pepper Tacos",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75848.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-potato-poblano-pepper-tacos-075848",
-          "price": "4.99"
-
-        },
-        {
-          "name": "Vegetable Bird's Nests",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/50378.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-birds-nests-050378",
+          "name": "Chocolate Lava Cakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/01070.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-lava-cakes-001070",
           "price": "3.99"
+
         },
         {
-           "name": "Organic Uncured Grass Fed Beef Hot Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/76253.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-uncured-grass-fed-beef-hot-dogs-076253",
-          "price": "5.99"
+          "name": "Wild Caught Cod Fillets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/74137.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-caught-cod-fillets-074137",
+          "price": "10.99"
+
+        },
+        {
+          "name": "Cruciferous Crunch Collection",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/52105.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cruciferous-crunch-collection-052105",
+          "price": "2.49"
+        },
+        {
+           "name": "Cheeseburger Burrito",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/73034.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cheeseburger-burrito-073034",
+          "price": "4.49"
         }
       ],
       "whats_new": [
@@ -88,13 +88,13 @@
       "going_fast": [
         {
           "name": "Organic Columbia Anei Fair Trade Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/62093.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81419.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-columbia-anei-fair-trade-small-lot-coffee-081419",
           "price": "9.99"
         },
         {
           "name": "Sparkling Tea & Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
         },
@@ -113,28 +113,28 @@
       ],
       "popular": [
         {
-          "name": "Tequila Blanco",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tequila-blanco-062093",
+          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
           "price": "19.99"
         },
         {
-          "name": "Susumaniello Ruggero di Bardo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/78890.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
-          "price": "9.99"
+          "name": "Old Fashioned",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/68286.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/old-fashioned-068286",
+          "price": "19.99"
         },
         {
-          "name": "Kentucky Bourbon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/kentucky-bourbon-097401",
-          "price": "14.99"
+          "name": "Emma Reichart Rosé Pinot Noir",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "price": "5.99"
         },
         {
-          "name": "Maison Barboulot Cabernet Syrah",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/65258.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maison-barboulot-cabernet-syrah-062771",
-          "price": "5.99" 
+          "name": "La Ferme Julien Rosé",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/la-ferme-julien-rose-087390",
+          "price": "6.99" 
 
         }
       ],
