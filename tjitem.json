@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-24T11:00:00Z",
+  "last_updated": "2025-05-25T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,30 +30,30 @@
       ],
       "popular": [
         {
-          "name": "Chocolate Lava Cakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/01070.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-lava-cakes-001070",
-          "price": "3.99"
+          "name": "Lobster Bisque",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/76371.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lobster-bisque-076371",
+          "price": "4.99"
 
         },
         {
-          "name": "Wild Caught Cod Fillets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/74137.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-caught-cod-fillets-074137",
-          "price": "10.99"
+          "name": "Root Beer Float Pieces",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
+          "price": "3.79"
 
         },
         {
-          "name": "Cruciferous Crunch Collection",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/52105.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cruciferous-crunch-collection-052105",
-          "price": "2.49"
+          "name": "Just The Lobsters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/just-the-lobsters-068006",
+          "price": "1.29"
         },
         {
-           "name": "Cheeseburger Burrito",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/73034.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cheeseburger-burrito-073034",
-          "price": "4.49"
+           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
         }
       ],
       "whats_new": [
@@ -100,41 +100,41 @@
         },
         {
           "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/97401.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
           "price": "19.99" 
         },
         {
           "name": "Copilot Pinot Noir 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62771.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81939.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "http://traderjoes.com/home/products/pdp/copilot-pinot-noir-2023-081939",
           "price": "7.99" 
         }
       ],
       "popular": [
         {
-          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
-          "price": "19.99"
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         },
         {
-          "name": "Old Fashioned",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/68286.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/old-fashioned-068286",
-          "price": "19.99"
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "price": "3.99"
         },
         {
-          "name": "Emma Reichart Rosé Pinot Noir",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
-          "price": "5.99"
+          "name": "Tarongino Frizzante Sparkling Orange Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81937.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tarongino-frizzante-sparkling-orange-wine-081937",
+          "price": "12.99"
         },
         {
-          "name": "La Ferme Julien Rosé",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/la-ferme-julien-rose-087390",
-          "price": "6.99" 
+          "name": "Sparkling Tea & Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
+          "price": "1.99"
 
         }
       ],
@@ -196,23 +196,23 @@
       "popular": [
         {
 
-          "name": "Premium Calla Lily",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50408.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-calla-lily-050408",
+          "name": "Peonies - 5 Stems",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
           "price": "9.99"
         },
         {
-          "name": "Grande Succulent Skulls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
-          "price": "4.99"
+          "name": "Tulips 20 Stem Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
+          "price": "12.99"
 
         },
         {
-          "name": "Waterless Amaryllis",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76407.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/waterless-amaryllis-076407",
-          "price": "10.99"
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
           "name": "Dozen Red Roses",
