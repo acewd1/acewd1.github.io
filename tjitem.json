@@ -1,85 +1,85 @@
 {
-  "last_updated": "2025-05-28T11:00:00Z",
+  "last_updated": "2025-05-29T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "Coffee Lover's Espresso Beans",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/62909.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/coffee-lovers-espresso-beans-062909",
-          "price": "1.29"
+          "name": "Strawberry Doodle Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81523.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-doodle-cookies-081523",
+          "price": "5.49"
         },
         {
-           "name": "Cilantro Salad Dressing",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/36420.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cilantro-salad-dressing-036420",
-          "price": "3.99"
+           "name": "Dark Chocolate Thins On the Go! No Sugar Added",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79514.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-choclate-thins-on-the-go-no-sugar-added-079514",
+          "price": "2.99"
         },
         {
-          "name": "Hard Top Chocolate Shell Topping",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/80040.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hard-top-chocolate-shell-topping-080040",
-          "price": "3.29"
+          "name": "French Galettes Butter Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78527.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-galettes-butter-cookies-078527",
+          "price": "3.49"
         },
         {
-          "name": "Skipjack Tuna Fillets in Olive Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/75995.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/skipjack-tuna-fillets-in-olive-oil-075995",
-          "price": "3.99"
+          "name": "Passion Fruit Sorbet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80324.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/passion-fruit-sorbet-080324",
+          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Lobster Bisque",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/76371.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/lobster-bisque-076371",
+          "name": "Margherita Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80530.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/margherita-pizza-080530",
+          "price": "4.79"
+
+        },
+        {
+          "name": "Sublime Ice Cream Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/90987.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sublime-ice-cream-sandwiches-090987",
           "price": "4.99"
 
         },
         {
-          "name": "Root Beer Float Pieces",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
+          "name": "Banana Pudding Flavored Ice Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/74560.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/banana-pudding-flavored-ice-cream-074560",
           "price": "3.79"
-
         },
         {
-          "name": "Just The Lobsters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/68006.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/just-the-lobsters-068006",
-          "price": "1.29"
-        },
-        {
-           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
+           "name": "Chicken Tikka Masala",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/99142.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-tikka-masala-099142",
+          "price": "4.49"
         }
       ],
       "whats_new": [
         {
-          "name": "Hard Top Chocolate Shell Topping",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/80040.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hard-top-chocolate-shell-topping-080040",
-          "price": "3.29"
+          "name": "Strawberry Doodle Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81523.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-doodle-cookies-081523",
+          "price": "5.49"
         },
         {
-           "name": "Organic Sour Apple Watermelon Fruit Leather Wrap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81316.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sour-apple-watermelon-fruit-leather-wrap-081316",
-          "price": "0.49"
+           "name": "Dark Chocolate Thins On the Go! No Sugar Added",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79514.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-choclate-thins-on-the-go-no-sugar-added-079514",
+          "price": "2.99"
         },
         {
-           "name": "Spicy Mango Habanero Guacamole",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
+          "name": "French Galettes Butter Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78527.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-galettes-butter-cookies-078527",
           "price": "3.49"
         },
         {
-          "name": "Roasted Tomato Labneh Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81050.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/meatball-calzone-080527",
-          "price": "3.49"
+          "name": "Organic Silken Tofu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20804/80590.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-silken-tofu-080590",
+          "price": "2.49"
 
         }
       ]
@@ -113,27 +113,27 @@
       ],
       "popular": [
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
+          "name": "Organic Cold Pressed Green Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
+          "price": "5.99"
         },
         {
-          "name": "Organic Margarita Mix",
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
-          "price": "3.99"
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.99"
         },
         {
-          "name": "Tarongino Frizzante Sparkling Orange Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81937.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tarongino-frizzante-sparkling-orange-wine-081937",
-          "price": "12.99"
+          "name": "Organic Non-Dairy Coconut Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/77815.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-coconut-beverage-unsweetened-077815",
+          "price": "2.99"
         },
         {
-          "name": "Sparkling Tea & Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
+          "name": "Organic Energy Juice Shot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/78168.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-energy-juice-shot-078168",
           "price": "1.99"
 
         }
@@ -187,38 +187,37 @@
           "price": "19.99"
         },
         {
-          "name": "Grump Tree",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58260.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grump-tree-058260",
-          "price": "9.99"
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "6.99"
         }
       ],
       "popular": [
         {
+          "name": "Dozen Roses Assorted Colors",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/97991.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-roses-assorted-colors-097991",
+          "price": "14.99"
+        },
+        {
+          "name": "Jumbo Mixed Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76477.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mixed-bouquet-076477",
+          "price": "19.99"
 
+        },
+        {
           "name": "Peonies - 5 Stems",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
           "price": "9.99"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
-
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/97990.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-097990",
-          "price": "14.99"
+          "name": "Easy Bouquet Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
+          "price": "1.49"
         }
       ],
       "whats_new": [
@@ -277,28 +276,28 @@
       ],
       "popular": [
         {
-          "name": "Brazil Nut Body Scrub",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74814.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-scrub-074814",
-          "price": "5.99"
+          "name": "Orgain® Vanilla Bean Organic Protein Boost Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/77804.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/orgain-vanilla-bean-organic-protein-boost-powder-077804",
+          "price": "14.99"
         },
         {
-          "name": "Sunday Brunch Chicken & Blueberry Waffle Recipe Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/78999.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sunday-brunch-chicken-blueberry-waffle-recipe-dog-treats-078999",
-          "price": "3.49"
-        },
-        {
-          "name": "Chicken & Bone Broth Recipe Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76863.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-bone-broth-recipe-dog-treats-076863",
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
           "price": "3.99"
         },
         {
-          "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76763.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/beef-sweet-potatoe-recipe-stuffies-dog-treats-076763",
-          "price": "4.79"
+          "name": "Peppermint Fluoride Free Toothpaste",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/76818.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peppermint-fluoride-free-toothpaste-076818",
+          "price": "3.99"
+        },
+        {
+          "name": "Organic Fruit & Vegetable Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76120.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-fruit-vegetable-wash-076120",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -309,22 +308,22 @@
           "price": "8.99"
         },
         {
+          "name": "Night Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80359.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/night-cream-080359",
+          "price": "9.99"
+        },
+        {
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "price": "3.99"
+        },
+        {
           "name": "Peony Scented Bath Fizzer",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
           "price": "4.99"
-        },
-        {
-          "name": "Berry Glow Body Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
-          "price": "12.99"
-        },
-        {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
         }
       ]
     }
