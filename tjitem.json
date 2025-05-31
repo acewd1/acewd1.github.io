@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-29T11:00:00Z",
+  "last_updated": "2025-05-31T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -44,16 +44,16 @@
 
         },
         {
-          "name": "Banana Pudding Flavored Ice Cream",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/74560.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/banana-pudding-flavored-ice-cream-074560",
+          "name": "Root Beer Float Pieces",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
           "price": "3.79"
         },
         {
-           "name": "Chicken Tikka Masala",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/99142.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-tikka-masala-099142",
-          "price": "4.49"
+           "name": "Spicy Dynamite Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20401/78428.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-dynamite-sauce-078428",
+          "price": "2.99"
         }
       ],
       "whats_new": [
