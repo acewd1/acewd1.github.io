@@ -1,8 +1,14 @@
 {
-  "last_updated": "2025-06-06T11:00:00Z",
+  "last_updated": "2025-06-08T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
+        },
         {
           "name": "Single Origin 72% Cacao Dark Chocolate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79073.png/jcr:content/renditions/webp-1280.webp",
@@ -20,20 +26,14 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/81299.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/flatbread-081299",
           "price": "2.99"
-        },
-        {
-          "name": "Strawberry Doodle Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81523.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-doodle-cookies-081523",
-          "price": "5.49"
         }
       ],
       "popular": [
         {
-           "name": "Strawberry Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
-          "price": "5.99"
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
 
         },
         {
@@ -44,10 +44,10 @@
 
         },
         {
-          "name": "Patio Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/62977.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/patio-potato-chips-062977",
-          "price": "2.99"
+           "name": "Strawberry Mini Sheet Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
+          "price": "5.99"
         },
         {
           "name": "Strawberry Doodle Cookies",
@@ -57,6 +57,12 @@
         }
       ],
       "whats_new": [
+        {
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
+        },
         {
           "name": "Single Origin 72% Cacao Dark Chocolate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79073.png/jcr:content/renditions/webp-1280.webp",
@@ -74,12 +80,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/81299.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/flatbread-081299",
           "price": "2.99"
-        },
-        {
-          "name": "Strawberry Doodle Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81523.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-doodle-cookies-081523",
-          "price": "5.49"
 
         }
       ]
@@ -251,13 +251,13 @@
       "going_fast": [
         {
           "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
           "price": "5.99"
         },
         {
           "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
         },
@@ -277,7 +277,7 @@
       "popular": [
         {
           "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
         },
@@ -289,7 +289,7 @@
         },
         {
           "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
           "price": "5.99"
         },
@@ -303,13 +303,13 @@
       "whats_new": [
         {
           "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
           "price": "5.99"
         },
         {
           "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
         },
