@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-08T11:00:00Z",
+  "last_updated": "2025-06-09T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -8,6 +8,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+        },
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
         },
         {
           "name": "Single Origin 72% Cacao Dark Chocolate",
@@ -20,15 +26,15 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
           "price": "5.99"
-        },
-        {
-          "name": "Flatbread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/81299.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/flatbread-081299",
-          "price": "2.99"
         }
       ],
       "popular": [
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
+        },
         {
           "name": "Korean Style Bibim-Guksu",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
@@ -48,12 +54,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
           "price": "5.99"
-        },
-        {
-          "name": "Strawberry Doodle Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81523.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-doodle-cookies-081523",
-          "price": "5.49"
         }
       ],
       "whats_new": [
@@ -62,6 +62,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+        },
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
         },
         {
           "name": "Single Origin 72% Cacao Dark Chocolate",
@@ -74,12 +80,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
           "price": "5.99"
-        },
-        {
-          "name": "Flatbread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/81299.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/flatbread-081299",
-          "price": "2.99"
 
         }
       ]
@@ -119,10 +119,10 @@
           "price": "7.99"
         },
         {
-          "name": "Sparkling Tea & Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
-          "price": "1.99"
+          "name": "Fresh Squeezed Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
+          "price": "3.99"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
