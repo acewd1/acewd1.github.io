@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-06-09T11:00:00Z",
+  "last_updated": "2025-06-10T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Greek YogurtHoney Made with Whole Milk",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/78613.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-yogurthoney-made-with-whole-milk-078613",
+          "price": "0.99"
+        },
+        {
+          "name": "Greek Lowfat Yogurt Plain",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/86453.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-lowfat-yogurt-plain-086453",
+          "price": "2.99"
+        },
         {
           "name": "Korean Style Bibim-Guksu",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
@@ -14,18 +26,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
           "price": "3.49"
-        },
-        {
-          "name": "Single Origin 72% Cacao Dark Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79073.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-72-cacao-dark-chocolate-079073",
-          "price": "2.49"
-        },
-        {
-           "name": "Strawberry Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
-          "price": "5.99"
         }
       ],
       "popular": [
@@ -50,10 +50,10 @@
 
         },
         {
-           "name": "Strawberry Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
-          "price": "5.99"
+           "name": "Mango Cream Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/74869.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-cream-bars-074869",
+          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -113,10 +113,10 @@
       ],
       "popular": [
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
+          "name": "Fresh Squeezed Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
+          "price": "3.99"
         },
         {
           "name": "Fresh Squeezed Lemonade",
@@ -125,16 +125,16 @@
           "price": "3.99"
         },
         {
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
+        },
+        {
           "name": "Ready To Drink Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/77815.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
           "price": "5.49"
-        },
-        {
-          "name": "Tarongino Frizzante Sparkling Orange Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81937.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tarongino-frizzante-sparkling-orange-wine-081937",
-          "price": "12.99"
 
         }
       ],
@@ -201,22 +201,22 @@
           "price": "9.99"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
-
-        },
-        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+
         },
         {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
           "price": "3.99"
         }
       ],
