@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-10T11:00:00Z",
+  "last_updated": "2025-06-11T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -22,10 +22,10 @@
           "price": "4.99"
         },
         {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
-          "price": "3.49"
+          "name": "Ranch Cottage Cheese Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
+          "price": "3.99"
         }
       ],
       "popular": [
@@ -43,17 +43,17 @@
 
         },
         {
+          "name": "Ranch Cottage Cheese Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
+          "price": "3.99"
+
+        },
+        {
           "name": "Root Beer Float Pieces",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
           "price": "3.79"
-
-        },
-        {
-           "name": "Mango Cream Bars",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/74869.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-cream-bars-074869",
-          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -62,6 +62,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+        },
+        {
+          "name": "Ranch Cottage Cheese Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
+          "price": "3.99"
         },
         {
           "name": "Sandwich Starters",
@@ -74,12 +80,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79073.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-72-cacao-dark-chocolate-079073",
           "price": "2.49"
-        },
-        {
-           "name": "Strawberry Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81510.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-mini-sheet-cake-081510",
-          "price": "5.99"
 
         }
       ]
@@ -113,22 +113,22 @@
       ],
       "popular": [
         {
-          "name": "Fresh Squeezed Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
-          "price": "3.99"
-        },
-        {
-          "name": "Fresh Squeezed Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
-          "price": "3.99"
+          "name": "Sparkling Tea & Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
+          "price": "1.99"
         },
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
+        },
+        {
+          "name": "Fresh Squeezed Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
+          "price": "3.99"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
@@ -158,10 +158,10 @@
           "price": "12.99"
         },
         {
-          "name": "Citrus Berry Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79345.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/citrus-berry-herbal-tea-079345",
-          "price": "2.99"
+          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
+          "price": "19.99" 
 
         }
       ]
@@ -201,6 +201,12 @@
           "price": "9.99"
         },
         {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "12.99"
+        },
+        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
@@ -212,12 +218,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
         }
       ],
       "whats_new": [
