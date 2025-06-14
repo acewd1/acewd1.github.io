@@ -1,8 +1,14 @@
 {
-  "last_updated": "2025-06-11T11:00:00Z",
+  "last_updated": "2025-06-13T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Risotto Simplice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
+          "price": "3.99"
+        },
         {
           "name": "Greek YogurtHoney Made with Whole Milk",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/78613.png/jcr:content/renditions/webp-1280.webp",
@@ -20,26 +26,21 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
-        },
-        {
-          "name": "Ranch Cottage Cheese Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
-          "price": "3.99"
         }
       ],
       "popular": [
-        {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
-          "price": "3.49"
-        },
         {
           "name": "Korean Style Bibim-Guksu",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+
+        },
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
 
         },
         {
@@ -58,6 +59,12 @@
       ],
       "whats_new": [
         {
+          "name": "Risotto Simplice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
+          "price": "3.99"
+        },
+        {
           "name": "Korean Style Bibim-Guksu",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
@@ -74,12 +81,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
           "price": "3.49"
-        },
-        {
-          "name": "Single Origin 72% Cacao Dark Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79073.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-72-cacao-dark-chocolate-079073",
-          "price": "2.49"
 
         }
       ]
@@ -288,16 +289,16 @@
           "price": "8.99"
         },
         {
-          "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
-          "price": "5.99"
-        },
-        {
           "name": "Brazil Nut Body Butter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
           "price": "5.99"
+        },
+        {
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         }
       ],
       "whats_new": [
