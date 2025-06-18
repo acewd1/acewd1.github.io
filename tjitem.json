@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-13T11:00:00Z",
+  "last_updated": "2025-06-18T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -37,24 +37,24 @@
 
         },
         {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
-          "price": "3.49"
-
-        },
-        {
-          "name": "Ranch Cottage Cheese Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
+          "name": "Risotto Simplice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
           "price": "3.99"
 
         },
         {
-          "name": "Root Beer Float Pieces",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81429.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-pieces-081429",
-          "price": "3.79"
+          "name": "Pretzel Buns",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79998.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pretzel-buns-079998",
+          "price": "2.99"
+
+        },
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -114,16 +114,16 @@
       ],
       "popular": [
         {
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
+        },
+        {
           "name": "Sparkling Tea & Lemonade",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
-        },
-        {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
         },
         {
           "name": "Fresh Squeezed Lemonade",
@@ -133,7 +133,7 @@
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/77815.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
           "price": "5.49"
 
