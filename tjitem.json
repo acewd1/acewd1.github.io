@@ -4,43 +4,43 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Risotto Simplice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
-          "price": "3.99"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
         },
         {
-          "name": "Greek YogurtHoney Made with Whole Milk",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/78613.png/jcr:content/renditions/webp-1280.webp",
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/greek-yogurthoney-made-with-whole-milk-078613",
-          "price": "0.99"
+          "price": "4.99"
         },
         {
-          "name": "Greek Lowfat Yogurt Plain",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/86453.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-lowfat-yogurt-plain-086453",
+          "name": "Hot Honey Fudge",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80349.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-honey-fudge-080349",
           "price": "2.99"
         },
         {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
-          "price": "4.99"
+          "name": "Seasoned Lamb Shoulder Rack",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80967.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-lamb-shoulder-rack-080967",
+          "price": "11.99"
         }
       ],
       "popular": [
         {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-yogurthoney-made-with-whole-milk-078613",
           "price": "4.99"
 
         },
         {
-          "name": "Risotto Simplice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
-          "price": "3.99"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
 
         },
         {
@@ -51,42 +51,48 @@
 
         },
         {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
-          "price": "3.49"
+          "name": "Pasture Raised Large Brown Eggs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20304/62124.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pasture-raised-large-brown-eggs-062124",
+          "price": "5.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Risotto Simplice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-simplice-080602",
-          "price": "3.99"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
         },
         {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-yogurthoney-made-with-whole-milk-078613",
           "price": "4.99"
         },
         {
-          "name": "Ranch Cottage Cheese Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81310.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-cottage-cheese-dip-081310",
-          "price": "3.99"
+          "name": "Hot Honey Fudge",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80349.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-honey-fudge-080349",
+          "price": "2.99"
         },
         {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
-          "price": "3.49"
+          "name": "Seasoned Lamb Shoulder Rack",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80967.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-lamb-shoulder-rack-080967",
+          "price": "11.99"
 
         }
       ]
     },
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29" 
+        },
         {
           "name": "Organic Columbia Anei Fair Trade Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81419.png/jcr:content/renditions/webp-1280.webp",
@@ -104,15 +110,16 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
           "price": "19.99" 
-        },
-        {
-          "name": "Copilot Pinot Noir 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81939.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "http://traderjoes.com/home/products/pdp/copilot-pinot-noir-2023-081939",
-          "price": "7.99" 
         }
       ],
       "popular": [
+        {
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29" 
+        },
+
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
@@ -126,12 +133,6 @@
           "price": "1.99"
         },
         {
-          "name": "Fresh Squeezed Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
-          "price": "3.99"
-        },
-        {
           "name": "Ready To Drink Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
@@ -140,6 +141,12 @@
         }
       ],
       "whats_new": [
+        {
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29" 
+        },
         {
           "name": "Organic Columbia Anei Fair Trade Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81419.png/jcr:content/renditions/webp-1280.webp",
@@ -151,12 +158,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
-        },
-        {
-          "name": "Tarongino Frizzante Sparkling Orange Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81937.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tarongino-frizzante-sparkling-orange-wine-081937",
-          "price": "12.99"
         },
         {
           "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
@@ -251,6 +252,12 @@
     "Everything Else": {
       "going_fast": [
         {
+          "name": "Freeze-Dried Just Salmon with Skin for Pets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
+          "price": "5.49"
+        },
+        {
           "name": "Watermelon Lip Mask",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
@@ -267,12 +274,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
           "price": "3.99"
-        },
-        {
-          "name": "Garden Party Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
-          "price": "8.99"
         }
       ],
       "popular": [
@@ -289,10 +290,10 @@
           "price": "8.99"
         },
         {
-          "name": "Brazil Nut Body Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
-          "price": "5.99"
+          "name": "Freeze-Dried Just Salmon with Skin for Pets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
+          "price": "5.49"
         },
         {
           "name": "Daily Facial Mineral Sunscreen SPF 40",
@@ -302,6 +303,12 @@
         }
       ],
       "whats_new": [
+        {
+          "name": "Freeze-Dried Just Salmon with Skin for Pets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
+          "price": "5.49"
+        },
         {
           "name": "Watermelon Lip Mask",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
@@ -313,12 +320,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
-        },
-        {
-          "name": "Garden Party Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81544.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garden-party-scented-candle-081544",
-          "price": "8.99"
         },
         {
           "name": "Sea Breeze Castile Hand Soap",
