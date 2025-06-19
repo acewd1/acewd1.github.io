@@ -1,0 +1,140 @@
+{
+  "last_updated": "2024-06-10",
+  "recipes": [
+    {
+      "title": "Fig Blue Cheese Burger",
+      "image": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger.png",
+      "cook_time": "15 mins",
+      "cook_method": "🔥 Grill, Stovetop",
+      "products": [
+        {
+          "name": "Garlic Butter Irish Potato Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79817.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-irish-potato-chips-079817",
+          "price": "2.99"
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/90460.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bbq-chicken-pizza-090460",
+          "price": "5.49"
+        },
+        {
+          "name": "Golden Rounds Crackers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/94889-golden-rounds-crackers.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/golden-rounds-crackers-094889",
+          "price": "2.99"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Caramelize Onions",
+          "text": "Slow-cook sliced onions in oil until rich, golden, and sweet.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step1.png"
+        },
+        {
+          "title": "Grill & Melt",
+          "text": "Sear patties, top with creamy blue cheese, let it melt to perfection.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step2.png"
+        },
+        {
+          "title": "Toast Buns",
+          "text": "Grill brioche buns until cut sides turn golden and crisp.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step3.png"
+        },
+        {
+          "title": "Stack It Up",
+          "text": "Spread fig jam, layer with arugula, patty, fig butter, onions—top and serve.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step4.png"
+        }
+      ],
+      "shorts": ["https://www.youtube.com/shorts/0LCqU-nQzKI","https://www.youtube.com/shorts/LKR2WIUnB7U","https://www.youtube.com/shorts/qc-_nQrLsTQ","https://www.youtube.com/shorts/wkIAHlD2svg"]
+    },
+    {
+      "title": "Spicy Lentil Soup",
+      "image": "https://dnnr.mrsap.com/tj-noti.png",
+      "cook_time": "40 mins",
+      "cook_method": "🧊 Ice",
+      "products": [
+        {
+          "name": "Organic Red Lentils",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/45678.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-red-lentils-045678",
+          "price": "2.99"
+        },
+        {
+          "name": "Vegetable Broth",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/56789.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-broth-056789",
+          "price": "1.99"
+        },
+        {
+          "name": "Carrots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/67890.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/carrots-067890",
+          "price": "0.99"
+        },
+        {
+          "name": "Celery",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/78901.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/celery-078901",
+          "price": "1.29"
+        },
+        {
+          "name": "Onion",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/89012.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/onion-089012",
+          "price": "0.79"
+        },
+        {
+          "name": "Garlic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/90123.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-090123",
+          "price": "0.99"
+        },
+        {
+          "name": "Cumin",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/11223.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cumin-011223",
+          "price": "1.99"
+        }
+      ],
+      "steps": [
+        {
+          "text": "Sauté chopped onion, garlic, carrots, and celery in a pot.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/saute-veggies.jpg"
+        },
+        {
+          "text": "Add rinsed lentils and vegetable broth.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/add-lentils.jpg"
+        },
+        {
+          "text": "Season with cumin and simmer until lentils are tender.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/simmer-soup.jpg"
+        }
+      ],
+      "shorts": []
+    },
+    {
+      "title": "Chocolate Covered Almonds",
+      "image": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger.png",
+      "cook_time": "20 mins",
+      "cook_method": "⚡ Microwave",
+      "products": [
+        {
+          "name": "Dark Chocolate Almonds",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/22334.png",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-almonds-022334",
+          "price": "4.49"
+        }
+      ],
+      "steps": [
+        {
+          "text": "Enjoy as a snack or dessert.",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/enjoy-almonds.jpg"
+        }
+      ],
+      "shorts": []
+    }
+  ]
+}
