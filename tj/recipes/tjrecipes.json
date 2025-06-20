@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-06-10",
+  "last_updated": "2025-06-19",
   "recipes": [
     {
       "title": "Fig Blue Cheese Burger",
@@ -8,133 +8,295 @@
       "cook_method": "🔥 Grill, Stovetop",
       "products": [
         {
-          "name": "Garlic Butter Irish Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79817.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-irish-potato-chips-079817",
+          "name": "Angus Patties",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/79580.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/angus-chuck-brisket-sirloin-beef-patties-079580",
+          "price": "10.99"
+        },
+        {
+          "name": "Brioche Bun",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/61752.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-buns-061752",
+          "price": "3.99"
+        },
+        {
+          "name": "Fig Jam",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/96478.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fig-butter-096478",
           "price": "2.99"
         },
         {
-          "name": "BBQ Chicken Pizza",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/90460.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bbq-chicken-pizza-090460",
-          "price": "5.49"
+          "name": "Blue Cheese",
+          "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2017_29/1229435/trader-joes-blue-cheese-today-170718-inline_copy.jpg"
         },
         {
-          "name": "Golden Rounds Crackers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/94889-golden-rounds-crackers.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/golden-rounds-crackers-094889",
-          "price": "2.99"
+          "name": "Arugula",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/32591.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-arugula-032591",
+          "price": "2.29"
         }
       ],
       "steps": [
         {
-          "title": "Caramelize Onions",
-          "text": "Slow-cook sliced onions in oil until rich, golden, and sweet.",
+          "title": "Caramelize",
+          "text": "Slow-cook sliced onions in oil until rich, golden, and sweet",
           "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step1.png"
         },
         {
           "title": "Grill & Melt",
-          "text": "Sear patties, top with creamy blue cheese, let it melt to perfection.",
+          "text": "Sear patties, top with creamy blue cheese, let it melt to perfection",
           "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step2.png"
         },
         {
-          "title": "Toast Buns",
-          "text": "Grill brioche buns until cut sides turn golden and crisp.",
+          "title": "Toast",
+          "text": "Grill brioche buns until cut sides turn golden and crisp",
           "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step3.png"
         },
         {
           "title": "Stack It Up",
-          "text": "Spread fig jam, layer with arugula, patty, fig butter, onions—top and serve.",
+          "text": "Spread fig jam, layer with arugula, patty, fig butter, onions—top and serve",
           "image_url": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger-step4.png"
         }
       ],
       "shorts": ["https://www.youtube.com/shorts/0LCqU-nQzKI","https://www.youtube.com/shorts/LKR2WIUnB7U","https://www.youtube.com/shorts/qc-_nQrLsTQ","https://www.youtube.com/shorts/wkIAHlD2svg"]
     },
     {
-      "title": "Spicy Lentil Soup",
-      "image": "https://dnnr.mrsap.com/tj-noti.png",
-      "cook_time": "40 mins",
-      "cook_method": "🧊 Ice",
+      "title": "Mini Chicken Wonton Stir Fry",
+      "image": "https://dnnr.mrsap.com/tj/recipes/mini-chicken-wonton-stir-fry.png",
+      "cook_time": "15 mins",
+      "cook_method": "🔥 Stovetop",
       "products": [
         {
-          "name": "Organic Red Lentils",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/45678.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-red-lentils-045678",
-          "price": "2.99"
+          "name": "Chicken Cilantro Mini Wontons",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/99085.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cilantro-mini-wontons-099085",
+          "price": "3.49"
         },
         {
-          "name": "Vegetable Broth",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/56789.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-broth-056789",
+          "name": "Baby Bok Choy",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/98253.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/baby-shanghai-bok-choy-098253",
           "price": "1.99"
         },
         {
-          "name": "Carrots",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/67890.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/carrots-067890",
-          "price": "0.99"
+          "name": "Organic Broccoli Slaw",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/55386.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/broccoli-kale-slaw-055386",
+          "price": "3.29"
         },
         {
-          "name": "Celery",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/78901.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/celery-078901",
-          "price": "1.29"
+          "name": "Tsao Stir Fry Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/57473.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/general-tsao-stir-fry-sauce-057473",
+          "price": "3.49"
         },
         {
-          "name": "Onion",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/89012.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/onion-089012",
-          "price": "0.79"
-        },
-        {
-          "name": "Garlic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/90123.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-090123",
-          "price": "0.99"
-        },
-        {
-          "name": "Cumin",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/11223.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cumin-011223",
-          "price": "1.99"
+          "name": "Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/52252.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jasmine-rice-from-thailand-052252",
+          "price": "3.29"
         }
       ],
       "steps": [
         {
-          "text": "Sauté chopped onion, garlic, carrots, and celery in a pot.",
-          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/saute-veggies.jpg"
+          "title": "Crisp the Wontons",
+          "text": "Pan-fry frozen wontons in olive oil until golden, then steam briefly",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mini-chicken-wonton-stir-fry-step1.png"
         },
         {
-          "text": "Add rinsed lentils and vegetable broth.",
-          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/add-lentils.jpg"
+          "title": "Sauté the Veggies",
+          "text": "Sear bok choy, then toss in broccoli slaw until tender",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mini-chicken-wonton-stir-fry-step2.png"
         },
         {
-          "text": "Season with cumin and simmer until lentils are tender.",
-          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/simmer-soup.jpg"
+          "title": "Sauce It Up",
+          "text": "Add General Tsao sauce and stir-fry everything together",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mini-chicken-wonton-stir-fry-step3.png"
+        },
+        {
+          "title": "Enjoy",
+          "text": "Optional, Serve over rice",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mini-chicken-wonton-stir-fry-step4.png"
         }
       ],
-      "shorts": []
+      "shorts": ["https://www.youtube.com/shorts/1xFyGcokmZg","https://www.youtube.com/shorts/Jt_qaCdYPpQ"]
     },
     {
-      "title": "Chocolate Covered Almonds",
-      "image": "https://dnnr.mrsap.com/tj/recipes/fig-bluecheese-burger.png",
-      "cook_time": "20 mins",
-      "cook_method": "⚡ Microwave",
+      "title": "Vanilla Bean Whipped Cream Frosting",
+      "image": "https://dnnr.mrsap.com/tj/recipes/vanilla-bean-whipped-cream-frosting.png",
+      "cook_time": "10 mins",
+      "cook_method": "🥣 Whip & Mix",
       "products": [
         {
-          "name": "Dark Chocolate Almonds",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/22334.png",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-almonds-022334",
+          "name": "Whipping Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/72300.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-heavy-whipping-cream-072300",
           "price": "4.49"
+        },
+        {
+          "name": "Mascarpone",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/42747.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mascarpone-042747",
+          "price": "3.99"
+        },
+        {
+          "name": "Powdered Cane Sugar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/59227.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-powdered-cane-sugar-059227",
+          "price": "3.29"
+        },
+        {
+          "name": "Bourbon Vanilla Bean Paste",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/76862.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-paste-076862",
+          "price": "4.99"
+        },
+        {
+          "name": "Butter Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78527.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-galettes-butter-cookies-078527",
+          "price": "3.49"
         }
       ],
       "steps": [
         {
-          "text": "Enjoy as a snack or dessert.",
-          "image_url": "https://dnnr.mrsap.com/tj/recipes/steps/enjoy-almonds.jpg"
+          "title": "Add Ingredients",
+          "text": "Combine cream, mascarpone, sugar, and vanilla in a mixing bowl",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/vanilla-bean-whipped-cream-frosting-step1.png"
+        },
+        {
+          "title": "Start Whisking",
+          "text": "Whisk on low to mix without splatter",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/vanilla-bean-whipped-cream-frosting-step2.png"
+        },
+        {
+          "title": "Whip to Perfection",
+          "text": "Turn up speed and whip until fluffy with soft peaks",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/vanilla-bean-whipped-cream-frosting-step3.png"
+        },
+        {
+          "title": "Top It Off",
+          "text": "Spoon it onto cake, cookies, or whatever you’re craving",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/vanilla-bean-whipped-cream-frosting-step4.png"
         }
       ],
-      "shorts": []
+      "shorts": ["https://www.youtube.com/shorts/6M-jBuAE4N8","https://www.youtube.com/shorts/G_h1FxSQHxQ","https://youtube.com/shorts/B3c-YiE9RRw?si=QIRsn4ckIZJIFoay"]
+    },
+    {
+      "title": "Blood Orange, Fennel, & Feta Salad",
+      "image": "https://dnnr.mrsap.com/tj/recipes/blood-frange-fennel-feta-salad.png",
+      "cook_time": "10 mins",
+      "cook_method": "🥗 Toss & Serve",
+      "products": [
+        {
+          "name": "Baby Lettuce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/32595.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-baby-lettuce-mix-032595",
+          "price": "2.49"
+        },
+        {
+          "name": "Avocado",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/93474.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hass-avocado-093474",
+          "price": "1.99"
+        },
+        {
+          "name": "Blood Oranges",
+          "image_url": "https://chefcollectivenyc.com/cdn/shop/products/bloodorange.jpg?v=1605362523"
+        },
+        {
+          "name": "Fennel",
+          "image_url": "https://spices.com/cdn/shop/products/762c4a02a0f7694e485df441ea8096e6e455f8c19e34707a598098bf6942a757_31f7854f-12ec-4a41-b1f1-ce7269de256a.jpg?v=1655132696&width=1445"
+        },
+        {
+          "name": "Roasted & Salted Nuts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/07996.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dry-roasted-salted-almonds-007996",
+          "price": "5.99"
+        },
+        {
+          "name": "Crumbled Feta Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/25966.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crumbled-feta-025966",
+          "price": "3.29"
+        },
+        {
+          "name": "Balsamic Vinaigrette",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/72499.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/balsamic-vinaigrette-072499",
+          "price": "2.79"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Build the Base",
+          "text": "Layer greens, blood oranges, fennel, avocado, feta, and pecans on a serving platter",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/blood-frange-fennel-feta-salad-step1.png"
+        },
+        {
+          "title": "Dress It Up",
+          "text": "Drizzle with balsamic vinaigrette just before serving for a bright, tangy finish",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/blood-frange-fennel-feta-salad-step2.png"
+        }
+      ],
+      "shorts": ["https://www.youtube.com/shorts/2nQQNiHlewY","https://www.youtube.com/shorts/cFZQeZ-fqY8","https://www.youtube.com/shorts/mljFkMQ5XMQ"]
+    },
+    {
+      "title": "Mango Lime Sparkling Mock-A-Ritas",
+      "image": "https://dnnr.mrsap.com/tj/recipes/mango-lime-sparkling-mock-a-ritas.png",
+      "cook_time": "5 mins",
+      "cook_method": "🍹 Mix & Chill",
+      "products": [
+        {
+          "name": "Chile Lime Seasoning Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/56662.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chile-lime-seasoning-blend-056662",
+          "price": "2.29"
+        },
+        {
+          "name": "Lime",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpCdMMExR9S8XkocC4ENsRBqtk3Qrgw7vWg&s"
+        },
+        {
+          "name": "Jalapeño",
+          "image_url": "https://asian-veggies.com/cdn/shop/products/522485-01_jpeg.jpg?v=1602839728"
+        },
+        {
+          "name": "Mango Cream Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/74869.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-cream-bars-074869",
+          "price": "3.49"
+        },
+        {
+          "name": "Lime Sparkling Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/94031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lime-sparkling-water-094031",
+          "price": "0.99"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rim the Glass",
+          "text": "Rub with lime and dip in chile lime seasoning",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mango-lime-sparkling-mock-a-ritas-step1.png"
+        },
+        {
+          "title": "Muddle It",
+          "text": "Add lime and jalapeño, crush gently to release flavor",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mango-lime-sparkling-mock-a-ritas-step2.png"
+        },
+        {
+          "title": "Chill with Mango",
+          "text": "Place a mango cream bar into each glass—stick up",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mango-lime-sparkling-mock-a-ritas-step3.png"
+        },
+        {
+          "title": "Pour & Enjoy",
+          "text": "Top it off with sparkling lime water and sip as it melts",
+          "image_url": "https://dnnr.mrsap.com/tj/recipes/mango-lime-sparkling-mock-a-ritas-step4.png"
+        }
+      ],
+      "shorts": ["https://www.youtube.com/shorts/nc7NNTPH9KU","https://www.youtube.com/shorts/uswl-DeJubY","https://www.youtube.com/shorts/ieti0l0sQ98","https://www.youtube.com/shorts/tvZwmGldoyk"]
     }
   ]
 }
