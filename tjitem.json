@@ -1,8 +1,14 @@
 {
-  "last_updated": "2025-06-21T11:00:00Z",
+  "last_updated": "2025-06-24T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Chocolate Croissants",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/73162.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-croissants-073162",
+          "price": "3.49"
+        },
         {
           "name": "Strawberries & Cream Cloud Cake",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
@@ -20,12 +26,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80349.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hot-honey-fudge-080349",
           "price": "2.99"
-        },
-        {
-          "name": "Seasoned Lamb Shoulder Rack",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80967.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-lamb-shoulder-rack-080967",
-          "price": "11.99"
         }
       ],
       "popular": [
@@ -44,17 +44,22 @@
 
         },
         {
-          "name": "Pretzel Buns",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79998.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pretzel-buns-079998",
-          "price": "2.99"
-
-        },
-        {
           "name": "Korean Style Bibim-Guksu",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
+
+        },
+        {
+          "name": "Sandwich Starters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -88,6 +93,12 @@
     "Beverage": {
       "going_fast": [
         {
+          "name": "Sunshine Mountain Vineyard Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82097.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunshine-mountain-vineyard-pinot-noir-2023-082097",
+          "price": "14.99" 
+        },
+        {
           "name": "Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
@@ -104,12 +115,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
-        },
-        {
-          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
-          "price": "19.99" 
         }
       ],
       "popular": [
@@ -160,10 +165,10 @@
           "price": "1.99"
         },
         {
-          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
-          "price": "19.99" 
+          "name": "Sunshine Mountain Vineyard Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82097.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunshine-mountain-vineyard-pinot-noir-2023-082097",
+          "price": "14.99" 
 
         }
       ]
@@ -203,16 +208,16 @@
           "price": "9.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
-        },
-        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+        },
+        {
+          "name": "Tulips 20 Stem Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "12.99"
 
         },
         {
@@ -278,10 +283,10 @@
       ],
       "popular": [
         {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
-          "price": "14.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
@@ -290,16 +295,16 @@
           "price": "8.99"
         },
         {
-          "name": "Freeze-Dried Just Salmon with Skin for Pets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
-          "price": "5.49"
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "price": "14.99"
         },
         {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
+          "name": "Brazil Nut Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "price": "5.99"
         }
       ],
       "whats_new": [
