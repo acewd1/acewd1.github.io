@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-24T11:00:00Z",
+  "last_updated": "2025-06-26T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,17 +30,18 @@
       ],
       "popular": [
         {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
-          "price": "4.99"
-
-        },
-        {
           "name": "Strawberries & Cream Cloud Cake",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
           "price": "6.49"
+
+
+        },
+        {
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
+          "price": "4.99"
 
         },
         {
@@ -50,9 +51,9 @@
           "price": "4.99"
         },
         {
-          "name": "Sandwich Starters",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/79959.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-starters-079959",
+          "name": "Spicy Mango Habanero Guacamole",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
           "price": "3.49"
         }
       ],
