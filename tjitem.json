@@ -1,31 +1,31 @@
 {
-  "last_updated": "2025-06-26T11:00:00Z",
+  "last_updated": "2025-06-28T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Organic Baby Red Butter Lettuce & Baby Arugula",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80626.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-baby-red-butter-lettuce-baby-arugula-080626",
+          "price": "2.49"
+        },
+        {
+          "name": "Fair Trade Turbinado Raw Cane Sugar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/97210.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fair-trade-turbinado-raw-cane-sugar-097210",
+          "price": "3.49"
+        },
+        {
+          "name": "Mango Pineapple Pico de Gallo Salsa",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20403/82077.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-pineapple-pico-de-gallo-salsa-082077",
+          "price": "3.99"
+        },
         {
           "name": "Chocolate Croissants",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/73162.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-croissants-073162",
           "price": "3.49"
-        },
-        {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
-        },
-        {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
-          "price": "4.99"
-        },
-        {
-          "name": "Hot Honey Fudge",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80349.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-honey-fudge-080349",
-          "price": "2.99"
         }
       ],
       "popular": [
@@ -38,23 +38,23 @@
 
         },
         {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
+          "name": "Okonomiyaki Japanese Vegetable Pancake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79679.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/okonomiyaki-japanese-vegetable-pancake-079679",
           "price": "4.99"
 
-        },
-        {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
-          "price": "4.99"
         },
         {
           "name": "Spicy Mango Habanero Guacamole",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
           "price": "3.49"
+        },
+        {
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -209,10 +209,10 @@
           "price": "6.99"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
-          "price": "12.99"
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
 
         },
         {
@@ -258,12 +258,6 @@
           "price": "5.49"
         },
         {
-          "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
-          "price": "5.99"
-        },
-        {
           "name": "Glow Anywhere Sun Care Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
@@ -274,6 +268,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
           "price": "3.99"
+        },
+        {
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
         }
       ],
       "popular": [
@@ -310,12 +310,6 @@
           "price": "5.49"
         },
         {
-          "name": "Watermelon Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80786.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-lip-mask-080786",
-          "price": "5.99"
-        },
-        {
           "name": "Glow Anywhere Sun Care Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
@@ -326,6 +320,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
           "price": "3.99"
+        },
+        {
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
         }
       ]
     }
