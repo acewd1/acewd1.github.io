@@ -1,8 +1,14 @@
 {
-  "last_updated": "2025-06-28T11:00:00Z",
+  "last_updated": "2025-06-30T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Fruitful Medley",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/54991.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fruitful-medley-054991",
+          "price": "3.99"
+        },
         {
           "name": "Organic Baby Red Butter Lettuce & Baby Arugula",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80626.png/jcr:content/renditions/webp-1280.webp",
@@ -20,35 +26,26 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20403/82077.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mango-pineapple-pico-de-gallo-salsa-082077",
           "price": "3.99"
-        },
-        {
-          "name": "Chocolate Croissants",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/73162.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-croissants-073162",
-          "price": "3.49"
         }
       ],
       "popular": [
+        {
+          "name": "Spicy Mango Habanero Guacamole",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
+          "price": "3.49"
+        },
         {
           "name": "Strawberries & Cream Cloud Cake",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
           "price": "6.49"
-
-
         },
         {
           "name": "Okonomiyaki Japanese Vegetable Pancake",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79679.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/okonomiyaki-japanese-vegetable-pancake-079679",
           "price": "4.99"
-
-        },
-        {
-          "name": "Spicy Mango Habanero Guacamole",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
-          "price": "3.49"
         },
         {
           "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
@@ -114,30 +111,29 @@
       ],
       "popular": [
         {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29" 
-        },
-
-        {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
+        },
+
+        {
+          "name": "Ready To Drink Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
+          "price": "5.49"
+        },
+        {
+          "name": "Matcha Green Tea Latte Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
+          "price": "4.99"
         },
         {
           "name": "Sparkling Tea & Lemonade",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
           "price": "1.99"
-        },
-        {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
-
         }
       ],
       "whats_new": [
