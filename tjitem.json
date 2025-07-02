@@ -1,83 +1,83 @@
 {
-  "last_updated": "2025-06-30T11:00:00Z",
+  "last_updated": "2025-07-02T11:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Mini Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
+          "price": "2.69"
+        },
+        {
+          "name": "Korean Japchae Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
+          "price": "3.99"
+        },
+        {
+          "name": "Watermelon Freeze Dried Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
+          "price": "3.99"
+        },
         {
           "name": "Fruitful Medley",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/54991.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/fruitful-medley-054991",
           "price": "3.99"
-        },
-        {
-          "name": "Organic Baby Red Butter Lettuce & Baby Arugula",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80626.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-baby-red-butter-lettuce-baby-arugula-080626",
-          "price": "2.49"
-        },
-        {
-          "name": "Fair Trade Turbinado Raw Cane Sugar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/97210.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fair-trade-turbinado-raw-cane-sugar-097210",
-          "price": "3.49"
-        },
-        {
-          "name": "Mango Pineapple Pico de Gallo Salsa",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20403/82077.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-pineapple-pico-de-gallo-salsa-082077",
-          "price": "3.99"
         }
       ],
       "popular": [
         {
-          "name": "Spicy Mango Habanero Guacamole",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81067.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-habanero-guacamole-081067",
-          "price": "3.49"
+          "name": "Chicken Shu Mai",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/46189.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-shu-mai-046189",
+          "price": "3.99"
         },
         {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
+          "name": "Spanish Style Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/73936.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spanish-style-rice-073936",
+          "price": "3.99"
         },
         {
-          "name": "Okonomiyaki Japanese Vegetable Pancake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79679.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/okonomiyaki-japanese-vegetable-pancake-079679",
-          "price": "4.99"
+          "name": "Chicken Chile Verde Burritos",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79689.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-chile-verde-burritos-079689",
+          "price": "3.99"
         },
         {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
-          "price": "4.99"
+          "name": "Asian Style Vegetables with Stir Fry Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/44180.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/asian-style-vegetables-with-stir-fry-sauce-044180",
+          "price": "3.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
+          "name": "Mini Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
+          "price": "2.69"
         },
         {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
-          "price": "4.99"
+          "name": "Korean Japchae Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
+          "price": "3.99"
         },
         {
-          "name": "Hot Honey Fudge",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80349.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-honey-fudge-080349",
+          "name": "Watermelon Freeze Dried Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
+          "price": "3.99"
+        },
+        {
+          "name": "Strawberry & Watermelon Marshmallows",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80470.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-watermelon-marshmallows-080470",
           "price": "2.99"
-        },
-        {
-          "name": "Seasoned Lamb Shoulder Rack",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/80967.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-lamb-shoulder-rack-080967",
-          "price": "11.99"
 
         }
       ]
@@ -111,29 +111,29 @@
       ],
       "popular": [
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "name": "Casone Toscana Vermentino 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/80805.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/casone-toscana-vermentino-2023-080805",
           "price": "7.99"
         },
 
         {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
+          "name": "GT's Guava Paloma Agua de Kefir",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80076.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-guava-paloma-agua-de-kefir-080076",
+          "price": "3.99"
         },
         {
-          "name": "Matcha Green Tea Latte Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
-          "price": "4.99"
+          "name": "Organic Jalapeño Limeade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-jalapeno-limeade-058825",
+          "price": "2.79"
         },
         {
-          "name": "Sparkling Tea & Lemonade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81051.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tea-lemonade-081051",
-          "price": "1.99"
+          "name": "Aperito Spritz",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/aperito-spritz-177935",
+          "price": "6.99"
         }
       ],
       "whats_new": [
@@ -173,49 +173,49 @@
           "price": "1.49"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
-        },
-        {
-          "name": "Jumbo Mixed Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76477.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mixed-bouquet-076477",
-          "price": "19.99"
-        },
-        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
+        },
+        {
+          "name": "Mum Fleurettes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
+          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Peonies - 5 Stems",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
-          "price": "9.99"
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         },
         {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
-          "price": "6.99"
+          "name": "Phalaenopsis Orchid, Assorted Colors",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/phalaenopsis-orchid-assorted-colors-055946",
+          "price": "14.99"
         },
         {
           "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55600.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
           "price": "3.99"
 
         },
         {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
+          "name": "Mum Fleurettes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -226,20 +226,20 @@
           "price": "1.49"
         },
         {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
-        },
-        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
         },
         {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
+        },
+        {
           "name": "Mum Fleurettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55600.png/jcr:content/renditions/webp-1280.webp",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
           "price": "4.99"
         }
@@ -274,28 +274,28 @@
       ],
       "popular": [
         {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
+          "name": "Hydrating Biocellulose Face Mask",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/76471.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrating-biocellulose-face-mask-076471",
+          "price": "2.99"
         },
         {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
-        },
-        {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
-          "price": "14.99"
-        },
-        {
-          "name": "Brazil Nut Body Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "name": "Reusable Silcone Food Storage Bag Half Gallon",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78975.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/reusable-silcone-food-storage-bag-half-gallon-078975",
           "price": "5.99"
+        },
+        {
+          "name": "Grain Free Dog Treats with Peanut Butter & Banana",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/62039.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grain-free-dog-treats-with-peanut-butter-banana-062039",
+          "price": "2.99"
+        },
+        {
+          "name": "Here, Kitty Kitty! Cat Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/74956.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/here-kitty-kitty-cat-treats-074956",
+          "price": "2.99"
         }
       ],
       "whats_new": [
