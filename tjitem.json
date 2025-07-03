@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-02T11:00:00Z",
+  "last_updated": "2025-07-03:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,28 +30,28 @@
       ],
       "popular": [
         {
-          "name": "Chicken Shu Mai",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/46189.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-shu-mai-046189",
+          "name": "Korean Japchae Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
           "price": "3.99"
         },
         {
-          "name": "Spanish Style Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/73936.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spanish-style-rice-073936",
+          "name": "Watermelon Freeze Dried Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
           "price": "3.99"
         },
         {
-          "name": "Chicken Chile Verde Burritos",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79689.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-chile-verde-burritos-079689",
-          "price": "3.99"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
         },
         {
-          "name": "Asian Style Vegetables with Stir Fry Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/44180.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/asian-style-vegetables-with-stir-fry-sauce-044180",
-          "price": "3.99"
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -111,29 +111,29 @@
       ],
       "popular": [
         {
-          "name": "Casone Toscana Vermentino 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/80805.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/casone-toscana-vermentino-2023-080805",
-          "price": "7.99"
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29" 
         },
 
         {
-          "name": "GT's Guava Paloma Agua de Kefir",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80076.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-guava-paloma-agua-de-kefir-080076",
-          "price": "3.99"
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         },
         {
-          "name": "Organic Jalapeño Limeade",
+          "name": "Ready To Drink Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-jalapeno-limeade-058825",
-          "price": "2.79"
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
+          "price": "5.49"
         },
         {
-          "name": "Aperito Spritz",
+          "name": "Sparkling Black Tea with Peach Juice Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/aperito-spritz-177935",
-          "price": "6.99"
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-black-tea-with-peach-juice-beverage-168349",
+          "price": "3.99"
         }
       ],
       "whats_new": [
