@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03:00:00Z",
+  "last_updated": "2025-07-06:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,28 +30,28 @@
       ],
       "popular": [
         {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
+          "name": "Gnocchi",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/73578.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gnocchi-073578",
+          "price": "1.99"
         },
         {
-          "name": "Watermelon Freeze Dried Candies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
-          "price": "3.99"
+          "name": "Greek Spanakopita",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/55248.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-spanakopita-055248",
+          "price": "4.49"
         },
         {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
+          "name": "Sweet Potato Fries",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/92157.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-fries-092157",
+          "price": "2.49"
         },
         {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
-          "price": "4.99"
+          "name": "Chicken Sausage Breakfast Burrito",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/61771.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-sausage-breakfast-burrito-061771",
+          "price": "4.49"
         }
       ],
       "whats_new": [
@@ -111,29 +111,29 @@
       ],
       "popular": [
         {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29" 
+          "name": "Charles Shaw Merlot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/52436.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/charles-shaw-merlot-052436",
+          "price": "3.49" 
         },
 
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
+          "name": "Susumaniello Ruggero di Bardo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
+          "price": "9.99"
         },
         {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
+          "name": "Emma Reichart Rosé Pinot Noir",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "price": "5.99"
         },
         {
-          "name": "Sparkling Black Tea with Peach Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-black-tea-with-peach-juice-beverage-168349",
-          "price": "3.99"
+          "name": "Giardino Pinot Grigio Rosé Vivace",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/72130.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/giardino-pinot-grigio-rose-vivace-072130",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -193,29 +193,29 @@
       ],
       "popular": [
         {
-          "name": "Peonies - 5 Stems",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
           "price": "9.99"
-        },
-        {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-
         },
         {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
+        },
+        {
+          "name": "Peonies - 5 Stems",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
+          "price": "9.99"
+
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -274,28 +274,28 @@
       ],
       "popular": [
         {
-          "name": "Hydrating Biocellulose Face Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/76471.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrating-biocellulose-face-mask-076471",
-          "price": "2.99"
+          "name": "Waffle Weave Cotton Kitchen Towels",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75425.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/waffle-weave-cotton-kitchen-towels-075425",
+          "price": "7.99"
         },
         {
-          "name": "Reusable Silcone Food Storage Bag Half Gallon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78975.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/reusable-silcone-food-storage-bag-half-gallon-078975",
-          "price": "5.99"
+          "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76763.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/beef-sweet-potatoe-recipe-stuffies-dog-treats-076763",
+          "price": "4.79"
         },
         {
-          "name": "Grain Free Dog Treats with Peanut Butter & Banana",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/62039.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grain-free-dog-treats-with-peanut-butter-banana-062039",
-          "price": "2.99"
+          "name": "Daily Facial Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
+          "price": "8.99"
         },
         {
-          "name": "Here, Kitty Kitty! Cat Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/74956.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/here-kitty-kitty-cat-treats-074956",
-          "price": "2.99"
+          "name": "Cacay Oil Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78936.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cacay-oil-body-butter-078936",
+          "price": "6.99"
         }
       ],
       "whats_new": [
