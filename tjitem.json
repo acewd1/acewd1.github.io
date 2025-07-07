@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-06:00:00Z",
+  "last_updated": "2025-07-07:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,28 +30,28 @@
       ],
       "popular": [
         {
-          "name": "Gnocchi",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/73578.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gnocchi-073578",
-          "price": "1.99"
+          "name": "Korean Japchae Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
+          "price": "3.99"
         },
         {
-          "name": "Greek Spanakopita",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/55248.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-spanakopita-055248",
-          "price": "4.49"
+          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
+          "price": "4.99"
         },
         {
-          "name": "Sweet Potato Fries",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/92157.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-fries-092157",
-          "price": "2.49"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
         },
         {
-          "name": "Chicken Sausage Breakfast Burrito",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/61771.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-sausage-breakfast-burrito-061771",
-          "price": "4.49"
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
         }
       ],
       "whats_new": [
