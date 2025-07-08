@@ -1,31 +1,31 @@
 {
-  "last_updated": "2025-07-07:00:00Z",
+  "last_updated": "2025-07-08:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
+        },
+        {
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
+        },
+        {
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "price": "14.99"
+        },
         {
           "name": "Mini Pretzel Twists",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
           "price": "2.69"
-        },
-        {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
-        },
-        {
-          "name": "Watermelon Freeze Dried Candies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
-          "price": "3.99"
-        },
-        {
-          "name": "Fruitful Medley",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/54991.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fruitful-medley-054991",
-          "price": "3.99"
         }
       ],
       "popular": [
@@ -34,12 +34,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
           "price": "3.99"
-        },
-        {
-          "name": "Italian Pistachio & Fior di Latte Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80323.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-fior-di-latte-gelato-style-frozen-dessert-080323",
-          "price": "4.99"
         },
         {
           "name": "Strawberries & Cream Cloud Cake",
@@ -52,32 +46,38 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
           "price": "4.99"
+        },
+        {
+          "name": "Risotto Semplice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-semplice-080602",
+          "price": "3.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
+        },
+        {
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
+        },
+        {
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "price": "14.99"
+        },
         {
           "name": "Mini Pretzel Twists",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
           "price": "2.69"
-        },
-        {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
-        },
-        {
-          "name": "Watermelon Freeze Dried Candies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80796.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/watermelon-freeze-dried-candies-080796",
-          "price": "3.99"
-        },
-        {
-          "name": "Strawberry & Watermelon Marshmallows",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80470.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-watermelon-marshmallows-080470",
-          "price": "2.99"
 
         }
       ]
@@ -111,29 +111,29 @@
       ],
       "popular": [
         {
-          "name": "Charles Shaw Merlot",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/52436.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/charles-shaw-merlot-052436",
-          "price": "3.49" 
+          "name": "Love, Olivia Peach Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/love-olivia-peach-wine-070780",
+          "price": "3.99" 
         },
 
         {
-          "name": "Susumaniello Ruggero di Bardo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/62109.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/susumaniello-ruggero-di-bardo-062109",
-          "price": "9.99"
+          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
+          "price": "19.99"
         },
         {
-          "name": "Emma Reichart Rosé Pinot Noir",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/60276.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-rose-pinot-noir-060276",
+          "name": "Honey Moon Viognier",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-moon-viognier-069653",
           "price": "5.99"
         },
         {
-          "name": "Giardino Pinot Grigio Rosé Vivace",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/72130.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/giardino-pinot-grigio-rose-vivace-072130",
-          "price": "4.99"
+          "name": "Simpler Times Lager 12pk",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/62590.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/simpler-times-lager-12pk-162590",
+          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -205,17 +205,16 @@
           "price": "6.99"
         },
         {
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
+        },
+        {
           "name": "Peonies - 5 Stems",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
           "price": "9.99"
-
-        },
-        {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
-          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -274,10 +273,10 @@
       ],
       "popular": [
         {
-          "name": "Waffle Weave Cotton Kitchen Towels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75425.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/waffle-weave-cotton-kitchen-towels-075425",
-          "price": "7.99"
+          "name": "Here, Kitty Kitty! Cat Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/74956.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/here-kitty-kitty-cat-treats-074956",
+          "price": "2.99"
         },
         {
           "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
@@ -292,10 +291,10 @@
           "price": "8.99"
         },
         {
-          "name": "Cacay Oil Body Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78936.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cacay-oil-body-butter-078936",
-          "price": "6.99"
+          "name": "Hair Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75750.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hair-oil-075750",
+          "price": "5.99"
         }
       ],
       "whats_new": [
