@@ -1,31 +1,31 @@
 {
-  "last_updated": "2025-07-08:00:00Z",
+  "last_updated": "2025-07-09:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "Italian Aperitivo Medley Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
-          "price": "2.29"
+          "name": "S'Mores Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/76020.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/smores-bars-076020",
+          "price": "4.99"
         },
         {
-          "name": "Fried Shallots",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
-          "price": "2.49"
+          "name": "Peanut and Crispy Noodle Salad Kit",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/66094.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peanut-and-crispy-noodle-salad-kit-066094",
+          "price": "3.99"
         },
         {
-          "name": "Shropshire Blue English Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
-          "price": "14.99"
+          "name": "Vegetable Bird's Nests",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/50378.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-birds-nests-050378",
+          "price": "3.99"
         },
         {
-          "name": "Mini Pretzel Twists",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
-          "price": "2.69"
+          "name": "Spatchcocked Lemon Rosemary Chicken",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/56660.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spatchcocked-lemon-rosemary-chicken-056660",
+          "price": "5.99"
         }
       ],
       "popular": [
@@ -111,28 +111,27 @@
       ],
       "popular": [
         {
-          "name": "Love, Olivia Peach Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/love-olivia-peach-wine-070780",
-          "price": "3.99" 
-        },
-
-        {
-          "name": "Diamond Reserve Cabernet Sauvignon Napa Valley 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81725.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-napa-valley-2023-081725",
-          "price": "19.99"
-        },
-        {
-          "name": "Honey Moon Viognier",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-moon-viognier-069653",
-          "price": "5.99"
-        },
-        {
           "name": "Simpler Times Lager 12pk",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/62590.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/simpler-times-lager-12pk-162590",
+          "price": "7.99"
+        },
+        {
+          "name": "Tuatea Marlborough New Zealand Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/63002.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tuatea-marlborough-new-zealand-sauvignon-blanc-063002",
+          "price": "5.99"
+        },
+        {
+          "name": "La Ferme Julien Rosé",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/la-ferme-julien-rose-087390",
+          "price": "6.99"
+        },
+        {
+          "name": "Vin De Bordeaux B by Fonbadet Bordeaux 2019",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/74871.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vin-de-bordeaux-b-by-fonbadet-bordeaux-2019-074871",
           "price": "7.99"
         }
       ],
@@ -273,28 +272,28 @@
       ],
       "popular": [
         {
-          "name": "Here, Kitty Kitty! Cat Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/74956.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/here-kitty-kitty-cat-treats-074956",
-          "price": "2.99"
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "price": "3.99"
         },
         {
-          "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76763.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/beef-sweet-potatoe-recipe-stuffies-dog-treats-076763",
-          "price": "4.79"
+          "name": "Super Soft Bath Tissue",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/99131.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/super-soft-bath-tissue-099131",
+          "price": "3.99"
+        },
+        {
+          "name": "Peach Black Tea Scented Candle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/71698.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-scented-candle-071698",
+          "price": "3.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
           "price": "8.99"
-        },
-        {
-          "name": "Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75750.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hair-oil-075750",
-          "price": "5.99"
         }
       ],
       "whats_new": [
