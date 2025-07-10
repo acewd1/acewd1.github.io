@@ -1,56 +1,56 @@
 {
-  "last_updated": "2025-07-09:00:00Z",
+  "last_updated": "2025-07-10:00:00Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "S'Mores Bars",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/76020.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/smores-bars-076020",
-          "price": "4.99"
+          "name": "Ode to the Classic Potato Chip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/96695.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ode-to-the-classic-potato-chip-096695",
+          "price": "2.99"
         },
         {
-          "name": "Peanut and Crispy Noodle Salad Kit",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/66094.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peanut-and-crispy-noodle-salad-kit-066094",
-          "price": "3.99"
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
         },
         {
-          "name": "Vegetable Bird's Nests",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/50378.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-birds-nests-050378",
-          "price": "3.99"
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "price": "14.99"
         },
         {
-          "name": "Spatchcocked Lemon Rosemary Chicken",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/56660.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spatchcocked-lemon-rosemary-chicken-056660",
-          "price": "5.99"
+          "name": "Mini Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
+          "price": "2.69"
         }
       ],
       "popular": [
         {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
+          "name": "Dark Chocolate Thins On the Go! No Sugar Added",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79514.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-choclate-thins-on-the-go-no-sugar-added-079514",
+          "price": "2.99"
         },
         {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
-        },
-        {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "name": "Sublime Ice Cream Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/90987.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sublime-ice-cream-sandwiches-090987",
           "price": "4.99"
         },
         {
-          "name": "Risotto Semplice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/80602.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/risotto-semplice-080602",
+          "name": "Coffee Lover's Espresso Beans",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/62909.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coffee-lovers-espresso-beans-062909",
+          "price": "1.29"
+        },
+        {
+          "name": "Japanese Style Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/97908.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/japanese-style-fried-rice-097908",
           "price": "3.99"
         }
       ],
@@ -111,28 +111,28 @@
       ],
       "popular": [
         {
-          "name": "Simpler Times Lager 12pk",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/62590.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/simpler-times-lager-12pk-162590",
-          "price": "7.99"
-        },
-        {
-          "name": "Tuatea Marlborough New Zealand Sauvignon Blanc",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/63002.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tuatea-marlborough-new-zealand-sauvignon-blanc-063002",
+          "name": "Organic Cold Pressed Green Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
           "price": "5.99"
         },
         {
-          "name": "La Ferme Julien Rosé",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/87390.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/la-ferme-julien-rose-087390",
-          "price": "6.99"
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.29"
         },
         {
-          "name": "Vin De Bordeaux B by Fonbadet Bordeaux 2019",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/74871.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vin-de-bordeaux-b-by-fonbadet-bordeaux-2019-074871",
-          "price": "7.99"
+          "name": "Chocolate Almond Protein Smoothie Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/75514.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-almond-protein-smoothie-beverage-075514",
+          "price": "3.49"
+        },
+        {
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
         }
       ],
       "whats_new": [
@@ -210,10 +210,10 @@
           "price": "10.99"
         },
         {
-          "name": "Peonies - 5 Stems",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
-          "price": "9.99"
+          "name": "Hydrangea in Self Hydrating Pot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/66005.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-in-self-hydrating-pot-066005",
+          "price": "10.99"
         }
       ],
       "whats_new": [
@@ -272,28 +272,28 @@
       ],
       "popular": [
         {
+          "name": "Citrus Jute Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76250.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/citrus-jute-bag-076250",
+          "price": "3.99"
+        },
+        {
+          "name": "Supreme Hydrating Eye Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/65167.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/supreme-hydrating-eye-cream-065167",
+          "price": "5.99"
+        },
+        {
+          "name": "Sensitivity + Whitening Peppermint Fluoride Toothpaste",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/76820.png/jcr:content/renditions/webp-1280.webp",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sensitivity-whitening-peppermint-fluoride-toothpaste-076820",
+          "price": "3.99"
+        },
+        {
           "name": "Sea Breeze Castile Hand Soap",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/webp-1280.webp",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
           "price": "3.99"
-        },
-        {
-          "name": "Super Soft Bath Tissue",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/99131.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/super-soft-bath-tissue-099131",
-          "price": "3.99"
-        },
-        {
-          "name": "Peach Black Tea Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/71698.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-scented-candle-071698",
-          "price": "3.99"
-        },
-        {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/webp-1280.webp",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
         }
       ],
       "whats_new": [
