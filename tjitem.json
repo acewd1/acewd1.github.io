@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-14T07:49:32.127Z",
+  "last_updated": "2025-07-14T18:06:20.165Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,32 +30,6 @@
       ],
       "popular": [
         {
-          "name": "Ode to the Classic Potato Chip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/96695.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ode-to-the-classic-potato-chip-096695",
-          "price": "2.99"
-        },
-        {
-          "name": "Italian Aperitivo Medley Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
-          "price": "2.29"
-        },
-        {
-          "name": "Fried Shallots",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
-          "price": "2.49"
-        },
-        {
-          "name": "Shropshire Blue English Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
-          "price": "14.99"
-        }
-      ],
-      "whats_new": [
-        {
           "name": "Shelled Edamame",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/68709.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/shelled-edamame-068709",
@@ -78,6 +52,32 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/73578.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/gnocchi-073578",
           "price": "1.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
+        },
+        {
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
+        },
+        {
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "price": "14.99"
+        },
+        {
+          "name": "Mini Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
+          "price": "2.69"
         }
       ]
     },
