@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-14T03:47:42.404Z",
+  "last_updated": "2025-07-14T04:47:04.002Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -81,83 +81,83 @@
         }
       ]
     },
-    "Food": {
+    "Everything Else": {
       "going_fast": [
         {
-          "name": "Ode to the Classic Potato Chip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/96695.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ode-to-the-classic-potato-chip-096695",
-          "price": "2.99"
+          "name": "Freeze-Dried Just Salmon with Skin for Pets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
+          "price": "5.49"
         },
         {
-          "name": "Italian Aperitivo Medley Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
-          "price": "2.29"
-        },
-        {
-          "name": "Fried Shallots",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
-          "price": "2.49"
-        },
-        {
-          "name": "Shropshire Blue English Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
+        },
+        {
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "price": "3.99"
+        },
+        {
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Italian Aperitivo Medley Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
-          "price": "2.29"
+          "name": "Daily Facial Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
+          "price": "8.99"
         },
         {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         },
         {
-          "name": "Strawberries & Cream Cloud Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
-          "price": "6.49"
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "price": "14.99"
         },
         {
-          "name": "Korean Style Bibim-Guksu",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
-          "price": "4.99"
+          "name": "Retinol Night Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
+          "price": "9.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Italian Aperitivo Medley Snack Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
-          "price": "2.29"
+          "name": "Freeze-Dried Just Salmon with Skin for Pets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
+          "price": "5.49"
         },
         {
-          "name": "Fried Shallots",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
-          "price": "2.49"
-        },
-        {
-          "name": "Shropshire Blue English Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
           "price": "14.99"
         },
         {
-          "name": "Mini Pretzel Twists",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
-          "price": "2.69"
+          "name": "Sea Breeze Castile Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "price": "3.99"
+        },
+        {
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
         }
       ]
     },
@@ -241,83 +241,83 @@
         }
       ]
     },
-    "Everything Else": {
+    "Food": {
       "going_fast": [
         {
-          "name": "Freeze-Dried Just Salmon with Skin for Pets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
-          "price": "5.49"
+          "name": "Ode to the Classic Potato Chip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/96695.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ode-to-the-classic-potato-chip-096695",
+          "price": "2.99"
         },
         {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
+        },
+        {
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
+        },
+        {
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
           "price": "14.99"
-        },
-        {
-          "name": "Sea Breeze Castile Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
-          "price": "3.99"
-        },
-        {
-          "name": "Peony Scented Bath Fizzer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
-          "price": "4.99"
         }
       ],
       "popular": [
         {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
         },
         {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
+          "name": "Korean Japchae Fried Rice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
+          "price": "3.99"
         },
         {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
-          "price": "14.99"
+          "name": "Strawberries & Cream Cloud Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/79658.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberries-cream-cloud-cake-079658",
+          "price": "6.49"
         },
         {
-          "name": "Retinol Night Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
-          "price": "9.99"
+          "name": "Korean Style Bibim-Guksu",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82031.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-style-bibim-guksu-082031",
+          "price": "4.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Freeze-Dried Just Salmon with Skin for Pets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-just-salmon-with-skin-for-pets-079518",
-          "price": "5.49"
+          "name": "Italian Aperitivo Medley Snack Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79821.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-aperitivo-medley-snack-mix-079821",
+          "price": "2.29"
         },
         {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "name": "Fried Shallots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/77785.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fried-shallots-077785",
+          "price": "2.49"
+        },
+        {
+          "name": "Shropshire Blue English Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/81063.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shropshire-blue-english-cheese-081063",
           "price": "14.99"
         },
         {
-          "name": "Sea Breeze Castile Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
-          "price": "3.99"
-        },
-        {
-          "name": "Peony Scented Bath Fizzer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
-          "price": "4.99"
+          "name": "Mini Pretzel Twists",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80421.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pretzel-twists-080421",
+          "price": "2.69"
         }
       ]
     }
