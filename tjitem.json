@@ -1,13 +1,45 @@
 {
-  "last_updated": "2025-07-20T09:36:40.257Z",
+  "last_updated": "2025-07-22T10:33:58.256Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Frosted Flakes Cereal",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/94662.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/frosted-flakes-cereal-094662",
+          "price": "2.49"
+        },
+        {
+          "name": "Organic Corn Flakes Cereal",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/92331.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-corn-flakes-cereal-092331",
+          "price": "2.79"
+        },
+        {
+          "name": "Popcorn In a Pickle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/55428.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/popcorn-in-a-pickle-055428",
+          "price": "2.29"
+        },
         {
           "name": "Mandarin Orange Chicken",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/66563.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-orange-chicken-066563",
           "price": "5.49"
+        }
+      ],
+      "popular": [
+        {
+          "name": "Carnival Fun Cake Fries",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80893.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/carnival-fun-cake-fries-080893",
+          "price": "4.99"
+        },
+        {
+          "name": "All the Things Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81062.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/all-the-things-cookies-081062",
+          "price": "4.49"
         },
         {
           "name": "Deli Sandwich Style Potato Chips",
@@ -16,42 +48,10 @@
           "price": "2.99"
         },
         {
-          "name": "Carnival Fun Cake Fries",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/80893.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/carnival-fun-cake-fries-080893",
-          "price": "4.99"
-        },
-        {
-          "name": "Black Sesame Mochi",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81384.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/black-sesame-mochi-081384",
-          "price": "4.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "Super Chocolatey Chocolate Chunk Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/75747.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/super-chocolatey-chocolate-chunk-cookie-dough-075747",
-          "price": "5.29"
-        },
-        {
-          "name": "Gluten Free \r\nEgg Fettuccine Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/58643.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gluten-free--egg-fettuccine-pasta-058643",
-          "price": "3.99"
-        },
-        {
-          "name": "Buttermilk Ranch Dressing",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/74462.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/buttermilk-ranch-dressing-074462",
-          "price": "3.99"
-        },
-        {
-          "name": "Sea Salt Brownie Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/74143.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-salt-brownie-bites-074143",
-          "price": "2.99"
+          "name": "Seafood Boil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/76187.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seafood-boil-076187",
+          "price": "9.99"
         }
       ],
       "whats_new": [
@@ -110,28 +110,28 @@
       ],
       "popular": [
         {
-          "name": "Organic Margarita Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "name": "Sparkling Orange Flavored Espresso Tonic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80832.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-orange-flavored-espresso-tonic-180832",
           "price": "3.99"
         },
         {
-          "name": "Espresso Martini",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/79525.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/espresso-martini-079525",
-          "price": "9.99"
+          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
+          "price": "1.99"
         },
         {
-          "name": "Espiral Vinho Verde",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/47536.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/espiral-vinho-verde-047536",
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29"
+        },
+        {
+          "name": "Matcha Green Tea Latte Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
           "price": "4.99"
-        },
-        {
-          "name": "Organic Jalapeño Limeade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58825.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-jalapeno-limeade-058825",
-          "price": "2.79"
         }
       ],
       "whats_new": [
@@ -182,18 +182,24 @@
           "price": "3.99"
         },
         {
-          "name": "Mum Fleurettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55600.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
-          "price": "4.99"
+          "name": "Premium Calla Lily",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50408.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-calla-lily-050408",
+          "price": "10.99"
         }
       ],
       "popular": [
         {
-          "name": "Grande Succulent Skulls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
-          "price": "9.99"
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "12.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         },
         {
           "name": "Seasonal Bouquet",
@@ -202,16 +208,10 @@
           "price": "6.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         }
       ],
       "whats_new": [
@@ -234,10 +234,10 @@
           "price": "3.99"
         },
         {
-          "name": "Mum Fleurettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55600.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
-          "price": "4.99"
+          "name": "Premium Calla Lily",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50408.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-calla-lily-050408",
+          "price": "10.99"
         }
       ]
     },
@@ -276,10 +276,10 @@
           "price": "8.99"
         },
         {
-          "name": "Stand-Up Collapsable Grocery Tote",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
-          "price": "3.99"
+          "name": "Brazil Nut Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "price": "5.99"
         },
         {
           "name": "Retinol Night Serum",
@@ -288,10 +288,10 @@
           "price": "9.99"
         },
         {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "price": "14.99"
         }
       ],
       "whats_new": [
