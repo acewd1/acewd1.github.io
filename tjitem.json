@@ -1,8 +1,20 @@
 {
-  "last_updated": "2025-07-24T08:24:03.888Z",
+  "last_updated": "2025-07-25T09:19:38.723Z",
   "categories": {
     "Food": {
       "going_fast": [
+        {
+          "name": "Organic Apple Strawberry Fruit Sauce Crushers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/55010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-strawberry-fruit-sauce-crushers-055010",
+          "price": "2.99"
+        },
+        {
+          "name": "Vanilla Hold the Cone! Mini Ice Cream Cones",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/57185.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-hold-the-cone-mini-ice-cream-cones-057185",
+          "price": "3.99"
+        },
         {
           "name": "Hot Honey Popcorn",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/81527.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -14,44 +26,32 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81732.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-ice-cream-081732",
           "price": "3.79"
-        },
-        {
-          "name": "Crunchy Milk Chocolate & Sea Salt Thins",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79074.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crunchy-milk-chocolate-sea-salt-thins-079074",
-          "price": "3.49"
-        },
-        {
-          "name": "Frosted Flakes Cereal",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/94662.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/frosted-flakes-cereal-094662",
-          "price": "2.49"
         }
       ],
       "popular": [
         {
-          "name": "Sweet Chili Mango Complete Salad Kit",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/79111.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-chili-mango-complete-salad-kit-079111",
-          "price": "3.99"
+          "name": "New York Deli Style Cheesecake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/31185.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/new-york-deli-style-cheesecake-031185",
+          "price": "7.99"
         },
         {
-          "name": "Bulgogi Beef Fried Rice With Kimchi",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/67480.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bulgogi-beef-fried-rice-with-kimchi-067480",
-          "price": "5.49"
+          "name": "Key Lime Pie",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/53250.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/key-lime-pie-053250",
+          "price": "5.99"
         },
         {
-          "name": "Root Beer Float Bars",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/75231.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/root-beer-float-bars-075231",
-          "price": "3.49"
+          "name": "Seedless Watermelon",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/91327.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seedless-watermelon-091327",
+          "price": "5.99"
         },
         {
-          "name": "Sweet Potato Fries",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/92157.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-fries-092157",
-          "price": "2.49"
+          "name": "Salame di Parma Mild Salami",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/58940.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/salame-di-parma-mild-salami-058940",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -110,28 +110,28 @@
       ],
       "popular": [
         {
-          "name": "Organic Margarita Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "name": "Brewed Ginger Beer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/74345.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brewed-ginger-beer-174345",
           "price": "3.99"
         },
         {
-          "name": "Cold Pressed Pineapple Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/63356.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-pressed-pineapple-juice-063356",
-          "price": "2.99"
-        },
-        {
-          "name": "Charles Shaw Merlot",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/52436.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/charles-shaw-merlot-052436",
+          "name": "Cranberry Clementine Sparkling Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/75201.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cranberry-clementine-sparkling-water-175201",
           "price": "3.49"
         },
         {
-          "name": "Love, Olivia Peach Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/70780.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/love-olivia-peach-wine-070780",
-          "price": "3.99"
+          "name": "Sunshine Mountain Vineyard Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82097.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunshine-mountain-vineyard-pinot-noir-2023-082097",
+          "price": "14.99"
+        },
+        {
+          "name": "French Fizz Le Blanc 2021",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/72893.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-fizz-le-blanc-2021-072893",
+          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -202,16 +202,16 @@
           "price": "3.99"
         },
         {
-          "name": "Easy Bouquet Wrap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
-          "price": "1.49"
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         }
       ],
       "whats_new": [
@@ -270,28 +270,28 @@
       ],
       "popular": [
         {
-          "name": "Sea Breeze Castile Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75348.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-breeze-castile-hand-soap-075348",
+          "name": "Unscented Deodorant",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75508.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/unscented-deodorant-075508",
+          "price": "4.99"
+        },
+        {
+          "name": "Bully Chewers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79323.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bully-chewers-079323",
           "price": "3.99"
         },
         {
-          "name": "Brazil Nut Body Scrub",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74814.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-scrub-074814",
-          "price": "5.99"
+          "name": "Reusable Silicone Food Storage Bags",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75552.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/reusable-silicone-food-storage-bags-075552",
+          "price": "9.99"
         },
         {
-          "name": "Crispy Chicken Chips Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
-          "price": "4.99"
-        },
-        {
-          "name": "Lemongrass Moisturizing Conditioner",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74464.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/lemongrass-moisturizing-conditioner-074464",
-          "price": "4.99"
+          "name": "Glow Anywhere Sun Care Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
+          "price": "14.99"
         }
       ],
       "whats_new": [
