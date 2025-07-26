@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-25T09:19:38.723Z",
+  "last_updated": "2025-07-26T09:48:13.274Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -30,28 +30,28 @@
       ],
       "popular": [
         {
-          "name": "New York Deli Style Cheesecake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/31185.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/new-york-deli-style-cheesecake-031185",
-          "price": "7.99"
+          "name": "Shrimp Boom Bah",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/73707.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shrimp-boom-bah-073707",
+          "price": "8.99"
         },
         {
-          "name": "Key Lime Pie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/53250.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/key-lime-pie-053250",
-          "price": "5.99"
+          "name": "Sesame Crusted Hardwood Smoked Ahi Tuna",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/68227.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sesame-crusted-hardwood-smoked-ahi-tuna-068227",
+          "price": "6.99"
         },
         {
-          "name": "Seedless Watermelon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/91327.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seedless-watermelon-091327",
-          "price": "5.99"
+          "name": "Spicy Uncured Charcuterie Collection",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/63527.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-uncured-charcuterie-collection-063527",
+          "price": "8.99"
         },
         {
-          "name": "Salame di Parma Mild Salami",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/58940.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/salame-di-parma-mild-salami-058940",
-          "price": "5.99"
+          "name": "Pesto Chicken Breast",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/93617.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pesto-chicken-breast-093617",
+          "price": "8.99"
         }
       ],
       "whats_new": [
@@ -110,28 +110,28 @@
       ],
       "popular": [
         {
-          "name": "Brewed Ginger Beer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/74345.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brewed-ginger-beer-174345",
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
           "price": "3.99"
         },
         {
-          "name": "Cranberry Clementine Sparkling Water",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/75201.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cranberry-clementine-sparkling-water-175201",
-          "price": "3.49"
+          "name": "Espresso Martini",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/79525.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/espresso-martini-079525",
+          "price": "9.99"
         },
         {
-          "name": "Sunshine Mountain Vineyard Pinot Noir 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82097.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sunshine-mountain-vineyard-pinot-noir-2023-082097",
-          "price": "14.99"
-        },
-        {
-          "name": "French Fizz Le Blanc 2021",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/72893.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/french-fizz-le-blanc-2021-072893",
+          "name": "Simpler Times Lager 12pk",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/62590.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/simpler-times-lager-12pk-162590",
           "price": "7.99"
+        },
+        {
+          "name": "Fresh Squeezed Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68172.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-squeezed-lemonade-068172",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -148,16 +148,16 @@
           "price": "3.49"
         },
         {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29"
-        },
-        {
           "name": "Sunshine Mountain Vineyard Pinot Noir 2023",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82097.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sunshine-mountain-vineyard-pinot-noir-2023-082097",
           "price": "14.99"
+        },
+        {
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29"
         }
       ]
     },
@@ -182,13 +182,19 @@
           "price": "3.99"
         },
         {
-          "name": "Premium Calla Lily",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50408.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-calla-lily-050408",
-          "price": "10.99"
+          "name": "Premium Monstera",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-monstera-069638",
+          "price": "12.99"
         }
       ],
       "popular": [
+        {
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
+          "price": "9.99"
+        },
         {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -196,22 +202,16 @@
           "price": "6.99"
         },
         {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
-          "price": "3.99"
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "12.99"
         },
         {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
-        },
-        {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
         }
       ],
       "whats_new": [
@@ -234,10 +234,10 @@
           "price": "3.99"
         },
         {
-          "name": "Premium Calla Lily",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50408.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-calla-lily-050408",
-          "price": "10.99"
+          "name": "Premium Monstera",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-monstera-069638",
+          "price": "12.99"
         }
       ]
     },
@@ -270,28 +270,28 @@
       ],
       "popular": [
         {
-          "name": "Unscented Deodorant",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75508.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/unscented-deodorant-075508",
-          "price": "4.99"
+          "name": "Sunscreen Lip Balm SPF 30",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80452.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sunscreen-lip-balm-spf-30-080452",
+          "price": "2.99"
         },
         {
-          "name": "Bully Chewers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79323.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bully-chewers-079323",
+          "name": "Super Soft Bath Tissue",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/99131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/super-soft-bath-tissue-099131",
           "price": "3.99"
         },
         {
-          "name": "Reusable Silicone Food Storage Bags",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75552.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/reusable-silicone-food-storage-bags-075552",
-          "price": "9.99"
+          "name": "Crispy Chicken Chips Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
+          "price": "4.99"
         },
         {
-          "name": "Glow Anywhere Sun Care Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81476.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/glow-anywhere-sun-care-set-081476",
-          "price": "14.99"
+          "name": "Beef & Sweet Potatoe Recipe Stuffies Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76763.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/beef-sweet-potatoe-recipe-stuffies-dog-treats-076763",
+          "price": "4.79"
         }
       ],
       "whats_new": [
