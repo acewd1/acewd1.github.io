@@ -1,83 +1,83 @@
 {
-  "last_updated": "2025-08-03T06:29:16.163Z",
+  "last_updated": "2025-08-07T09:11:11.023Z",
   "categories": {
     "Food": {
       "going_fast": [
         {
-          "name": "Organic Low Sodium Vegetable Broth",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20908/98551.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-low-sodium-vegetable-broth-098551",
-          "price": "1.99"
+          "name": "Chicken Broth Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/90859.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-broth-concentrate-090859",
+          "price": "3.99"
         },
         {
-          "name": "Organic Black Pepper Barilotti Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/80436.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-black-pepper-barilotti-pasta-080436",
-          "price": "2.99"
+          "name": "Tropical Smoothie Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/82433.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-smoothie-blend-082433",
+          "price": "3.99"
         },
         {
-          "name": "Crunchy Sesame Sunflower Seeds Pepitas Salsa Macha",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20401/80795.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crunchy-sesame-sunflower-seeds-pepitas-salsa-macha-080795",
-          "price": "4.49"
+          "name": "Baladi Egyptian Sourdough Pocket Bread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78015.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/baladi-egyptian-sourdough-pocket-bread-078015",
+          "price": "2.49"
         },
         {
-          "name": "Mini Cinnamon Sugar Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79788.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-cinnamon-sugar-cookies-079788",
-          "price": "0.99"
+          "name": "3 Cheese Spinach & Artichoke Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81869.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-spinach-artichoke-pasta-081869",
+          "price": "3.79"
         }
       ],
       "popular": [
         {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
+          "name": "Unexpected Cheddar Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/96923.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-096923",
           "price": "3.99"
         },
         {
-          "name": "Crunchy Sesame Sunflower Seeds Pepitas Salsa Macha",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20401/80795.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crunchy-sesame-sunflower-seeds-pepitas-salsa-macha-080795",
-          "price": "4.49"
+          "name": "Strained Thick & Creamy Greek Yogurt Plain",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/78900.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strained-thick-creamy-greek-yogurt-plain-078900",
+          "price": "5.49"
         },
         {
-          "name": "Organic Black Pepper Barilotti Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/80436.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-black-pepper-barilotti-pasta-080436",
-          "price": "2.99"
+          "name": "Flour Tortillas",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/92395.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/flour-tortillas-092395",
+          "price": "2.49"
         },
         {
-          "name": "Deli Sandwich Style Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/80153.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/deli-sandwich-style-potato-chips-080153",
+          "name": "Vegetable Biryani with Vegetable Dumplings",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/51530.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-biryani-with-vegetable-dumplings-051530",
           "price": "2.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Organic Black Pepper Barilotti Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/80436.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-black-pepper-barilotti-pasta-080436",
-          "price": "2.99"
+          "name": "Chicken Broth Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/90859.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-broth-concentrate-090859",
+          "price": "3.99"
         },
         {
-          "name": "Crunchy Sesame Sunflower Seeds Pepitas Salsa Macha",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20401/80795.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crunchy-sesame-sunflower-seeds-pepitas-salsa-macha-080795",
-          "price": "4.49"
+          "name": "Tropical Smoothie Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/82433.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-smoothie-blend-082433",
+          "price": "3.99"
         },
         {
-          "name": "Mini Cinnamon Sugar Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79788.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-cinnamon-sugar-cookies-079788",
-          "price": "0.99"
+          "name": "Baladi Egyptian Sourdough Pocket Bread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78015.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/baladi-egyptian-sourdough-pocket-bread-078015",
+          "price": "2.49"
         },
         {
-          "name": "All Butter Apricot Shortbread Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80743.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/all-butter-apricot-shortbread-cookies-080743",
-          "price": "3.49"
+          "name": "3 Cheese Spinach & Artichoke Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81869.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-spinach-artichoke-pasta-081869",
+          "price": "3.79"
         }
       ]
     },
@@ -110,28 +110,28 @@
       ],
       "popular": [
         {
-          "name": "Tropical Dragon Fruit Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81520.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-dragon-fruit-drink-concentrate-081520",
-          "price": "3.99"
+          "name": "Hardywood® Dark Chocolate Peanut Butter Porter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/81803.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-dark-chocolate-peanut-butter-porter-081803",
+          "price": "3.75"
         },
         {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29"
+          "name": "Vanilla Almond Spiced Chai Protein Smoothie",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/57011.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-almond-spiced-chai-protein-smoothie-057011",
+          "price": "3.49"
         },
         {
-          "name": "Sparkling Orange Flavored Espresso Tonic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80832.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-orange-flavored-espresso-tonic-180832",
-          "price": "3.99"
+          "name": "Maison Barboulot Chardonnay-Viognier 2024",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82328.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maison-barboulot-chardonnay-viognier-2024-082328",
+          "price": "5.99"
         },
         {
-          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
-          "price": "1.99"
+          "name": "Compass Bridge Sonoma County Chardonnay 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
+          "price": "8.99"
         }
       ],
       "whats_new": [
@@ -190,28 +190,28 @@
       ],
       "popular": [
         {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
-          "price": "6.99"
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
+          "price": "9.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
+          "name": "Premium Jumbo Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
+          "price": "19.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
+          "name": "Medium Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
+          "price": "14.99"
         },
         {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
+          "name": "White Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
+          "price": "14.99"
         }
       ],
       "whats_new": [
@@ -270,28 +270,28 @@
       ],
       "popular": [
         {
-          "name": "Comfort Food Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81037.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/comfort-food-bag-081037",
-          "price": "0.99"
+          "name": "Berry Glow Body Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
+          "price": "12.99"
         },
         {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
-        },
-        {
-          "name": "Stand-Up Collapsable Grocery Tote",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
-          "price": "3.99"
-        },
-        {
-          "name": "Brazil Nut Body Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "name": "Brazil Nut Body Scrub",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/74814.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-scrub-074814",
           "price": "5.99"
+        },
+        {
+          "name": "Peony Scented Bath Fizzer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "price": "4.99"
+        },
+        {
+          "name": "Waffle Weave Cotton Kitchen Towels",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/waffle-weave-cotton-kitchen-towels-075425",
+          "price": "7.99"
         }
       ],
       "whats_new": [
