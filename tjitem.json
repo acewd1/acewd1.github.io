@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07T09:11:11.023Z",
+  "last_updated": "2025-08-08T07:45:43.020Z",
   "categories": {
     "Food": {
       "going_fast": [
@@ -16,42 +16,42 @@
           "price": "3.99"
         },
         {
+          "name": "Spaghetti with Meat & Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82148.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spaghetti-with-meat-sauce-082148",
+          "price": "4.49"
+        },
+        {
           "name": "Baladi Egyptian Sourdough Pocket Bread",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78015.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/baladi-egyptian-sourdough-pocket-bread-078015",
           "price": "2.49"
-        },
-        {
-          "name": "3 Cheese Spinach & Artichoke Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81869.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-spinach-artichoke-pasta-081869",
-          "price": "3.79"
         }
       ],
       "popular": [
         {
-          "name": "Unexpected Cheddar Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/96923.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-096923",
+          "name": "Calamari Pieces in Olive Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/76536.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/calamari-pieces-in-olive-oil-076536",
           "price": "3.99"
         },
         {
-          "name": "Strained Thick & Creamy Greek Yogurt Plain",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20303/78900.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strained-thick-creamy-greek-yogurt-plain-078900",
-          "price": "5.49"
+          "name": "Vegetable Bird's Nests",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/50378.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-birds-nests-050378",
+          "price": "3.99"
         },
         {
-          "name": "Flour Tortillas",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/92395.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/flour-tortillas-092395",
-          "price": "2.49"
+          "name": "Burrata",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/98671.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/burrata-098671",
+          "price": "4.99"
         },
         {
-          "name": "Vegetable Biryani with Vegetable Dumplings",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/51530.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-biryani-with-vegetable-dumplings-051530",
-          "price": "2.99"
+          "name": "Sandwich Rolls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/78138.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sandwich-rolls-078138",
+          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -68,16 +68,16 @@
           "price": "3.99"
         },
         {
+          "name": "Spaghetti with Meat & Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82148.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spaghetti-with-meat-sauce-082148",
+          "price": "4.49"
+        },
+        {
           "name": "Baladi Egyptian Sourdough Pocket Bread",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78015.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/baladi-egyptian-sourdough-pocket-bread-078015",
           "price": "2.49"
-        },
-        {
-          "name": "3 Cheese Spinach & Artichoke Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81869.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-spinach-artichoke-pasta-081869",
-          "price": "3.79"
         }
       ]
     },
@@ -110,27 +110,27 @@
       ],
       "popular": [
         {
+          "name": "Sparkling Tangerine Vanilla Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/81449.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-tangerine-vanilla-water-181449",
+          "price": "3.49"
+        },
+        {
           "name": "Hardywood® Dark Chocolate Peanut Butter Porter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/81803.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-dark-chocolate-peanut-butter-porter-081803",
           "price": "3.75"
         },
         {
-          "name": "Vanilla Almond Spiced Chai Protein Smoothie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/57011.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-almond-spiced-chai-protein-smoothie-057011",
-          "price": "3.49"
+          "name": "Organic Margarita Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/81001.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-margarita-mix-081001",
+          "price": "3.99"
         },
         {
-          "name": "Maison Barboulot Chardonnay-Viognier 2024",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82328.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maison-barboulot-chardonnay-viognier-2024-082328",
-          "price": "5.99"
-        },
-        {
-          "name": "Compass Bridge Sonoma County Chardonnay 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
+          "name": "Decaf Joe Medium Roast Ground Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/73059.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/decaf-joe-medium-roast-ground-coffee-073059",
           "price": "8.99"
         }
       ],
@@ -190,10 +190,10 @@
       ],
       "popular": [
         {
-          "name": "Grande Succulent Skulls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
-          "price": "9.99"
+          "name": "Small Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
+          "price": "10.99"
         },
         {
           "name": "Premium Jumbo Orchid in Ceramic",
@@ -202,15 +202,15 @@
           "price": "19.99"
         },
         {
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
+          "price": "9.99"
+        },
+        {
           "name": "Medium Phalaenopsis Orchid in Ceramic",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
-          "price": "14.99"
-        },
-        {
-          "name": "White Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
           "price": "14.99"
         }
       ],
@@ -270,10 +270,16 @@
       ],
       "popular": [
         {
-          "name": "Berry Glow Body Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81212.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-glow-body-set-081212",
-          "price": "12.99"
+          "name": "Dry Shampoo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/67891.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dry-shampoo-067891",
+          "price": "5.99"
+        },
+        {
+          "name": "Peppermint Multi-Purpose Castile Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/76117.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peppermint-multi-purpose-castile-soap-076117",
+          "price": "5.99"
         },
         {
           "name": "Brazil Nut Body Scrub",
@@ -282,16 +288,10 @@
           "price": "5.99"
         },
         {
-          "name": "Peony Scented Bath Fizzer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
-          "price": "4.99"
-        },
-        {
-          "name": "Waffle Weave Cotton Kitchen Towels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/75425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/waffle-weave-cotton-kitchen-towels-075425",
-          "price": "7.99"
+          "name": "All Purpose Disinfectant Cleaner",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/74545.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/all-purpose-disinfectant-cleaner-074545",
+          "price": "3.99"
         }
       ],
       "whats_new": [
