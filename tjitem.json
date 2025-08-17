@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-15T05:35:14.622Z",
+  "last_updated": "2025-08-17T10:49:01.041Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -30,27 +30,27 @@
       ],
       "popular": [
         {
-          "name": "Tropical Dragon Fruit Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81520.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-dragon-fruit-drink-concentrate-081520",
+          "name": "Brewed Ginger Beer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/74345.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brewed-ginger-beer-174345",
           "price": "3.99"
         },
         {
-          "name": "Sparkling Orange Flavored Espresso Tonic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80832.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-orange-flavored-espresso-tonic-180832",
+          "name": "French Market Sparkling Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/31737.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-market-sparkling-lemonade-031737",
           "price": "3.99"
         },
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
+          "name": "Spicy Mango Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-lemonade-071987",
+          "price": "3.29"
         },
         {
-          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
+          "name": "Something Spritzy Pineapple & Orange",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/78169.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/something-spritzy-pineapple-orange-078169",
           "price": "1.99"
         }
       ],
@@ -276,22 +276,22 @@
           "price": "2.49"
         },
         {
-          "name": "Tropical Smoothie Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/82433.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-smoothie-blend-082433",
-          "price": "3.99"
+          "name": "Crustless Peanut Butter & Strawberry Jam Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crustless-peanut-butter-strawberry-jam-sandwiches-079742",
+          "price": "3.79"
         },
         {
-          "name": "Korean Japchae Fried Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79732.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-japchae-fried-rice-079732",
-          "price": "3.99"
+          "name": "Dutch Yellow Baby Potatoes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/16272.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dutch-yellow-baby-potatoes-016272",
+          "price": "3.79"
         },
         {
-          "name": "Hazelnut & Cocoa Filled Crepes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82122.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hazelnut-cocoa-filled-crepes-082122",
-          "price": "3.99"
+          "name": "Shishito Peppers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/80336.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shishito-peppers-080336",
+          "price": "2.99"
         }
       ],
       "whats_new": [
