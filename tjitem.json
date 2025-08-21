@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20T09:51:23.877Z",
+  "last_updated": "2025-08-21T10:45:19.758Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -30,28 +30,28 @@
       ],
       "popular": [
         {
-          "name": "Organic Mighty Turmeric Juice Shot",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/61708.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mighty-turmeric-juice-shot-061708",
-          "price": "1.99"
+          "name": "French Market Sparkling Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/31737.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-market-sparkling-lemonade-031737",
+          "price": "3.99"
         },
         {
-          "name": "Unsweetened Almond, Cashew & Macadamia Nut Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/61942.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/unsweetened-almond-cashew-macadamia-nut-beverage-061942",
-          "price": "2.49"
+          "name": "Spicy Mango Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/71987.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-mango-lemonade-071987",
+          "price": "3.29"
         },
         {
-          "name": "Espresso Martini",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/79525.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/espresso-martini-079525",
+          "name": "Cecilia Beretta Prosecco",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/98097.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cecilia-beretta-prosecco-098097",
           "price": "9.99"
         },
         {
-          "name": "Speculoos Cookie Butter Beer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75215.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/speculoos-cookie-butter-beer-075215",
-          "price": "3.75"
+          "name": "Honey Moon Viognier",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/69653.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-moon-viognier-069653",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -196,22 +196,22 @@
           "price": "4.99"
         },
         {
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
+          "price": "9.99"
+        },
+        {
+          "name": "White Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
+          "price": "14.99"
+        },
+        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "6.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "12.99"
         }
       ],
       "whats_new": [
@@ -270,28 +270,28 @@
       ],
       "popular": [
         {
-          "name": "Organic Ground Beef 85/15",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/92558.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-ground-beef-8515-092558",
-          "price": "7.99"
+          "name": "Baladi Egyptian Sourdough Pocket Bread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78015.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/baladi-egyptian-sourdough-pocket-bread-078015",
+          "price": "2.49"
         },
         {
-          "name": "Steamed & Peeled Baby Beets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/72774.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/steamed-peeled-baby-beets-072774",
-          "price": "2.29"
+          "name": "Organic Apple Cinnamon Fruit Sauce Crushers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/78278.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-cinnamon-fruit-sauce-crushers-078278",
+          "price": "2.99"
         },
         {
-          "name": "Ricotta & Lemon Zest Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/53425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ricotta-lemon-zest-ravioli-053425",
+          "name": "Bacon & Eggs Shaped Sweet Gummy Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78298.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bacon-eggs-shaped-sweet-gummy-candies-078298",
+          "price": "1.99"
+        },
+        {
+          "name": "Saturn Peaches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/96529.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/saturn-peaches-096529",
           "price": "3.99"
-        },
-        {
-          "name": "Mini Cheesecake Cones",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/66054.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-cheesecake-cones-066054",
-          "price": "4.99"
         }
       ],
       "whats_new": [
