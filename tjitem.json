@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-21T10:45:19.758Z",
+  "last_updated": "2025-08-23T05:12:26.226Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -244,28 +244,28 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Fresh Fennel",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/95748.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fresh-fennel-095748",
+          "price": "3.49"
+        },
+        {
+          "name": "Wild Alaskan Sockeye Salmon Fillets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/68719.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-alaskan-sockeye-salmon-fillets-068719",
+          "price": "14.99"
+        },
+        {
+          "name": "Pumpkin Spice Mini Sheet Cake",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/76605.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-spice-mini-sheet-cake-076605",
+          "price": "5.99"
+        },
+        {
           "name": "Trimmed Leeks",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/91030.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/trimmed-leeks-091030",
           "price": "2.99"
-        },
-        {
-          "name": "3 Cheese Pasta with Eggplant",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81173.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-pasta-with-eggplant-081173",
-          "price": "4.49"
-        },
-        {
-          "name": "Freeze Dried Strawberry Pieces",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82025.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-strawberry-pieces-082025",
-          "price": "4.99"
-        },
-        {
-          "name": "Crustless Peanut Butter & Strawberry Jam Sandwiches",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79742.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/crustless-peanut-butter-strawberry-jam-sandwiches-079742",
-          "price": "3.79"
         }
       ],
       "popular": [
@@ -276,21 +276,21 @@
           "price": "2.49"
         },
         {
-          "name": "Organic Apple Cinnamon Fruit Sauce Crushers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/78278.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-cinnamon-fruit-sauce-crushers-078278",
-          "price": "2.99"
+          "name": "Crustless Peanut Butter & Strawberry Jam Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crustless-peanut-butter-strawberry-jam-sandwiches-079742",
+          "price": "3.79"
         },
         {
-          "name": "Bacon & Eggs Shaped Sweet Gummy Candies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78298.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bacon-eggs-shaped-sweet-gummy-candies-078298",
-          "price": "1.99"
+          "name": "3 Cheese Pasta with Eggplant",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81173.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/3-cheese-pasta-with-eggplant-081173",
+          "price": "4.49"
         },
         {
-          "name": "Saturn Peaches",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/96529.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/saturn-peaches-096529",
+          "name": "Hazelnut & Cocoa Filled Crepes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82122.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hazelnut-cocoa-filled-crepes-082122",
           "price": "3.99"
         }
       ],
