@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19T09:23:07.201Z",
+  "last_updated": "2025-09-20T08:40:36.777Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -54,52 +54,52 @@
       ],
       "popular": [
         {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
+          "name": "Howling Gourds Pumpkin Ale",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75196.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/howling-gourds-pumpkin-ale-175196",
+          "price": "7.99"
         },
         {
-          "name": "Thailand Mae Kha Jan Chiang Rai Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/61388.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thailand-mae-kha-jan-chiang-rai-small-lot-coffee-061388",
-          "price": "9.99"
+          "name": "Organic Mighty Turmeric Juice Shot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/61708.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mighty-turmeric-juice-shot-061708",
+          "price": "1.99"
         },
         {
-          "name": "Honeydew Cold Pressed Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82761.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/honeydew-cold-pressed-juice-082761",
+          "name": "Tequila Blanco",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/62093.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tequila-blanco-062093",
+          "price": "19.99"
+        },
+        {
+          "name": "Aperito Spritz",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/77935.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/aperito-spritz-177935",
+          "price": "6.99"
+        },
+        {
+          "name": "Henry Hotspur's Hard Pressed for Cider",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/henry-hotspurs-hard-pressed-for-cider-175114",
+          "price": "7.99"
+        },
+        {
+          "name": "Banana & Almond Butter Protein Smoothie",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/63355.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/banana-almond-butter-protein-smoothie-063355",
           "price": "3.49"
         },
         {
-          "name": "Grand Reserve Cabernet Sauvignon Napa Valley 2021 Lot #139",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82546.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grand-reserve-cabernet-sauvignon-napa-valley-2021-lot-139-082546",
-          "price": "12.99"
+          "name": "Tuatea Marlborough New Zealand Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/63002.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tuatea-marlborough-new-zealand-sauvignon-blanc-063002",
+          "price": "5.99"
         },
         {
-          "name": "Ready to Use Espresso Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81486.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-use-espresso-coffee-081486",
-          "price": "9.99"
-        },
-        {
-          "name": "Pumpkin Spice Espresso Martini",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82314.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-spice-espresso-martini-082314",
-          "price": "9.99"
-        },
-        {
-          "name": "Organic Apple Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/77916.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-juice-beverage-177916",
-          "price": "3.99"
-        },
-        {
-          "name": "Compass Bridge Sonoma County Chardonnay 2023",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
-          "price": "8.99"
+          "name": "Dearly Beloved I Thee Red",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/99106.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dearly-beloved-i-thee-red-099106",
+          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -206,34 +206,34 @@
       ],
       "popular": [
         {
-          "name": "Vanilla Pumpkin Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/61048.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-pumpkin-scented-candle-061048",
+          "name": "Super Soft Bath Tissue",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/99131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/super-soft-bath-tissue-099131",
           "price": "3.99"
         },
         {
-          "name": "Sunscreen Lip Balm SPF 30",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80452.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sunscreen-lip-balm-spf-30-080452",
-          "price": "2.99"
+          "name": "Handcrafted Felted Wool Pumpkin",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/76663.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/handcrafted-felted-wool-pumpkin-076663",
+          "price": "7.99"
         },
         {
-          "name": "Pumpkin Recipe Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/97581.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-recipe-dog-treats-097581",
-          "price": "4.29"
-        },
-        {
-          "name": "Peony Scented Bath Fizzer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-scented-bath-fizzer-080887",
+          "name": "Crispy Chicken Chips Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79727.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-chicken-chips-dog-treats-079727",
           "price": "4.99"
         },
         {
-          "name": "Pumpkin Maple Bacon Stuffies Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/72149.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-maple-bacon-stuffies-dog-treats-072149",
-          "price": "4.49"
+          "name": "Chicken & Bone Broth Recipe Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/76863.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-bone-broth-recipe-dog-treats-076863",
+          "price": "3.99"
+        },
+        {
+          "name": "Harvest Brunch Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79301.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/harvest-brunch-dog-treats-079301",
+          "price": "3.49"
         },
         {
           "name": "Rawhide Free Peanut Butter Flavor Dog Treat",
@@ -242,10 +242,10 @@
           "price": "4.79"
         },
         {
-          "name": "Honey Hydration Face Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81675.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-hydration-face-mask-081675",
-          "price": "7.99"
+          "name": "Bully Chewers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79323.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bully-chewers-079323",
+          "price": "3.99"
         },
         {
           "name": "Fall Scented Candle Trio",
@@ -358,28 +358,28 @@
       ],
       "popular": [
         {
-          "name": "Small Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
-          "price": "10.99"
-        },
-        {
-          "name": "White Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
+          "name": "Phalaenopsis Orchid, Assorted Colors",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55946.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/phalaenopsis-orchid-assorted-colors-055946",
           "price": "14.99"
         },
         {
-          "name": "Bow Wow and Meow Tillandsia Planter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/82641.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bow-wow-and-meow-tillandsia-planter-082641",
-          "price": "5.99"
+          "name": "Grande Succulent Skulls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/61125.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grande-succulent-skulls-061125",
+          "price": "9.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
+          "name": "Medium Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
+          "price": "14.99"
+        },
+        {
+          "name": "Premium Jumbo Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
+          "price": "19.99"
         },
         {
           "name": "Seasonal Bouquet",
@@ -388,21 +388,21 @@
           "price": "7.99"
         },
         {
+          "name": "Bow Wow and Meow Tillandsia Planter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/82641.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bow-wow-and-meow-tillandsia-planter-082641",
+          "price": "5.99"
+        },
+        {
           "name": "Dozen Red Roses",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
           "price": "10.99"
         },
         {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
-          "price": "3.99"
-        },
-        {
-          "name": "Mum Fleurettes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/55600.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mum-fleurettes-055600",
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
           "price": "4.99"
         }
       ],
@@ -510,15 +510,45 @@
       ],
       "popular": [
         {
-          "name": "Ginger Shrimp Lo Mein",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75821.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-shrimp-lo-mein-075821",
-          "price": "5.99"
+          "name": "Gluten Free Cheese Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/78836.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gluten-free-cheese-pizza-078836",
+          "price": "5.49"
         },
         {
-          "name": "Unsweetened Organic Açaí  Puree Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/56417.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/unsweetened-organic-acai-puree-packets-056417",
+          "name": "Mini Vegetable Samosas",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/61534.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-vegetable-samosas-061534",
+          "price": "3.99"
+        },
+        {
+          "name": "Greek Chickpeas with Cumin and Parsley",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/60205.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-chickpeas-with-cumin-and-parsley-060205",
+          "price": "2.49"
+        },
+        {
+          "name": "Chicken Chile Verde Burritos",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79689.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-chile-verde-burritos-079689",
+          "price": "3.99"
+        },
+        {
+          "name": "Gluten Free White Sandwich Bread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/54292.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gluten-free-white-sandwich-bread-054292",
+          "price": "4.99"
+        },
+        {
+          "name": "Bruschetta Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/07904.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bruschetta-sauce-007904",
+          "price": "2.99"
+        },
+        {
+          "name": "Harvest Apple Salad Kit",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/68904.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/harvest-apple-salad-kit-068904",
           "price": "3.99"
         },
         {
@@ -526,36 +556,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/96766.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/premium-salmon-burgers-096766",
           "price": "7.49"
-        },
-        {
-          "name": "Shrimp Scampi",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/74951.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shrimp-scampi-074951",
-          "price": "8.99"
-        },
-        {
-          "name": "Battered Fish Nuggets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/93417.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/battered-fish-nuggets-093417",
-          "price": "5.99"
-        },
-        {
-          "name": "Steel Cut Oatmeal",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83177.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/steel-cut-oatmeal-083177",
-          "price": "2.29"
-        },
-        {
-          "name": "All Natural Ground Chicken",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/55562.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/all-natural-ground-chicken-055562",
-          "price": "4.49"
-        },
-        {
-          "name": "Organic Garlic Bread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20102/77219.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-garlic-bread-077219",
-          "price": "3.99"
         }
       ],
       "whats_new": [
