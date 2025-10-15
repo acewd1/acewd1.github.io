@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T18:07:26.825Z",
+  "last_updated": "2025-10-15T05:43:19.221Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -8,12 +8,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
-        },
-        {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
         },
         {
           "name": "Honeydew Cold Pressed Juice",
@@ -50,6 +44,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82283.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-mango-habanero-margarita-182283",
           "price": "9.99"
+        },
+        {
+          "name": "Compass Bridge Sonoma County Chardonnay 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
+          "price": "8.99"
         }
       ],
       "popular": [
@@ -72,22 +72,10 @@
           "price": "7.99"
         },
         {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
-        },
-        {
           "name": "Ready to Use Espresso Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81486.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-use-espresso-coffee-081486",
           "price": "9.99"
-        },
-        {
-          "name": "Harvest Blend Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/51424.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/harvest-blend-herbal-tea-051424",
-          "price": "2.49"
         },
         {
           "name": "Matcha Green Tea Latte Mix",
@@ -96,10 +84,22 @@
           "price": "4.99"
         },
         {
-          "name": "Joe Medium Roast Ground Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56332.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/joe-medium-roast-ground-coffee-056332",
-          "price": "6.99"
+          "name": "Pumpkin Spice Espresso Martini",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82314.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-spice-espresso-martini-082314",
+          "price": "9.99"
+        },
+        {
+          "name": "Organic Unsweetened Almond Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/64957.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unsweetened-almond-beverage-064957",
+          "price": "1.99"
+        },
+        {
+          "name": "Ready To Drink Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
+          "price": "5.49"
         }
       ],
       "whats_new": [
@@ -108,12 +108,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
-        },
-        {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
         },
         {
           "name": "Honeydew Cold Pressed Juice",
@@ -150,11 +144,23 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82283.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-mango-habanero-margarita-182283",
           "price": "9.99"
+        },
+        {
+          "name": "Compass Bridge Sonoma County Chardonnay 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
+          "price": "8.99"
         }
       ]
     },
     "Everything Else": {
       "going_fast": [
+        {
+          "name": "Freeze-Dried Beef Meatballs for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
+          "price": "5.99"
+        },
         {
           "name": "Trick-or-Treat Mini Canvas Totes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81415.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -196,12 +202,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81936.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cinnamon-roll-flavored-lip-mask-081936",
           "price": "5.99"
-        },
-        {
-          "name": "Chicken & Apple Recipe Sausage Style Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81302.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-apple-recipe-sausage-style-dog-treats-081302",
-          "price": "2.99"
         }
       ],
       "popular": [
@@ -218,10 +218,10 @@
           "price": "8.99"
         },
         {
-          "name": "Daily Facial Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
-          "price": "8.99"
+          "name": "Freeze-Dried Beef Meatballs for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
+          "price": "5.99"
         },
         {
           "name": "Cinnamon Broom",
@@ -230,31 +230,37 @@
           "price": "4.99"
         },
         {
+          "name": "Daily Facial Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
+          "price": "8.99"
+        },
+        {
           "name": "Ultra Moisturizing Hand Cream",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
           "price": "4.99"
         },
         {
+          "name": "Honey Hydration Face Mask",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81675.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-hydration-face-mask-081675",
+          "price": "7.99"
+        },
+        {
           "name": "Retinol Night Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
           "price": "9.99"
-        },
-        {
-          "name": "Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hair-oil-075750",
-          "price": "5.99"
-        },
-        {
-          "name": "Orgain® Vanilla Bean Organic Protein Boost Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/77804.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/orgain-vanilla-bean-organic-protein-boost-powder-077804",
-          "price": "14.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Freeze-Dried Beef Meatballs for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
+          "price": "5.99"
+        },
         {
           "name": "Trick-or-Treat Mini Canvas Totes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81415.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -296,12 +302,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81936.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cinnamon-roll-flavored-lip-mask-081936",
           "price": "5.99"
-        },
-        {
-          "name": "Chicken & Apple Recipe Sausage Style Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81302.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-apple-recipe-sausage-style-dog-treats-081302",
-          "price": "2.99"
         }
       ]
     },
@@ -364,16 +364,22 @@
           "price": "10.99"
         },
         {
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "7.99"
+        },
+        {
           "name": "Eucalyptus",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
           "price": "3.99"
         },
         {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
-          "price": "7.99"
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
         },
         {
           "name": "Dozen Red Roses",
@@ -388,22 +394,16 @@
           "price": "14.99"
         },
         {
-          "name": "Dotty Micro Poms Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
-          "price": "4.99"
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         },
         {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
-        },
-        {
-          "name": "Assorted Mum Plants",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/98726.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/assorted-mum-plants-098726",
-          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -460,6 +460,30 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Teeny Tiny Maple Butter Tarts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82464.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-maple-butter-tarts-082464",
+          "price": "4.49"
+        },
+        {
+          "name": "Chicken Caesar Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/82332.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-caesar-wrap-082332",
+          "price": "5.49"
+        },
+        {
+          "name": "Everything But the Pizza Whipped Cream Cheese Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81648.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-pizza-whipped-cream-cheese-spread-081648",
+          "price": "2.79"
+        },
+        {
+          "name": "Sea Salt Fine Crystals",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/47588.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sea-salt-fine-crystals-047588",
+          "price": "1.99"
+        },
+        {
           "name": "Organic Sweet Potatoes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/33372.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sweet-potatoes-033372",
@@ -482,30 +506,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/80463.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/brie-cheese-flavored-spread-080463",
           "price": "3.49"
-        },
-        {
-          "name": "Cookies 'N Cream Ice Cream Sandwiches",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81727.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookies-n-cream-ice-cream-sandwiches-081727",
-          "price": "4.99"
-        },
-        {
-          "name": "Old Wisconsin Beef Summer Sausage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/83417.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/old-wisconsin-beef-summer-sausage-083417",
-          "price": "4.99"
-        },
-        {
-          "name": "Norwegian Smoked Salmon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/79274.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/norwegian-smoked-salmon-079274",
-          "price": "5.49"
-        },
-        {
-          "name": "Bourbon Vanilla Bean Syrup",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/79715.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-syrup-079715",
-          "price": "4.49"
         }
       ],
       "popular": [
@@ -516,10 +516,34 @@
           "price": "3.99"
         },
         {
+          "name": "Teeny Tiny Maple Butter Tarts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82464.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-maple-butter-tarts-082464",
+          "price": "4.49"
+        },
+        {
+          "name": "Everything But the Pizza Whipped Cream Cheese Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81648.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-pizza-whipped-cream-cheese-spread-081648",
+          "price": "2.79"
+        },
+        {
+          "name": "Chicken Caesar Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/82332.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-caesar-wrap-082332",
+          "price": "5.49"
+        },
+        {
           "name": "Bourbon Vanilla Bean Syrup",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/79715.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-syrup-079715",
           "price": "4.49"
+        },
+        {
+          "name": "Crustless Peanut Butter & Strawberry Jam Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crustless-peanut-butter-strawberry-jam-sandwiches-079742",
+          "price": "3.79"
         },
         {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
@@ -528,37 +552,31 @@
           "price": "2.99"
         },
         {
-          "name": "Spicy & Sweet Creamy Pepper Dip",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81751.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-sweet-creamy-pepper-dip-081751",
-          "price": "3.99"
-        },
-        {
-          "name": "Simit Turkish Sesame Bread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81133.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/simit-turkish-sesame-bread-081133",
-          "price": "3.49"
-        },
-        {
-          "name": "Organic Maple Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/78933.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-maple-butter-078933",
+          "name": "Mandarin Orange Chicken",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/66563.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-orange-chicken-066563",
           "price": "5.49"
-        },
-        {
-          "name": "Vanilla Non-Dairy Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81238.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-non-dairy-frozen-dessert-081238",
-          "price": "4.29"
-        },
-        {
-          "name": "Bourbon Vanilla Bean Paste",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/76862.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-paste-076862",
-          "price": "4.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Teeny Tiny Maple Butter Tarts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82464.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-maple-butter-tarts-082464",
+          "price": "4.49"
+        },
+        {
+          "name": "Chicken Caesar Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/82332.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-caesar-wrap-082332",
+          "price": "5.49"
+        },
+        {
+          "name": "Everything But the Pizza Whipped Cream Cheese Spread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81648.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-pizza-whipped-cream-cheese-spread-081648",
+          "price": "2.79"
+        },
         {
           "name": "Spicy & Sweet Creamy Pepper Dip",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/81751.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -588,24 +606,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/83417.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/old-wisconsin-beef-summer-sausage-083417",
           "price": "4.99"
-        },
-        {
-          "name": "Norwegian Smoked Salmon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/79274.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/norwegian-smoked-salmon-079274",
-          "price": "5.49"
-        },
-        {
-          "name": "Bourbon Vanilla Bean Syrup",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/79715.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-syrup-079715",
-          "price": "4.49"
-        },
-        {
-          "name": "Ketchup Flavored Lattice Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82268.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ketchup-flavored-lattice-potato-chips-082268",
-          "price": "3.49"
         }
       ]
     }
