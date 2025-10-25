@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23T16:29:43.006Z",
+  "last_updated": "2025-10-25T16:44:56.005Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -10,12 +10,6 @@
           "price": "4.99"
         },
         {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
-        },
-        {
           "name": "Grand Reserve Cabernet Sauvignon Napa Valley 2021 Lot #139",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82546.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/grand-reserve-cabernet-sauvignon-napa-valley-2021-lot-139-082546",
@@ -50,6 +44,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
           "price": "8.99"
+        },
+        {
+          "name": "Compass Bridge Sonoma County Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82451.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-pinot-noir-2023-082451",
+          "price": "9.99"
         }
       ],
       "popular": [
@@ -60,16 +60,10 @@
           "price": "4.99"
         },
         {
-          "name": "Autumn Maple Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/66148.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/autumn-maple-coffee-066148",
-          "price": "9.99"
-        },
-        {
-          "name": "Spiced Chai Black Tea Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
-          "price": "2.99"
+          "name": "Organic Hot Cocoa Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50256.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-hot-cocoa-mix-050256",
+          "price": "4.29"
         },
         {
           "name": "Harvest Blend Herbal Tea",
@@ -78,28 +72,34 @@
           "price": "2.49"
         },
         {
+          "name": "Colombia Supremo Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50976.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/colombia-supremo-coffee-050976",
+          "price": "15.99"
+        },
+        {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
         },
         {
-          "name": "Ginger Lemon Probiotic Sparkling Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/74573.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-probiotic-sparkling-beverage-074573",
-          "price": "1.99"
+          "name": "Autumn Maple Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/66148.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/autumn-maple-coffee-066148",
+          "price": "9.99"
         },
         {
-          "name": "Maple Espresso Black Tea Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/69448.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-espresso-black-tea-blend-069448",
+          "name": "Joe Medium Roast Ground Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56332.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/joe-medium-roast-ground-coffee-056332",
+          "price": "6.99"
+        },
+        {
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
           "price": "2.99"
-        },
-        {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
         }
       ],
       "whats_new": [
@@ -108,12 +108,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
-        },
-        {
-          "name": "100% Pomegranate Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80326.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pomegranate-juice-080326",
-          "price": "1.69"
         },
         {
           "name": "Grand Reserve Cabernet Sauvignon Napa Valley 2021 Lot #139",
@@ -150,6 +144,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82450.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-chardonnay-2023-082450",
           "price": "8.99"
+        },
+        {
+          "name": "Compass Bridge Sonoma County Pinot Noir 2023",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82451.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/compass-bridge-sonoma-county-pinot-noir-2023-082451",
+          "price": "9.99"
         }
       ]
     },
@@ -364,46 +364,46 @@
           "price": "4.99"
         },
         {
-          "name": "Big Bunch Chrysanthemum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
-          "price": "4.99"
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
-          "name": "Jumbo Mum Balls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70407.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mum-balls-070407",
-          "price": "4.99"
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
         },
         {
-          "name": "Small Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
           "price": "10.99"
         },
         {
-          "name": "Premium Jumbo Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
-          "price": "19.99"
-        },
-        {
-          "name": "Medium Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
-          "price": "14.99"
-        },
-        {
-          "name": "White Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
-          "price": "14.99"
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "7.99"
         },
         {
           "name": "Easy Bouquet Wrap",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
           "price": "1.49"
+        },
+        {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -460,106 +460,12 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Vanilla Sugar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/81761.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-sugar-081761",
-          "price": "3.99"
-        },
-        {
           "name": "Sauerkraut with Pickled Persian Cucumbers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/53094.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sauerkraut-with-pickled-persian-cucumbers-053094",
           "price": "4.49"
         },
         {
-          "name": "Organic Radiatore Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/79359.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-radiatore-pasta-079359",
-          "price": "1.99"
-        },
-        {
-          "name": "Mixed Berry & Lemon Curd",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/79549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mixed-berry-lemon-curd-079549",
-          "price": "3.99"
-        },
-        {
-          "name": "Creamy Corn",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81757.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-corn-081757",
-          "price": "3.99"
-        },
-        {
-          "name": "Vegetable Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/81876.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-ravioli-081876",
-          "price": "3.99"
-        },
-        {
-          "name": "Caramel Flan",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/81846.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/caramel-flan-081846",
-          "price": "3.49"
-        },
-        {
-          "name": "Surimi Imitation Crabmeat",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
-          "price": "3.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "French Galettes Butter Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78527.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/french-galettes-butter-cookies-078527",
-          "price": "3.49"
-        },
-        {
-          "name": "Protein Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
-          "price": "3.79"
-        },
-        {
-          "name": "Vanilla Sugar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/81761.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-sugar-081761",
-          "price": "3.99"
-        },
-        {
-          "name": "Creamy Corn",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81757.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-corn-081757",
-          "price": "3.99"
-        },
-        {
-          "name": "Mixed Berry & Lemon Curd",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/79549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mixed-berry-lemon-curd-079549",
-          "price": "3.99"
-        },
-        {
-          "name": "Vegetable Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/81876.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-ravioli-081876",
-          "price": "3.99"
-        },
-        {
-          "name": "Bourbon Vanilla Bean Syrup",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/79715.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-syrup-079715",
-          "price": "4.49"
-        },
-        {
-          "name": "Surimi Imitation Crabmeat",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
-          "price": "3.99"
-        }
-      ],
-      "whats_new": [
-        {
           "name": "Vanilla Sugar",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/81761.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-sugar-081761",
@@ -570,12 +476,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/79359.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-radiatore-pasta-079359",
           "price": "1.99"
-        },
-        {
-          "name": "Mixed Berry & Lemon Curd",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/79549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mixed-berry-lemon-curd-079549",
-          "price": "3.99"
         },
         {
           "name": "Creamy Corn",
@@ -606,6 +506,106 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/82005.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chunky-blue-cheese-dressing-dip-082005",
           "price": "4.99"
+        }
+      ],
+      "popular": [
+        {
+          "name": "Uncured Pepperoni Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79898.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/uncured-pepperoni-pizza-079898",
+          "price": "5.99"
+        },
+        {
+          "name": "Protein Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
+          "price": "3.79"
+        },
+        {
+          "name": "Creamy Corn",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81757.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-corn-081757",
+          "price": "3.99"
+        },
+        {
+          "name": "Gluten Free Cranberry Raisin Toasts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/79654.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gluten-free-cranberry-raisin-toasts-079654",
+          "price": "4.99"
+        },
+        {
+          "name": "Bourbon Vanilla Bean Syrup",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/79715.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/bourbon-vanilla-bean-syrup-079715",
+          "price": "4.49"
+        },
+        {
+          "name": "Caramel Flan",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/81846.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/caramel-flan-081846",
+          "price": "3.49"
+        },
+        {
+          "name": "Crustless Peanut Butter & Strawberry Jam Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/79742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crustless-peanut-butter-strawberry-jam-sandwiches-079742",
+          "price": "3.79"
+        },
+        {
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "Vanilla Sugar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/81761.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-sugar-081761",
+          "price": "3.99"
+        },
+        {
+          "name": "Organic Radiatore Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/79359.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-radiatore-pasta-079359",
+          "price": "1.99"
+        },
+        {
+          "name": "Creamy Corn",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/81757.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-corn-081757",
+          "price": "3.99"
+        },
+        {
+          "name": "Vegetable Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/81876.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-ravioli-081876",
+          "price": "3.99"
+        },
+        {
+          "name": "Caramel Flan",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/81846.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/caramel-flan-081846",
+          "price": "3.49"
+        },
+        {
+          "name": "Surimi Imitation Crabmeat",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
+          "price": "3.99"
+        },
+        {
+          "name": "Chunky Blue Cheese Dressing & Dip",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/82005.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chunky-blue-cheese-dressing-dip-082005",
+          "price": "4.99"
+        },
+        {
+          "name": "English Cheddar Cheese with Champagne",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/82001.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/english-cheddar-cheese-with-champagne-082001",
+          "price": "11.99"
         }
       ]
     }
