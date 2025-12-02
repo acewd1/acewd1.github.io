@@ -1,6 +1,158 @@
 {
-  "last_updated": "2025-12-01T03:01:40.171Z",
+  "last_updated": "2025-12-02T06:50:44.563Z",
   "categories": {
+    "Food": {
+      "going_fast": [
+        {
+          "name": "Shredded Swiss Cheese & Gruyère Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/93847.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shredded-swiss-cheese-gruyere-cheese-093847",
+          "price": "4.99"
+        },
+        {
+          "name": "Fontina",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/13006.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fontina-013006",
+          "price": "6.99"
+        },
+        {
+          "name": "2 Affogatos Vanilla Non-Dairy Frozen Desserts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81171.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/2-affogatos-vanilla-non-dairy-frozen-desserts-081171",
+          "price": "4.49"
+        },
+        {
+          "name": "Buffalo Style Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/83229.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-style-chicken-meatballs-083229",
+          "price": "4.29"
+        },
+        {
+          "name": "Freeze Dried Strawberry Pieces",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82025.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-strawberry-pieces-082025",
+          "price": "4.99"
+        },
+        {
+          "name": "Chicken & Cheddar Cheese Sandwich",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/83512.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cheddar-cheese-sandwich-083512",
+          "price": "5.49"
+        },
+        {
+          "name": "Sugar Cookie Dough",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/82736.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sugar-cookie-dough-082736",
+          "price": "3.99"
+        },
+        {
+          "name": "Sliced Mortadella",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-mortadella-082010",
+          "price": "3.49"
+        }
+      ],
+      "popular": [
+        {
+          "name": "2 Affogatos Vanilla Non-Dairy Frozen Desserts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81171.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/2-affogatos-vanilla-non-dairy-frozen-desserts-081171",
+          "price": "4.49"
+        },
+        {
+          "name": "Mini Filet Mignon en Croute",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/82548.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-filet-mignon-en-croute-082548",
+          "price": "9.99"
+        },
+        {
+          "name": "Kouign Amann",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81754.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/kouign-amann-081754",
+          "price": "5.49"
+        },
+        {
+          "name": "Buffalo Style Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/83229.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-style-chicken-meatballs-083229",
+          "price": "4.29"
+        },
+        {
+          "name": "Italian Tomato Pasta Sauce Trio",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/81710.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-tomato-pasta-sauce-trio-081710",
+          "price": "9.99"
+        },
+        {
+          "name": "Trio of Flavored Honey",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/82021.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/trio-of-flavored-honey-082021",
+          "price": "10.99"
+        },
+        {
+          "name": "Jingle Jangle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
+          "price": "9.99"
+        },
+        {
+          "name": "Vegetable Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/81876.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-ravioli-081876",
+          "price": "3.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "2 Affogatos Vanilla Non-Dairy Frozen Desserts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81171.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/2-affogatos-vanilla-non-dairy-frozen-desserts-081171",
+          "price": "4.49"
+        },
+        {
+          "name": "Buffalo Style Chicken Meatballs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/83229.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-style-chicken-meatballs-083229",
+          "price": "4.29"
+        },
+        {
+          "name": "Chicken & Cheddar Cheese Sandwich",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/83512.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cheddar-cheese-sandwich-083512",
+          "price": "5.49"
+        },
+        {
+          "name": "Sugar Cookie Dough",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/82736.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sugar-cookie-dough-082736",
+          "price": "3.99"
+        },
+        {
+          "name": "Sliced Mortadella",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-mortadella-082010",
+          "price": "3.49"
+        },
+        {
+          "name": "Gingerbread Dude Cookie",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82263.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gingerbread-dude-cookie-082263",
+          "price": "2.99"
+        },
+        {
+          "name": "Trio of Flavored Honey",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/82021.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/trio-of-flavored-honey-082021",
+          "price": "10.99"
+        },
+        {
+          "name": "Greek Extra Virgin Olive Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20904/81989.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-extra-virgin-olive-oil-081989",
+          "price": "8.99"
+        }
+      ]
+    },
     "Beverage": {
       "going_fast": [
         {
@@ -40,31 +192,19 @@
           "price": "14.99"
         },
         {
-          "name": "Platinum Reserve Brut Rosé Napa Valley Sparkling Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83002.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/platinum-reserve-brut-rose-napa-valley-sparkling-wine-083002",
-          "price": "14.99"
+          "name": "Maple Pecan Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
+          "price": "9.99"
         },
         {
-          "name": "Drinking Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/drinking-chocolate-081518",
-          "price": "5.99"
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
+          "price": "4.99"
         }
       ],
       "popular": [
-        {
-          "name": "Drinking Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/drinking-chocolate-081518",
-          "price": "5.99"
-        },
-        {
-          "name": "Sparkling Cranberry Ginger Brew Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/81782.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-cranberry-ginger-brew-beverage-181782",
-          "price": "4.99"
-        },
         {
           "name": "Organic Hot Cocoa Mix",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50256.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -78,16 +218,16 @@
           "price": "2.79"
         },
         {
-          "name": "Winter Wassail Punch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/55354.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wassail-punch-055354",
-          "price": "4.99"
+          "name": "Non-Dairy Oat Creamer Gingerbread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/79179.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/non-dairy-oat-creamer-gingerbread-079179",
+          "price": "1.99"
         },
         {
-          "name": "Hark and Holly Glühwein Mulled Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/66484.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hark-and-holly-gluhwein-mulled-wine-066484",
-          "price": "5.99"
+          "name": "Maple Pecan Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
+          "price": "9.99"
         },
         {
           "name": "Triple Ginger Brew Sparkling Beverage",
@@ -96,36 +236,30 @@
           "price": "3.99"
         },
         {
-          "name": "Maple Pecan Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
-          "price": "9.99"
+          "name": "Sparkling Honeycrisp Apple Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75374.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-honeycrisp-apple-juice-075374",
+          "price": "1.69"
+        },
+        {
+          "name": "Winter Wassail Punch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/55354.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wassail-punch-055354",
+          "price": "4.99"
+        },
+        {
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
+          "price": "4.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Everything but the Bartender Gin & Tonic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82282.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-gin-tonic-182282",
-          "price": "9.99"
-        },
-        {
-          "name": "Drinking Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/drinking-chocolate-081518",
-          "price": "5.99"
-        },
-        {
           "name": "Maple Pecan Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
           "price": "9.99"
-        },
-        {
-          "name": "Sparkling Cranberry Ginger Brew Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/81782.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-cranberry-ginger-brew-beverage-181782",
-          "price": "4.99"
         },
         {
           "name": "Diamond Reserve Cabernet Sauvignon Rutherford Napa Valley 2023",
@@ -150,6 +284,176 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83106.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/reserve-meritage-paso-robles-2023-red-wine-083106",
           "price": "9.99"
+        },
+        {
+          "name": "Everything but the Bartender Gin & Tonic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82282.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-gin-tonic-182282",
+          "price": "9.99"
+        },
+        {
+          "name": "Platinum Reserve Blanc de Blancs Napa Valley Sparkling Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83001.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/platinum-reserve-blanc-de-blancs-napa-valley-sparkling-wine-083001",
+          "price": "14.99"
+        },
+        {
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
+          "price": "4.99"
+        }
+      ]
+    },
+    "Flowers": {
+      "going_fast": [
+        {
+          "name": "Giant Amaryllis Bulb",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
+          "price": "7.99"
+        },
+        {
+          "name": "Fall Premium Jumbo Mixed Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70458.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fall-premium-jumbo-mixed-bouquet-070458",
+          "price": "19.99"
+        },
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
+        },
+        {
+          "name": "Big Bunch Chrysanthemum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
+          "price": "4.99"
+        },
+        {
+          "name": "Jumbo Mum Balls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70407.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mum-balls-070407",
+          "price": "4.99"
+        },
+        {
+          "name": "Small Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
+          "price": "10.99"
+        },
+        {
+          "name": "Premium Jumbo Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
+          "price": "19.99"
+        },
+        {
+          "name": "Medium Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
+          "price": "14.99"
+        }
+      ],
+      "popular": [
+        {
+          "name": "Grump Tree",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58260.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grump-tree-058260",
+          "price": "9.99"
+        },
+        {
+          "name": "Giant Amaryllis Bulb",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
+          "price": "7.99"
+        },
+        {
+          "name": "Holiday Centerpiece Wreath",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/34633.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-centerpiece-wreath-034633",
+          "price": "8.99"
+        },
+        {
+          "name": "Medium Poinsettia Assorted Colors",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76795.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-poinsettia-assorted-colors-076795",
+          "price": "6.99"
+        },
+        {
+          "name": "Waterless Amaryllis",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76407.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/waterless-amaryllis-076407",
+          "price": "10.99"
+        },
+        {
+          "name": "Holiday Greens Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/92197.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-greens-bunch-092197",
+          "price": "3.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
+        },
+        {
+          "name": "Holiday Swag with Bow",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67837.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-swag-with-bow-067837",
+          "price": "7.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "Giant Amaryllis Bulb",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
+          "price": "7.99"
+        },
+        {
+          "name": "Fall Premium Jumbo Mixed Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70458.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fall-premium-jumbo-mixed-bouquet-070458",
+          "price": "19.99"
+        },
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
+        },
+        {
+          "name": "Big Bunch Chrysanthemum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
+          "price": "4.99"
+        },
+        {
+          "name": "Jumbo Mum Balls",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70407.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mum-balls-070407",
+          "price": "4.99"
+        },
+        {
+          "name": "Small Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
+          "price": "10.99"
+        },
+        {
+          "name": "Premium Jumbo Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
+          "price": "19.99"
+        },
+        {
+          "name": "Medium Phalaenopsis Orchid in Ceramic",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
+          "price": "14.99"
         }
       ]
     },
@@ -180,12 +484,6 @@
           "price": "12.99"
         },
         {
-          "name": "Cedar Balsam Scented Room Spritz",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82494.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cedar-balsam-scented-room-spritz-082494",
-          "price": "3.99"
-        },
-        {
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
@@ -198,18 +496,24 @@
           "price": "3.99"
         },
         {
-          "name": "Canvas Micro Tote with Grocery Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/canvas-micro-tote-with-grocery-bag-082352",
-          "price": "2.99"
+          "name": "Holiday Scented Candle Trio",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/66766.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-scented-candle-trio-066766",
+          "price": "8.99"
+        },
+        {
+          "name": "Candle of the Month Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82568.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/candle-of-the-month-set-082568",
+          "price": "29.99"
         }
       ],
       "popular": [
         {
-          "name": "Canvas Micro Tote with Grocery Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/canvas-micro-tote-with-grocery-bag-082352",
-          "price": "2.99"
+          "name": "Advent Calendar for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81700.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/advent-calendar-for-dogs-081700",
+          "price": "7.99"
         },
         {
           "name": "Candle of the Month Set",
@@ -218,10 +522,22 @@
           "price": "29.99"
         },
         {
-          "name": "Advent Calendar for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81700.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/advent-calendar-for-dogs-081700",
-          "price": "7.99"
+          "name": "12 Days of Beauty - A Curated Collection",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/66220.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/12-days-of-beauty-a-curated-collection-066220",
+          "price": "19.99"
+        },
+        {
+          "name": "Cacay Oil Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78936.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cacay-oil-body-butter-078936",
+          "price": "6.99"
+        },
+        {
+          "name": "Marine Radiance Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
+          "price": "12.99"
         },
         {
           "name": "Hand Serum & Cream Duo",
@@ -230,22 +546,10 @@
           "price": "9.99"
         },
         {
-          "name": "12 Days of Beauty - A Curated Collection",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/66220.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/12-days-of-beauty-a-curated-collection-066220",
-          "price": "19.99"
-        },
-        {
           "name": "Ultra Moisturizing Hand Cream",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
           "price": "4.99"
-        },
-        {
-          "name": "Pine Cone Wreath",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/23526.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pine-cone-wreath-023526",
-          "price": "12.99"
         },
         {
           "name": "Olive Green Large Reusable Insulated Bag",
@@ -268,12 +572,6 @@
           "price": "12.99"
         },
         {
-          "name": "Cedar Balsam Scented Room Spritz",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82494.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cedar-balsam-scented-room-spritz-082494",
-          "price": "3.99"
-        },
-        {
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
@@ -286,12 +584,6 @@
           "price": "3.99"
         },
         {
-          "name": "Canvas Micro Tote with Grocery Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/canvas-micro-tote-with-grocery-bag-082352",
-          "price": "2.99"
-        },
-        {
           "name": "Holiday Scented Candle Trio",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/66766.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-scented-candle-trio-066766",
@@ -302,310 +594,18 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/candle-of-the-month-set-082568",
           "price": "29.99"
-        }
-      ]
-    },
-    "Flowers": {
-      "going_fast": [
-        {
-          "name": "Giant Amaryllis Bulb",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
-          "price": "7.99"
         },
         {
-          "name": "Dotty Micro Poms Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
-          "price": "4.99"
-        },
-        {
-          "name": "Big Bunch Chrysanthemum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
-          "price": "4.99"
-        },
-        {
-          "name": "Jumbo Mum Balls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70407.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mum-balls-070407",
-          "price": "4.99"
-        },
-        {
-          "name": "Small Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
-          "price": "10.99"
-        },
-        {
-          "name": "Premium Jumbo Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
-          "price": "19.99"
-        },
-        {
-          "name": "Medium Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
-          "price": "14.99"
-        },
-        {
-          "name": "White Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
-          "price": "14.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "Grump Tree",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58260.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grump-tree-058260",
-          "price": "9.99"
-        },
-        {
-          "name": "Giant Amaryllis Bulb",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
-          "price": "7.99"
-        },
-        {
-          "name": "Holiday Centerpiece Wreath",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/34633.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-centerpiece-wreath-034633",
-          "price": "8.99"
-        },
-        {
-          "name": "Waterless Amaryllis",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76407.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/waterless-amaryllis-076407",
-          "price": "10.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
-          "name": "Medium Poinsettia Assorted Colors",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76795.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-poinsettia-assorted-colors-076795",
-          "price": "6.99"
-        },
-        {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
-        },
-        {
-          "name": "Holiday Swag with Bow",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67837.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-swag-with-bow-067837",
-          "price": "7.99"
-        }
-      ],
-      "whats_new": [
-        {
-          "name": "Giant Amaryllis Bulb",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58231.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/giant-amaryllis-bulb-058231",
-          "price": "7.99"
-        },
-        {
-          "name": "Dotty Micro Poms Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
-          "price": "4.99"
-        },
-        {
-          "name": "Big Bunch Chrysanthemum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
-          "price": "4.99"
-        },
-        {
-          "name": "Jumbo Mum Balls",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70407.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mum-balls-070407",
-          "price": "4.99"
-        },
-        {
-          "name": "Small Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/50352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/small-phalaenopsis-orchid-in-ceramic-050352",
-          "price": "10.99"
-        },
-        {
-          "name": "Premium Jumbo Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/65131.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-jumbo-orchid-in-ceramic-065131",
-          "price": "19.99"
-        },
-        {
-          "name": "Medium Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/93114.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/medium-phalaenopsis-orchid-in-ceramic-093114",
-          "price": "14.99"
-        },
-        {
-          "name": "White Phalaenopsis Orchid in Ceramic",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/79712.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/white-phalaenopsis-orchid-in-ceramic-079712",
-          "price": "14.99"
-        }
-      ]
-    },
-    "Food": {
-      "going_fast": [
-        {
-          "name": "Freeze Dried Strawberry Pieces",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82025.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-strawberry-pieces-082025",
-          "price": "4.99"
-        },
-        {
-          "name": "Chicken & Cheddar Cheese Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/83512.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cheddar-cheese-sandwich-083512",
-          "price": "5.49"
-        },
-        {
-          "name": "Sugar Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/82736.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sugar-cookie-dough-082736",
-          "price": "3.99"
-        },
-        {
-          "name": "Sliced Mortadella",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82010.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-mortadella-082010",
-          "price": "3.49"
-        },
-        {
-          "name": "Chocolate Chip Cookie Dough Perfect Mini Bars®",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/83481.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-chip-cookie-dough-perfect-mini-bars-083481",
-          "price": "7.49"
-        },
-        {
-          "name": "Gingerbread Dude Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82263.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gingerbread-dude-cookie-082263",
-          "price": "2.99"
-        },
-        {
-          "name": "Melissa's Peeled & Steamed Chestnuts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83742.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/melissas-peeled-steamed-chestnuts-083742",
+          "name": "Freeze-Dried Beef Meatballs for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
           "price": "5.99"
         },
         {
-          "name": "Trio of Flavored Honey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/82021.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/trio-of-flavored-honey-082021",
-          "price": "10.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "Herb Seasoned Brined Bone In Half Turkey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/79208.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/herb-seasoned-brined-bone-in-half-turkey-079208",
-          "price": "4.99"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
-          "name": "Mini Filet Mignon en Croute",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/82548.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-filet-mignon-en-croute-082548",
-          "price": "9.99"
-        },
-        {
-          "name": "Gingerbread Dude Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82263.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gingerbread-dude-cookie-082263",
-          "price": "2.99"
-        },
-        {
-          "name": "Trio of Flavored Honey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/82021.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/trio-of-flavored-honey-082021",
-          "price": "10.99"
-        },
-        {
-          "name": "Chicken & Cheddar Cheese Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/83512.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cheddar-cheese-sandwich-083512",
-          "price": "5.49"
-        },
-        {
-          "name": "Vegetable Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/81876.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vegetable-ravioli-081876",
-          "price": "3.99"
-        },
-        {
-          "name": "Jingle Jangle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
-          "price": "9.99"
-        }
-      ],
-      "whats_new": [
-        {
-          "name": "Chicken & Cheddar Cheese Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/83512.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-cheddar-cheese-sandwich-083512",
-          "price": "5.49"
-        },
-        {
-          "name": "Sugar Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/82736.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sugar-cookie-dough-082736",
-          "price": "3.99"
-        },
-        {
-          "name": "Sliced Mortadella",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82010.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-mortadella-082010",
-          "price": "3.49"
-        },
-        {
-          "name": "Gingerbread Dude Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82263.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gingerbread-dude-cookie-082263",
-          "price": "2.99"
-        },
-        {
-          "name": "Trio of Flavored Honey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20909/82021.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/trio-of-flavored-honey-082021",
-          "price": "10.99"
-        },
-        {
-          "name": "Greek Extra Virgin Olive Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20904/81989.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-extra-virgin-olive-oil-081989",
-          "price": "8.99"
-        },
-        {
-          "name": "Italian Tomato Pasta Sauce Trio",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/81710.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-tomato-pasta-sauce-trio-081710",
-          "price": "9.99"
-        },
-        {
-          "name": "Mini Filet Mignon en Croute",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/82548.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-filet-mignon-en-croute-082548",
-          "price": "9.99"
+          "name": "Pine Cone Wreath",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/23526.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pine-cone-wreath-023526",
+          "price": "12.99"
         }
       ]
     }
