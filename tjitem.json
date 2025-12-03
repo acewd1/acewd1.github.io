@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-03T05:09:07.004Z",
+  "last_updated": "2025-12-03T15:15:23.485Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -72,10 +72,10 @@
           "price": "1.99"
         },
         {
-          "name": "Winter Wassail Punch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/55354.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wassail-punch-055354",
-          "price": "4.99"
+          "name": "Maple Pecan Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
+          "price": "9.99"
         },
         {
           "name": "Triple Ginger Brew Sparkling Beverage",
@@ -84,22 +84,22 @@
           "price": "3.99"
         },
         {
-          "name": "Hardywood® Peppermint Bark Stout",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/83136.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-peppermint-bark-stout-183136",
-          "price": "14.99"
+          "name": "Cocoa Berry Black Tea Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79512.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cocoa-berry-black-tea-blend-079512",
+          "price": "1.99"
         },
         {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
-        },
-        {
-          "name": "Maple Pecan Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81682.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-pecan-cold-brew-coffee-concentrate-081682",
+          "name": "Espresso Martini",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/79525.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/espresso-martini-079525",
           "price": "9.99"
+        },
+        {
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -218,34 +218,34 @@
           "price": "29.99"
         },
         {
-          "name": "Ultra Moisturizing Hand Cream",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
-          "price": "4.99"
-        },
-        {
-          "name": "12 Days of Beauty - A Curated Collection",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/66220.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/12-days-of-beauty-a-curated-collection-066220",
-          "price": "19.99"
-        },
-        {
-          "name": "Hand Serum & Cream Duo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82069.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hand-serum-cream-duo-082069",
-          "price": "9.99"
-        },
-        {
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
           "price": "12.99"
         },
         {
+          "name": "Lip Butter Balm Duo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/79370.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lip-butter-balm-duo-079370",
+          "price": "6.99"
+        },
+        {
+          "name": "Ultra Moisturizing Hand Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
+          "price": "4.99"
+        },
+        {
           "name": "Cacay Oil Body Butter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78936.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cacay-oil-body-butter-078936",
           "price": "6.99"
+        },
+        {
+          "name": "12 Days of Beauty - A Curated Collection",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/66220.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/12-days-of-beauty-a-curated-collection-066220",
+          "price": "19.99"
         },
         {
           "name": "Ultra Moisturizing Hand Cream Trio",
@@ -510,16 +510,22 @@
       ],
       "popular": [
         {
-          "name": "2 Affogatos Vanilla Non-Dairy Frozen Desserts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81171.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/2-affogatos-vanilla-non-dairy-frozen-desserts-081171",
-          "price": "4.49"
-        },
-        {
           "name": "Silver Birch Farms Traditional Carnitas",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/77697.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/silver-birch-farms-traditional-carnitas-077697",
           "price": "6.49"
+        },
+        {
+          "name": "Jingle Jangle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
+          "price": "9.99"
+        },
+        {
+          "name": "2 Affogatos Vanilla Non-Dairy Frozen Desserts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/81171.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/2-affogatos-vanilla-non-dairy-frozen-desserts-081171",
+          "price": "4.49"
         },
         {
           "name": "Kouign Amann",
@@ -534,28 +540,22 @@
           "price": "4.29"
         },
         {
-          "name": "Jingle Jangle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
-          "price": "9.99"
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
+        },
+        {
+          "name": "Gingerbread House Kit",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/11692.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gingerbread-house-kit-011692",
+          "price": "8.99"
         },
         {
           "name": "Mini Filet Mignon en Croute",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/82548.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mini-filet-mignon-en-croute-082548",
           "price": "9.99"
-        },
-        {
-          "name": "Patislove® Pistachio Dark Chocolate Dubai Style",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81545.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/patislove-pistachio-dark-chocolate-dubai-style-081545",
-          "price": "3.99"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
         }
       ],
       "whats_new": [
