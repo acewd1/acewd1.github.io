@@ -1,14 +1,8 @@
 {
-  "last_updated": "2026-01-25T08:00:46.387Z",
+  "last_updated": "2026-01-26T06:49:07.004Z",
   "categories": {
     "Beverage": {
       "going_fast": [
-        {
-          "name": "Villa Borghetti Otto Pino Grigio",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/82719.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/villa-borghetti-otto-pino-grigio-082719",
-          "price": "7.99"
-        },
         {
           "name": "Irish Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82361.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -50,6 +44,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83116.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-rutherford-napa-valley-2023-083116",
           "price": "19.99"
+        },
+        {
+          "name": "Orange Peach Mango Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/66571.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/orange-peach-mango-juice-066571",
+          "price": "3.49"
         }
       ],
       "popular": [
@@ -66,10 +66,10 @@
           "price": "7.99"
         },
         {
-          "name": "Strawberry Vanilla Prebiotic Soda",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/83169.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-vanilla-prebiotic-soda-083169",
-          "price": "1.99"
+          "name": "Organic Hot Cocoa Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50256.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-hot-cocoa-mix-050256",
+          "price": "4.29"
         },
         {
           "name": "Cherry Cola Prebiotic Soda",
@@ -78,10 +78,16 @@
           "price": "1.99"
         },
         {
-          "name": "Organic Hot Cocoa Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50256.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-hot-cocoa-mix-050256",
-          "price": "4.29"
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29"
+        },
+        {
+          "name": "Strawberry Vanilla Prebiotic Soda",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/83169.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-vanilla-prebiotic-soda-083169",
+          "price": "1.99"
         },
         {
           "name": "Instant Jeju Matcha Latte Packets",
@@ -90,16 +96,10 @@
           "price": "4.99"
         },
         {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29"
-        },
-        {
-          "name": "Irish Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/82361.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/irish-coffee-082361",
-          "price": "9.99"
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.29"
         }
       ],
       "whats_new": [
@@ -242,16 +242,16 @@
           "price": "6.99"
         },
         {
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
+          "price": "8.99"
+        },
+        {
           "name": "Cacay Oil Body Butter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/78936.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cacay-oil-body-butter-078936",
           "price": "6.99"
-        },
-        {
-          "name": "Honey Hydration Face Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81675.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-hydration-face-mask-081675",
-          "price": "7.99"
         }
       ],
       "whats_new": [
@@ -286,12 +286,6 @@
           "price": "8.99"
         },
         {
-          "name": "Pine Cone Wreath",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/23526.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pine-cone-wreath-023526",
-          "price": "12.99"
-        },
-        {
           "name": "Jingle Jangle for Dogs",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79299.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-for-dogs-079299",
@@ -302,6 +296,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
           "price": "12.99"
+        },
+        {
+          "name": "Candle of the Month Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82568.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/candle-of-the-month-set-082568",
+          "price": "29.99"
         }
       ]
     },
@@ -370,22 +370,16 @@
           "price": "10.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
-        },
-        {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
           "name": "Dotty Micro Poms Bunch",
@@ -394,16 +388,22 @@
           "price": "4.99"
         },
         {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
-          "price": "3.99"
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
         },
         {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "7.99"
+        },
+        {
+          "name": "Petite Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -534,28 +534,28 @@
           "price": "2.99"
         },
         {
-          "name": "Mini Dark Chocolate Biscuit Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82089.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-dark-chocolate-biscuit-cookies-082089",
-          "price": "3.49"
-        },
-        {
           "name": "Morning Buns",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82774.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/morning-buns-082774",
           "price": "4.99"
         },
         {
-          "name": "Chicken Sausage Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82924.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-sausage-ravioli-082924",
-          "price": "4.49"
+          "name": "Mini Dark Chocolate Biscuit Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82089.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-dark-chocolate-biscuit-cookies-082089",
+          "price": "3.49"
         },
         {
-          "name": "Wild Alaskan Black Cod Sablefish with Miso Marinade",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82054.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-alaskan-black-cod-sablefish-with-miso-marinade-082054",
-          "price": "9.99"
+          "name": "Pasture Raised Large Brown Eggs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20304/62124.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pasture-raised-large-brown-eggs-062124",
+          "price": "5.99"
+        },
+        {
+          "name": "Sliced Porridge Bread",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/83034.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-porridge-bread-083034",
+          "price": "4.49"
         }
       ],
       "whats_new": [
