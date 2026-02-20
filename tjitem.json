@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19T07:00:51.881Z",
+  "last_updated": "2026-02-20T07:08:33.435Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -60,28 +60,16 @@
           "price": "8.99"
         },
         {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
-        },
-        {
           "name": "Vanilla Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
           "price": "8.99"
         },
         {
-          "name": "Sparkling Black Tea with Peach Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-black-tea-with-peach-juice-beverage-168349",
-          "price": "3.99"
-        },
-        {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29"
+          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
+          "price": "1.99"
         },
         {
           "name": "Matcha Green Tea Powder",
@@ -90,10 +78,22 @@
           "price": "7.99"
         },
         {
-          "name": "Matcha Green Tea Latte Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29"
+        },
+        {
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
+        },
+        {
+          "name": "Sparkling Black Tea with Peach Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/68349.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-black-tea-with-peach-juice-beverage-168349",
+          "price": "3.99"
         },
         {
           "name": "Spiced Chai Black Tea Concentrate",
@@ -206,22 +206,16 @@
       ],
       "popular": [
         {
-          "name": "Ultra Moisturizing Hand Cream",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
-          "price": "4.99"
-        },
-        {
           "name": "Stand-Up Collapsable Grocery Tote",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
           "price": "3.99"
         },
         {
-          "name": "Ultra Hydrating Gel Moisturizer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
-          "price": "8.99"
+          "name": "Ultra Moisturizing Hand Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/54571.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-moisturizing-hand-cream-054571",
+          "price": "4.99"
         },
         {
           "name": "Dusty Blue Large Insulated Bag",
@@ -233,6 +227,12 @@
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
+          "price": "8.99"
+        },
+        {
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
           "price": "8.99"
         },
         {
@@ -358,28 +358,16 @@
       ],
       "popular": [
         {
-          "name": "Peony Tulips Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/66115.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-tulips-bunch-066115",
-          "price": "8.99"
-        },
-        {
           "name": "Tulips 20 Stem Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
           "price": "12.99"
         },
         {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
-        },
-        {
-          "name": "Mini Can Foliage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/82987.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-can-foliage-082987",
-          "price": "4.99"
+          "name": "Peony Tulips Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/66115.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peony-tulips-bunch-066115",
+          "price": "8.99"
         },
         {
           "name": "Hydrangea 3-stem",
@@ -388,22 +376,34 @@
           "price": "5.99"
         },
         {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
           "name": "Dotty Micro Poms Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
           "price": "4.99"
         },
         {
-          "name": "Big Bunch Chrysanthemum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/big-bunch-chrysanthemum-080933",
-          "price": "4.99"
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         },
         {
-          "name": "Dozen Roses Assorted Colors",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/97991.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-roses-assorted-colors-097991",
-          "price": "14.99"
+          "name": "Fall Premium Jumbo Mixed Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/70458.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/fall-premium-jumbo-mixed-bouquet-070458",
+          "price": "19.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         }
       ],
       "whats_new": [
