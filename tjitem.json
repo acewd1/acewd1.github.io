@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T07:32:47.859Z",
+  "last_updated": "2026-02-25T02:27:07.993Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -54,6 +54,12 @@
       ],
       "popular": [
         {
+          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
+          "price": "1.99"
+        },
+        {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
@@ -72,10 +78,10 @@
           "price": "4.99"
         },
         {
-          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
-          "price": "1.99"
+          "name": "Vanilla Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
+          "price": "8.99"
         },
         {
           "name": "Cold Brew Coffee",
@@ -84,22 +90,16 @@
           "price": "3.29"
         },
         {
-          "name": "Vanilla Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
-          "price": "8.99"
+          "name": "100% Red Tart Cherry Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
+          "price": "4.99"
         },
         {
-          "name": "Organic Ginger Turmeric Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56397.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-ginger-turmeric-herbal-tea-056397",
-          "price": "2.99"
-        },
-        {
-          "name": "Organic Cold Pressed Green Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
-          "price": "5.99"
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.49"
         }
       ],
       "whats_new": [
@@ -162,12 +162,6 @@
           "price": "6.99"
         },
         {
-          "name": "Clementine Scented Foaming Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83163.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/clementine-scented-foaming-hand-soap-083163",
-          "price": "2.99"
-        },
-        {
           "name": "Dusty Blue Large Insulated Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
@@ -186,6 +180,12 @@
           "price": "4.49"
         },
         {
+          "name": "Marine Radiance Set",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
+          "price": "12.99"
+        },
+        {
           "name": "Candle of the Month Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/candle-of-the-month-set-082568",
@@ -198,10 +198,10 @@
           "price": "5.99"
         },
         {
-          "name": "Cinnamon Roll Flavored Lip Mask",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/81936.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cinnamon-roll-flavored-lip-mask-081936",
-          "price": "5.99"
+          "name": "Olive Green Large Reusable Insulated Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79542.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/olive-green-large-reusable-insulated-bag-079542",
+          "price": "8.99"
         }
       ],
       "popular": [
@@ -218,27 +218,21 @@
           "price": "3.99"
         },
         {
-          "name": "Ultra Hydrating Gel Moisturizer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
-          "price": "8.99"
-        },
-        {
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
           "price": "8.99"
         },
         {
-          "name": "Marula Oil Cream Cleanser",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82583.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/marula-oil-cream-cleanser-082583",
-          "price": "6.99"
-        },
-        {
           "name": "Dusty Blue Large Insulated Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
+          "price": "8.99"
+        },
+        {
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
           "price": "8.99"
         },
         {
@@ -248,10 +242,16 @@
           "price": "5.99"
         },
         {
-          "name": "Retinol Night Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
-          "price": "9.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
+        },
+        {
+          "name": "Marula Oil Cream Cleanser",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82583.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marula-oil-cream-cleanser-082583",
+          "price": "6.99"
         }
       ],
       "whats_new": [
@@ -260,12 +260,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82583.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marula-oil-cream-cleanser-082583",
           "price": "6.99"
-        },
-        {
-          "name": "Clementine Scented Foaming Hand Soap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83163.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/clementine-scented-foaming-hand-soap-083163",
-          "price": "2.99"
         },
         {
           "name": "Dusty Blue Large Insulated Bag",
@@ -302,11 +296,23 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
           "price": "5.99"
+        },
+        {
+          "name": "Olive Green Large Reusable Insulated Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79542.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/olive-green-large-reusable-insulated-bag-079542",
+          "price": "8.99"
         }
       ]
     },
     "Flowers": {
       "going_fast": [
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
+        },
         {
           "name": "Big Bunch Chrysanthemum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/80933.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -348,12 +354,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
           "price": "1.49"
-        },
-        {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
         }
       ],
       "popular": [
@@ -370,16 +370,22 @@
           "price": "8.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
+        },
+        {
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "7.99"
+        },
+        {
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         },
         {
           "name": "Dotty Micro Poms Bunch",
@@ -388,22 +394,16 @@
           "price": "4.99"
         },
         {
-          "name": "Dozen Roses Assorted Colors",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/97991.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-roses-assorted-colors-097991",
-          "price": "14.99"
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
           "name": "Seasonal Bouquet, Large",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
           "price": "14.99"
-        },
-        {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
         }
       ],
       "whats_new": [
@@ -460,152 +460,152 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Thai Style Yellow Curry Flavored Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83165.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thai-style-yellow-curry-flavored-potato-chips-083165",
-          "price": "2.99"
+          "name": "Toaster Waffles",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83113.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/toaster-waffles-083113",
+          "price": "2.79"
         },
         {
-          "name": "Sweet Onion Style Pretzel Twists",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83530.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-onion-style-pretzel-twists-083530",
-          "price": "3.69"
+          "name": "Spicy Cheese Crunchies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83669.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-cheese-crunchies-083669",
+          "price": "2.49"
         },
         {
-          "name": "Spicy Spuds",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82237.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-spuds-082237",
-          "price": "4.49"
+          "name": "Marshmallow Eggs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83321.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marshmallow-eggs-083321",
+          "price": "1.49"
         },
         {
-          "name": "Dark Chocolate Covered Crunchy Corn Kernels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-covered-crunchy-corn-kernels-078521",
+          "name": "Korean Bugak Sticky Rice and Seaweed Crisps",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82360.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/korean-bugak-sticky-rice-and-seaweed-crisps-082360",
+          "price": "3.29"
+        },
+        {
+          "name": "Jambalaya",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
+          "price": "5.49"
+        },
+        {
+          "name": "Greek Style Chicken Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "price": "5.49"
+        },
+        {
+          "name": "Freeze Dried Apricots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81215.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-apricots-081215",
+          "price": "4.99"
+        },
+        {
+          "name": "Chicken Breast Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
           "price": "3.99"
-        },
-        {
-          "name": "Toasted Coconut Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83751.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/toasted-coconut-mini-sheet-cake-083751",
-          "price": "5.99"
-        },
-        {
-          "name": "Blonde Bar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81224.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/blonde-bar-081224",
-          "price": "2.69"
-        },
-        {
-          "name": "Marinated Fresh \r\nMozzarella Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/72725-marinated-mozzarella-cheese.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/marinated-fresh--mozzarella-cheese-072725",
-          "price": "5.99"
-        },
-        {
-          "name": "Sprouted Wheat Multigrain Bread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/37066.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sprouted-wheat-multigrain-bread-037066",
-          "price": "4.49"
         }
       ],
       "popular": [
         {
-          "name": "Thai Style Yellow Curry Flavored Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83165.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thai-style-yellow-curry-flavored-potato-chips-083165",
-          "price": "2.99"
+          "name": "Jambalaya",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
+          "price": "5.49"
         },
         {
-          "name": "Sweet Onion Style Pretzel Twists",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83530.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-onion-style-pretzel-twists-083530",
-          "price": "3.69"
+          "name": "Greek Style Chicken Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "price": "5.49"
+        },
+        {
+          "name": "Spicy Cheese Crunchies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83669.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-cheese-crunchies-083669",
+          "price": "2.49"
+        },
+        {
+          "name": "Breakfast Bowl",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82864.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/breakfast-bowl-082864",
+          "price": "3.49"
+        },
+        {
+          "name": "Chicken Breast Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
+          "price": "3.99"
+        },
+        {
+          "name": "Toaster Waffles",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83113.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/toaster-waffles-083113",
+          "price": "2.79"
+        },
+        {
+          "name": "Marshmallow Eggs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83321.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marshmallow-eggs-083321",
+          "price": "1.49"
         },
         {
           "name": "Spicy Spuds",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82237.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-spuds-082237",
-          "price": "4.49"
-        },
-        {
-          "name": "Dark Chocolate Covered Crunchy Corn Kernels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-covered-crunchy-corn-kernels-078521",
-          "price": "3.99"
-        },
-        {
-          "name": "Toasted Coconut Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83751.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/toasted-coconut-mini-sheet-cake-083751",
-          "price": "5.99"
-        },
-        {
-          "name": "Blonde Bar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81224.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/blonde-bar-081224",
-          "price": "2.69"
-        },
-        {
-          "name": "Marinated Fresh \r\nMozzarella Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/72725-marinated-mozzarella-cheese.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/marinated-fresh--mozzarella-cheese-072725",
-          "price": "5.99"
-        },
-        {
-          "name": "Sprouted Wheat Multigrain Bread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/37066.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sprouted-wheat-multigrain-bread-037066",
           "price": "4.49"
         }
       ],
       "whats_new": [
         {
-          "name": "Thai Style Yellow Curry Flavored Potato Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83165.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/thai-style-yellow-curry-flavored-potato-chips-083165",
-          "price": "2.99"
+          "name": "Toaster Waffles",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83113.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/toaster-waffles-083113",
+          "price": "2.79"
         },
         {
-          "name": "Sweet Onion Style Pretzel Twists",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83530.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-onion-style-pretzel-twists-083530",
-          "price": "3.69"
+          "name": "Spicy Cheese Crunchies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83669.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-cheese-crunchies-083669",
+          "price": "2.49"
         },
         {
-          "name": "Spicy Spuds",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82237.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-spuds-082237",
-          "price": "4.49"
+          "name": "Marshmallow Eggs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83321.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marshmallow-eggs-083321",
+          "price": "1.49"
         },
         {
-          "name": "Dark Chocolate Covered Crunchy Corn Kernels",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-covered-crunchy-corn-kernels-078521",
+          "name": "Jambalaya",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
+          "price": "5.49"
+        },
+        {
+          "name": "Greek Style Chicken Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "price": "5.49"
+        },
+        {
+          "name": "Freeze Dried Apricots",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81215.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-apricots-081215",
+          "price": "4.99"
+        },
+        {
+          "name": "Chicken Breast Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
           "price": "3.99"
         },
         {
-          "name": "Toasted Coconut Mini Sheet Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83751.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/toasted-coconut-mini-sheet-cake-083751",
-          "price": "5.99"
-        },
-        {
-          "name": "Blonde Bar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81224.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/blonde-bar-081224",
-          "price": "2.69"
-        },
-        {
-          "name": "Chopped Salad Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83284.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chopped-salad-blend-083284",
-          "price": "2.99"
-        },
-        {
-          "name": "Butter Caramel Hard Candies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80748.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/butter-caramel-hard-candies-080748",
-          "price": "2.79"
+          "name": "Breakfast Bowl",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82864.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/breakfast-bowl-082864",
+          "price": "3.49"
         }
       ]
     }
