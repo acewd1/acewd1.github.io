@@ -1,8 +1,14 @@
 {
-  "last_updated": "2026-02-26T20:27:16.030Z",
+  "last_updated": "2026-03-02T06:36:15.567Z",
   "categories": {
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Organic Apple Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/74685.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-juice-074685",
+          "price": "3.99"
+        },
         {
           "name": "Vanilla Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -44,38 +50,14 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/83169.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-vanilla-prebiotic-soda-083169",
           "price": "1.99"
-        },
-        {
-          "name": "To The Power of 7 Purple Organic Juice Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/53187.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-7-purple-organic-juice-blend-053187",
-          "price": "5.49"
         }
       ],
       "popular": [
-        {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
-        },
-        {
-          "name": "Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
-          "price": "3.29"
-        },
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
-        },
-        {
-          "name": "Organic Sparkling Lemon + Strawberry Apple Cider Vinegar Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/64432.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-sparkling-lemon-strawberry-apple-cider-vinegar-beverage-064432",
-          "price": "1.99"
         },
         {
           "name": "Vanilla Cold Brew Coffee Concentrate",
@@ -84,22 +66,40 @@
           "price": "8.99"
         },
         {
-          "name": "Organic Unsweetened Almond Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/64957.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unsweetened-almond-beverage-064957",
-          "price": "1.99"
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.29"
         },
         {
-          "name": "Organic No Joke Ginger Juice Shot",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/61707.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-no-joke-ginger-juice-shot-061707",
-          "price": "1.99"
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
+          "price": "4.99"
         },
         {
-          "name": "Joe Medium Roast Ground Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56332.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/joe-medium-roast-ground-coffee-056332",
-          "price": "6.99"
+          "name": "100% Red Tart Cherry Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
+          "price": "4.99"
+        },
+        {
+          "name": "Organic Cold Pressed Green Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
+          "price": "5.99"
+        },
+        {
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.49"
+        },
+        {
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
         }
       ],
       "whats_new": [
@@ -370,16 +370,16 @@
           "price": "12.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
           "price": "5.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
           "name": "Dotty Micro Poms Bunch",
@@ -400,10 +400,10 @@
           "price": "10.99"
         },
         {
-          "name": "Jumbo Mixed Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76477.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jumbo-mixed-bouquet-076477",
-          "price": "19.99"
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
         }
       ],
       "whats_new": [
@@ -460,6 +460,12 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Beef Bulgogi",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75283.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/beef-bulgogi-075283",
+          "price": "11.99"
+        },
+        {
           "name": "Toaster Waffles",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83113.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/toaster-waffles-083113",
@@ -500,15 +506,15 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/81215.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-apricots-081215",
           "price": "4.99"
-        },
-        {
-          "name": "Chicken Breast Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
-          "price": "3.99"
         }
       ],
       "popular": [
+        {
+          "name": "Greek Style Chicken Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "price": "5.49"
+        },
         {
           "name": "Spicy Cheese Crunchies",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83669.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -516,9 +522,15 @@
           "price": "2.49"
         },
         {
-          "name": "Greek Style Chicken Salad",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "name": "Chicken Breast Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
+          "price": "3.99"
+        },
+        {
+          "name": "Jambalaya",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
           "price": "5.49"
         },
         {
@@ -528,28 +540,16 @@
           "price": "3.49"
         },
         {
-          "name": "Jambalaya",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
+          "name": "Onion Flowers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/80797.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/onion-flowers-080797",
           "price": "5.49"
         },
         {
-          "name": "Chicken Breast Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
-          "price": "3.99"
-        },
-        {
-          "name": "Marshmallow Eggs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83321.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/marshmallow-eggs-083321",
-          "price": "1.49"
-        },
-        {
-          "name": "Protein Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
-          "price": "3.79"
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
         },
         {
           "name": "Toaster Waffles",
