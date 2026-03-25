@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T01:25:22.906Z",
+  "last_updated": "2026-03-25T04:04:21.294Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -10,10 +10,10 @@
           "price": "2.99"
         },
         {
-          "name": "Rwanda Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82607.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/rwanda-small-lot-coffee-082607",
-          "price": "10.99"
+          "name": "Organic Mexico Chiapas Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
+          "price": "8.99"
         },
         {
           "name": "Organic Apple Juice",
@@ -66,22 +66,22 @@
           "price": "4.99"
         },
         {
-          "name": "Rwanda Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82607.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/rwanda-small-lot-coffee-082607",
-          "price": "10.99"
+          "name": "Organic Mexico Chiapas Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
+          "price": "8.99"
         },
         {
-          "name": "100% Red Tart Cherry Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
-          "price": "4.99"
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.49"
         },
         {
-          "name": "Matcha Green Tea Latte Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/52512.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-latte-mix-052512",
-          "price": "4.99"
+          "name": "Coconut Water, 1L",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
+          "price": "3.49"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
@@ -90,10 +90,10 @@
           "price": "5.49"
         },
         {
-          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
-          "price": "2.49"
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
         },
         {
           "name": "Organic Unsweetened Almond Beverage",
@@ -104,10 +104,10 @@
       ],
       "whats_new": [
         {
-          "name": "Rwanda Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82607.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/rwanda-small-lot-coffee-082607",
-          "price": "10.99"
+          "name": "Organic Mexico Chiapas Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
+          "price": "8.99"
         },
         {
           "name": "Organic Cold Pressed Lemon Ginger Cayenne Juice Beverage",
@@ -180,16 +180,16 @@
           "price": "8.99"
         },
         {
+          "name": "Jingle Jangle for Dogs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/79299.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-for-dogs-079299",
+          "price": "4.49"
+        },
+        {
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
           "price": "12.99"
-        },
-        {
-          "name": "Canvas Micro Tote with Grocery Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82352.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/canvas-micro-tote-with-grocery-bag-082352",
-          "price": "2.99"
         },
         {
           "name": "Candle of the Month Set",
@@ -382,12 +382,6 @@
           "price": "5.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
-        },
-        {
           "name": "Eucalyptus",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
@@ -398,6 +392,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "7.99"
+        },
+        {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
         },
         {
           "name": "Dozen Red Roses",
@@ -522,6 +522,12 @@
           "price": "5.49"
         },
         {
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
+        },
+        {
           "name": "Stuffed Poblano Peppers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83314.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stuffed-poblano-peppers-083314",
@@ -534,22 +540,16 @@
           "price": "5.49"
         },
         {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
           "name": "Ranch Flavored Rolled Corn Tortilla Chips",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
           "price": "2.99"
         },
         {
-          "name": "Breakfast Bowl",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82864.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/breakfast-bowl-082864",
-          "price": "3.49"
+          "name": "Surimi Imitation Crabmeat",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
+          "price": "3.99"
         },
         {
           "name": "Blonde Bar",
@@ -570,12 +570,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82874.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/cookie-dough-ice-cream-bites-082874",
           "price": "4.79"
-        },
-        {
-          "name": "Speckled Egg Milk Chocolate Bars",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83302.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/speckled-egg-milk-chocolate-bars-083302",
-          "price": "2.99"
         },
         {
           "name": "Berry Medley",
@@ -606,6 +600,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
           "price": "2.99"
+        },
+        {
+          "name": "Sliced Double Chocolate Brioche",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/81821.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-double-chocolate-brioche-081821",
+          "price": "5.49"
         }
       ]
     }
