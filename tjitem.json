@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T06:36:24.344Z",
+  "last_updated": "2026-03-26T22:11:09.700Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -14,6 +14,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68290.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-lemon-ginger-cayenne-juice-beverage-068290",
           "price": "2.99"
+        },
+        {
+          "name": "100% Pineapple Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/94705.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pineapple-juice-194705",
+          "price": "3.99"
         },
         {
           "name": "Organic Mexico Chiapas Coffee",
@@ -44,12 +50,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/78989.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/grand-reserve-meritage-paso-robles-2023-078989",
           "price": "12.99"
-        },
-        {
-          "name": "Napa Estates Cabernet Sauvignon 2022",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84099.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/napa-estates-cabernet-sauvignon-2022-084099",
-          "price": "9.99"
         }
       ],
       "popular": [
@@ -60,34 +60,22 @@
           "price": "4.99"
         },
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
-        },
-        {
           "name": "Instant Jeju Matcha Latte Packets",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
         },
         {
-          "name": "Organic Mexico Chiapas Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
-          "price": "8.99"
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         },
         {
-          "name": "Organic Cold Pressed Green Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
-          "price": "5.99"
-        },
-        {
-          "name": "To The Power of Seven Red Organic Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
-          "price": "5.49"
+          "name": "Organic Unsweetened Almond Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/64957.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unsweetened-almond-beverage-064957",
+          "price": "1.99"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
@@ -96,10 +84,22 @@
           "price": "5.49"
         },
         {
-          "name": "Joe Medium Roast Ground Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/56332.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/joe-medium-roast-ground-coffee-056332",
-          "price": "6.99"
+          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
+          "price": "2.49"
+        },
+        {
+          "name": "To The Power of Seven Red Organic Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
+          "price": "5.49"
+        },
+        {
+          "name": "Coconut Water, 1L",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
+          "price": "3.49"
         }
       ],
       "whats_new": [
@@ -201,7 +201,7 @@
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
-          "price": "12.99"
+          "price": "5.99"
         }
       ],
       "popular": [
@@ -212,16 +212,16 @@
           "price": "3.99"
         },
         {
+          "name": "Dewy Skin Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
+          "price": "9.99"
+        },
+        {
           "name": "Stand-Up Collapsable Grocery Tote",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
           "price": "3.99"
-        },
-        {
-          "name": "Dusty Blue Large Insulated Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
-          "price": "8.99"
         },
         {
           "name": "Retinol Night Serum",
@@ -230,10 +230,10 @@
           "price": "9.99"
         },
         {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
+          "name": "Dusty Blue Large Insulated Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
+          "price": "8.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
@@ -248,13 +248,25 @@
           "price": "4.99"
         },
         {
-          "name": "Olive Green Large Reusable Insulated Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79542.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/olive-green-large-reusable-insulated-bag-079542",
-          "price": "8.99"
+          "name": "Daily Facial Mineral Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
+          "price": "12.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Lavender Canvas Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83866.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lavender-canvas-tote-bag-083866",
+          "price": "3.99"
+        },
+        {
+          "name": "Dewy Skin Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
+          "price": "9.99"
+        },
         {
           "name": "Marula Oil Cream Cleanser",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82583.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -289,18 +301,6 @@
           "name": "Marine Radiance Set",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82076.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/marine-radiance-set-082076",
-          "price": "12.99"
-        },
-        {
-          "name": "Candle of the Month Set",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/82568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/candle-of-the-month-set-082568",
-          "price": "29.99"
-        },
-        {
-          "name": "Freeze-Dried Beef Meatballs for Dogs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/81214.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-beef-meatballs-for-dogs-081214",
           "price": "5.99"
         }
       ]
@@ -516,10 +516,34 @@
           "price": "2.79"
         },
         {
+          "name": "Cookie Dough Ice Cream Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82874.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cookie-dough-ice-cream-bites-082874",
+          "price": "4.79"
+        },
+        {
+          "name": "Garlic Butter Nut Mix",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/83372.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-nut-mix-083372",
+          "price": "6.99"
+        },
+        {
           "name": "Greek Style Chicken Salad",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
           "price": "5.49"
+        },
+        {
+          "name": "Surimi Imitation Crabmeat",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
+          "price": "3.99"
+        },
+        {
+          "name": "Salted Caramel Mochi",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83237.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/salted-caramel-mochi-083237",
+          "price": "4.99"
         },
         {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
@@ -532,30 +556,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83314.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stuffed-poblano-peppers-083314",
           "price": "6.99"
-        },
-        {
-          "name": "Surimi Imitation Crabmeat",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
-          "price": "3.99"
-        },
-        {
-          "name": "Jambalaya",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
-          "price": "5.49"
-        },
-        {
-          "name": "Ranch Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
-          "price": "2.99"
-        },
-        {
-          "name": "Pasture Raised Large Brown Eggs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20304/62124.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasture-raised-large-brown-eggs-062124",
-          "price": "5.99"
         }
       ],
       "whats_new": [
