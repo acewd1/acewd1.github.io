@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T22:11:09.700Z",
+  "last_updated": "2026-03-27T13:23:33.596Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -60,16 +60,28 @@
           "price": "4.99"
         },
         {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
+          "name": "Henry Hotspur's Hard Pressed for Cider",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/75114.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/henry-hotspurs-hard-pressed-for-cider-175114",
+          "price": "7.99"
         },
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
+        },
+        {
+          "name": "Cinsault Rosé Maison Barboulot",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/79060.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cinsault-rose-maison-barboulot-079060",
+          "price": "5.99"
+        },
+        {
+          "name": "Coconut Water, 1L",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
+          "price": "3.49"
         },
         {
           "name": "Organic Unsweetened Almond Beverage",
@@ -84,22 +96,10 @@
           "price": "5.49"
         },
         {
-          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
-          "price": "2.49"
-        },
-        {
-          "name": "To The Power of Seven Red Organic Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
-          "price": "5.49"
-        },
-        {
-          "name": "Coconut Water, 1L",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
-          "price": "3.49"
+          "name": "Tuatea Marlborough New Zealand Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/63002.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tuatea-marlborough-new-zealand-sauvignon-blanc-063002",
+          "price": "6.99"
         }
       ],
       "whats_new": [
@@ -516,34 +516,16 @@
           "price": "2.79"
         },
         {
-          "name": "Cookie Dough Ice Cream Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82874.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookie-dough-ice-cream-bites-082874",
-          "price": "4.79"
-        },
-        {
           "name": "Garlic Butter Nut Mix",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/83372.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-nut-mix-083372",
           "price": "6.99"
         },
         {
-          "name": "Greek Style Chicken Salad",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
-          "price": "5.49"
-        },
-        {
-          "name": "Surimi Imitation Crabmeat",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/81860.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/surimi-imitation-crabmeat-081860",
-          "price": "3.99"
-        },
-        {
-          "name": "Salted Caramel Mochi",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83237.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/salted-caramel-mochi-083237",
-          "price": "4.99"
+          "name": "Ranch Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
+          "price": "2.99"
         },
         {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
@@ -552,10 +534,28 @@
           "price": "2.99"
         },
         {
+          "name": "Protein Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
+          "price": "3.79"
+        },
+        {
+          "name": "Greek Style Chicken Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
+          "price": "5.49"
+        },
+        {
           "name": "Stuffed Poblano Peppers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83314.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stuffed-poblano-peppers-083314",
           "price": "6.99"
+        },
+        {
+          "name": "Blonde Bar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81224.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/blonde-bar-081224",
+          "price": "2.69"
         }
       ],
       "whats_new": [
