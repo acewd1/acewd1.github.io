@@ -1,8 +1,14 @@
 {
-  "last_updated": "2026-03-31T03:09:23.066Z",
+  "last_updated": "2026-03-31T18:57:28.825Z",
   "categories": {
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Purified Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/80802.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/purified-water-080802",
+          "price": "2.49"
+        },
         {
           "name": "Organic Non-Dairy Unsweetened Vanilla Soy Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/82993.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -28,6 +34,12 @@
           "price": "10.99"
         },
         {
+          "name": "100% Pineapple Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/94705.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pineapple-juice-194705",
+          "price": "3.99"
+        },
+        {
           "name": "Organic Mexico Chiapas Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
@@ -38,21 +50,21 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/74685.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-juice-074685",
           "price": "3.99"
-        },
-        {
-          "name": "Vanilla Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
-          "price": "8.99"
-        },
-        {
-          "name": "Opaline Brut Sparkling Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83835.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/opaline-brut-sparkling-wine-083835",
-          "price": "9.99"
         }
       ],
       "popular": [
+        {
+          "name": "Purified Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/80802.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/purified-water-080802",
+          "price": "2.49"
+        },
+        {
+          "name": "Organic Non-Dairy Unsweetened Vanilla Soy Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/82993.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-unsweetened-vanilla-soy-beverage-082993",
+          "price": "2.49"
+        },
         {
           "name": "Single Origin Kilimanjaro Instant Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81496.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -64,24 +76,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
           "price": "7.99"
-        },
-        {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
-        },
-        {
-          "name": "Organic Non-Dairy Unsweetened Vanilla Soy Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/82993.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-unsweetened-vanilla-soy-beverage-082993",
-          "price": "2.49"
-        },
-        {
-          "name": "Single Origin Organic Coconut Water",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-organic-coconut-water-065256",
-          "price": "2.29"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
@@ -96,13 +90,25 @@
           "price": "3.49"
         },
         {
-          "name": "Organic Unsweetened Almond Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/64957.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-unsweetened-almond-beverage-064957",
-          "price": "1.99"
+          "name": "Instant Jeju Matcha Latte Packets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
+          "price": "4.99"
+        },
+        {
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Purified Water",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/80802.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/purified-water-080802",
+          "price": "2.49"
+        },
         {
           "name": "Organic Non-Dairy Unsweetened Vanilla Soy Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/82993.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -134,22 +140,16 @@
           "price": "2.99"
         },
         {
+          "name": "100% Pineapple Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/94705.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pineapple-juice-194705",
+          "price": "3.99"
+        },
+        {
           "name": "Organic Apple Juice",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/74685.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-juice-074685",
           "price": "3.99"
-        },
-        {
-          "name": "Vanilla Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
-          "price": "8.99"
-        },
-        {
-          "name": "Opaline Brut Sparkling Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/83835.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/opaline-brut-sparkling-wine-083835",
-          "price": "9.99"
         }
       ]
     },
@@ -490,22 +490,22 @@
           "price": "4.99"
         },
         {
+          "name": "Reduced Sodium Italian Dry Uncured Salami",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82698.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/reduced-sodium-italian-dry-uncured-salami-082698",
+          "price": "5.49"
+        },
+        {
           "name": "Whipped Carrot Cake Cream Cheese Spread",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81647.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/whipped-carrot-cake-cream-cheese-spread-081647",
           "price": "2.79"
         },
         {
-          "name": "Organic Flour Tortillas",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20104/80568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-flour-tortillas-080568",
-          "price": "3.99"
-        },
-        {
-          "name": "Vanilla Meringues",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/12312.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-meringues-012312",
-          "price": "4.49"
+          "name": "Mushroom Shaped Gummy Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81485.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mushroom-shaped-gummy-candies-081485",
+          "price": "2.29"
         }
       ],
       "popular": [
@@ -514,6 +514,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81647.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/whipped-carrot-cake-cream-cheese-spread-081647",
           "price": "2.79"
+        },
+        {
+          "name": "Mushroom Shaped Gummy Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81485.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mushroom-shaped-gummy-candies-081485",
+          "price": "2.29"
         },
         {
           "name": "Greek Style Chicken Salad",
@@ -526,6 +532,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
           "price": "2.99"
+        },
+        {
+          "name": "Grilled Chimichurri Chicken Thigh Skewers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75758.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grilled-chimichurri-chicken-thigh-skewers-075758",
+          "price": "7.99"
         },
         {
           "name": "Garlic Butter Nut Mix",
@@ -544,18 +556,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
           "price": "2.99"
-        },
-        {
-          "name": "Jambalaya",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jambalaya-083570",
-          "price": "5.49"
-        },
-        {
-          "name": "Chicken Breast Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/83000.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-breast-bites-083000",
-          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -572,10 +572,22 @@
           "price": "4.99"
         },
         {
+          "name": "Reduced Sodium Italian Dry Uncured Salami",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/82698.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/reduced-sodium-italian-dry-uncured-salami-082698",
+          "price": "5.49"
+        },
+        {
           "name": "Whipped Carrot Cake Cream Cheese Spread",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/81647.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/whipped-carrot-cake-cream-cheese-spread-081647",
           "price": "2.79"
+        },
+        {
+          "name": "Mushroom Shaped Gummy Candies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81485.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mushroom-shaped-gummy-candies-081485",
+          "price": "2.29"
         },
         {
           "name": "Organic Flour Tortillas",
@@ -594,18 +606,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/82978.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-lactose-free-reduced-fat-milk-082978",
           "price": "5.69"
-        },
-        {
-          "name": "Berry Medley",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/83744.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/berry-medley-083744",
-          "price": "4.49"
-        },
-        {
-          "name": "Angus Beef Outside Skirt Steak",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/81087.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/angus-beef-outside-skirt-steak-081087",
-          "price": "15.99"
         }
       ]
     }
