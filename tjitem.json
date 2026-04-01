@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31T18:57:28.825Z",
+  "last_updated": "2026-04-01T22:26:50.832Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -516,34 +516,22 @@
           "price": "2.79"
         },
         {
+          "name": "Protein Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
+          "price": "3.79"
+        },
+        {
           "name": "Mushroom Shaped Gummy Candies",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81485.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mushroom-shaped-gummy-candies-081485",
           "price": "2.29"
         },
         {
-          "name": "Greek Style Chicken Salad",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/83241.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/greek-style-chicken-salad-083241",
-          "price": "5.49"
-        },
-        {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
           "price": "2.99"
-        },
-        {
-          "name": "Grilled Chimichurri Chicken Thigh Skewers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75758.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/grilled-chimichurri-chicken-thigh-skewers-075758",
-          "price": "7.99"
-        },
-        {
-          "name": "Garlic Butter Nut Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/83372.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-butter-nut-mix-083372",
-          "price": "6.99"
         },
         {
           "name": "Stuffed Poblano Peppers",
@@ -556,6 +544,18 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/83292.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ranch-flavored-rolled-corn-tortilla-chips-083292",
           "price": "2.99"
+        },
+        {
+          "name": "\"PB&J\" Oat Bites",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/82780.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pbj-oat-bites-082780",
+          "price": "3.99"
+        },
+        {
+          "name": "Grilled Chimichurri Chicken Thigh Skewers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/75758.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/grilled-chimichurri-chicken-thigh-skewers-075758",
+          "price": "7.99"
         }
       ],
       "whats_new": [
