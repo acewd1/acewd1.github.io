@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-04-23T20:09:55.615Z",
+  "last_updated": "2026-04-28T04:44:30.869Z",
   "categories": {
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
+        },
+        {
+          "name": "TABLE California Red Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84977.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/table-california-red-wine-084977",
+          "price": "9.99"
+        },
+        {
+          "name": "Le Beau Sud Vermentino-Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84627.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/le-beau-sud-vermentino-sauvignon-blanc-084627",
+          "price": "8.99"
+        },
         {
           "name": "Organic Peru Cajamarca Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82029.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -32,38 +50,38 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81496.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-kilimanjaro-instant-coffee-081496",
           "price": "4.99"
-        },
-        {
-          "name": "Organic Cold Pressed Lemon Ginger Cayenne Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68290.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-lemon-ginger-cayenne-juice-beverage-068290",
-          "price": "2.99"
-        },
-        {
-          "name": "Rwanda Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82607.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/rwanda-small-lot-coffee-082607",
-          "price": "10.99"
-        },
-        {
-          "name": "100% Pineapple Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/94705.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-pineapple-juice-194705",
-          "price": "3.99"
         }
       ],
       "popular": [
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
+        },
+        {
+          "name": "Le Beau Sud Vermentino-Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84627.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/le-beau-sud-vermentino-sauvignon-blanc-084627",
+          "price": "8.99"
+        },
+        {
+          "name": "TABLE California Red Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84977.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/table-california-red-wine-084977",
+          "price": "9.99"
+        },
+        {
+          "name": "Single Origin Kilimanjaro Instant Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81496.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-kilimanjaro-instant-coffee-081496",
+          "price": "4.99"
+        },
         {
           "name": "Organic Non-Dairy Unsweetened Vanilla Soy Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/82993.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-unsweetened-vanilla-soy-beverage-082993",
           "price": "2.49"
-        },
-        {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
         },
         {
           "name": "Instant Jeju Matcha Latte Packets",
@@ -72,37 +90,25 @@
           "price": "4.99"
         },
         {
-          "name": "Espiral Vinho Verde",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/47536.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/espiral-vinho-verde-047536",
-          "price": "5.49"
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
           "price": "5.49"
-        },
-        {
-          "name": "Single Origin Kilimanjaro Instant Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81496.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-kilimanjaro-instant-coffee-081496",
-          "price": "4.99"
-        },
-        {
-          "name": "Single Origin Organic Coconut Water",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/65256.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/single-origin-organic-coconut-water-065256",
-          "price": "2.49"
-        },
-        {
-          "name": "Coconut Water, 1L",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
-          "price": "3.49"
         }
       ],
       "whats_new": [
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
+        },
         {
           "name": "Organic Peru Cajamarca Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82029.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -134,27 +140,27 @@
           "price": "4.99"
         },
         {
-          "name": "Rwanda Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82607.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/rwanda-small-lot-coffee-082607",
-          "price": "10.99"
+          "name": "TABLE California Red Wine",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84977.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/table-california-red-wine-084977",
+          "price": "9.99"
         },
         {
-          "name": "Organic Cold Pressed Lemon Ginger Cayenne Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/68290.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-lemon-ginger-cayenne-juice-beverage-068290",
-          "price": "2.99"
-        },
-        {
-          "name": "Organic Mexico Chiapas Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82814.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-mexico-chiapas-coffee-082814",
+          "name": "Le Beau Sud Vermentino-Sauvignon Blanc",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84627.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/le-beau-sud-vermentino-sauvignon-blanc-084627",
           "price": "8.99"
         }
       ]
     },
     "Everything Else": {
       "going_fast": [
+        {
+          "name": "Creatine Hydrochloride Capsules",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
+          "price": "16.49"
+        },
         {
           "name": "Tea Tree Oil",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/29649.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -196,15 +202,15 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
           "price": "8.99"
-        },
-        {
-          "name": "Laundry Detergent Sheets Free & Clear",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78145.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/laundry-detergent-sheets-free-clear-078145",
-          "price": "8.99"
         }
       ],
       "popular": [
+        {
+          "name": "Creatine Hydrochloride Capsules",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
+          "price": "16.49"
+        },
         {
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -222,12 +228,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
           "price": "9.99"
-        },
-        {
-          "name": "Invisible Gel Body Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
-          "price": "12.99"
         },
         {
           "name": "Stand-Up Collapsable Grocery Tote",
@@ -256,6 +256,12 @@
       ],
       "whats_new": [
         {
+          "name": "Creatine Hydrochloride Capsules",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
+          "price": "16.49"
+        },
+        {
           "name": "Bonding Conditioner",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82843.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/bonding-conditioner-082843",
@@ -295,12 +301,6 @@
           "name": "Dusty Blue Large Insulated Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
-          "price": "8.99"
-        },
-        {
-          "name": "Laundry Detergent Sheets Free & Clear",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78145.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/laundry-detergent-sheets-free-clear-078145",
           "price": "8.99"
         }
       ]
@@ -370,22 +370,16 @@
           "price": "12.99"
         },
         {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
-        },
-        {
           "name": "Dotty Micro Poms Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
           "price": "4.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
         },
         {
           "name": "Dozen Red Roses",
@@ -394,16 +388,22 @@
           "price": "10.99"
         },
         {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
+        },
+        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "7.99"
         },
         {
-          "name": "Petite Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
-          "price": "4.99"
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
         }
       ],
       "whats_new": [
@@ -460,6 +460,24 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Raspberry Yogurt Candy Clusters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83981.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-yogurt-candy-clusters-083981",
+          "price": "3.49"
+        },
+        {
+          "name": "Honey Butter Cashews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82995.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-butter-cashews-082995",
+          "price": "4.99"
+        },
+        {
+          "name": "Detroit Style Uncured Pepperoni Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83764.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/detroit-style-uncured-pepperoni-pizza-083764",
+          "price": "7.99"
+        },
+        {
           "name": "Premium Angus Beef Tenderloin Steak Tips",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/81498.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/premium-angus-beef-tenderloin-steak-tips-081498",
@@ -484,28 +502,10 @@
           "price": "4.99"
         },
         {
-          "name": "Assorted Belgian Chocolates",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/assorted-belgian-chocolates-083568",
-          "price": "6.99"
-        },
-        {
-          "name": "Strawberry Brioche Style Liège Waffles",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83759.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-brioche-style-liege-waffles-083759",
-          "price": "4.99"
-        },
-        {
-          "name": "Cookies & Creme Cookie Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/83526.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookies-creme-cookie-mix-083526",
-          "price": "3.99"
-        },
-        {
-          "name": "Queso Fresco",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/82763.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/queso-fresco-082763",
-          "price": "3.79"
+          "name": "Crispy Rice Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/83604.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-rice-bars-083604",
+          "price": "2.99"
         }
       ],
       "popular": [
@@ -516,10 +516,28 @@
           "price": "4.99"
         },
         {
+          "name": "Detroit Style Uncured Pepperoni Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83764.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/detroit-style-uncured-pepperoni-pizza-083764",
+          "price": "7.99"
+        },
+        {
           "name": "Potato Cheese Sticks",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/81053.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/potato-cheese-sticks-081053",
           "price": "4.99"
+        },
+        {
+          "name": "Raspberry Yogurt Candy Clusters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83981.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-yogurt-candy-clusters-083981",
+          "price": "3.49"
+        },
+        {
+          "name": "Crispy Rice Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/83604.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-rice-bars-083604",
+          "price": "2.99"
         },
         {
           "name": "Parmesan Tapenade",
@@ -528,37 +546,37 @@
           "price": "4.99"
         },
         {
+          "name": "Honey Butter Cashews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82995.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-butter-cashews-082995",
+          "price": "4.99"
+        },
+        {
           "name": "Assorted Belgian Chocolates",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/assorted-belgian-chocolates-083568",
           "price": "6.99"
-        },
-        {
-          "name": "Protein Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
-          "price": "3.79"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
-          "name": "Unexpected Cheddar Cheese Snackers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20202/82380.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-snackers-082380",
-          "price": "4.99"
-        },
-        {
-          "name": "Strawberry Brioche Style Liège Waffles",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83759.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-brioche-style-liege-waffles-083759",
-          "price": "4.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Raspberry Yogurt Candy Clusters",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83981.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-yogurt-candy-clusters-083981",
+          "price": "3.49"
+        },
+        {
+          "name": "Honey Butter Cashews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82995.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-butter-cashews-082995",
+          "price": "4.99"
+        },
+        {
+          "name": "Detroit Style Uncured Pepperoni Pizza",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83764.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/detroit-style-uncured-pepperoni-pizza-083764",
+          "price": "7.99"
+        },
         {
           "name": "Premium Angus Beef Tenderloin Steak Tips",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/81498.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -584,28 +602,10 @@
           "price": "4.99"
         },
         {
-          "name": "Assorted Belgian Chocolates",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83568.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/assorted-belgian-chocolates-083568",
-          "price": "6.99"
-        },
-        {
-          "name": "Strawberry Brioche Style Liège Waffles",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/83759.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/strawberry-brioche-style-liege-waffles-083759",
-          "price": "4.99"
-        },
-        {
-          "name": "Cookies & Creme Cookie Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20905/83526.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookies-creme-cookie-mix-083526",
-          "price": "3.99"
-        },
-        {
-          "name": "Queso Fresco",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/82763.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/queso-fresco-082763",
-          "price": "3.79"
+          "name": "Crispy Rice Bars",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/83604.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/crispy-rice-bars-083604",
+          "price": "2.99"
         }
       ]
     }
