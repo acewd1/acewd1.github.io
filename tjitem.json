@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T03:27:11.070Z",
+  "last_updated": "2026-05-22T02:36:35.826Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -218,16 +218,16 @@
           "price": "8.99"
         },
         {
-          "name": "Island Oasis Scented Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84311.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/island-oasis-scented-hair-oil-084311",
-          "price": "5.99"
-        },
-        {
           "name": "Vitamin C Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
+        },
+        {
+          "name": "Island Oasis Scented Hair Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84311.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/island-oasis-scented-hair-oil-084311",
+          "price": "5.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
@@ -236,22 +236,22 @@
           "price": "8.99"
         },
         {
+          "name": "Dog Days of Summer Peanut Butter Flavored Decorated Dog Treats",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/82783.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dog-days-of-summer-peanut-butter-flavored-decorated-dog-treats-082783",
+          "price": "4.49"
+        },
+        {
           "name": "Stand-Up Collapsable Grocery Tote",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
           "price": "3.99"
         },
         {
-          "name": "Brazil Nut Body Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
-          "price": "5.99"
-        },
-        {
-          "name": "Daily Facial Mineral Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80885.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-mineral-sunscreen-spf-40-080885",
-          "price": "12.99"
+          "name": "Dewy Skin Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
+          "price": "9.99"
         }
       ],
       "whats_new": [
