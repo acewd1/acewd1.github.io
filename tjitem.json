@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T17:37:45.021Z",
+  "last_updated": "2026-06-19T19:44:22.927Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -156,6 +156,12 @@
     "Everything Else": {
       "going_fast": [
         {
+          "name": "Striped Mini Canvas Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84312.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/striped-mini-canvas-tote-bag-084312",
+          "price": "2.99"
+        },
+        {
           "name": "Nourish Antioxidant Facial Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/51150.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/nourish-antioxidant-facial-serum-051150",
@@ -196,38 +202,14 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82842.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/bonding-shampoo-082842",
           "price": "7.99"
-        },
-        {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
         }
       ],
       "popular": [
-        {
-          "name": "Stand-Up Collapsable Grocery Tote",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
-          "price": "3.99"
-        },
         {
           "name": "Striped Mini Canvas Tote Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84312.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/striped-mini-canvas-tote-bag-084312",
           "price": "2.99"
-        },
-        {
-          "name": "Dusty Blue Large Insulated Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
-          "price": "8.99"
-        },
-        {
-          "name": "Vitamin C Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
-          "price": "9.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
@@ -236,15 +218,33 @@
           "price": "8.99"
         },
         {
+          "name": "Dusty Blue Large Insulated Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
+          "price": "8.99"
+        },
+        {
+          "name": "Stand-Up Collapsable Grocery Tote",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
+          "price": "3.99"
+        },
+        {
+          "name": "Vitamin C Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
+          "price": "9.99"
+        },
+        {
+          "name": "Dewy Skin Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
+          "price": "9.99"
+        },
+        {
           "name": "Brazil Nut Body Butter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
-          "price": "5.99"
-        },
-        {
-          "name": "Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/75750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hair-oil-075750",
           "price": "5.99"
         },
         {
@@ -256,6 +256,12 @@
       ],
       "whats_new": [
         {
+          "name": "Striped Mini Canvas Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84312.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/striped-mini-canvas-tote-bag-084312",
+          "price": "2.99"
+        },
+        {
           "name": "Dog Days of Summer Peanut Butter Flavored Decorated Dog Treats",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/82783.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dog-days-of-summer-peanut-butter-flavored-decorated-dog-treats-082783",
@@ -296,12 +302,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82842.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/bonding-shampoo-082842",
           "price": "7.99"
-        },
-        {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
         }
       ]
     },
@@ -370,6 +370,12 @@
           "price": "1.49"
         },
         {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
@@ -382,22 +388,16 @@
           "price": "3.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         },
         {
           "name": "Dotty Micro Poms Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
           "price": "4.99"
-        },
-        {
-          "name": "Seasonal Bouquet",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
-          "price": "7.99"
         },
         {
           "name": "Petite Bouquet",
@@ -460,6 +460,18 @@
     "Food": {
       "going_fast": [
         {
+          "name": "50% Less Sodium Roasted & Salted Whole Cashews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/37884.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/50-less-sodium-roasted-salted-whole-cashews-037884",
+          "price": "8.99"
+        },
+        {
+          "name": "Melon Trio",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/83745.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/melon-trio-083745",
+          "price": "4.99"
+        },
+        {
           "name": "Mandu Korean Kimchi Potstickers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82762.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mandu-korean-kimchi-potstickers-082762",
@@ -494,18 +506,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/85325.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/shredded-parmesan-cheese-085325",
           "price": "5.99"
-        },
-        {
-          "name": "Organic Cavatappi Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/82007.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cavatappi-pasta-082007",
-          "price": "1.99"
-        },
-        {
-          "name": "Buffalo Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/84416.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-sauce-084416",
-          "price": "3.49"
         }
       ],
       "popular": [
@@ -522,6 +522,18 @@
           "price": "4.99"
         },
         {
+          "name": "Peanut Udon Noodle Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/67489.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peanut-udon-noodle-salad-067489",
+          "price": "4.99"
+        },
+        {
+          "name": "Brioche Style Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82738.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-style-pancakes-082738",
+          "price": "3.99"
+        },
+        {
           "name": "Verdant Veggie Variety",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/81772.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/verdant-veggie-variety-081772",
@@ -534,22 +546,10 @@
           "price": "4.29"
         },
         {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
-          "name": "Brioche Style Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82738.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-style-pancakes-082738",
-          "price": "3.99"
-        },
-        {
-          "name": "Whipped Ricotta Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/84108.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/whipped-ricotta-cheese-084108",
-          "price": "3.49"
+          "name": "Two Potato Hash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/82488.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/two-potato-hash-082488",
+          "price": "4.99"
         },
         {
           "name": "Seasoned and Shredded Rotisserie Chicken",
@@ -559,6 +559,12 @@
         }
       ],
       "whats_new": [
+        {
+          "name": "Melon Trio",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20701/83745.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/melon-trio-083745",
+          "price": "4.99"
+        },
         {
           "name": "Mandu Korean Kimchi Potstickers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82762.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -600,12 +606,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/84221.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-and-shredded-rotisserie-chicken-084221",
           "price": "8.99"
-        },
-        {
-          "name": "Triple Chip Crispy Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/82585.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/triple-chip-crispy-cookies-082585",
-          "price": "4.49"
         }
       ]
     }
