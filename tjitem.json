@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T05:06:25.641Z",
+  "last_updated": "2026-06-26T05:02:32.480Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -206,12 +206,6 @@
       ],
       "popular": [
         {
-          "name": "Striped Mini Canvas Tote Bag",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84312.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/striped-mini-canvas-tote-bag-084312",
-          "price": "2.99"
-        },
-        {
           "name": "Mini Pastel Canvas Tote Bags",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79986.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mini-pastel-canvas-tote-bags-079986",
@@ -236,10 +230,16 @@
           "price": "3.99"
         },
         {
-          "name": "Vitamin C Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
+          "name": "Retinol Night Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
           "price": "9.99"
+        },
+        {
+          "name": "Invisible Gel Body Sunscreen SPF 40",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
+          "price": "12.99"
         },
         {
           "name": "Daily Facial Mineral Sunscreen SPF 40",
@@ -248,10 +248,10 @@
           "price": "12.99"
         },
         {
-          "name": "Invisible Gel Body Sunscreen SPF 40",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/80886.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/invisible-gel-body-sunscreen-spf-40-080886",
-          "price": "12.99"
+          "name": "Brazil Nut Body Butter",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/71211.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brazil-nut-body-butter-071211",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -460,6 +460,30 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Sweet Chili Black-Eyed Pea Tempeh Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82779.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-chili-black-eyed-pea-tempeh-chips-082779",
+          "price": "3.49"
+        },
+        {
+          "name": "Organic Green Onions",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/83630.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-green-onions-083630",
+          "price": "1.49"
+        },
+        {
+          "name": "Garlic Parsley Potato Kit",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/84039.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-parsley-potato-kit-084039",
+          "price": "3.69"
+        },
+        {
+          "name": "Sour Confetti Chews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83569.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sour-confetti-chews-083569",
+          "price": "2.29"
+        },
+        {
           "name": "50% Less Sodium Roasted & Salted Whole Cashews",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/37884.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/50-less-sodium-roasted-salted-whole-cashews-037884",
@@ -482,30 +506,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83911.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-gelato-style-frozen-dessert-083911",
           "price": "3.99"
-        },
-        {
-          "name": "Dark Chocolate Mango & Passion Fruit Creme Thin Cups",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78219.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-mango-passion-fruit-creme-thin-cups-078219",
-          "price": "4.29"
-        },
-        {
-          "name": "Organic Yellow Corn Tortilla Chip Rounds",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/74044.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-yellow-corn-tortilla-chip-rounds-074044",
-          "price": "3.99"
-        },
-        {
-          "name": "Almond Windmill Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/98744.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/almond-windmill-cookies-098744",
-          "price": "5.49"
-        },
-        {
-          "name": "Shredded Parmesan Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/85325.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/shredded-parmesan-cheese-085325",
-          "price": "5.99"
         }
       ],
       "popular": [
@@ -516,10 +516,10 @@
           "price": "3.49"
         },
         {
-          "name": "Uncured Ham & Swiss Cheese Pockets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83232.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/uncured-ham-swiss-cheese-pockets-083232",
-          "price": "4.99"
+          "name": "Dark Chocolate Mango & Passion Fruit Creme Thin Cups",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78219.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-mango-passion-fruit-creme-thin-cups-078219",
+          "price": "4.29"
         },
         {
           "name": "Seasoned and Shredded Rotisserie Chicken",
@@ -528,15 +528,9 @@
           "price": "8.99"
         },
         {
-          "name": "Dark Chocolate Mango & Passion Fruit Creme Thin Cups",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78219.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-mango-passion-fruit-creme-thin-cups-078219",
-          "price": "4.29"
-        },
-        {
-          "name": "Two Potato Hash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/82488.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/two-potato-hash-082488",
+          "name": "Uncured Ham & Swiss Cheese Pockets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83232.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/uncured-ham-swiss-cheese-pockets-083232",
           "price": "4.99"
         },
         {
@@ -546,16 +540,22 @@
           "price": "2.99"
         },
         {
-          "name": "Brioche Style Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82738.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-style-pancakes-082738",
-          "price": "3.99"
+          "name": "Two Potato Hash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/82488.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/two-potato-hash-082488",
+          "price": "4.99"
         },
         {
           "name": "Gözlemes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82261.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/gozlemes-082261",
           "price": "4.99"
+        },
+        {
+          "name": "Brioche Style Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82738.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-style-pancakes-082738",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -566,46 +566,46 @@
           "price": "4.99"
         },
         {
-          "name": "Mandu Korean Kimchi Potstickers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82762.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mandu-korean-kimchi-potstickers-082762",
-          "price": "3.49"
+          "name": "Milk Chocolate Bar with Almonds and Honey Nuggets",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/81930.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/milk-chocolate-bar-with-almonds-and-honey-nuggets-081930",
+          "price": "2.99"
         },
         {
-          "name": "Italian Pistachio Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83911.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-pistachio-gelato-style-frozen-dessert-083911",
+          "name": "50% Less Sodium Roasted & Salted Whole Cashews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/37884.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/50-less-sodium-roasted-salted-whole-cashews-037884",
+          "price": "8.99"
+        },
+        {
+          "name": "Organic Yellow Corn Tortilla Chip Rounds",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/74044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-yellow-corn-tortilla-chip-rounds-074044",
           "price": "3.99"
         },
         {
-          "name": "Dark Chocolate Mango & Passion Fruit Creme Thin Cups",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/78219.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-mango-passion-fruit-creme-thin-cups-078219",
-          "price": "4.29"
+          "name": "Shredded Parmesan Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/85325.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/shredded-parmesan-cheese-085325",
+          "price": "5.99"
         },
         {
-          "name": "Organic Cavatappi Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/82007.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cavatappi-pasta-082007",
-          "price": "1.99"
+          "name": "Silver Goat® Chevre Goat Cheese Log",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/75142.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/silver-goat-chevre-goat-cheese-log-075142",
+          "price": "4.79"
         },
         {
-          "name": "Buffalo Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20405/84416.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/buffalo-sauce-084416",
-          "price": "3.49"
-        },
-        {
-          "name": "Uncured Bacon Bits",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/83191.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/uncured-bacon-bits-083191",
-          "price": "3.29"
-        },
-        {
-          "name": "Seasoned and Shredded Rotisserie Chicken",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/84221.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-and-shredded-rotisserie-chicken-084221",
+          "name": "Whole Cashews Unroasted & Unsalted",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/37886.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/whole-cashews-unroasted-unsalted-037886",
           "price": "8.99"
+        },
+        {
+          "name": "Organic Flaxseed Meal",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/56565.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-flaxseed-meal-056565",
+          "price": "3.99"
         }
       ]
     }
