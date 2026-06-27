@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T05:02:32.480Z",
+  "last_updated": "2026-06-27T02:39:43.943Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -510,10 +510,40 @@
       ],
       "popular": [
         {
+          "name": "Garlic Parsley Potato Kit",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/84039.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/garlic-parsley-potato-kit-084039",
+          "price": "3.69"
+        },
+        {
+          "name": "Sour Confetti Chews",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83569.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sour-confetti-chews-083569",
+          "price": "2.29"
+        },
+        {
+          "name": "Sweet Chili Black-Eyed Pea Tempeh Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82779.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-chili-black-eyed-pea-tempeh-chips-082779",
+          "price": "3.49"
+        },
+        {
+          "name": "French Vanilla Ice Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/78576.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/french-vanilla-ice-cream-078576",
+          "price": "4.99"
+        },
+        {
           "name": "Mandu Korean Kimchi Potstickers",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82762.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mandu-korean-kimchi-potstickers-082762",
           "price": "3.49"
+        },
+        {
+          "name": "Seafood Boil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/76187.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seafood-boil-076187",
+          "price": "9.99"
         },
         {
           "name": "Dark Chocolate Mango & Passion Fruit Creme Thin Cups",
@@ -522,40 +552,10 @@
           "price": "4.29"
         },
         {
-          "name": "Seasoned and Shredded Rotisserie Chicken",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/84221.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasoned-and-shredded-rotisserie-chicken-084221",
-          "price": "8.99"
-        },
-        {
           "name": "Uncured Ham & Swiss Cheese Pockets",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83232.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/uncured-ham-swiss-cheese-pockets-083232",
           "price": "4.99"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
-          "name": "Two Potato Hash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/82488.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/two-potato-hash-082488",
-          "price": "4.99"
-        },
-        {
-          "name": "Gözlemes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82261.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gozlemes-082261",
-          "price": "4.99"
-        },
-        {
-          "name": "Brioche Style Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/82738.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brioche-style-pancakes-082738",
-          "price": "3.99"
         }
       ],
       "whats_new": [
