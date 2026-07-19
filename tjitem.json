@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T05:27:01.446Z",
+  "last_updated": "2026-07-19T18:58:59.274Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -54,12 +54,6 @@
       ],
       "popular": [
         {
-          "name": "Peach Black Tea Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84978.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-drink-concentrate-084978",
-          "price": "2.99"
-        },
-        {
           "name": "Coconut Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85004.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-cold-brew-coffee-concentrate-085004",
@@ -72,16 +66,10 @@
           "price": "3.49"
         },
         {
-          "name": "Organic Carrot Turmeric Juice Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-carrot-turmeric-juice-blend-058823",
-          "price": "4.99"
-        },
-        {
-          "name": "To the Power of C Organic Juice Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/72790.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-c-organic-juice-blend-072790",
-          "price": "4.99"
+          "name": "Passion Fruit Orange Guava 100% Juice Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/83366.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/passion-fruit-orange-guava-100-juice-blend-183366",
+          "price": "4.49"
         },
         {
           "name": "Matcha Green Tea Powder",
@@ -96,10 +84,22 @@
           "price": "5.49"
         },
         {
-          "name": "To The Power of Seven Red Organic Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
-          "price": "5.49"
+          "name": "Organic Carrot Turmeric Juice Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-carrot-turmeric-juice-blend-058823",
+          "price": "4.99"
+        },
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
+        },
+        {
+          "name": "Peach Black Tea Drink Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84978.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-drink-concentrate-084978",
+          "price": "2.99"
         }
       ],
       "whats_new": [
@@ -180,12 +180,6 @@
           "price": "3.99"
         },
         {
-          "name": "Beach Day Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/85477.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/beach-day-scented-candle-085477",
-          "price": "3.99"
-        },
-        {
           "name": "Nourish Antioxidant Facial Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/51150.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/nourish-antioxidant-facial-serum-051150",
@@ -202,6 +196,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
+        },
+        {
+          "name": "Creatine Hydrochloride Capsules",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
+          "price": "16.49"
         }
       ],
       "popular": [
@@ -280,12 +280,6 @@
           "price": "3.99"
         },
         {
-          "name": "Beach Day Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/85477.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/beach-day-scented-candle-085477",
-          "price": "3.99"
-        },
-        {
           "name": "Nourish Antioxidant Facial Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/51150.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/nourish-antioxidant-facial-serum-051150",
@@ -302,6 +296,12 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
+        },
+        {
+          "name": "Creatine Hydrochloride Capsules",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
+          "price": "16.49"
         }
       ]
     },
@@ -364,30 +364,6 @@
           "price": "5.99"
         },
         {
-          "name": "Dotty Micro Poms Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
-          "price": "4.99"
-        },
-        {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
-        },
-        {
-          "name": "Peonies - 5 Stems",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
-          "price": "9.99"
-        },
-        {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
-        },
-        {
           "name": "Eucalyptus",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
@@ -398,6 +374,30 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
           "price": "1.49"
+        },
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
+        },
+        {
+          "name": "Peonies - 5 Stems",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/41580.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peonies-5-stems-041580",
+          "price": "9.99"
+        },
+        {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
         },
         {
           "name": "Petite Bouquet",
@@ -460,10 +460,22 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Wild Caught Cod Fillets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/74137.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-caught-cod-fillets-074137",
-          "price": "10.99"
+          "name": "Raspberry Filled Donuts",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84540.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-filled-donuts-084540",
+          "price": "3.99"
+        },
+        {
+          "name": "Tuna Salad Croissant Sandwich",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84826.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tuna-salad-croissant-sandwich-084826",
+          "price": "3.99"
+        },
+        {
+          "name": "Chicken Salad Croissant Sandwich",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84825.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-salad-croissant-sandwich-084825",
+          "price": "4.49"
         },
         {
           "name": "Brown Rice",
@@ -494,18 +506,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84921.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-coconut-bars-084921",
           "price": "3.79"
-        },
-        {
-          "name": "Mango & Passion Fruit Squares",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82471.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-passion-fruit-squares-082471",
-          "price": "2.29"
-        },
-        {
-          "name": "Hot Fudge Sundae in a Handful!",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/84678.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-fudge-sundae-in-a-handful-084678",
-          "price": "4.29"
         }
       ],
       "popular": [
@@ -516,28 +516,28 @@
           "price": "4.29"
         },
         {
+          "name": "Lemon Pesto Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/75930.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-pesto-sauce-075930",
+          "price": "3.49"
+        },
+        {
           "name": "Mango & Passion Fruit Squares",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82471.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mango-passion-fruit-squares-082471",
           "price": "2.29"
         },
         {
+          "name": "Protein Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
+          "price": "3.79"
+        },
+        {
           "name": "Pineapple Coconut Bars",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84921.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-coconut-bars-084921",
           "price": "3.79"
-        },
-        {
-          "name": "Cookie Dough Ice Cream Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82874.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookie-dough-ice-cream-bites-082874",
-          "price": "4.79"
-        },
-        {
-          "name": "Sour Confetti Chews",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83569.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sour-confetti-chews-083569",
-          "price": "2.29"
         },
         {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
