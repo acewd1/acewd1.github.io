@@ -1,8 +1,20 @@
 {
-  "last_updated": "2026-07-24T06:13:19.603Z",
+  "last_updated": "2026-07-28T05:06:09.280Z",
   "categories": {
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Hardywood Tangerine Cream Ale",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/85462.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-tangerine-cream-ale-185462",
+          "price": "14.99"
+        },
+        {
+          "name": "Everything But The Bartender Paloma",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85062.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-paloma-185062",
+          "price": "9.99"
+        },
         {
           "name": "Papua New Guinea Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/66743.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -38,21 +50,15 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84859.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/tazmin-breeze-new-zealand-sauvignon-blanc-084859",
           "price": "4.99"
-        },
-        {
-          "name": "TABLE California Red Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84977.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/table-california-red-wine-084977",
-          "price": "9.99"
-        },
-        {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
         }
       ],
       "popular": [
+        {
+          "name": "Everything But The Bartender Paloma",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85062.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-paloma-185062",
+          "price": "9.99"
+        },
         {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -66,16 +72,16 @@
           "price": "3.49"
         },
         {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
-        },
-        {
           "name": "Instant Jeju Matcha Latte Packets",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
           "price": "4.99"
+        },
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
         },
         {
           "name": "Ready To Drink Cold Brew Coffee",
@@ -90,24 +96,30 @@
           "price": "5.49"
         },
         {
-          "name": "Espiral Vinho Verde",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/47536.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/espiral-vinho-verde-047536",
-          "price": "5.49"
-        },
-        {
-          "name": "Organic Non-Dairy Soy Beverage Unsweetened",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/67010.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-non-dairy-soy-beverage-unsweetened-067010",
-          "price": "2.49"
+          "name": "Papua New Guinea Small Lot Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/66743.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/papua-new-guinea-small-lot-coffee-066743",
+          "price": "10.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Everything But The Bartender Paloma",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85062.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-paloma-185062",
+          "price": "9.99"
+        },
         {
           "name": "Papua New Guinea Small Lot Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/66743.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/papua-new-guinea-small-lot-coffee-066743",
           "price": "10.99"
+        },
+        {
+          "name": "Hardywood Tangerine Cream Ale",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/beer/85462.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hardywood-tangerine-cream-ale-185462",
+          "price": "14.99"
         },
         {
           "name": "Vanilla Cold Brew Coffee Concentrate",
@@ -138,23 +150,23 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84859.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/tazmin-breeze-new-zealand-sauvignon-blanc-084859",
           "price": "4.99"
-        },
-        {
-          "name": "TABLE California Red Wine",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/84977.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/table-california-red-wine-084977",
-          "price": "9.99"
-        },
-        {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
         }
       ]
     },
     "Everything Else": {
       "going_fast": [
+        {
+          "name": "Refreshing Citrus Body Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/refreshing-citrus-body-wash-084007",
+          "price": "3.99"
+        },
+        {
+          "name": "Cypress and Bergamot Scented Whole Body Deodorant Spray",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84293.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cypress-and-bergamot-scented-whole-body-deodorant-spray-084293",
+          "price": "5.99"
+        },
         {
           "name": "Red & black Reusable Insulated Tote Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -162,10 +174,16 @@
           "price": "6.99"
         },
         {
-          "name": "Tropical Flavored Lip Butter Balm Duo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-flavored-lip-butter-balm-duo-083521",
-          "price": "6.99"
+          "name": "Neroli Blossom Scented Room Spritz",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84651.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-room-spritz-084651",
+          "price": "3.99"
+        },
+        {
+          "name": "Neroli Blossom Scented Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84646.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-hand-soap-084646",
+          "price": "3.99"
         },
         {
           "name": "Nourish Antioxidant Facial Serum",
@@ -180,36 +198,30 @@
           "price": "4.49"
         },
         {
-          "name": "Island Oasis Scented Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84311.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/island-oasis-scented-hair-oil-084311",
-          "price": "5.99"
-        },
-        {
           "name": "Vitamin C Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
-        },
-        {
-          "name": "Creatine Hydrochloride Capsules",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
-          "price": "16.49"
-        },
-        {
-          "name": "Tea Tree Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/29649.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tea-tree-oil-029649",
-          "price": "6.99"
         }
       ],
       "popular": [
+        {
+          "name": "Cypress and Bergamot Scented Whole Body Deodorant Spray",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84293.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cypress-and-bergamot-scented-whole-body-deodorant-spray-084293",
+          "price": "5.99"
+        },
         {
           "name": "Red & black Reusable Insulated Tote Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/red-black-reusable-insulated-tote-bag-083610",
           "price": "6.99"
+        },
+        {
+          "name": "Refreshing Citrus Body Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/refreshing-citrus-body-wash-084007",
+          "price": "3.99"
         },
         {
           "name": "Daily Facial Sunscreen SPF 40",
@@ -236,25 +248,25 @@
           "price": "3.99"
         },
         {
-          "name": "Tropical Flavored Lip Butter Balm Duo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-flavored-lip-butter-balm-duo-083521",
-          "price": "6.99"
-        },
-        {
           "name": "Retinol Night Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
           "price": "9.99"
-        },
-        {
-          "name": "Ultra Hydrating Gel Moisturizer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
-          "price": "8.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Refreshing Citrus Body Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/refreshing-citrus-body-wash-084007",
+          "price": "3.99"
+        },
+        {
+          "name": "Cypress and Bergamot Scented Whole Body Deodorant Spray",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84293.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cypress-and-bergamot-scented-whole-body-deodorant-spray-084293",
+          "price": "5.99"
+        },
         {
           "name": "Red & black Reusable Insulated Tote Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -262,15 +274,15 @@
           "price": "6.99"
         },
         {
-          "name": "Tropical Flavored Lip Butter Balm Duo",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83521.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-flavored-lip-butter-balm-duo-083521",
-          "price": "6.99"
+          "name": "Neroli Blossom Scented Room Spritz",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84651.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-room-spritz-084651",
+          "price": "3.99"
         },
         {
-          "name": "Neroli Blossom Scented Multi-Purpose Cleaner",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84647.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-multi-purpose-cleaner-084647",
+          "name": "Neroli Blossom Scented Hand Soap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84646.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-hand-soap-084646",
           "price": "3.99"
         },
         {
@@ -286,22 +298,10 @@
           "price": "4.49"
         },
         {
-          "name": "Island Oasis Scented Hair Oil",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84311.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/island-oasis-scented-hair-oil-084311",
-          "price": "5.99"
-        },
-        {
           "name": "Vitamin C Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
-        },
-        {
-          "name": "Creatine Hydrochloride Capsules",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/M504/83970.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/creatine-hydrochloride-capsules-083970",
-          "price": "16.49"
         }
       ]
     },
@@ -460,152 +460,152 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Zucchini Squash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20702/20491.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/zucchini-squash-020491",
-          "price": "2.49"
+          "name": "Middle Eastern Style Kebabs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/72779.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/middle-eastern-style-kebabs-072779",
+          "price": "6.99"
         },
         {
-          "name": "Organic Apple Mango Fruit Sauce Crushers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/56940.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-apple-mango-fruit-sauce-crushers-056940",
+          "name": "Caro Sugo Datterino Cherry Tomatoes & Roasted Garlic Pasta Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/83236.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/caro-sugo-datterino-cherry-tomatoes-roasted-garlic-pasta-sauce-083236",
+          "price": "5.49"
+        },
+        {
+          "name": "Cubes of Seedless Passion Fruit Puree",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/80325.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cubes-of-seedless-passion-fruit-puree-080325",
           "price": "2.99"
         },
         {
-          "name": "Raspberry Filled Donuts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84540.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-filled-donuts-084540",
-          "price": "3.99"
+          "name": "Tater Bites with Cheese and Chives",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/84621.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tater-bites-with-cheese-and-chives-084621",
+          "price": "3.49"
         },
         {
-          "name": "Tuna Salad Croissant Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84826.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tuna-salad-croissant-sandwich-084826",
-          "price": "4.49"
+          "name": "Chicken Burgers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84853.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-burgers-084853",
+          "price": "3.79"
         },
         {
-          "name": "Chicken Salad Croissant Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84825.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-salad-croissant-sandwich-084825",
-          "price": "4.49"
+          "name": "Meringue Dessert Shells",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83967.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/meringue-dessert-shells-083967",
+          "price": "2.99"
         },
         {
-          "name": "Milk Chocolate Sardines with Sea Salt",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80507.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/milk-chocolate-sardines-with-sea-salt-080507",
-          "price": "3.29"
+          "name": "Paneer Indian Style Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/83749.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/paneer-indian-style-cheese-083749",
+          "price": "4.99"
         },
         {
-          "name": "\"PB & J\" Filled Crepes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84160.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pb-j-filled-crepes-084160",
-          "price": "3.99"
-        },
-        {
-          "name": "Brown Rice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/93756.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brown-rice-093756",
-          "price": "3.99"
+          "name": "Dark Chocolate Bark with Pistachios, Dried Jalapeños & Sea Salt",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83323.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-bark-with-pistachios-dried-jalapenos-sea-salt-083323",
+          "price": "5.99"
         }
       ],
       "popular": [
         {
+          "name": "All Mixed Up Ice Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83160.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/all-mixed-up-ice-cream-083160",
+          "price": "3.99"
+        },
+        {
+          "name": "Middle Eastern Style Kebabs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/72779.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/middle-eastern-style-kebabs-072779",
+          "price": "6.99"
+        },
+        {
+          "name": "Tater Bites with Cheese and Chives",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/84621.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tater-bites-with-cheese-and-chives-084621",
+          "price": "3.49"
+        },
+        {
+          "name": "Caro Sugo Datterino Cherry Tomatoes & Roasted Garlic Pasta Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/83236.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/caro-sugo-datterino-cherry-tomatoes-roasted-garlic-pasta-sauce-083236",
+          "price": "5.49"
+        },
+        {
+          "name": "Paneer Indian Style Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/83749.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/paneer-indian-style-cheese-083749",
+          "price": "4.99"
+        },
+        {
+          "name": "Cubes of Seedless Passion Fruit Puree",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/80325.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cubes-of-seedless-passion-fruit-puree-080325",
+          "price": "2.99"
+        },
+        {
+          "name": "Chicken Burgers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84853.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-burgers-084853",
+          "price": "3.79"
+        },
+        {
           "name": "Milk Chocolate Sardines with Sea Salt",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80507.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/milk-chocolate-sardines-with-sea-salt-080507",
           "price": "3.29"
-        },
-        {
-          "name": "Raspberry Filled Donuts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84540.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-filled-donuts-084540",
-          "price": "3.99"
-        },
-        {
-          "name": "\"PB & J\" Filled Crepes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84160.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pb-j-filled-crepes-084160",
-          "price": "3.99"
-        },
-        {
-          "name": "Hot Fudge Sundae in a Handful!",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/84678.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-fudge-sundae-in-a-handful-084678",
-          "price": "4.29"
-        },
-        {
-          "name": "Mango & Passion Fruit Squares",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82471.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-passion-fruit-squares-082471",
-          "price": "2.29"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
-        },
-        {
-          "name": "Cookie Dough Ice Cream Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/82874.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cookie-dough-ice-cream-bites-082874",
-          "price": "4.79"
-        },
-        {
-          "name": "Protein Pancakes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
-          "price": "3.79"
         }
       ],
       "whats_new": [
         {
-          "name": "Raspberry Filled Donuts",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84540.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/raspberry-filled-donuts-084540",
-          "price": "3.99"
+          "name": "Middle Eastern Style Kebabs",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/72779.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/middle-eastern-style-kebabs-072779",
+          "price": "6.99"
         },
         {
-          "name": "Tuna Salad Croissant Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84826.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tuna-salad-croissant-sandwich-084826",
-          "price": "4.49"
+          "name": "Caro Sugo Datterino Cherry Tomatoes & Roasted Garlic Pasta Sauce",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/83236.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/caro-sugo-datterino-cherry-tomatoes-roasted-garlic-pasta-sauce-083236",
+          "price": "5.49"
         },
         {
-          "name": "Chicken Salad Croissant Sandwich",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/84825.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-salad-croissant-sandwich-084825",
-          "price": "4.49"
+          "name": "Cubes of Seedless Passion Fruit Puree",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20603/80325.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cubes-of-seedless-passion-fruit-puree-080325",
+          "price": "2.99"
         },
         {
-          "name": "Milk Chocolate Sardines with Sea Salt",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/80507.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/milk-chocolate-sardines-with-sea-salt-080507",
-          "price": "3.29"
+          "name": "Tater Bites with Cheese and Chives",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/84621.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tater-bites-with-cheese-and-chives-084621",
+          "price": "3.49"
         },
         {
-          "name": "\"PB & J\" Filled Crepes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84160.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pb-j-filled-crepes-084160",
-          "price": "3.99"
-        },
-        {
-          "name": "Pineapple Coconut Bars",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84921.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pineapple-coconut-bars-084921",
+          "name": "Chicken Burgers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84853.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-burgers-084853",
           "price": "3.79"
         },
         {
-          "name": "Mango & Passion Fruit Squares",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82471.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mango-passion-fruit-squares-082471",
-          "price": "2.29"
+          "name": "Meringue Dessert Shells",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83967.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/meringue-dessert-shells-083967",
+          "price": "2.99"
         },
         {
-          "name": "Hot Fudge Sundae in a Handful!",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/84678.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hot-fudge-sundae-in-a-handful-084678",
-          "price": "4.29"
+          "name": "Paneer Indian Style Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/83749.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/paneer-indian-style-cheese-083749",
+          "price": "4.99"
+        },
+        {
+          "name": "Dark Chocolate Bark with Pistachios, Dried Jalapeños & Sea Salt",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/83323.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-bark-with-pistachios-dried-jalapenos-sea-salt-083323",
+          "price": "5.99"
         }
       ]
     }
