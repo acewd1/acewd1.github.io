@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T05:06:45.331Z",
+  "last_updated": "2026-08-02T05:09:12.146Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -28,6 +28,12 @@
           "price": "10.99"
         },
         {
+          "name": "Peach Black Tea Drink Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84978.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-drink-concentrate-084978",
+          "price": "2.99"
+        },
+        {
           "name": "Vanilla Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
@@ -44,12 +50,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81539.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/orange-mimosa-wine-cocktail-081539",
           "price": "6.99"
-        },
-        {
-          "name": "Panama Rum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/83850.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/panama-rum-083850",
-          "price": "14.99"
         }
       ],
       "popular": [
@@ -66,6 +66,12 @@
           "price": "3.49"
         },
         {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
+        },
+        {
           "name": "Matcha Green Tea Powder",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
@@ -78,27 +84,21 @@
           "price": "4.99"
         },
         {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
+          "name": "100% Red Tart Cherry Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
+          "price": "4.99"
+        },
+        {
+          "name": "Coconut Water, 1L",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m302/97911.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/coconut-water-1l-097911",
+          "price": "3.49"
         },
         {
           "name": "Espiral Vinho Verde",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/47536.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/espiral-vinho-verde-047536",
-          "price": "5.49"
-        },
-        {
-          "name": "Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50759.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-concentrate-050759",
-          "price": "8.99"
-        },
-        {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
           "price": "5.49"
         }
       ],
@@ -128,6 +128,12 @@
           "price": "14.99"
         },
         {
+          "name": "Peach Black Tea Drink Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84978.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/peach-black-tea-drink-concentrate-084978",
+          "price": "2.99"
+        },
+        {
           "name": "Vanilla Cold Brew Coffee Concentrate",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/82549.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-cold-brew-coffee-concentrate-082549",
@@ -144,12 +150,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/81539.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/orange-mimosa-wine-cocktail-081539",
           "price": "6.99"
-        },
-        {
-          "name": "Panama Rum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/83850.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/panama-rum-083850",
-          "price": "14.99"
         }
       ]
     },
@@ -168,6 +168,18 @@
           "price": "5.99"
         },
         {
+          "name": "Red & black Reusable Insulated Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/red-black-reusable-insulated-tote-bag-083610",
+          "price": "6.99"
+        },
+        {
+          "name": "Tropical Flavored Lip Butter Balm Duo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83521.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-flavored-lip-butter-balm-duo-083521",
+          "price": "6.99"
+        },
+        {
           "name": "Neroli Blossom Scented Room Spritz",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84651.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-room-spritz-084651",
@@ -189,18 +201,6 @@
           "name": "Nourish Antioxidant Facial Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/51150.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/nourish-antioxidant-facial-serum-051150",
-          "price": "9.99"
-        },
-        {
-          "name": "Dog Days of Summer Peanut Butter Flavored Decorated Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/82783.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dog-days-of-summer-peanut-butter-flavored-decorated-dog-treats-082783",
-          "price": "4.49"
-        },
-        {
-          "name": "Vitamin C Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
         }
       ],
@@ -218,10 +218,10 @@
           "price": "8.99"
         },
         {
-          "name": "Refreshing Citrus Body Wash",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84007.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/refreshing-citrus-body-wash-084007",
-          "price": "3.99"
+          "name": "Red & black Reusable Insulated Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/red-black-reusable-insulated-tote-bag-083610",
+          "price": "6.99"
         },
         {
           "name": "Vitamin C Serum",
@@ -230,16 +230,16 @@
           "price": "9.99"
         },
         {
+          "name": "Refreshing Citrus Body Wash",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/84007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/refreshing-citrus-body-wash-084007",
+          "price": "3.99"
+        },
+        {
           "name": "Dusty Blue Large Insulated Bag",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/79538.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dusty-blue-large-insulated-bag-079538",
           "price": "8.99"
-        },
-        {
-          "name": "Stand-Up Collapsable Grocery Tote",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/78276.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/stand-up-collapsable-grocery-tote-078276",
-          "price": "3.99"
         },
         {
           "name": "Retinol Night Serum",
@@ -248,10 +248,10 @@
           "price": "9.99"
         },
         {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
+          "name": "Marula Facial Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/68654.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/marula-facial-oil-068654",
+          "price": "6.99"
         }
       ],
       "whats_new": [
@@ -268,6 +268,24 @@
           "price": "5.99"
         },
         {
+          "name": "Red & black Reusable Insulated Tote Bag",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/83610.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/red-black-reusable-insulated-tote-bag-083610",
+          "price": "6.99"
+        },
+        {
+          "name": "Tropical Flavored Lip Butter Balm Duo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83521.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tropical-flavored-lip-butter-balm-duo-083521",
+          "price": "6.99"
+        },
+        {
+          "name": "Beach Day Scented Candle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/85477.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/beach-day-scented-candle-085477",
+          "price": "3.99"
+        },
+        {
           "name": "Neroli Blossom Scented Room Spritz",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/84651.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/neroli-blossom-scented-room-spritz-084651",
@@ -280,27 +298,9 @@
           "price": "3.99"
         },
         {
-          "name": "Beach Day Scented Candle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/85477.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/beach-day-scented-candle-085477",
-          "price": "3.99"
-        },
-        {
           "name": "Nourish Antioxidant Facial Serum",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/51150.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/nourish-antioxidant-facial-serum-051150",
-          "price": "9.99"
-        },
-        {
-          "name": "Dog Days of Summer Peanut Butter Flavored Decorated Dog Treats",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m503/82783.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dog-days-of-summer-peanut-butter-flavored-decorated-dog-treats-082783",
-          "price": "4.49"
-        },
-        {
-          "name": "Vitamin C Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/83750.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vitamin-c-serum-083750",
           "price": "9.99"
         }
       ]
@@ -358,34 +358,16 @@
       ],
       "popular": [
         {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
-        },
-        {
           "name": "Seasonal Bouquet, Large",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
           "price": "14.99"
         },
         {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
-          "name": "Dotty Micro Poms Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
-          "price": "4.99"
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "5.99"
         },
         {
           "name": "Easy Bouquet Wrap",
@@ -394,16 +376,34 @@
           "price": "1.49"
         },
         {
+          "name": "Dozen Red Roses",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
+          "price": "10.99"
+        },
+        {
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "7.99"
+        },
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
+        },
+        {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
+        },
+        {
           "name": "Petite Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
           "price": "4.99"
-        },
-        {
-          "name": "Tulips 20 Stem Bunch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/56705.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tulips-20-stem-bunch-056705",
-          "price": "12.99"
         }
       ],
       "whats_new": [
@@ -522,16 +522,16 @@
           "price": "3.49"
         },
         {
-          "name": "Chicken Burgers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84853.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-burgers-084853",
-          "price": "3.79"
-        },
-        {
           "name": "Middle Eastern Style Kebabs",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/72779.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/middle-eastern-style-kebabs-072779",
           "price": "6.99"
+        },
+        {
+          "name": "Chicken Burgers",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84853.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-burgers-084853",
+          "price": "3.79"
         },
         {
           "name": "Cubes of Seedless Passion Fruit Puree",
@@ -546,16 +546,16 @@
           "price": "3.29"
         },
         {
-          "name": "Paneer Indian Style Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/83749.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/paneer-indian-style-cheese-083749",
-          "price": "4.99"
-        },
-        {
           "name": "Caro Sugo Datterino Cherry Tomatoes & Roasted Garlic Pasta Sauce",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20402/83236.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/caro-sugo-datterino-cherry-tomatoes-roasted-garlic-pasta-sauce-083236",
           "price": "5.49"
+        },
+        {
+          "name": "Paneer Indian Style Cheese",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/83749.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/paneer-indian-style-cheese-083749",
+          "price": "4.99"
         }
       ],
       "whats_new": [
