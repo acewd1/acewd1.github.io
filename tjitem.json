@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T05:12:16.134Z",
+  "last_updated": "2026-08-24T17:30:25.517Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -60,34 +60,16 @@
           "price": "3.49"
         },
         {
-          "name": "Everything But The Bartender Paloma",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85062.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-paloma-185062",
-          "price": "9.99"
-        },
-        {
           "name": "To The Power of Seven Red Organic Juice Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
           "price": "5.49"
         },
         {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
-        },
-        {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
-        },
-        {
-          "name": "100% Red Tart Cherry Juice",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
-          "price": "4.99"
+          "name": "To The Power of 7 Purple Organic Juice Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/53187.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-7-purple-organic-juice-blend-053187",
+          "price": "5.49"
         },
         {
           "name": "Organic Carrot Turmeric Juice Blend",
@@ -96,10 +78,28 @@
           "price": "4.99"
         },
         {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
+          "name": "Ready To Drink Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
+          "price": "5.49"
+        },
+        {
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
+        },
+        {
+          "name": "Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50759.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-concentrate-050759",
+          "price": "8.99"
+        },
+        {
+          "name": "Sparkling Lychee Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
+          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -358,12 +358,6 @@
       ],
       "popular": [
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
-        },
-        {
           "name": "Hydrangea 3-stem",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
@@ -382,12 +376,6 @@
           "price": "10.99"
         },
         {
-          "name": "Easy Bouquet Wrap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
-          "price": "1.49"
-        },
-        {
           "name": "Dotty Micro Poms Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
@@ -404,6 +392,18 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
           "price": "4.99"
+        },
+        {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
+          "name": "Easy Bouquet Wrap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
+          "price": "1.49"
         }
       ],
       "whats_new": [
@@ -460,6 +460,18 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Mandarin Crunch Pasta Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
+          "price": "4.99"
+        },
+        {
+          "name": "Avocado's Number Guacamole",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/65355.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/avocados-number-guacamole-065355",
+          "price": "4.99"
+        },
+        {
           "name": "Lemon Pepper Seasoning Blend",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/84582.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-pepper-seasoning-blend-084582",
@@ -493,18 +505,6 @@
           "name": "Organic 21 Grains & Seeds Bread Thin Sliced",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/84820.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/organic-21-grains-seeds-bread-thin-sliced-084820",
-          "price": "4.49"
-        },
-        {
-          "name": "Sliced Seedy Multigrain Bread",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/83462.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sliced-seedy-multigrain-bread-083462",
-          "price": "3.99"
-        },
-        {
-          "name": "Pasta Primavera",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
           "price": "4.49"
         }
       ],
@@ -516,22 +516,16 @@
           "price": "5.49"
         },
         {
+          "name": "Mandarin Crunch Pasta Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
+          "price": "4.99"
+        },
+        {
           "name": "All Mixed Up Ice Cream",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/83160.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/all-mixed-up-ice-cream-083160",
           "price": "3.99"
-        },
-        {
-          "name": "Cherry Pie Flavored Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85089.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cherry-pie-flavored-cookies-085089",
-          "price": "4.49"
-        },
-        {
-          "name": "Lemon Pepper Seasoning Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/84582.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-pepper-seasoning-blend-084582",
-          "price": "2.49"
         },
         {
           "name": "Middle Eastern Style Kebabs",
@@ -540,9 +534,9 @@
           "price": "6.99"
         },
         {
-          "name": "Pasta Primavera",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
+          "name": "Cherry Pie Flavored Cookies",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85089.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cherry-pie-flavored-cookies-085089",
           "price": "4.49"
         },
         {
@@ -552,6 +546,12 @@
           "price": "3.49"
         },
         {
+          "name": "Pasta Primavera",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
+          "price": "4.49"
+        },
+        {
           "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
@@ -559,6 +559,12 @@
         }
       ],
       "whats_new": [
+        {
+          "name": "Mandarin Crunch Pasta Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
+          "price": "4.99"
+        },
         {
           "name": "Lemon Pepper Seasoning Blend",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/84582.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -600,12 +606,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
           "price": "4.49"
-        },
-        {
-          "name": "Italian Mascarpone & Mixed Berries Gelato Style Frozen Dessert",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84336.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/italian-mascarpone-mixed-berries-gelato-style-frozen-dessert-084336",
-          "price": "4.99"
         }
       ]
     }
