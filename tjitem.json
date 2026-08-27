@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T17:30:25.517Z",
+  "last_updated": "2026-08-27T07:06:14.446Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -60,28 +60,16 @@
           "price": "3.49"
         },
         {
-          "name": "To The Power of Seven Red Organic Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
-          "price": "5.49"
-        },
-        {
-          "name": "To The Power of 7 Purple Organic Juice Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/53187.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-7-purple-organic-juice-blend-053187",
-          "price": "5.49"
-        },
-        {
-          "name": "Organic Carrot Turmeric Juice Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-carrot-turmeric-juice-blend-058823",
-          "price": "4.99"
-        },
-        {
           "name": "Ready To Drink Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
           "price": "5.49"
+        },
+        {
+          "name": "100% Red Tart Cherry Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
+          "price": "4.99"
         },
         {
           "name": "Spiced Chai Black Tea Concentrate",
@@ -90,16 +78,28 @@
           "price": "2.99"
         },
         {
-          "name": "Cold Brew Coffee Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50759.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-concentrate-050759",
-          "price": "8.99"
+          "name": "Everything But The Bartender Paloma",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85062.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-paloma-185062",
+          "price": "9.99"
         },
         {
-          "name": "Sparkling Lychee Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/82994.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-lychee-juice-beverage-182994",
-          "price": "3.99"
+          "name": "To The Power of Seven Red Organic Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/75108.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/to-the-power-of-seven-red-organic-juice-beverage-075108",
+          "price": "5.49"
+        },
+        {
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
+        },
+        {
+          "name": "Organic Carrot Turmeric Juice Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/58823.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-carrot-turmeric-juice-blend-058823",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -460,6 +460,36 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Nacho Cheese Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82606.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/nacho-cheese-flavored-rolled-corn-tortilla-chips-082606",
+          "price": "2.99"
+        },
+        {
+          "name": "Honey Mustard Popcorn",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-mustard-popcorn-085007",
+          "price": "2.99"
+        },
+        {
+          "name": "Organic Under the Sea Shaped Italian Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/84244.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-under-the-sea-shaped-italian-pasta-084244",
+          "price": "2.49"
+        },
+        {
+          "name": "Chicken Florentine Lasagna",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84427.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-florentine-lasagna-084427",
+          "price": "7.49"
+        },
+        {
+          "name": "Chewy Thai Coconut Cakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84084.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chewy-thai-coconut-cakes-084084",
+          "price": "3.79"
+        },
+        {
           "name": "Mandarin Crunch Pasta Salad",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
@@ -476,50 +506,38 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/84582.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/lemon-pepper-seasoning-blend-084582",
           "price": "2.49"
-        },
-        {
-          "name": "Granola Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/84349.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/granola-butter-084349",
-          "price": "5.49"
-        },
-        {
-          "name": "Cherry Pie Flavored Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85089.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cherry-pie-flavored-cookies-085089",
-          "price": "4.49"
-        },
-        {
-          "name": "Vanilla O's",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/83239.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-os-083239",
-          "price": "3.49"
-        },
-        {
-          "name": "Barebells Protein Bar Brownie Batter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/85539.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/barebells-protein-bar-brownie-batter-085539",
-          "price": "2.49"
-        },
-        {
-          "name": "Organic 21 Grains & Seeds Bread Thin Sliced",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/84820.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-21-grains-seeds-bread-thin-sliced-084820",
-          "price": "4.49"
         }
       ],
       "popular": [
         {
+          "name": "Chewy Thai Coconut Cakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84084.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chewy-thai-coconut-cakes-084084",
+          "price": "3.79"
+        },
+        {
+          "name": "Nacho Cheese Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82606.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/nacho-cheese-flavored-rolled-corn-tortilla-chips-082606",
+          "price": "2.99"
+        },
+        {
+          "name": "Chicken Florentine Lasagna",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84427.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-florentine-lasagna-084427",
+          "price": "7.49"
+        },
+        {
           "name": "Granola Butter",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/84349.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/granola-butter-084349",
           "price": "5.49"
         },
         {
-          "name": "Mandarin Crunch Pasta Salad",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
-          "price": "4.99"
+          "name": "Honey Mustard Popcorn",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-mustard-popcorn-085007",
+          "price": "2.99"
         },
         {
           "name": "All Mixed Up Ice Cream",
@@ -528,37 +546,49 @@
           "price": "3.99"
         },
         {
-          "name": "Middle Eastern Style Kebabs",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/72779.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/middle-eastern-style-kebabs-072779",
-          "price": "6.99"
+          "name": "Mandarin Crunch Pasta Salad",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mandarin-crunch-pasta-salad-085000",
+          "price": "4.99"
         },
         {
-          "name": "Cherry Pie Flavored Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85089.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cherry-pie-flavored-cookies-085089",
-          "price": "4.49"
-        },
-        {
-          "name": "Tater Bites with Cheese and Chives",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/84621.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tater-bites-with-cheese-and-chives-084621",
-          "price": "3.49"
-        },
-        {
-          "name": "Pasta Primavera",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
-          "price": "4.49"
-        },
-        {
-          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
-          "price": "2.99"
+          "name": "Organic Under the Sea Shaped Italian Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/84244.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-under-the-sea-shaped-italian-pasta-084244",
+          "price": "2.49"
         }
       ],
       "whats_new": [
+        {
+          "name": "Nacho Cheese Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/82606.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/nacho-cheese-flavored-rolled-corn-tortilla-chips-082606",
+          "price": "2.99"
+        },
+        {
+          "name": "Honey Mustard Popcorn",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85007.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/honey-mustard-popcorn-085007",
+          "price": "2.99"
+        },
+        {
+          "name": "Organic Under the Sea Shaped Italian Pasta",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/84244.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-under-the-sea-shaped-italian-pasta-084244",
+          "price": "2.49"
+        },
+        {
+          "name": "Chicken Florentine Lasagna",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84427.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-florentine-lasagna-084427",
+          "price": "7.49"
+        },
+        {
+          "name": "Chewy Thai Coconut Cakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84084.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chewy-thai-coconut-cakes-084084",
+          "price": "3.79"
+        },
         {
           "name": "Mandarin Crunch Pasta Salad",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20501/85000.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -572,40 +602,10 @@
           "price": "2.49"
         },
         {
-          "name": "Granola Butter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/84349.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/granola-butter-084349",
-          "price": "5.49"
-        },
-        {
-          "name": "Cherry Pie Flavored Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85089.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cherry-pie-flavored-cookies-085089",
-          "price": "4.49"
-        },
-        {
-          "name": "Vanilla O's",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20907/83239.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vanilla-os-083239",
-          "price": "3.49"
-        },
-        {
-          "name": "Barebells Protein Bar Brownie Batter",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/85539.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/barebells-protein-bar-brownie-batter-085539",
-          "price": "2.49"
-        },
-        {
-          "name": "Organic 21 Grains & Seeds Bread Thin Sliced",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20101/84820.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-21-grains-seeds-bread-thin-sliced-084820",
-          "price": "4.49"
-        },
-        {
-          "name": "Pasta Primavera",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84327.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pasta-primavera-084327",
-          "price": "4.49"
+          "name": "Taco Seasoned Beef Stick",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/84285.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/taco-seasoned-beef-stick-084285",
+          "price": "1.99"
         }
       ]
     }
