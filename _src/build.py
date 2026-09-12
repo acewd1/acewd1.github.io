@@ -42,6 +42,7 @@ def asset_version(rel):
 
 CSS_V = asset_version("static/site.css")
 JS_V = asset_version("static/site.js")
+HERO_V = asset_version("static/hero.js")
 
 # ---------------------------------------------------------------- icons
 
@@ -242,53 +243,17 @@ def doc_page(*, path, title, description, eyebrow, heading, meta="", body_html, 
 
 # ---------------------------------------------------------------- art
 
-RING_TEXT = "LARGE LANGUAGE MODELS · COMPUTER VISION · AI AGENTS · RAG · SPEECH · MULTIMODAL · EMBEDDINGS · ON-DEVICE ML · GENERATIVE AI · "
+AI_TICKER = ["Large language models", "Computer vision", "AI agents", "RAG", "Speech", "Multimodal", "Embeddings",
+             "On-device ML", "Generative AI", "Translation", "AI search", "Moderation"]
 
-
-def rf_card(kind, cls, title, sub, icon_name):
-    mark = icon("check") if kind == "done" else icon(icon_name)
-    return f'<div class="rf-card {kind} {cls}"><i>{mark}</i><div><b>{title}</b><span>{sub}</span></div></div>'
-
-
-# "Daily needs → naturally refined": everyday inputs flow into the DNNR core and come out refined.
-# Pairs (raw → done) mirror real products: menu → explained, grocery note → picks, receipt → logged.
+# Particle scene (static/hero.js): grey particles drift ("daily needs"), rush in and take the logo's colors
+# to form the DNNR mark ("naturally refined"), hold, then burst. Ticker lists the AI we build with.
 HERO_ART = f"""
-<div class="refinery" aria-hidden="true">
-  <svg class="rf-bg" viewBox="0 0 100 100">
-    <defs>
-      <pattern id="rfDots" width="3.4" height="3.4" patternUnits="userSpaceOnUse"><circle cx=".4" cy=".4" r=".22" class="art-dots"/></pattern>
-      <radialGradient id="rfA" cx="18%" cy="30%" r="50%"><stop offset="0" stop-color="#3BA6E8" stop-opacity=".30"/><stop offset="1" stop-color="#3BA6E8" stop-opacity="0"/></radialGradient>
-      <radialGradient id="rfB" cx="84%" cy="72%" r="50%"><stop offset="0" stop-color="#F57FA0" stop-opacity=".28"/><stop offset="1" stop-color="#F57FA0" stop-opacity="0"/></radialGradient>
-      <radialGradient id="rfC" cx="50%" cy="50%" r="30%"><stop offset="0" stop-color="#8B6CE0" stop-opacity=".34"/><stop offset="1" stop-color="#8B6CE0" stop-opacity="0"/></radialGradient>
-      <clipPath id="rfClip"><rect x="1" y="1" width="98" height="98" rx="8.5"/></clipPath>
-      <path id="rfRing" d="M50 29a21 21 0 1 1 0 42a21 21 0 1 1 0-42"/>
-    </defs>
-    <rect class="art-frame" x="1" y="1" width="98" height="98" rx="8.5" vector-effect="non-scaling-stroke"/>
-    <g clip-path="url(#rfClip)">
-      <rect x="1" y="1" width="98" height="98" fill="url(#rfDots)"/>
-      <rect x="1" y="1" width="98" height="98" fill="url(#rfA)"/>
-      <rect x="1" y="1" width="98" height="98" fill="url(#rfB)"/>
-      <circle class="rf-pulse" cx="50" cy="50" r="30" fill="url(#rfC)"/>
-      <path class="rf-flow" d="M30 17 Q 42 26 44 40"/>
-      <path class="rf-flow" d="M28 47 Q 36 49 38 50"/>
-      <path class="rf-flow" d="M30 81 Q 42 72 44 60"/>
-      <path class="rf-flow out" d="M56 40 Q 60 26 68 19"/>
-      <path class="rf-flow out" d="M62 50 Q 66 50 70 50"/>
-      <path class="rf-flow out" d="M56 60 Q 60 74 66 80"/>
-      <g class="rf-ring"><circle cx="50" cy="50" r="19.4" class="rf-ring-line" vector-effect="non-scaling-stroke"/>
-        <text class="rf-ring-text"><textPath href="#rfRing" textLength="131" lengthAdjust="spacingAndGlyphs">{RING_TEXT}</textPath></text>
-      </g>
-      <circle class="art-core" cx="50" cy="50" r="13" vector-effect="non-scaling-stroke"/>
-      <image href="/static/dnnr-mark.png" x="41" y="45" width="18" height="10"/>
-    </g>
-  </svg>
-  {rf_card("raw", "p1", "メニュー", "A menu you can't read", "eye")}
-  {rf_card("raw", "p2", "milk? eggs? ???", "A grocery note", "text")}
-  {rf_card("raw", "p3", "Receipt $23.40", "Crumpled, unsorted", "layers")}
-  {rf_card("done", "p1", "Menu, explained", "12 dishes, with photos", "")}
-  {rf_card("done", "p2", "Picks near you", "Trending at your store", "")}
-  {rf_card("done", "p3", "Expense logged", "Auto-categorized", "")}
-  <span class="rf-cap l">Daily needs</span><span class="rf-cap r">Naturally refined</span>
+<div class="hero-art pc-scene" data-logo="/static/dnnr-mark-lg.png" data-phase="drift" aria-hidden="true">
+  <canvas></canvas>
+  <span class="pc-cap a">Daily needs</span>
+  <span class="pc-cap b">Naturally refined</span>
+  <div class="pc-ticker"><div class="track">{''.join(f'<span>{e(t)}</span>' for t in AI_TICKER * 2)}</div></div>
 </div>"""
 
 ART_PRODUCTS = """
@@ -371,19 +336,19 @@ SERVICES = [
     {
         "id": "mobile", "icon": "phone",
         "title": "Mobile app development",
-        "summary": "Native-quality iOS and Android apps from a single Flutter codebase.",
-        "tags": ["Flutter", "iOS", "Android", "Firebase"],
-        "points": ["Flutter apps for iPhone, iPad, and Android", "Firebase and Google Cloud backends",
-                   "Analytics, in-app purchases, and ads", "App Store and Google Play submission"],
-        "ideal": "Startups that need a polished app on both platforms without two separate teams.",
-        "deliverables": ["iOS and Android apps", "Backend and admin setup", "Analytics and monetization", "Store listings and release"],
+        "summary": "Native iOS and Android apps, built to production quality and launched on both stores.",
+        "tags": ["iOS", "Android", "Backend", "Launch"],
+        "points": ["Native apps for iPhone, iPad, and Android", "Backend servers, APIs, and databases",
+                   "Sign-in, payments, analytics, and notifications", "App Store and Google Play launch"],
+        "ideal": "Startups that need a production-ready app on both platforms, with the backend to run it.",
+        "deliverables": ["iOS and Android apps", "Backend and admin tools", "Analytics and monetization", "Store listings and release"],
     },
     {
         "id": "ai", "icon": "sparkle",
         "title": "AI integration advisory",
         "summary": "Add practical LLM and vision features to your product, with costs under control.",
         "tags": ["LLMs", "Vision", "Evaluation", "Cost"],
-        "points": ["Where AI helps users, and where it doesn't", "Model selection: Gemini, Claude, OpenAI",
+        "points": ["Where AI helps users, and where it doesn't", "Choosing the right models for the job",
                    "Prompt design, evaluation, and guardrails", "Cost, latency, and privacy architecture"],
         "ideal": "Products that want to add AI features, or teams whose AI costs and quality need a second look.",
         "deliverables": ["AI opportunity map", "Model and cost analysis", "Working prototype", "Evaluation and guardrail plan"],
@@ -414,7 +379,7 @@ ORG_LD = {
     "logo": f"{SITE}/static/icon-512.png", "slogan": "Daily Needs, Naturally Refined",
     "description": "San Jose-based technology company building AI-powered products and providing startup product, mobile, and AI consulting.",
     "address": {"@type": "PostalAddress", "addressLocality": "San Jose", "addressRegion": "CA", "addressCountry": "US"},
-    "knowsAbout": ["Artificial intelligence", "Large language models", "Computer vision", "Mobile app development", "Flutter", "MVP development"],
+    "knowsAbout": ["Artificial intelligence", "Large language models", "Computer vision", "iOS app development", "Android app development", "Backend development", "MVP development"],
     "sameAs": ["https://www.linkedin.com/company/dnnr-us/", "https://apps.apple.com/developer/id1668952055",
                "https://play.google.com/store/apps/dev?id=6001862912587595419"],
 }
@@ -488,7 +453,7 @@ def page_home():
         <div class="content">
           <span class="kicker">Consulting</span>
           <h3>From idea to launched product</h3>
-          <p>We help startups scope an MVP, build iOS and Android apps, and add AI features that are useful, reliable, and affordable to run.</p>
+          <p>We help startups scope an MVP, build and launch production-ready iOS and Android apps with the backend behind them, and add AI features that are useful, reliable, and affordable to run.</p>
           <span class="more">Our services <span>→</span></span>
         </div>
       </a>
@@ -534,7 +499,7 @@ def page_home():
 {cta("Have an idea worth building?", "Tell us about your product. We'll get back to you within a few business days.", "home_cta")}"""
     return layout(path="/index", title="DNNR Tech — Daily Needs, Naturally Refined",
                   description="DNNR Tech is a San Jose, California technology company building AI-powered products and helping startups with product, mobile, and AI development.",
-                  body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ORG_LD)}</script>')
+                  body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ORG_LD)}</script>\n<script src="/static/hero.js?v={HERO_V}" defer></script>')
 
 
 def page_services():
@@ -638,7 +603,7 @@ def page_services():
   </div>
 </section>"""
     return layout(path="/services", title="Startup Product & AI Consulting", current="services",
-                  description="AI product and MVP development, Flutter mobile app development, and AI integration advisory for startups, from a San Jose team that ships its own AI products.",
+                  description="AI product and MVP development, native iOS and Android app development with backend, and AI integration advisory for startups, from a San Jose team that ships its own AI products.",
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
 
 
