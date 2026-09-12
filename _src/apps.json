@@ -32,7 +32,13 @@
       "android_id": "tech.dnnr.tjnearhot",
       "ai": "AI search",
       "featured": true,
-      "ai_story": "Semantic product search with AI embeddings, plus AI moderation for community posts and photos."
+      "ai_story": "Semantic product search with AI embeddings, plus AI moderation for community posts and photos.",
+      "description": "TJ Near & Hot helps Trader Joe's shoppers find a store nearby, see the grocery finds the community is buzzing about, and build a shopping list. Shoppers swap picks, reviews, and recipes with other fans. It is an independent app and is not affiliated with Trader Joe's.",
+      "highlights": [
+        "Live community favorites",
+        "Store finder and shopping lists",
+        "AI-powered product search"
+      ]
     },
     {
       "slug": "what-to-eat",
@@ -43,7 +49,13 @@
       "android_id": "tech.dnnr.what2eat",
       "ai": "Vision AI",
       "featured": true,
-      "ai_story": "Reads a photo of a foreign menu with vision AI and explains every dish in your language."
+      "ai_story": "Reads a photo of a foreign menu with vision AI and explains every dish in your language.",
+      "description": "What to Eat turns one photo of a foreign restaurant menu into something you can order from. It finds the dishes on the menu, explains them in your language, and shows real photos so you know what's coming.",
+      "highlights": [
+        "Menu recognition from a single photo",
+        "Dishes explained in your language",
+        "Real photos of each dish"
+      ]
     },
     {
       "slug": "automiles",
@@ -51,7 +63,13 @@
       "tagline": "Every drive logged automatically. No monthly cap, no paywall.",
       "category": "utility",
       "ios_id": "6757247618",
-      "android_id": "tech.dnnr.triptracker"
+      "android_id": "tech.dnnr.triptracker",
+      "description": "AutoMiles automatically detects and logs every drive for mileage tracking, with no monthly cap, subscription, or paywall. Your trips stay on your device.",
+      "highlights": [
+        "Automatic drive detection",
+        "Unlimited trips, free",
+        "Receipts and expenses"
+      ]
     },
     {
       "slug": "stamprescue",
@@ -59,7 +77,13 @@
       "tagline": "National park stamps nearby, and a park journal that fills itself.",
       "category": "travel",
       "ios_id": "6775184084",
-      "android_id": "tech.dnnr.npstamps"
+      "android_id": "tech.dnnr.npstamps",
+      "description": "StampRescue finds national parks, monuments, and passport stamp stations near you, and turns the photos you already took into a record of every park you've visited.",
+      "highlights": [
+        "Nearby stamp stations",
+        "Park history from your photos, on device",
+        "Trip planning"
+      ]
     },
     {
       "slug": "golf-passport",
@@ -67,7 +91,13 @@
       "tagline": "Find courses anywhere and let your rounds log themselves.",
       "category": "golf",
       "ios_id": "6794523868",
-      "android_id": "tech.dnnr.golfpassport"
+      "android_id": "tech.dnnr.golfpassport",
+      "description": "Golf Passport finds golf courses almost anywhere in the world and turns the photos you already took into a record of every course you've played.",
+      "highlights": [
+        "Course finder, worldwide",
+        "Rounds logged from your photos, on device",
+        "Community leaderboards"
+      ]
     },
     {
       "slug": "charge-and-grab",
@@ -75,7 +105,13 @@
       "tagline": "See the food, coffee, and restrooms near each Supercharger.",
       "category": "travel",
       "ios_id": "6775188817",
-      "android_id": "tech.dnnr.evchargerfinder"
+      "android_id": "tech.dnnr.evchargerfinder",
+      "description": "Charge&Grab finds Superchargers near you or along your route and shows which ones have food, coffee, groceries, and restrooms within an easy walk.",
+      "highlights": [
+        "Chargers near you or on your route",
+        "Food and coffee within walking distance",
+        "Saved chargers"
+      ]
     },
     {
       "slug": "swing-like-pro",
@@ -85,7 +121,13 @@
       "ios_id": "1668952053",
       "android_id": "tech.dnnr.swing_like_pro",
       "ai": "On-device vision",
-      "ai_story": "Analyzes golf swings with on-device pose detection, so videos never leave the phone."
+      "ai_story": "Analyzes golf swings with on-device pose detection, so videos never leave the phone.",
+      "description": "Swing Like Pro turns a phone video of your golf swing into a side-by-side lesson with a pro, including a 3D view you can rotate. Your video is analyzed privately on your device.",
+      "highlights": [
+        "Side-by-side pro comparison",
+        "3D swing view",
+        "On-device analysis"
+      ]
     },
     {
       "slug": "time-zone-alarm",
@@ -95,7 +137,13 @@
       "ios_id": "6746064943",
       "android_id": "tech.dnnr.timezonealarm",
       "ai": "AI city search",
-      "ai_story": "Understands natural-language city and time-zone searches with a language model."
+      "ai_story": "Understands natural-language city and time-zone searches with a language model.",
+      "description": "Time Zone Alarm sets alarms on another city's clock. Pick the city and the time there, and your phone rings at the right moment where you are.",
+      "highlights": [
+        "Alarms pegged to any time zone",
+        "Both times side by side",
+        "Natural-language city search"
+      ]
     },
     {
       "slug": "bapmap",
@@ -105,7 +153,13 @@
       "ios_id": "6765604729",
       "android_id": "tech.dnnr.bapmap",
       "ai": "AI translation",
-      "ai_story": "Translates and moderates community posts across four languages with AI."
+      "ai_story": "Translates and moderates community posts across four languages with AI.",
+      "description": "BapMap helps you decide what to order at Korean restaurants, with curated restaurants, signature dishes, and practical ordering tips across major U.S. metro areas.",
+      "highlights": [
+        "Curated Korean restaurants",
+        "Signature dishes and ordering tips",
+        "Community posts translated by AI"
+      ]
     },
     {
       "slug": "wagyu-beef-finder",
@@ -113,7 +167,13 @@
       "tagline": "Find stores and butchers that carry wagyu near you.",
       "category": "food",
       "ios_id": "6758656883",
-      "android_id": "tech.dnnr.costco_finder"
+      "android_id": "tech.dnnr.costco_finder",
+      "description": "Wagyu Beef Finder helps you find stores, butchers, and specialty markets near you that may carry wagyu beef, with a map and a distance-sorted list.",
+      "highlights": [
+        "Map of wagyu-listed stores",
+        "Distance-sorted store list",
+        "Directions and call-ahead"
+      ]
     },
     {
       "slug": "secret-menu-super-duper",
@@ -121,7 +181,13 @@
       "tagline": "A fan-made guide to favorites and off-menu burger combos.",
       "category": "food",
       "ios_id": "6749433235",
-      "android_id": "tech.dnnr.superduperpicks"
+      "android_id": "tech.dnnr.superduperpicks",
+      "description": "Secret Menu for Super Duper is an unofficial fan-made guide to menu favorites and off-menu inspired burger combinations, where fans can share their own combos. It is not affiliated with Super Duper Burgers.",
+      "highlights": [
+        "Fan-favorite combos",
+        "Share your own secret combo",
+        "Ordering tips"
+      ]
     },
     {
       "slug": "snap-and-shake",
@@ -131,7 +197,13 @@
       "ios_id": "6745154638",
       "android_id": "tech.dnnr.snapshake",
       "ai": "Vision AI",
-      "ai_story": "Identifies ingredients from a photo and suggests cocktails you can make with them."
+      "ai_story": "Identifies ingredients from a photo and suggests cocktails you can make with them.",
+      "description": "Snap & Shake turns a photo of the bottles and ingredients you have into cocktail recipes you can make at home.",
+      "highlights": [
+        "Ingredient recognition from a photo",
+        "Step-by-step recipes",
+        "Ideas from what you already have"
+      ]
     },
     {
       "slug": "targeted-resume-ai",
@@ -142,7 +214,13 @@
       "android_id": "tech.dnnr.targeted_resume",
       "ai": "LLM",
       "featured": true,
-      "ai_story": "Tailors a resume to each job post with a large language model."
+      "ai_story": "Tailors a resume to each job post with a large language model.",
+      "description": "Targeted Resume AI reads a job post, understands what the employer is looking for, and helps tailor your resume to match.",
+      "highlights": [
+        "Tailored to each job post",
+        "Paste text, a link, or a screenshot",
+        "Resume saved on your device"
+      ]
     },
     {
       "slug": "academic-cv-ai",
@@ -153,7 +231,13 @@
       "android_id": "tech.dnnr.targetedcv",
       "support": "/academic_cv_support",
       "ai": "LLM",
-      "ai_story": "Tailors CVs and statements to each graduate program with LLMs and web search."
+      "ai_story": "Tailors CVs and statements to each graduate program with LLMs and web search.",
+      "description": "Academic CV AI helps graduate school applicants tailor their CV and statement of purpose to each master's or PhD program.",
+      "highlights": [
+        "Tailored to each program",
+        "CV and statement of purpose",
+        "Program research with web search"
+      ]
     }
   ]
 }

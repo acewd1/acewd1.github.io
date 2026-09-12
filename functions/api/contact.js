@@ -28,6 +28,9 @@ const SOURCE_LABELS = {
   support_deletion: 'Support · data deletion',
   delete_page: 'Data deletion page',
   privacy_page: 'Privacy policy',
+  service_mvp: 'Service page · AI product & MVP',
+  service_mobile: 'Service page · Mobile app development',
+  service_ai: 'Service page · AI integration advisory',
   contact_page: 'Contact page',
   footer_contact: 'Footer · Contact',
 };

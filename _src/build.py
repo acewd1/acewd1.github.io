@@ -324,7 +324,12 @@ ART_ROADMAP = """
 
 SERVICES = [
     {
-        "id": "mvp", "icon": "rocket",
+        "id": "mvp", "icon": "rocket", "slug": "ai-product-mvp-development", "related": ["what-to-eat", "snap-and-shake", "targeted-resume-ai"],
+        "faq": [
+            ("What is included in an MVP engagement?", "Scoping, a clickable prototype, the MVP build, testing, and launch support. We agree on the exact scope and milestones in the proposal."),
+            ("Can you build AI features into the MVP?", "Yes. We design features such as vision, text generation, search, and moderation, and plan for cost and reliability from the start."),
+            ("Do you work with early-stage founders?", "Yes. Many projects start from an idea and a few target users; we help turn that into a focused first version people can use."),
+        ],
         "title": "AI product & MVP development",
         "summary": "Turn an idea into a launch-ready product with AI at its core, fast.",
         "tags": ["Prototype", "AI features", "MVP"],
@@ -334,7 +339,12 @@ SERVICES = [
         "deliverables": ["Product and feature spec", "Interactive prototype", "Production MVP", "Launch plan"],
     },
     {
-        "id": "mobile", "icon": "phone",
+        "id": "mobile", "icon": "phone", "slug": "mobile-app-development", "related": ["automiles", "stamprescue", "golf-passport"],
+        "faq": [
+            ("Do you build for both iOS and Android?", "Yes. We build production-ready apps for iPhone, iPad, and Android and launch them on the App Store and Google Play."),
+            ("Can you build the backend too?", "Yes. Servers, APIs, databases, sign-in, payments, analytics, and notifications, everything the app needs to run in production."),
+            ("Do you handle App Store and Google Play submission?", "Yes, including store listings, review requirements, and release management."),
+        ],
         "title": "Mobile app development",
         "summary": "Native iOS and Android apps, built to production quality and launched on both stores.",
         "tags": ["iOS", "Android", "Backend", "Launch"],
@@ -344,7 +354,12 @@ SERVICES = [
         "deliverables": ["iOS and Android apps", "Backend and admin tools", "Analytics and monetization", "Store listings and release"],
     },
     {
-        "id": "ai", "icon": "sparkle",
+        "id": "ai", "icon": "sparkle", "slug": "ai-integration-advisory", "related": ["tj-near-hot", "bapmap", "swing-like-pro"],
+        "faq": [
+            ("Which AI models do you work with?", "We choose models for the job, weighing quality, cost, latency, and privacy, rather than tying you to a single vendor."),
+            ("Can you help reduce our AI costs?", "Yes. We review model choices, prompts, caching, and architecture to lower cost and latency while keeping quality."),
+            ("How do you make AI features reliable?", "With evaluation sets built from real inputs, guardrails, fallbacks, and monitoring once the feature is live."),
+        ],
         "title": "AI integration advisory",
         "summary": "Add practical LLM and vision features to your product, with costs under control.",
         "tags": ["LLMs", "Vision", "Evaluation", "Cost"],
@@ -405,7 +420,7 @@ def cta(title, sub, source, label="Start a conversation"):
 
 def page_home():
     services = "".join(f"""
-      <a class="service" href="/services#{sv['id']}">
+      <a class="service" href="/services/{sv['slug']}">
         <div class="icon-tile">{icon(sv['icon'])}</div>
         <h3>{e(sv['title'])}</h3>
         <p>{e(sv['summary'])}</p>
@@ -414,7 +429,7 @@ def page_home():
       </a>""" for sv in SERVICES)
     caps = "".join(f'<div><div class="icon-tile">{icon(i)}</div><b>{e(t)}</b><span>{e(d)}</span></div>' for i, t, d in CAPABILITIES)
     work = "".join(f"""
-      <a class="work-card" href="/apps#{a['slug']}">
+      <a class="work-card" href="/apps/{a['slug']}">
         <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
         <h3>{e(a['name'])}</h3>
         <p>{e(a.get('ai_story') or a['tagline'])}</p>
@@ -514,7 +529,7 @@ def page_services():
       <div class="side">
         <div><h4>Ideal for</h4><p>{e(sv['ideal'])}</p></div>
         <div><h4>Typical deliverables</h4><ul class="deliv">{''.join(f'<li>{e(d)}</li>' for d in sv['deliverables'])}</ul></div>
-        <div>{contact_btn("Discuss this service", "services_row", TOPICS[0], cls="btn btn-ghost btn-sm", with_arrow=True)}</div>
+        <div class="stores"><a class="btn btn-ink btn-sm" href="/services/{sv['slug']}">Learn more{ARROW}</a>{contact_btn("Discuss this service", "services_row", TOPICS[0], cls="btn btn-ghost btn-sm")}</div>
       </div>
     </article>""" for sv in SERVICES)
     proofs = "".join(f"""
@@ -522,7 +537,7 @@ def page_services():
         <div class="icon-tile">{icon(ic)}</div>
         <h3>{e(t)}</h3>
         <p>{e(d)}</p>
-        <a class="where" href="/apps#{s}"><img src="/static/apps/{s}.png" alt="" width="28" height="28" loading="lazy">{e(BY_SLUG[s]['name'])} <em>on iOS &amp; Android</em></a>
+        <a class="where" href="/apps/{s}"><img src="/static/apps/{s}.png" alt="" width="28" height="28" loading="lazy">{e(BY_SLUG[s]['name'])} <em>on iOS &amp; Android</em></a>
       </div>""" for ic, t, s, d in PROOFS)
     steps = [
         ("Discovery", "A short call to understand your product, users, and goals."),
@@ -616,7 +631,7 @@ def page_apps():
       <article class="app-card" id="{a['slug']}" data-cat="{a['category']}" data-ai="{'1' if a.get('ai') else '0'}">
         <div class="body">
           <div class="head"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="64" height="64" loading="lazy">{ai_badge(a)}</div>
-          <div><h3>{e(a['name'])}</h3><div class="cat">{e(CATS[a['category']])}</div></div>
+          <div><h3><a class="stretch" href="/apps/{a['slug']}">{e(a['name'])}</a></h3><div class="cat">{e(CATS[a['category']])}</div></div>
           <p>{e(a['tagline'])}</p>
         </div>
         <div class="links">
@@ -627,7 +642,7 @@ def page_apps():
     ld = {"@context": "https://schema.org", "@type": "ItemList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1,
          "item": {"@type": "MobileApplication", "name": a["name"], "description": a["tagline"], "operatingSystem": "iOS, Android",
-                  "applicationCategory": CATS[a["category"]], "url": f"{SITE}/apps#{a['slug']}", "image": f"{SITE}/static/apps/{a['slug']}.png",
+                  "applicationCategory": CATS[a["category"]], "url": f"{SITE}/apps/{a['slug']}", "image": f"{SITE}/static/apps/{a['slug']}.png",
                   "sameAs": [ios_url(a), play_url(a)], "author": {"@type": "Organization", "name": "DNNR Tech"}}}
         for i, a in enumerate(APPS)]}
     body = f"""
@@ -648,6 +663,205 @@ def page_apps():
     return layout(path="/apps", title="Apps", current="apps",
                   description="AI-powered iPhone and Android apps built and operated by DNNR Tech, including What to Eat, TJ Near & Hot, Targeted Resume AI, and more.",
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
+
+
+
+def breadcrumbs_ld(items):
+    return {"@context": "https://schema.org", "@type": "BreadcrumbList",
+            "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": n, "item": SITE + u} for i, (n, u) in enumerate(items)]}
+
+
+def crumbs(items):
+    return '<nav class="crumbs" aria-label="Breadcrumb">' + ' <span>/</span> '.join(
+        f'<a href="{u}">{e(n)}</a>' if i < len(items) - 1 else f'<span aria-current="page">{e(n)}</span>' for i, (n, u) in enumerate(items)) + '</nav>'
+
+
+def page_service_detail(sv):
+    path = f"/services/{sv['slug']}"
+    related = "".join(f"""
+      <a class="work-card" href="/apps/{a['slug']}">
+        <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
+        <h3>{e(a['name'])}</h3>
+        <p>{e(a.get('ai_story') or a['description'])}</p>
+      </a>""" for a in (BY_SLUG[x] for x in sv["related"]))
+    faq = "".join(f'<details class="faq-item"><summary>{e(q)}</summary><p>{e(a)}</p></details>' for q, a in sv["faq"])
+    others = "".join(f'<a class="service" href="/services/{o["slug"]}"><div class="icon-tile">{icon(o["icon"])}</div><h3>{e(o["title"])}</h3><p>{e(o["summary"])}</p><span class="more">Learn more {ARROW}</span></a>'
+                     for o in SERVICES if o is not sv)
+    steps = [("Discovery", "A short call to understand your product, users, and goals."),
+             ("Scope & proposal", "A clear plan with milestones, deliverables, timeline, and cost."),
+             ("Build & iterate", "Regular demos and shared progress, so you always see where things stand."),
+             ("Launch & handoff", "Launch support and documentation your team can own.")]
+    timeline = "".join(f'<li><span class="dot">{i + 1:02d}</span><div><h3>{e(t)}</h3><p>{e(d)}</p></div></li>' for i, (t, d) in enumerate(steps))
+    trail = [("Home", "/"), ("Services", "/services"), (sv["title"], path)]
+    ld = [
+        {"@context": "https://schema.org", "@type": "Service", "name": sv["title"], "description": sv["summary"], "url": SITE + path,
+         "serviceType": sv["title"], "areaServed": "Worldwide",
+         "provider": {"@type": "Organization", "name": "DNNR Tech", "url": SITE, "address": ORG_LD["address"]}},
+        {"@context": "https://schema.org", "@type": "FAQPage",
+         "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in sv["faq"]]},
+        breadcrumbs_ld(trail),
+    ]
+    body = f"""
+<div class="container">
+  <div class="doc-hero detail-hero">
+    {crumbs(trail)}
+    <div class="icon-tile" style="margin-top:22px">{icon(sv['icon'])}</div>
+    <h1>{e(sv['title'])}</h1>
+    <p class="lead">{e(sv['summary'])} {e(sv['ideal'])}</p>
+    <div class="actions" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:28px">
+      {contact_btn("Start a project", "service_" + sv['id'], TOPICS[0], with_arrow=True)}
+      <a class="btn btn-ghost" href="/services">All services</a>
+    </div>
+  </div>
+</div>
+
+<section style="padding-top:24px">
+  <div class="container">
+    <article class="svc-row" style="scroll-margin-top:0">
+      <div class="main">
+        <span class="kicker">What's included</span>
+        <ul class="checks">{''.join(f'<li>{icon("check")}{e(p)}</li>' for p in sv['points'])}</ul>
+      </div>
+      <div class="side">
+        <div><h4>Ideal for</h4><p>{e(sv['ideal'])}</p></div>
+        <div><h4>Typical deliverables</h4><ul class="deliv">{''.join(f'<li>{e(d)}</li>' for d in sv['deliverables'])}</ul></div>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="container">
+    {section_head("Proof", "Built and run by us.", "Apps of our own that use the same skills.")}
+    <div class="work">{related}</div>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="container">
+    {section_head("Process", "How an engagement works.")}
+    <ol class="timeline">{timeline}</ol>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="container editorial">
+    <div class="intro"><span class="kicker">FAQ</span><h2 class="h2" style="margin-top:14px">Common questions</h2></div>
+    <div class="faq">{faq}</div>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="container">
+    {section_head("More services", "Other ways we can help.")}
+    <div class="services" style="grid-template-columns:repeat(2,1fr)">{others}</div>
+  </div>
+</section>
+{cta("Ready to talk about your project?", "Tell us what you're building. We'll reply by email with next steps.", "service_" + sv['id'], "Start a conversation")}"""
+    return layout(path=path, title=sv["title"], current="services",
+                  description=f"{sv['summary']} {sv['ideal']} From DNNR Tech, a San Jose AI technology company.",
+                  body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
+
+
+def page_app_detail(a):
+    path = f"/apps/{a['slug']}"
+    shots = "".join(f'<img src="/static/apps/shots/{a["slug"]}-{i}.jpg" alt="{e(a["name"])} screenshot {i}" width="360" height="780" loading="lazy">'
+                    for i in (1, 2, 3) if (ROOT / "static" / "apps" / "shots" / f"{a['slug']}-{i}.jpg").exists())
+    more = [x for x in APPS if x["slug"] != a["slug"] and x["category"] == a["category"]][:3]
+    if len(more) < 3:
+        more += [x for x in APPS if x["slug"] != a["slug"] and x not in more][: 3 - len(more)]
+    more_html = "".join(f"""
+      <a class="work-card" href="/apps/{x['slug']}">
+        <div class="top"><img class="icon" src="/static/apps/{x['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(x)}</div>
+        <h3>{e(x['name'])}</h3><p>{e(x['tagline'])}</p>
+      </a>""" for x in more)
+    ai_block = f"""
+    <div class="callout ai-callout"><span class="ai-badge">{icon("sparkle")}{e(a['ai'])}</span><p>{e(a['ai_story'])}</p></div>""" if a.get("ai") else ""
+    trail = [("Home", "/"), ("Apps", "/apps"), (a["name"], path)]
+    ld = [
+        {"@context": "https://schema.org", "@type": "MobileApplication", "name": a["name"], "description": a["description"],
+         "url": SITE + path, "image": f"{SITE}/static/apps/{a['slug']}.png", "operatingSystem": "iOS, Android",
+         "applicationCategory": CATS[a["category"]], "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+         "installUrl": [ios_url(a), play_url(a)], "sameAs": [ios_url(a), play_url(a)],
+         "author": {"@type": "Organization", "name": "DNNR Tech", "url": SITE}},
+        breadcrumbs_ld(trail),
+    ]
+    extra = '<p><a href="/academic_cv_support">Academic CV AI support and AI content reports</a></p>' if a["slug"] == "academic-cv-ai" else ""
+    body = f"""
+<div class="container">
+  <div class="doc-hero detail-hero">
+    {crumbs(trail)}
+    <div class="app-hero">
+      <img class="app-hero-icon" src="/static/apps/{a['slug']}.png" alt="" width="112" height="112">
+      <div>
+        <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><span class="kicker">{e(CATS[a['category']])}</span>{ai_badge(a)}</div>
+        <h1>{e(a['name'])}</h1>
+        <p class="lead">{e(a['tagline'])}</p>
+        <div class="stores" style="margin-top:22px">
+          <a class="btn btn-ink" href="{ios_url(a)}" rel="noopener">{APPLE}App Store</a>
+          <a class="btn btn-ghost" href="{play_url(a)}" rel="noopener">{PLAY}Google Play</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section style="padding-top:16px">
+  <div class="container app-detail">
+    <div class="prose">
+      <p>{e(a['description'])}</p>
+      {ai_block}
+      <h2>Highlights</h2>
+      <ul class="checks" style="grid-template-columns:1fr">{''.join(f'<li>{icon("check")}{e(h)}</li>' for h in a['highlights'])}</ul>
+      <p class="muted-links">Free on the App Store and Google Play. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
+      {extra}
+    </div>
+    <div class="shots" aria-label="Screenshots">{shots}</div>
+  </div>
+</section>
+
+<section style="padding-top:0">
+  <div class="container">
+    {section_head("More from DNNR Tech", "You might also like.", "", '<a class="btn btn-ghost" href="/apps">All apps</a>')}
+    <div class="work">{more_html}</div>
+  </div>
+</section>"""
+    return layout(path=path, title=f"{a['name']} — {a['tagline'].rstrip('.')}", current="apps",
+                  description=f"{a['description']} Free on iPhone and Android.",
+                  body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
+
+
+def llms_txt(full=False):
+    L = ["# DNNR Tech", "",
+         "> DNNR Tech is a technology company based in San Jose, California (Silicon Valley). It builds AI-powered consumer apps "
+         "for iOS and Android and provides startup consulting: AI product and MVP development, mobile app development, and AI "
+         "integration advisory. Motto: \"Daily Needs, Naturally Refined.\"", "",
+         "Contact: use the form at https://dnnr.us/contact (we reply by email). All apps are free on the App Store and Google Play.", ""]
+    L += ["## Company", "",
+          f"- [Home]({SITE}/): What DNNR Tech does — AI products and startup consulting.",
+          f"- [Services]({SITE}/services): Consulting services, process, and AI we've shipped.",
+          f"- [Apps]({SITE}/apps): All DNNR Tech apps for iPhone and Android.",
+          f"- [Contact]({SITE}/contact): Contact form for projects, partnerships, and app support.", ""]
+    L += ["## Consulting services", ""]
+    for sv in SERVICES:
+        L.append(f"- [{sv['title']}]({SITE}/services/{sv['slug']}): {sv['summary']} Ideal for: {sv['ideal']}")
+        if full:
+            L += [f"  - Includes: {'; '.join(sv['points'])}.", f"  - Typical deliverables: {'; '.join(sv['deliverables'])}."]
+            L += [f"  - Q: {q} A: {a}" for q, a in sv["faq"]]
+    L += ["", "## Apps (free on iOS and Android)", ""]
+    for a in APPS:
+        ai = f" AI: {a['ai_story']}" if a.get("ai_story") else ""
+        L.append(f"- [{a['name']}]({SITE}/apps/{a['slug']}): {a['tagline']}{ai}")
+        if full:
+            L += [f"  - {a['description']}", f"  - Highlights: {'; '.join(a['highlights'])}.",
+                  f"  - App Store: {ios_url(a)}", f"  - Google Play: {play_url(a)}"]
+    L += ["", "## Policies", "",
+          f"- [Privacy Policy]({SITE}/privacy-policy): How DNNR Tech apps and dnnr.us handle personal information.",
+          f"- [Support]({SITE}/support): Help with any DNNR Tech app.",
+          f"- [Data & account deletion]({SITE}/delete-account): How to delete your data.", ""]
+    if not full:
+        L += ["## Optional", "", f"- [Full details]({SITE}/llms-full.txt): Services and apps with full descriptions and FAQs.", ""]
+    return "\n".join(L)
 
 
 def page_contact():
@@ -753,7 +967,8 @@ def page_404():
 
 
 def sitemap():
-    paths = ["/", "/services", "/apps", "/contact", "/support", "/delete-account", "/privacy-policy", "/academic_cv_support"]
+    paths = (["/", "/services"] + [f"/services/{sv['slug']}" for sv in SERVICES] + ["/apps"] + [f"/apps/{a['slug']}" for a in APPS]
+             + ["/contact", "/support", "/delete-account", "/privacy-policy", "/academic_cv_support"])
     today = date.today().isoformat()
     urls = "".join(f"<url><loc>{SITE}{p}</loc><lastmod>{today}</lastmod></url>" for p in paths)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>\n'
@@ -776,6 +991,10 @@ def main():
         "ko/delete-account.html": delete_ko,
         "academic_cv_support.html": page_academic_cv(),
         "404.html": page_404(),
+        **{f"services/{sv['slug']}.html": page_service_detail(sv) for sv in SERVICES},
+        **{f"apps/{a['slug']}.html": page_app_detail(a) for a in APPS},
+        "llms.txt": llms_txt(),
+        "llms-full.txt": llms_txt(full=True),
         "sitemap.xml": sitemap(),
         "robots.txt": f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n",
     }

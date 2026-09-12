@@ -1,0 +1,45 @@
+# DNNR Tech
+
+> DNNR Tech is a technology company based in San Jose, California (Silicon Valley). It builds AI-powered consumer apps for iOS and Android and provides startup consulting: AI product and MVP development, mobile app development, and AI integration advisory. Motto: "Daily Needs, Naturally Refined."
+
+Contact: use the form at https://dnnr.us/contact (we reply by email). All apps are free on the App Store and Google Play.
+
+## Company
+
+- [Home](https://dnnr.us/): What DNNR Tech does — AI products and startup consulting.
+- [Services](https://dnnr.us/services): Consulting services, process, and AI we've shipped.
+- [Apps](https://dnnr.us/apps): All DNNR Tech apps for iPhone and Android.
+- [Contact](https://dnnr.us/contact): Contact form for projects, partnerships, and app support.
+
+## Consulting services
+
+- [AI product & MVP development](https://dnnr.us/services/ai-product-mvp-development): Turn an idea into a launch-ready product with AI at its core, fast. Ideal for: Founders validating a new product idea, or teams that need a working MVP to raise or sell.
+- [Mobile app development](https://dnnr.us/services/mobile-app-development): Native iOS and Android apps, built to production quality and launched on both stores. Ideal for: Startups that need a production-ready app on both platforms, with the backend to run it.
+- [AI integration advisory](https://dnnr.us/services/ai-integration-advisory): Add practical LLM and vision features to your product, with costs under control. Ideal for: Products that want to add AI features, or teams whose AI costs and quality need a second look.
+
+## Apps (free on iOS and Android)
+
+- [TJ Near & Hot](https://dnnr.us/apps/tj-near-hot): The Trader Joe's finds shoppers love, at the store near you. AI: Semantic product search with AI embeddings, plus AI moderation for community posts and photos.
+- [What to Eat](https://dnnr.us/apps/what-to-eat): Point your camera at any menu and see what every dish really is. AI: Reads a photo of a foreign menu with vision AI and explains every dish in your language.
+- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall.
+- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself.
+- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves.
+- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger.
+- [Swing Like Pro](https://dnnr.us/apps/swing-like-pro): Compare your golf swing side by side with the pros. AI: Analyzes golf swings with on-device pose detection, so videos never leave the phone.
+- [Time Zone Alarm](https://dnnr.us/apps/time-zone-alarm): Set an alarm on another city's clock. No mental math. AI: Understands natural-language city and time-zone searches with a language model.
+- [BapMap](https://dnnr.us/apps/bapmap): Know exactly what to order at Korean restaurants. AI: Translates and moderates community posts across four languages with AI.
+- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you.
+- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos.
+- [Snap & Shake](https://dnnr.us/apps/snap-and-shake): Snap your ingredients and get a cocktail you can make tonight. AI: Identifies ingredients from a photo and suggests cocktails you can make with them.
+- [Targeted Resume AI](https://dnnr.us/apps/targeted-resume-ai): Tailor your resume to each job post in minutes. AI: Tailors a resume to each job post with a large language model.
+- [Academic CV AI](https://dnnr.us/apps/academic-cv-ai): Tailor your CV and statement for every grad program. AI: Tailors CVs and statements to each graduate program with LLMs and web search.
+
+## Policies
+
+- [Privacy Policy](https://dnnr.us/privacy-policy): How DNNR Tech apps and dnnr.us handle personal information.
+- [Support](https://dnnr.us/support): Help with any DNNR Tech app.
+- [Data & account deletion](https://dnnr.us/delete-account): How to delete your data.
+
+## Optional
+
+- [Full details](https://dnnr.us/llms-full.txt): Services and apps with full descriptions and FAQs.

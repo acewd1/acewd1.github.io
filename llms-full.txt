@@ -1,0 +1,112 @@
+# DNNR Tech
+
+> DNNR Tech is a technology company based in San Jose, California (Silicon Valley). It builds AI-powered consumer apps for iOS and Android and provides startup consulting: AI product and MVP development, mobile app development, and AI integration advisory. Motto: "Daily Needs, Naturally Refined."
+
+Contact: use the form at https://dnnr.us/contact (we reply by email). All apps are free on the App Store and Google Play.
+
+## Company
+
+- [Home](https://dnnr.us/): What DNNR Tech does — AI products and startup consulting.
+- [Services](https://dnnr.us/services): Consulting services, process, and AI we've shipped.
+- [Apps](https://dnnr.us/apps): All DNNR Tech apps for iPhone and Android.
+- [Contact](https://dnnr.us/contact): Contact form for projects, partnerships, and app support.
+
+## Consulting services
+
+- [AI product & MVP development](https://dnnr.us/services/ai-product-mvp-development): Turn an idea into a launch-ready product with AI at its core, fast. Ideal for: Founders validating a new product idea, or teams that need a working MVP to raise or sell.
+  - Includes: Product scoping and a lean feature plan; Clickable prototype to validate early; AI feature design: vision, text, search, moderation; MVP build, testing, and launch.
+  - Typical deliverables: Product and feature spec; Interactive prototype; Production MVP; Launch plan.
+  - Q: What is included in an MVP engagement? A: Scoping, a clickable prototype, the MVP build, testing, and launch support. We agree on the exact scope and milestones in the proposal.
+  - Q: Can you build AI features into the MVP? A: Yes. We design features such as vision, text generation, search, and moderation, and plan for cost and reliability from the start.
+  - Q: Do you work with early-stage founders? A: Yes. Many projects start from an idea and a few target users; we help turn that into a focused first version people can use.
+- [Mobile app development](https://dnnr.us/services/mobile-app-development): Native iOS and Android apps, built to production quality and launched on both stores. Ideal for: Startups that need a production-ready app on both platforms, with the backend to run it.
+  - Includes: Native apps for iPhone, iPad, and Android; Backend servers, APIs, and databases; Sign-in, payments, analytics, and notifications; App Store and Google Play launch.
+  - Typical deliverables: iOS and Android apps; Backend and admin tools; Analytics and monetization; Store listings and release.
+  - Q: Do you build for both iOS and Android? A: Yes. We build production-ready apps for iPhone, iPad, and Android and launch them on the App Store and Google Play.
+  - Q: Can you build the backend too? A: Yes. Servers, APIs, databases, sign-in, payments, analytics, and notifications, everything the app needs to run in production.
+  - Q: Do you handle App Store and Google Play submission? A: Yes, including store listings, review requirements, and release management.
+- [AI integration advisory](https://dnnr.us/services/ai-integration-advisory): Add practical LLM and vision features to your product, with costs under control. Ideal for: Products that want to add AI features, or teams whose AI costs and quality need a second look.
+  - Includes: Where AI helps users, and where it doesn't; Choosing the right models for the job; Prompt design, evaluation, and guardrails; Cost, latency, and privacy architecture.
+  - Typical deliverables: AI opportunity map; Model and cost analysis; Working prototype; Evaluation and guardrail plan.
+  - Q: Which AI models do you work with? A: We choose models for the job, weighing quality, cost, latency, and privacy, rather than tying you to a single vendor.
+  - Q: Can you help reduce our AI costs? A: Yes. We review model choices, prompts, caching, and architecture to lower cost and latency while keeping quality.
+  - Q: How do you make AI features reliable? A: With evaluation sets built from real inputs, guardrails, fallbacks, and monitoring once the feature is live.
+
+## Apps (free on iOS and Android)
+
+- [TJ Near & Hot](https://dnnr.us/apps/tj-near-hot): The Trader Joe's finds shoppers love, at the store near you. AI: Semantic product search with AI embeddings, plus AI moderation for community posts and photos.
+  - TJ Near & Hot helps Trader Joe's shoppers find a store nearby, see the grocery finds the community is buzzing about, and build a shopping list. Shoppers swap picks, reviews, and recipes with other fans. It is an independent app and is not affiliated with Trader Joe's.
+  - Highlights: Live community favorites; Store finder and shopping lists; AI-powered product search.
+  - App Store: https://apps.apple.com/app/id6744344637
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.tjnearhot
+- [What to Eat](https://dnnr.us/apps/what-to-eat): Point your camera at any menu and see what every dish really is. AI: Reads a photo of a foreign menu with vision AI and explains every dish in your language.
+  - What to Eat turns one photo of a foreign restaurant menu into something you can order from. It finds the dishes on the menu, explains them in your language, and shows real photos so you know what's coming.
+  - Highlights: Menu recognition from a single photo; Dishes explained in your language; Real photos of each dish.
+  - App Store: https://apps.apple.com/app/id6738074847
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.what2eat
+- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall.
+  - AutoMiles automatically detects and logs every drive for mileage tracking, with no monthly cap, subscription, or paywall. Your trips stay on your device.
+  - Highlights: Automatic drive detection; Unlimited trips, free; Receipts and expenses.
+  - App Store: https://apps.apple.com/app/id6757247618
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.triptracker
+- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself.
+  - StampRescue finds national parks, monuments, and passport stamp stations near you, and turns the photos you already took into a record of every park you've visited.
+  - Highlights: Nearby stamp stations; Park history from your photos, on device; Trip planning.
+  - App Store: https://apps.apple.com/app/id6775184084
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.npstamps
+- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves.
+  - Golf Passport finds golf courses almost anywhere in the world and turns the photos you already took into a record of every course you've played.
+  - Highlights: Course finder, worldwide; Rounds logged from your photos, on device; Community leaderboards.
+  - App Store: https://apps.apple.com/app/id6794523868
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.golfpassport
+- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger.
+  - Charge&Grab finds Superchargers near you or along your route and shows which ones have food, coffee, groceries, and restrooms within an easy walk.
+  - Highlights: Chargers near you or on your route; Food and coffee within walking distance; Saved chargers.
+  - App Store: https://apps.apple.com/app/id6775188817
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.evchargerfinder
+- [Swing Like Pro](https://dnnr.us/apps/swing-like-pro): Compare your golf swing side by side with the pros. AI: Analyzes golf swings with on-device pose detection, so videos never leave the phone.
+  - Swing Like Pro turns a phone video of your golf swing into a side-by-side lesson with a pro, including a 3D view you can rotate. Your video is analyzed privately on your device.
+  - Highlights: Side-by-side pro comparison; 3D swing view; On-device analysis.
+  - App Store: https://apps.apple.com/app/id1668952053
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.swing_like_pro
+- [Time Zone Alarm](https://dnnr.us/apps/time-zone-alarm): Set an alarm on another city's clock. No mental math. AI: Understands natural-language city and time-zone searches with a language model.
+  - Time Zone Alarm sets alarms on another city's clock. Pick the city and the time there, and your phone rings at the right moment where you are.
+  - Highlights: Alarms pegged to any time zone; Both times side by side; Natural-language city search.
+  - App Store: https://apps.apple.com/app/id6746064943
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.timezonealarm
+- [BapMap](https://dnnr.us/apps/bapmap): Know exactly what to order at Korean restaurants. AI: Translates and moderates community posts across four languages with AI.
+  - BapMap helps you decide what to order at Korean restaurants, with curated restaurants, signature dishes, and practical ordering tips across major U.S. metro areas.
+  - Highlights: Curated Korean restaurants; Signature dishes and ordering tips; Community posts translated by AI.
+  - App Store: https://apps.apple.com/app/id6765604729
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.bapmap
+- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you.
+  - Wagyu Beef Finder helps you find stores, butchers, and specialty markets near you that may carry wagyu beef, with a map and a distance-sorted list.
+  - Highlights: Map of wagyu-listed stores; Distance-sorted store list; Directions and call-ahead.
+  - App Store: https://apps.apple.com/app/id6758656883
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.costco_finder
+- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos.
+  - Secret Menu for Super Duper is an unofficial fan-made guide to menu favorites and off-menu inspired burger combinations, where fans can share their own combos. It is not affiliated with Super Duper Burgers.
+  - Highlights: Fan-favorite combos; Share your own secret combo; Ordering tips.
+  - App Store: https://apps.apple.com/app/id6749433235
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.superduperpicks
+- [Snap & Shake](https://dnnr.us/apps/snap-and-shake): Snap your ingredients and get a cocktail you can make tonight. AI: Identifies ingredients from a photo and suggests cocktails you can make with them.
+  - Snap & Shake turns a photo of the bottles and ingredients you have into cocktail recipes you can make at home.
+  - Highlights: Ingredient recognition from a photo; Step-by-step recipes; Ideas from what you already have.
+  - App Store: https://apps.apple.com/app/id6745154638
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.snapshake
+- [Targeted Resume AI](https://dnnr.us/apps/targeted-resume-ai): Tailor your resume to each job post in minutes. AI: Tailors a resume to each job post with a large language model.
+  - Targeted Resume AI reads a job post, understands what the employer is looking for, and helps tailor your resume to match.
+  - Highlights: Tailored to each job post; Paste text, a link, or a screenshot; Resume saved on your device.
+  - App Store: https://apps.apple.com/app/id6744045802
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.targeted_resume
+- [Academic CV AI](https://dnnr.us/apps/academic-cv-ai): Tailor your CV and statement for every grad program. AI: Tailors CVs and statements to each graduate program with LLMs and web search.
+  - Academic CV AI helps graduate school applicants tailor their CV and statement of purpose to each master's or PhD program.
+  - Highlights: Tailored to each program; CV and statement of purpose; Program research with web search.
+  - App Store: https://apps.apple.com/app/id6745057918
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.targetedcv
+
+## Policies
+
+- [Privacy Policy](https://dnnr.us/privacy-policy): How DNNR Tech apps and dnnr.us handle personal information.
+- [Support](https://dnnr.us/support): Help with any DNNR Tech app.
+- [Data & account deletion](https://dnnr.us/delete-account): How to delete your data.
