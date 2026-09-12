@@ -137,6 +137,63 @@ section { padding: 104px 0; }
 .gi { width: 22px; height: 22px; fill: none; stroke: url(#brandStroke); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; flex: none; }
 .icon-tile { width: 50px; height: 50px; border-radius: 15px; display: grid; place-items: center; background: var(--brand-soft); border: 1px solid var(--border); }
 
+
+/* ---------- Motto ---------- */
+.motto { font-size: clamp(40px, 5.5vw, 74px); }
+.motto .line { display: block; white-space: nowrap; }
+.motto b { font-weight: inherit; }
+.motto .i1 { color: #2F93D6; } .motto .i2 { color: #8B6CE0; } .motto .i3 { color: #6AAE34; } .motto .i4 { color: #EE6690; }
+@media (prefers-color-scheme: dark) { .motto .i1 { color: #4FB3F0; } .motto .i3 { color: #92D25A; } .motto .i4 { color: #F7829F; } }
+@media (max-width: 600px) { .motto { font-size: 10.4vw; } }
+
+/* ---------- Hero scene: daily needs → naturally refined ---------- */
+.refinery { position: relative; width: 100%; aspect-ratio: 1; container-type: inline-size; }
+.rf-bg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.rf-flow { fill: none; stroke: url(#brandStroke); stroke-width: .38; stroke-linecap: round; stroke-dasharray: .8 1.8; opacity: .55; animation: rf-dash 2.4s linear infinite; }
+.rf-flow.out { opacity: .85; }
+@keyframes rf-dash { to { stroke-dashoffset: -5.2; } }
+.rf-ring { transform-box: view-box; transform-origin: 50% 50%; animation: spin 70s linear infinite; }
+.rf-ring-line { fill: none; stroke: color-mix(in srgb, var(--text) 14%, transparent); stroke-width: 1; }
+.rf-ring-text { font: 700 2.05px var(--font); fill: var(--muted); letter-spacing: .05px; }
+.rf-pulse { transform-box: view-box; transform-origin: 50% 50%; animation: rf-pulse 3s ease-in-out infinite; }
+@keyframes rf-pulse { 50% { transform: scale(1.14); opacity: .7; } }
+.rf-cap { position: absolute; top: 3.6%; font-size: clamp(9px, 2.1cqw, 11.5px); letter-spacing: .14em; text-transform: uppercase; font-weight: 700; color: var(--faint); }
+.rf-cap.l { left: 5.5%; } .rf-cap.r { right: 5.5%; background: var(--brand); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.rf-card { position: absolute; width: 35cqw; display: flex; align-items: center; gap: 2.2cqw; padding: 2.1cqw 2.5cqw; border-radius: 3.2cqw; font-size: clamp(10px, 2.5cqw, 13.5px); line-height: 1.25; will-change: transform, opacity; }
+.rf-card i { width: 6.6cqw; height: 6.6cqw; min-width: 22px; min-height: 22px; border-radius: 1.8cqw; display: grid; place-items: center; flex: none; }
+.rf-card .gi { width: 58%; height: 58%; }
+.rf-card b { display: block; font-weight: 650; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; letter-spacing: -.01em; }
+.rf-card span { display: block; color: var(--muted); font-size: .84em; white-space: nowrap; margin-top: 1px; }
+.rf-card > div { min-width: 0; }
+.rf-card.raw { background: var(--surface); border: 1px dashed var(--border-strong); color: var(--muted); box-shadow: var(--shadow-sm); transform: rotate(var(--r)); animation: rf-raw 9s cubic-bezier(.55,.05,.45,1) infinite; }
+.rf-card.raw b { font-style: italic; font-weight: 600; }
+.rf-card.raw i { background: var(--surface-2); }
+.rf-card.raw .gi { stroke: var(--faint); }
+.rf-card.done { background: var(--glass); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid var(--border); box-shadow: var(--shadow-lg); opacity: 0; animation: rf-done 9s cubic-bezier(.2,.8,.2,1) infinite; }
+.rf-card.done i { background: var(--brand-soft); border: 1px solid var(--border); }
+.rf-card.done .gi { stroke-width: 2.4; }
+.rf-card.raw.p1 { top: 10%; left: 1%; --r: -7deg; --dx: 31cqw; --dy: 35cqw; }
+.rf-card.raw.p2 { top: 43%; left: -3%; --r: 5deg; --dx: 37cqw; --dy: 2cqw; }
+.rf-card.raw.p3 { top: 76%; left: 2%; --r: -4deg; --dx: 30cqw; --dy: -31cqw; }
+.rf-card.done.p1 { top: 11%; right: 0%; --dx: -32cqw; --dy: 34cqw; }
+.rf-card.done.p2 { top: 44%; right: -6%; --dx: -38cqw; --dy: 1cqw; }
+.rf-card.done.p3 { top: 75%; right: 1%; --dx: -31cqw; --dy: -30cqw; }
+.rf-card.p2 { animation-delay: 3s; }
+.rf-card.p3 { animation-delay: 6s; }
+@keyframes rf-raw {
+  0%, 20% { opacity: 1; transform: rotate(var(--r)) translate(0, 0) scale(1); }
+  36% { opacity: 0; transform: rotate(0deg) translate(var(--dx), var(--dy)) scale(.22); }
+  37%, 84% { opacity: 0; transform: rotate(var(--r)) translate(0, 0) scale(.94); }
+  100% { opacity: 1; transform: rotate(var(--r)) translate(0, 0) scale(1); }
+}
+@keyframes rf-done {
+  0%, 34% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(.22); }
+  50%, 84% { opacity: 1; transform: translate(0, 0) scale(1); }
+  96%, 100% { opacity: 0; transform: translate(0, -1.6cqw) scale(.98); }
+}
+@media (max-width: 960px) { .refinery { max-width: 520px; margin: 12px auto 0; } }
+@media (prefers-reduced-motion: reduce) { .rf-card.done { opacity: 1 !important; } }
+
 /* ---------- Pillars (What we do) ---------- */
 .pillars { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
 @media (max-width: 880px) { .pillars { grid-template-columns: 1fr; } }

@@ -106,7 +106,7 @@ def contact_btn(label, source, topic="", cls="btn btn-ink", with_arrow=False):
 
 # ---------------------------------------------------------------- contact form
 
-TOPICS = ["Consulting inquiry", "Partnership", "App support", "Data deletion request", "Other"]
+TOPICS = ["Consulting inquiry", "Partnership", "App support", "Privacy request", "Data deletion request", "Other"]
 
 
 def contact_form(source, topic=TOPICS[0], idp="cf"):
@@ -242,35 +242,53 @@ def doc_page(*, path, title, description, eyebrow, heading, meta="", body_html, 
 
 # ---------------------------------------------------------------- art
 
+RING_TEXT = "LARGE LANGUAGE MODELS · COMPUTER VISION · AI AGENTS · RAG · SPEECH · MULTIMODAL · EMBEDDINGS · ON-DEVICE ML · GENERATIVE AI · "
+
+
+def rf_card(kind, cls, title, sub, icon_name):
+    mark = icon("check") if kind == "done" else icon(icon_name)
+    return f'<div class="rf-card {kind} {cls}"><i>{mark}</i><div><b>{title}</b><span>{sub}</span></div></div>'
+
+
+# "Daily needs → naturally refined": everyday inputs flow into the DNNR core and come out refined.
+# Pairs (raw → done) mirror real products: menu → explained, grocery note → picks, receipt → logged.
 HERO_ART = f"""
-<div class="hero-art" aria-hidden="true">
-  <svg viewBox="0 0 520 520">
+<div class="refinery" aria-hidden="true">
+  <svg class="rf-bg" viewBox="0 0 100 100">
     <defs>
-      <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" class="art-dots"/></pattern>
-      <radialGradient id="glowA" cx="28%" cy="26%" r="55%"><stop offset="0" stop-color="#3BA6E8" stop-opacity=".34"/><stop offset="1" stop-color="#3BA6E8" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowB" cx="78%" cy="78%" r="52%"><stop offset="0" stop-color="#F57FA0" stop-opacity=".30"/><stop offset="1" stop-color="#F57FA0" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowC" cx="52%" cy="50%" r="34%"><stop offset="0" stop-color="#8B6CE0" stop-opacity=".30"/><stop offset="1" stop-color="#8B6CE0" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowD" cx="70%" cy="18%" r="30%"><stop offset="0" stop-color="#8CCB4F" stop-opacity=".22"/><stop offset="1" stop-color="#8CCB4F" stop-opacity="0"/></radialGradient>
-      <clipPath id="frameClip"><rect x="10" y="10" width="500" height="500" rx="44"/></clipPath>
+      <pattern id="rfDots" width="3.4" height="3.4" patternUnits="userSpaceOnUse"><circle cx=".4" cy=".4" r=".22" class="art-dots"/></pattern>
+      <radialGradient id="rfA" cx="18%" cy="30%" r="50%"><stop offset="0" stop-color="#3BA6E8" stop-opacity=".30"/><stop offset="1" stop-color="#3BA6E8" stop-opacity="0"/></radialGradient>
+      <radialGradient id="rfB" cx="84%" cy="72%" r="50%"><stop offset="0" stop-color="#F57FA0" stop-opacity=".28"/><stop offset="1" stop-color="#F57FA0" stop-opacity="0"/></radialGradient>
+      <radialGradient id="rfC" cx="50%" cy="50%" r="30%"><stop offset="0" stop-color="#8B6CE0" stop-opacity=".34"/><stop offset="1" stop-color="#8B6CE0" stop-opacity="0"/></radialGradient>
+      <clipPath id="rfClip"><rect x="1" y="1" width="98" height="98" rx="8.5"/></clipPath>
+      <path id="rfRing" d="M50 29a21 21 0 1 1 0 42a21 21 0 1 1 0-42"/>
     </defs>
-    <rect class="art-frame" x="10" y="10" width="500" height="500" rx="44"/>
-    <g clip-path="url(#frameClip)">
-      <rect x="10" y="10" width="500" height="500" fill="url(#dots)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowA)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowB)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowD)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowC)"/>
-      <circle class="art-orbit-faint" cx="260" cy="260" r="120"/>
-      <g class="spin r3"><circle class="art-orbit-faint" cx="260" cy="260" r="212"/><circle class="art-node" cx="366" cy="76" r="6"/><circle class="art-node" cx="72" cy="330" r="4"/></g>
-      <g class="spin"><ellipse class="art-orbit" cx="260" cy="260" rx="200" ry="90" transform="rotate(-22 260 260)"/><circle class="art-node" cx="445" cy="185" r="8"/><circle class="art-node" cx="75" cy="335" r="5"/></g>
-      <g class="spin r2"><ellipse class="art-orbit" cx="260" cy="260" rx="168" ry="126" transform="rotate(35 260 260)"/><circle class="art-node" cx="186" cy="363" r="7"/><circle class="art-node" cx="334" cy="157" r="4.5"/></g>
-      <circle class="art-core" cx="260" cy="260" r="76"/>
-      <image href="/static/dnnr-mark.png" x="203" y="228" width="114" height="64"/>
+    <rect class="art-frame" x="1" y="1" width="98" height="98" rx="8.5" vector-effect="non-scaling-stroke"/>
+    <g clip-path="url(#rfClip)">
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfDots)"/>
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfA)"/>
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfB)"/>
+      <circle class="rf-pulse" cx="50" cy="50" r="30" fill="url(#rfC)"/>
+      <path class="rf-flow" d="M30 17 Q 42 26 44 40"/>
+      <path class="rf-flow" d="M28 47 Q 36 49 38 50"/>
+      <path class="rf-flow" d="M30 81 Q 42 72 44 60"/>
+      <path class="rf-flow out" d="M56 40 Q 60 26 68 19"/>
+      <path class="rf-flow out" d="M62 50 Q 66 50 70 50"/>
+      <path class="rf-flow out" d="M56 60 Q 60 74 66 80"/>
+      <g class="rf-ring"><circle cx="50" cy="50" r="19.4" class="rf-ring-line" vector-effect="non-scaling-stroke"/>
+        <text class="rf-ring-text"><textPath href="#rfRing" textLength="131" lengthAdjust="spacingAndGlyphs">{RING_TEXT}</textPath></text>
+      </g>
+      <circle class="art-core" cx="50" cy="50" r="13" vector-effect="non-scaling-stroke"/>
+      <image href="/static/dnnr-mark.png" x="41" y="45" width="18" height="10"/>
     </g>
   </svg>
-  <span class="chip-float c-a"><i>{icon("eye")}</i>Vision AI</span>
-  <span class="chip-float c-b"><i>{icon("text")}</i>Language models</span>
-  <span class="chip-float c-c"><i>{icon("phone")}</i>Mobile &amp; cloud</span>
+  {rf_card("raw", "p1", "メニュー", "A menu you can't read", "eye")}
+  {rf_card("raw", "p2", "milk? eggs? ???", "A grocery note", "text")}
+  {rf_card("raw", "p3", "Receipt $23.40", "Crumpled, unsorted", "layers")}
+  {rf_card("done", "p1", "Menu, explained", "12 dishes, with photos", "")}
+  {rf_card("done", "p2", "Picks near you", "Trending at your store", "")}
+  {rf_card("done", "p3", "Expense logged", "Auto-categorized", "")}
+  <span class="rf-cap l">Daily needs</span><span class="rf-cap r">Naturally refined</span>
 </div>"""
 
 ART_PRODUCTS = """
@@ -441,14 +459,11 @@ def page_home():
   <div class="container hero-grid">
     <div>
       <span class="eyebrow"><span class="dot"></span>{CITY} · AI technology company</span>
-      <h1 class="display">Daily needs,<br><span class="grad">naturally refined.</span></h1>
+      <h1 class="display motto"><span class="line"><b class="i1">D</b>aily <b class="i2">N</b>eeds,</span><span class="line"><b class="i3">N</b>aturally <b class="i4">R</b>efined.</span></h1>
       <p class="lead">DNNR Tech is a Silicon Valley technology company. We build AI-powered products for everyday life, and help startups turn ideas into products people use every day.</p>
       <div class="actions">
         {contact_btn("Start a project", "home_hero", TOPICS[0], with_arrow=True)}
         <a class="btn btn-ghost" href="/services">Our services</a>
-      </div>
-      <div class="capabilities">
-        <span>{icon("eye")}Computer vision</span><span>{icon("text")}Language models</span><span>{icon("phone")}iOS &amp; Android</span><span>{icon("cloud")}Cloud</span>
       </div>
     </div>
     {HERO_ART}

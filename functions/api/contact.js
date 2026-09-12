@@ -10,7 +10,7 @@
 // field length caps, email syntax + DNS (MX/A) check.
 
 const ALLOWED_ORIGINS = new Set(['https://dnnr.us', 'https://www.dnnr.us', 'https://dnnr.mrsap.com']);
-const TOPICS = new Set(['Consulting inquiry', 'Partnership', 'App support', 'Data deletion request', 'Other']);
+const TOPICS = new Set(['Consulting inquiry', 'Partnership', 'App support', 'Privacy request', 'Data deletion request', 'Other']);
 const RATE_LIMIT = { max: 5, windowSec: 600 };
 const LIMITS = { name: 100, email: 200, company: 120, message: 4000, button: 80, page: 200, source: 60, host: 60 };
 
@@ -27,6 +27,7 @@ const SOURCE_LABELS = {
   support_contact: 'Support · contact',
   support_deletion: 'Support · data deletion',
   delete_page: 'Data deletion page',
+  privacy_page: 'Privacy policy',
   contact_page: 'Contact page',
   footer_contact: 'Footer · Contact',
 };

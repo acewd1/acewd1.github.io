@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="/static/site.css?v=e34fbb5411">
+<link rel="stylesheet" href="/static/site.css?v=df8ae11e49">
 <script src="/static/site.js?v=3284e1cf3b" defer></script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "DNNR Tech", "url": "https://dnnr.us", "logo": "https://dnnr.us/static/icon-512.png", "slogan": "Daily Needs, Naturally Refined", "description": "San Jose-based technology company building AI-powered products and providing startup product, mobile, and AI consulting.", "address": {"@type": "PostalAddress", "addressLocality": "San Jose", "addressRegion": "CA", "addressCountry": "US"}, "knowsAbout": ["Artificial intelligence", "Large language models", "Computer vision", "Mobile app development", "Flutter", "MVP development"], "sameAs": ["https://www.linkedin.com/company/dnnr-us/", "https://apps.apple.com/developer/id1668952055", "https://play.google.com/store/apps/dev?id=6001862912587595419"]}</script>
 </head>
@@ -48,45 +48,50 @@
   <div class="container hero-grid">
     <div>
       <span class="eyebrow"><span class="dot"></span>San Jose, California · AI technology company</span>
-      <h1 class="display">Daily needs,<br><span class="grad">naturally refined.</span></h1>
+      <h1 class="display motto"><span class="line"><b class="i1">D</b>aily <b class="i2">N</b>eeds,</span><span class="line"><b class="i3">N</b>aturally <b class="i4">R</b>efined.</span></h1>
       <p class="lead">DNNR Tech is a Silicon Valley technology company. We build AI-powered products for everyday life, and help startups turn ideas into products people use every day.</p>
       <div class="actions">
         <a class="btn btn-ink" href="/contact" data-contact data-source="home_hero" data-label="Start a project" data-topic="Consulting inquiry">Start a project<span class="arrow" aria-hidden="true">→</span></a>
         <a class="btn btn-ghost" href="/services">Our services</a>
       </div>
-      <div class="capabilities">
-        <span><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg>Computer vision</span><span><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 10h11M4 14h16M4 18h8"/></svg>Language models</span><span><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M11 18.5h2"/></svg>iOS &amp; Android</span><span><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 18h10a4 4 0 0 0 .6-7.95A6 6 0 0 0 6.2 9.4 4.3 4.3 0 0 0 7 18Z"/></svg>Cloud</span>
-      </div>
     </div>
     
-<div class="hero-art" aria-hidden="true">
-  <svg viewBox="0 0 520 520">
+<div class="refinery" aria-hidden="true">
+  <svg class="rf-bg" viewBox="0 0 100 100">
     <defs>
-      <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" class="art-dots"/></pattern>
-      <radialGradient id="glowA" cx="28%" cy="26%" r="55%"><stop offset="0" stop-color="#3BA6E8" stop-opacity=".34"/><stop offset="1" stop-color="#3BA6E8" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowB" cx="78%" cy="78%" r="52%"><stop offset="0" stop-color="#F57FA0" stop-opacity=".30"/><stop offset="1" stop-color="#F57FA0" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowC" cx="52%" cy="50%" r="34%"><stop offset="0" stop-color="#8B6CE0" stop-opacity=".30"/><stop offset="1" stop-color="#8B6CE0" stop-opacity="0"/></radialGradient>
-      <radialGradient id="glowD" cx="70%" cy="18%" r="30%"><stop offset="0" stop-color="#8CCB4F" stop-opacity=".22"/><stop offset="1" stop-color="#8CCB4F" stop-opacity="0"/></radialGradient>
-      <clipPath id="frameClip"><rect x="10" y="10" width="500" height="500" rx="44"/></clipPath>
+      <pattern id="rfDots" width="3.4" height="3.4" patternUnits="userSpaceOnUse"><circle cx=".4" cy=".4" r=".22" class="art-dots"/></pattern>
+      <radialGradient id="rfA" cx="18%" cy="30%" r="50%"><stop offset="0" stop-color="#3BA6E8" stop-opacity=".30"/><stop offset="1" stop-color="#3BA6E8" stop-opacity="0"/></radialGradient>
+      <radialGradient id="rfB" cx="84%" cy="72%" r="50%"><stop offset="0" stop-color="#F57FA0" stop-opacity=".28"/><stop offset="1" stop-color="#F57FA0" stop-opacity="0"/></radialGradient>
+      <radialGradient id="rfC" cx="50%" cy="50%" r="30%"><stop offset="0" stop-color="#8B6CE0" stop-opacity=".34"/><stop offset="1" stop-color="#8B6CE0" stop-opacity="0"/></radialGradient>
+      <clipPath id="rfClip"><rect x="1" y="1" width="98" height="98" rx="8.5"/></clipPath>
+      <path id="rfRing" d="M50 29a21 21 0 1 1 0 42a21 21 0 1 1 0-42"/>
     </defs>
-    <rect class="art-frame" x="10" y="10" width="500" height="500" rx="44"/>
-    <g clip-path="url(#frameClip)">
-      <rect x="10" y="10" width="500" height="500" fill="url(#dots)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowA)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowB)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowD)"/>
-      <rect x="10" y="10" width="500" height="500" fill="url(#glowC)"/>
-      <circle class="art-orbit-faint" cx="260" cy="260" r="120"/>
-      <g class="spin r3"><circle class="art-orbit-faint" cx="260" cy="260" r="212"/><circle class="art-node" cx="366" cy="76" r="6"/><circle class="art-node" cx="72" cy="330" r="4"/></g>
-      <g class="spin"><ellipse class="art-orbit" cx="260" cy="260" rx="200" ry="90" transform="rotate(-22 260 260)"/><circle class="art-node" cx="445" cy="185" r="8"/><circle class="art-node" cx="75" cy="335" r="5"/></g>
-      <g class="spin r2"><ellipse class="art-orbit" cx="260" cy="260" rx="168" ry="126" transform="rotate(35 260 260)"/><circle class="art-node" cx="186" cy="363" r="7"/><circle class="art-node" cx="334" cy="157" r="4.5"/></g>
-      <circle class="art-core" cx="260" cy="260" r="76"/>
-      <image href="/static/dnnr-mark.png" x="203" y="228" width="114" height="64"/>
+    <rect class="art-frame" x="1" y="1" width="98" height="98" rx="8.5" vector-effect="non-scaling-stroke"/>
+    <g clip-path="url(#rfClip)">
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfDots)"/>
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfA)"/>
+      <rect x="1" y="1" width="98" height="98" fill="url(#rfB)"/>
+      <circle class="rf-pulse" cx="50" cy="50" r="30" fill="url(#rfC)"/>
+      <path class="rf-flow" d="M30 17 Q 42 26 44 40"/>
+      <path class="rf-flow" d="M28 47 Q 36 49 38 50"/>
+      <path class="rf-flow" d="M30 81 Q 42 72 44 60"/>
+      <path class="rf-flow out" d="M56 40 Q 60 26 68 19"/>
+      <path class="rf-flow out" d="M62 50 Q 66 50 70 50"/>
+      <path class="rf-flow out" d="M56 60 Q 60 74 66 80"/>
+      <g class="rf-ring"><circle cx="50" cy="50" r="19.4" class="rf-ring-line" vector-effect="non-scaling-stroke"/>
+        <text class="rf-ring-text"><textPath href="#rfRing" textLength="131" lengthAdjust="spacingAndGlyphs">LARGE LANGUAGE MODELS · COMPUTER VISION · AI AGENTS · RAG · SPEECH · MULTIMODAL · EMBEDDINGS · ON-DEVICE ML · GENERATIVE AI · </textPath></text>
+      </g>
+      <circle class="art-core" cx="50" cy="50" r="13" vector-effect="non-scaling-stroke"/>
+      <image href="/static/dnnr-mark.png" x="41" y="45" width="18" height="10"/>
     </g>
   </svg>
-  <span class="chip-float c-a"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg></i>Vision AI</span>
-  <span class="chip-float c-b"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 10h11M4 14h16M4 18h8"/></svg></i>Language models</span>
-  <span class="chip-float c-c"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M11 18.5h2"/></svg></i>Mobile &amp; cloud</span>
+  <div class="rf-card raw p1"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/></svg></i><div><b>メニュー</b><span>A menu you can't read</span></div></div>
+  <div class="rf-card raw p2"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 10h11M4 14h16M4 18h8"/></svg></i><div><b>milk? eggs? ???</b><span>A grocery note</span></div></div>
+  <div class="rf-card raw p3"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/></svg></i><div><b>Receipt $23.40</b><span>Crumpled, unsorted</span></div></div>
+  <div class="rf-card done p1"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></i><div><b>Menu, explained</b><span>12 dishes, with photos</span></div></div>
+  <div class="rf-card done p2"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></i><div><b>Picks near you</b><span>Trending at your store</span></div></div>
+  <div class="rf-card done p3"><i><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></i><div><b>Expense logged</b><span>Auto-categorized</span></div></div>
+  <span class="rf-cap l">Daily needs</span><span class="rf-cap r">Naturally refined</span>
 </div>
   </div>
 </section>
@@ -255,7 +260,7 @@
   </div>
   <div class="row">
     <div class="field"><label for="dlg-company">Company <span class="opt">(optional)</span></label><input id="dlg-company" name="company" autocomplete="organization" maxlength="120"></div>
-    <div class="field"><label for="dlg-topic">Topic</label><select id="dlg-topic" name="topic"><option selected>Consulting inquiry</option><option>Partnership</option><option>App support</option><option>Data deletion request</option><option>Other</option></select></div>
+    <div class="field"><label for="dlg-topic">Topic</label><select id="dlg-topic" name="topic"><option selected>Consulting inquiry</option><option>Partnership</option><option>App support</option><option>Privacy request</option><option>Data deletion request</option><option>Other</option></select></div>
   </div>
   <div class="field"><label for="dlg-message">How can we help?</label><textarea id="dlg-message" name="message" maxlength="4000" required placeholder="Tell us about your product, stage, and timeline."></textarea><span class="err" aria-live="polite"></span></div>
   <div class="hp" aria-hidden="true"><label for="dlg-website">Website</label><input id="dlg-website" name="website" tabindex="-1" autocomplete="off"></div>
