@@ -1,5 +1,5 @@
 {
-  "_comment": "Single source of truth for the app list on dnnr.us (home, /apps, sitemap). 'ai' = short label shown as an AI badge; only set it for apps with a real AI feature. Edit, then run: python3 _src/build.py",
+  "_comment": "Single source of truth for apps on dnnr.us. 'ai' = short badge label and 'ai_story' = one-line description of the real AI feature (set only for apps that have one). 'featured' = shown in Selected work on the home page. Edit, then run: python3 _src/build.py",
   "categories": [
     {
       "id": "food",
@@ -28,28 +28,28 @@
       "name": "TJ Near & Hot",
       "tagline": "The Trader Joe's finds shoppers love, at the store near you.",
       "category": "food",
-      "featured": true,
       "ios_id": "6744344637",
       "android_id": "tech.dnnr.tjnearhot",
-      "web": "https://tj.dnnr.us",
-      "ai": "AI search"
+      "ai": "AI search",
+      "featured": true,
+      "ai_story": "Semantic product search with AI embeddings, plus AI moderation for community posts and photos."
     },
     {
       "slug": "what-to-eat",
       "name": "What to Eat",
       "tagline": "Point your camera at any menu and see what every dish really is.",
       "category": "food",
-      "featured": true,
       "ios_id": "6738074847",
       "android_id": "tech.dnnr.what2eat",
-      "ai": "Vision AI"
+      "ai": "Vision AI",
+      "featured": true,
+      "ai_story": "Reads a photo of a foreign menu with vision AI and explains every dish in your language."
     },
     {
       "slug": "automiles",
       "name": "AutoMiles",
       "tagline": "Every drive logged automatically. No monthly cap, no paywall.",
       "category": "utility",
-      "featured": true,
       "ios_id": "6757247618",
       "android_id": "tech.dnnr.triptracker"
     },
@@ -58,7 +58,6 @@
       "name": "StampRescue",
       "tagline": "National park stamps nearby, and a park journal that fills itself.",
       "category": "travel",
-      "featured": true,
       "ios_id": "6775184084",
       "android_id": "tech.dnnr.npstamps"
     },
@@ -67,7 +66,6 @@
       "name": "Golf Passport",
       "tagline": "Find courses anywhere and let your rounds log themselves.",
       "category": "golf",
-      "featured": true,
       "ios_id": "6794523868",
       "android_id": "tech.dnnr.golfpassport"
     },
@@ -76,7 +74,6 @@
       "name": "Charge&Grab",
       "tagline": "See the food, coffee, and restrooms near each Supercharger.",
       "category": "travel",
-      "featured": true,
       "ios_id": "6775188817",
       "android_id": "tech.dnnr.evchargerfinder"
     },
@@ -87,7 +84,8 @@
       "category": "golf",
       "ios_id": "1668952053",
       "android_id": "tech.dnnr.swing_like_pro",
-      "ai": "On-device vision"
+      "ai": "On-device vision",
+      "ai_story": "Analyzes golf swings with on-device pose detection, so videos never leave the phone."
     },
     {
       "slug": "time-zone-alarm",
@@ -96,7 +94,8 @@
       "category": "utility",
       "ios_id": "6746064943",
       "android_id": "tech.dnnr.timezonealarm",
-      "ai": "AI city search"
+      "ai": "AI city search",
+      "ai_story": "Understands natural-language city and time-zone searches with a language model."
     },
     {
       "slug": "bapmap",
@@ -105,7 +104,8 @@
       "category": "food",
       "ios_id": "6765604729",
       "android_id": "tech.dnnr.bapmap",
-      "ai": "AI translation"
+      "ai": "AI translation",
+      "ai_story": "Translates and moderates community posts across four languages with AI."
     },
     {
       "slug": "wagyu-beef-finder",
@@ -130,7 +130,8 @@
       "category": "food",
       "ios_id": "6745154638",
       "android_id": "tech.dnnr.snapshake",
-      "ai": "Vision AI"
+      "ai": "Vision AI",
+      "ai_story": "Identifies ingredients from a photo and suggests cocktails you can make with them."
     },
     {
       "slug": "targeted-resume-ai",
@@ -139,7 +140,9 @@
       "category": "work",
       "ios_id": "6744045802",
       "android_id": "tech.dnnr.targeted_resume",
-      "ai": "LLM"
+      "ai": "LLM",
+      "featured": true,
+      "ai_story": "Tailors a resume to each job post with a large language model."
     },
     {
       "slug": "academic-cv-ai",
@@ -149,7 +152,8 @@
       "ios_id": "6745057918",
       "android_id": "tech.dnnr.targetedcv",
       "support": "/academic_cv_support",
-      "ai": "LLM"
+      "ai": "LLM",
+      "ai_story": "Tailors CVs and statements to each graduate program with LLMs and web search."
     }
   ]
 }

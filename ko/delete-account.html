@@ -7,7 +7,7 @@
 <meta name="description" content="DNNR Tech 앱의 계정 및 데이터 삭제 방법.">
 <link rel="canonical" href="https://dnnr.us/ko/delete-account">
 <meta name="theme-color" content="#FAFAFB" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#0B0B10" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#0A0A0F" media="(prefers-color-scheme: dark)">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="DNNR Tech">
 <meta property="og:title" content="데이터 및 계정 삭제 — DNNR Tech">
@@ -21,14 +21,25 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="/static/site.css">
+<link rel="stylesheet" href="/static/site.css?v=e34fbb5411">
+<script src="/static/site.js?v=3284e1cf3b" defer></script>
 
 </head>
 <body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="brandStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3BA6E8"/><stop offset=".38" stop-color="#8B6CE0"/><stop offset=".62" stop-color="#8CCB4F"/><stop offset=".85" stop-color="#F57FA0"/><stop offset="1" stop-color="#F7A26B"/>
+    </linearGradient>
+    <linearGradient id="brandFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3BA6E8"/><stop offset=".5" stop-color="#8B6CE0"/><stop offset="1" stop-color="#F57FA0"/>
+    </linearGradient>
+  </defs>
+</svg>
 <header class="site-header">
   <div class="container bar">
     <a class="brand" href="/" aria-label="DNNR Tech home"><img src="/static/dnnr-mark.png" alt="" width="34" height="19">DNNR Tech</a>
-    <nav class="nav" aria-label="Primary"><a class="" href="/services">Services</a><a class="" href="/apps">Apps</a><a class="hide-sm" href="/support">Support</a><a class="btn btn-ink btn-sm" href="mailto:hello@dnnr.us">Contact</a></nav>
+    <nav class="nav" aria-label="Primary"><a class="" href="/services">Services</a><a class="" href="/apps">Apps</a><a class="hide-sm" href="/support">Support</a><a class="btn btn-ink btn-sm" href="/contact" data-contact data-source="nav_contact" data-label="Contact">Contact</a></nav>
   </div>
 </header>
 <main>
@@ -51,6 +62,7 @@
     <li>데이터를 찾는 데 도움이 되는 정보 (예: 앱에서 공유한 링크)</li>
   </ul>
 </div>
+<p><a class="btn btn-ink" href="/contact" data-contact data-source="delete_page" data-topic="Data deletion request">데이터 삭제 요청</a></p>
 <p>저희 앱 대부분은 계정 없이 기기에만 데이터를 저장합니다. 이 경우 앱을 삭제하거나 앱 데이터를 지우면(Android: 설정 → 애플리케이션 → 해당 앱 → 저장공간 → 데이터 삭제) 함께 삭제됩니다.</p>
 
 <h2 id="ko-deleted">삭제되는 데이터</h2>
@@ -82,22 +94,44 @@
     <div class="foot">
       <div class="about">
         <a class="brand" href="/"><img src="/static/dnnr-mark.png" alt="" width="34" height="19">DNNR Tech</a>
-        <p>AI products and startup consulting from San Jose, California.</p>
+        <p>Daily needs, naturally refined. AI products and startup consulting from San Jose, California.</p>
       </div>
-      <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/ios">iOS apps</a><a href="/android">Android apps</a></div>
-      <div><b>Help</b><a href="/support">Support</a><a href="/delete-account">Data deletion</a><a href="mailto:hello@dnnr.us">hello@dnnr.us</a></div>
-      <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a><a href="/app-ads.txt">app-ads.txt</a></div>
+      <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/contact" data-contact data-source="footer_contact">Contact</a></div>
+      <div><b>Help</b><a href="/support">Support</a><a href="/delete-account">Data deletion</a></div>
+      <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a></div>
     </div>
-    <div class="copyright"><span>© 2026 DNNR Tech. All rights reserved.</span><span>Apps are independent and not affiliated with the brands they reference.</span></div>
+    <div class="copyright"><span>© 2026 DNNR Tech. All rights reserved.</span><span>Our apps are independent and not affiliated with the brands they reference.</span></div>
   </div>
 </footer>
-<script>
-  (function () {
-    var h = document.querySelector('.site-header');
-    var on = function () { h.classList.toggle('scrolled', window.scrollY > 4); };
-    on(); window.addEventListener('scroll', on, { passive: true });
-  })();
-</script>
 
+<dialog class="modal" id="contact-dialog" aria-labelledby="contact-title">
+  <div class="mhead">
+    <div><h2 id="contact-title">Get in touch</h2><p>Tell us what you're working on. We'll get back to you by email.</p></div>
+    <button class="close" type="button" data-close aria-label="Close">×</button>
+  </div>
+  <div class="mbody">
+<form class="form contact-form" data-source="dialog" novalidate>
+  <div class="row">
+    <div class="field"><label for="dlg-name">Name</label><input id="dlg-name" name="name" autocomplete="name" maxlength="100" required><span class="err" aria-live="polite"></span></div>
+    <div class="field"><label for="dlg-email">Email</label><input id="dlg-email" name="email" type="email" autocomplete="email" maxlength="200" required placeholder="you@company.com"><span class="err" aria-live="polite"></span></div>
+  </div>
+  <div class="row">
+    <div class="field"><label for="dlg-company">Company <span class="opt">(optional)</span></label><input id="dlg-company" name="company" autocomplete="organization" maxlength="120"></div>
+    <div class="field"><label for="dlg-topic">Topic</label><select id="dlg-topic" name="topic"><option selected>Consulting inquiry</option><option>Partnership</option><option>App support</option><option>Data deletion request</option><option>Other</option></select></div>
+  </div>
+  <div class="field"><label for="dlg-message">How can we help?</label><textarea id="dlg-message" name="message" maxlength="4000" required placeholder="Tell us about your product, stage, and timeline."></textarea><span class="err" aria-live="polite"></span></div>
+  <div class="hp" aria-hidden="true"><label for="dlg-website">Website</label><input id="dlg-website" name="website" tabindex="-1" autocomplete="off"></div>
+  <div class="foot">
+    <p class="note">We use your details only to reply to you. See our <a href="/privacy-policy">Privacy Policy</a>.</p>
+    <button class="btn btn-ink" type="submit">Send message</button>
+  </div>
+  <p class="status" role="alert"></p>
+</form>
+<div class="form-done" hidden>
+  <div class="ok"><svg class="gi" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></div>
+  <h3>Thanks, your message is on its way.</h3>
+  <p>We'll reply to the email you provided, usually within a few business days.</p>
+</div></div>
+</dialog>
 </body>
 </html>
