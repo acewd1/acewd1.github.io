@@ -1,11 +1,26 @@
 {
-  "_comment": "Single source of truth for the app list on dnnr.us (home, /apps, sitemap). Edit, then run: python3 _src/build.py",
+  "_comment": "Single source of truth for the app list on dnnr.us (home, /apps, sitemap). 'ai' = short label shown as an AI badge; only set it for apps with a real AI feature. Edit, then run: python3 _src/build.py",
   "categories": [
-    {"id": "food", "label": "Food & Dining"},
-    {"id": "travel", "label": "Travel & Outdoors"},
-    {"id": "golf", "label": "Golf"},
-    {"id": "work", "label": "Work & Career"},
-    {"id": "utility", "label": "Everyday Tools"}
+    {
+      "id": "food",
+      "label": "Food & Dining"
+    },
+    {
+      "id": "travel",
+      "label": "Travel & Outdoors"
+    },
+    {
+      "id": "golf",
+      "label": "Golf"
+    },
+    {
+      "id": "work",
+      "label": "Work & Career"
+    },
+    {
+      "id": "utility",
+      "label": "Everyday Tools"
+    }
   ],
   "apps": [
     {
@@ -16,7 +31,8 @@
       "featured": true,
       "ios_id": "6744344637",
       "android_id": "tech.dnnr.tjnearhot",
-      "web": "https://tj.dnnr.us"
+      "web": "https://tj.dnnr.us",
+      "ai": "AI search"
     },
     {
       "slug": "what-to-eat",
@@ -25,7 +41,8 @@
       "category": "food",
       "featured": true,
       "ios_id": "6738074847",
-      "android_id": "tech.dnnr.what2eat"
+      "android_id": "tech.dnnr.what2eat",
+      "ai": "Vision AI"
     },
     {
       "slug": "automiles",
@@ -69,7 +86,8 @@
       "tagline": "Compare your golf swing side by side with the pros.",
       "category": "golf",
       "ios_id": "1668952053",
-      "android_id": "tech.dnnr.swing_like_pro"
+      "android_id": "tech.dnnr.swing_like_pro",
+      "ai": "On-device vision"
     },
     {
       "slug": "time-zone-alarm",
@@ -77,7 +95,8 @@
       "tagline": "Set an alarm on another city's clock. No mental math.",
       "category": "utility",
       "ios_id": "6746064943",
-      "android_id": "tech.dnnr.timezonealarm"
+      "android_id": "tech.dnnr.timezonealarm",
+      "ai": "AI city search"
     },
     {
       "slug": "bapmap",
@@ -85,7 +104,8 @@
       "tagline": "Know exactly what to order at Korean restaurants.",
       "category": "food",
       "ios_id": "6765604729",
-      "android_id": "tech.dnnr.bapmap"
+      "android_id": "tech.dnnr.bapmap",
+      "ai": "AI translation"
     },
     {
       "slug": "wagyu-beef-finder",
@@ -109,7 +129,8 @@
       "tagline": "Snap your ingredients and get a cocktail you can make tonight.",
       "category": "food",
       "ios_id": "6745154638",
-      "android_id": "tech.dnnr.snapshake"
+      "android_id": "tech.dnnr.snapshake",
+      "ai": "Vision AI"
     },
     {
       "slug": "targeted-resume-ai",
@@ -117,7 +138,8 @@
       "tagline": "Tailor your resume to each job post in minutes.",
       "category": "work",
       "ios_id": "6744045802",
-      "android_id": "tech.dnnr.targeted_resume"
+      "android_id": "tech.dnnr.targeted_resume",
+      "ai": "LLM"
     },
     {
       "slug": "academic-cv-ai",
@@ -126,7 +148,8 @@
       "category": "work",
       "ios_id": "6745057918",
       "android_id": "tech.dnnr.targetedcv",
-      "support": "/academic_cv_support"
+      "support": "/academic_cv_support",
+      "ai": "LLM"
     }
   ]
 }

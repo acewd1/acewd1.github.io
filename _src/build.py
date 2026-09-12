@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "_src"
 SITE = "https://dnnr.us"
 EMAIL = "hello@dnnr.us"
+CITY = "San Jose, California"
 YEAR = date.today().year
 
 REG = json.loads((SRC / "apps.json").read_text())
@@ -56,10 +57,11 @@ def store_buttons(a, size="btn-sm"):
 
 def app_card(a):
     return f"""
-      <article class="card" id="{a['slug']}" data-cat="{a['category']}">
+      <article class="card" id="{a['slug']}" data-cat="{a['category']}" data-ai="{'1' if a.get('ai') else '0'}">
         <div class="app-head">
           <img class="app-icon" src="/static/apps/{a['slug']}.png" alt="" width="60" height="60" loading="lazy">
           <div><h3>{e(a['name'])}</h3><div class="cat">{e(CATS[a['category']])}</div></div>
+          {f'<span class="badge-ai" title="AI feature">{e(a["ai"])}</span>' if a.get("ai") else ""}
         </div>
         <p>{e(a['tagline'])}</p>
         {store_buttons(a)}
@@ -69,7 +71,7 @@ def app_card(a):
 def layout(*, path, title, description, body, current="", head_extra="", scripts=""):
     canonical = SITE + (path if path != "/index" else "/")
     full_title = title if title.startswith("DNNR Tech") else f"{title} — DNNR Tech"
-    nav = [("/apps", "Apps", "apps", ""), ("/support", "Support", "support", "hide-sm"), ("/privacy-policy", "Privacy", "privacy", "hide-sm")]
+    nav = [("/services", "Services", "services", ""), ("/apps", "Apps", "apps", ""), ("/support", "Support", "support", "hide-sm")]
     cur = ' aria-current="page"'
     nav_html = "".join(
         f'<a class="{cls}" href="{href}"{cur if key == current else ""}>{label}</a>'
@@ -116,9 +118,9 @@ def layout(*, path, title, description, body, current="", head_extra="", scripts
     <div class="foot">
       <div class="about">
         <a class="brand" href="/"><img src="/static/dnnr-mark.png" alt="" width="34" height="19">DNNR Tech</a>
-        <p>Daily needs, naturally refined. Small, focused apps for everyday life.</p>
+        <p>AI products and startup consulting from {CITY}.</p>
       </div>
-      <div><b>Apps</b><a href="/apps">All apps</a><a href="/ios">iOS apps</a><a href="/android">Android apps</a></div>
+      <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/ios">iOS apps</a><a href="/android">Android apps</a></div>
       <div><b>Help</b><a href="/support">Support</a><a href="/delete-account">Data deletion</a><a href="mailto:{EMAIL}">{EMAIL}</a></div>
       <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a><a href="/app-ads.txt">app-ads.txt</a></div>
     </div>
@@ -204,36 +206,79 @@ def toc_from(html_text):
 
 # ---------------- pages ----------------
 
+ORG_LD = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "DNNR Tech",
+    "url": SITE,
+    "logo": f"{SITE}/static/icon-512.png",
+    "email": EMAIL,
+    "description": "San Jose-based technology company building AI-powered mobile apps and providing startup product, mobile, and AI consulting.",
+    "address": {"@type": "PostalAddress", "addressLocality": "San Jose", "addressRegion": "CA", "addressCountry": "US"},
+    "knowsAbout": ["Artificial intelligence", "Large language models", "Mobile app development", "Flutter", "MVP development"],
+    "sameAs": ["https://www.linkedin.com/company/dnnr-us/", "https://apps.apple.com/developer/id1668952055",
+               "https://play.google.com/store/apps/dev?id=6001862912587595419"],
+}
+
+SERVICES = [
+    {
+        "id": "mvp",
+        "title": "AI product & MVP development",
+        "summary": "Turn an idea into a launch-ready product with AI at its core.",
+        "points": ["Product scoping and a lean feature plan", "Clickable prototype to validate early",
+                   "AI feature design: vision, text, search, moderation", "MVP build, testing, and launch"],
+    },
+    {
+        "id": "mobile",
+        "title": "Mobile app development",
+        "summary": "Native-quality iOS and Android apps from one Flutter codebase.",
+        "points": ["Flutter apps for iPhone, iPad, and Android", "Firebase and Google Cloud backends",
+                   "Analytics, in-app purchases, and ads", "App Store and Google Play submission"],
+    },
+    {
+        "id": "ai",
+        "title": "AI integration advisory",
+        "summary": "Add practical LLM features to your product, with costs under control.",
+        "points": ["Where AI helps users, and where it doesn't", "Model selection: Gemini, Claude, OpenAI",
+                   "Prompt design, evaluation, and guardrails", "Cost, latency, and privacy architecture"],
+    },
+]
+
+CHECK_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>'
+ARROW = '<span aria-hidden="true">→</span>'
+
+
+def service_card(sv, full=False):
+    pts = "".join(f"<li>{CHECK_SVG}{e(p)}</li>" for p in sv["points"]) if full else ""
+    return f"""
+      <article class="service" id="{sv['id']}">
+        <h3>{e(sv['title'])}</h3>
+        <p>{e(sv['summary'])}</p>
+        {f'<ul class="checks">{pts}</ul>' if full else ''}
+      </article>"""
+
+
 def page_home():
     featured = [a for a in APPS if a.get("featured")]
+    ai_count = sum(1 for a in APPS if a.get("ai"))
     mosaic = "".join(
         f'<a href="/apps#{a["slug"]}" title="{e(a["name"])}"><img src="/static/apps/{a["slug"]}.png" alt="{e(a["name"])}" width="128" height="128"></a>'
         for a in APPS[:12]
     )
-    ld = {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "DNNR Tech",
-        "url": SITE,
-        "logo": f"{SITE}/static/icon-512.png",
-        "email": EMAIL,
-        "slogan": "Daily Needs, Naturally Refined",
-        "sameAs": ["https://www.linkedin.com/company/dnnr-us/", "https://apps.apple.com/developer/id1668952055",
-                   "https://play.google.com/store/apps/dev?id=6001862912587595419"],
-    }
     body = f"""
 <section class="hero">
   <div class="container hero-grid">
     <div>
-      <span class="eyebrow"><span class="dot"></span>Independent app studio</span>
-      <h1 class="display">Daily needs,<br><span class="grad">naturally refined.</span></h1>
-      <p class="lead">DNNR Tech builds small, focused apps for everyday moments — grocery runs, road trips, golf rounds, menus in a language you can't read, and the job hunt.</p>
+      <span class="eyebrow"><span class="dot"></span>{CITY} · Silicon Valley</span>
+      <h1 class="display">We build AI products<span class="grad"> and help startups ship theirs.</span></h1>
+      <p class="lead">DNNR Tech is a San Jose–based technology company. We design, build, and run our own AI-powered mobile apps, and we bring that hands-on experience to founders as a product, mobile, and AI engineering partner.</p>
       <div class="actions">
-        <a class="btn btn-ink" href="/apps">Explore our apps</a>
-        <a class="btn btn-ghost" href="mailto:{EMAIL}">{MAIL_SVG}Get in touch</a>
+        <a class="btn btn-ink" href="/services">Work with us</a>
+        <a class="btn btn-ghost" href="/apps">See our apps</a>
       </div>
       <div class="stats">
-        <div><b>{len(APPS)}</b><span>apps released</span></div>
+        <div><b>{len(APPS)}</b><span>apps shipped</span></div>
+        <div><b>{ai_count}</b><span>with AI features</span></div>
         <div><b>iOS &amp; Android</b><span>every app, both stores</span></div>
       </div>
     </div>
@@ -241,10 +286,40 @@ def page_home():
   </div>
 </section>
 
-<section style="padding-top:32px">
+<section style="padding-top:24px">
+  <div class="container">
+    <div class="section-head"><div><div class="rule"></div><h2 class="h2">What we do</h2><p>Two sides of one company: we make products, and we help others make theirs.</p></div></div>
+    <div class="pillars">
+      <a class="pillar" href="/apps">
+        <span class="kicker">Products</span>
+        <h3>AI-powered apps</h3>
+        <p>We build and operate a portfolio of consumer apps on the App Store and Google Play, from reading foreign menus with vision AI to tailoring resumes with large language models.</p>
+        <span class="more">Explore our apps {ARROW}</span>
+      </a>
+      <a class="pillar pillar-ink" href="/services">
+        <span class="kicker">Consulting</span>
+        <h3>Startup product &amp; AI consulting</h3>
+        <p>We help founders go from idea to launched product: scoping an MVP, building iOS and Android apps, and adding AI features that are useful, reliable, and affordable to run.</p>
+        <span class="more">Our services {ARROW}</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section>
   <div class="container">
     <div class="section-head">
-      <div><div class="rule"></div><h2 class="h2">Featured apps</h2><p>A few of the apps people use every week.</p></div>
+      <div><div class="rule"></div><h2 class="h2">Consulting services</h2><p>Hands-on help from a team that ships its own products.</p></div>
+      <a class="btn btn-ghost" href="/services">How we work</a>
+    </div>
+    <div class="services">{"".join(service_card(sv) for sv in SERVICES)}</div>
+  </div>
+</section>
+
+<section style="padding-top:24px">
+  <div class="container">
+    <div class="section-head">
+      <div><div class="rule"></div><h2 class="h2">Built and run by us</h2><p>Selected apps from our portfolio. Every one is live on both stores.</p></div>
       <a class="btn btn-ghost" href="/apps">View all {len(APPS)} apps</a>
     </div>
     <div class="grid">{"".join(app_card(a) for a in featured)}</div>
@@ -255,9 +330,9 @@ def page_home():
   <div class="container">
     <div class="section-head"><div><div class="rule"></div><h2 class="h2">How we build</h2></div></div>
     <div class="principles">
-      <div class="principle"><div class="num">01</div><h3>One job, done well</h3><p>Each app solves one everyday problem and gets you the answer in seconds, not menus.</p></div>
-      <div class="principle"><div class="num">02</div><h3>Clear about your data</h3><p>We explain exactly what each app uses and why, and you can ask us to delete it anytime. <a href="/privacy-policy">Privacy policy</a></p></div>
-      <div class="principle"><div class="num">03</div><h3>Always improving</h3><p>We ship updates often and read every message. Your feedback shapes what we build next.</p></div>
+      <div class="principle"><div class="num">01</div><h3>Ship early, learn fast</h3><p>Small scope, real users, quick iterations. We launch, measure, and improve instead of polishing in private.</p></div>
+      <div class="principle"><div class="num">02</div><h3>Practical AI</h3><p>We use AI where it saves people time, and we design for cost, speed, and failure cases from day one.</p></div>
+      <div class="principle"><div class="num">03</div><h3>Built to operate</h3><p>Analytics, store compliance, and privacy are part of the product, not an afterthought. <a href="/privacy-policy">Our privacy policy</a></p></div>
     </div>
   </div>
 </section>
@@ -265,20 +340,94 @@ def page_home():
 <section style="padding-top:16px">
   <div class="container">
     <div class="band">
-      <div><h2>Questions, feedback, or partnerships?</h2><p>We usually reply within a few business days.</p></div>
-      <a class="btn" href="mailto:{EMAIL}">{MAIL_SVG}{EMAIL}</a>
+      <div><h2>Building something with AI?</h2><p>Tell us about your product and timeline. We usually reply within a few business days.</p></div>
+      <a class="btn" href="mailto:{EMAIL}?subject=Consulting%20inquiry">{MAIL_SVG}{EMAIL}</a>
     </div>
   </div>
 </section>"""
-    head = f'<script type="application/ld+json">{json.dumps(ld)}</script>'
-    return layout(path="/index", title="DNNR Tech — Daily Needs, Naturally Refined",
-                  description="DNNR Tech is an independent studio building focused iOS and Android apps for everyday life.",
+    head = f'<script type="application/ld+json">{json.dumps(ORG_LD)}</script>'
+    return layout(path="/index", title="DNNR Tech — AI Products & Startup Consulting in San Jose",
+                  description="DNNR Tech is a San Jose, California technology company building AI-powered mobile apps and helping startups with product, mobile, and AI development.",
                   body=body, head_extra=head)
+
+
+def page_services():
+    steps = [
+        ("Discovery call", "A short call to understand your product, users, and goals."),
+        ("Scope & proposal", "A clear plan with milestones, deliverables, timeline, and cost."),
+        ("Build & iterate", "Regular demos and shared progress, so you always see where things stand."),
+        ("Launch & handoff", "Store submission, launch support, and documentation your team can own."),
+    ]
+    steps_html = "".join(f'<li><span class="step-n">{i+1:02d}</span><div><h3>{e(t)}</h3><p>{e(d)}</p></div></li>' for i, (t, d) in enumerate(steps))
+    ai_apps = [a for a in APPS if a.get("ai")]
+    proof = "".join(
+        f'<a class="proof" href="/apps#{a["slug"]}"><img src="/static/apps/{a["slug"]}.png" alt="" width="40" height="40" loading="lazy"><span><b>{e(a["name"])}</b><em>{e(a["ai"])}</em></span></a>'
+        for a in ai_apps
+    )
+    ld = {"@context": "https://schema.org", "@type": "ProfessionalService", "name": "DNNR Tech", "url": f"{SITE}/services",
+          "email": EMAIL, "areaServed": "Worldwide", "address": ORG_LD["address"],
+          "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Consulting services",
+                              "itemListElement": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": sv["title"], "description": sv["summary"]}} for sv in SERVICES]}}
+    body = f"""
+<div class="container">
+  <div class="doc-hero">
+    <span class="eyebrow"><span class="dot"></span>Consulting · {CITY}</span>
+    <h1>Startup product &amp; AI consulting</h1>
+    <p class="lead">We've designed, built, and launched {len(APPS)} apps of our own, {len(ai_apps)} of them with AI features. Now we help founders do the same, faster and with fewer surprises.</p>
+    <div class="actions" style="display:flex;gap:12px;flex-wrap:wrap;margin-top:28px">
+      <a class="btn btn-ink" href="mailto:{EMAIL}?subject=Consulting%20inquiry">{MAIL_SVG}Start a conversation</a>
+      <a class="btn btn-ghost" href="#process">How it works</a>
+    </div>
+  </div>
+</div>
+
+<section style="padding-top:32px">
+  <div class="container">
+    <div class="services services-full">{"".join(service_card(sv, full=True) for sv in SERVICES)}</div>
+  </div>
+</section>
+
+<section style="padding-top:24px">
+  <div class="container">
+    <div class="section-head"><div><div class="rule"></div><h2 class="h2">Why DNNR Tech</h2></div></div>
+    <div class="principles">
+      <div class="principle"><div class="num">01</div><h3>We ship our own products</h3><p>{len(APPS)} apps live on the App Store and Google Play. We know what it takes to get from prototype to approved, updated, and used.</p></div>
+      <div class="principle"><div class="num">02</div><h3>Hands-on AI experience</h3><p>Vision AI, LLM text generation, AI search, translation, content moderation, and on-device models, all running in production apps.</p></div>
+      <div class="principle"><div class="num">03</div><h3>Silicon Valley, bilingual</h3><p>Based in San Jose and working remotely with teams anywhere. We work in English and Korean.</p></div>
+    </div>
+  </div>
+</section>
+
+<section style="padding-top:24px">
+  <div class="container">
+    <div class="section-head"><div><div class="rule"></div><h2 class="h2">AI in our own apps</h2><p>Real features, in production today.</p></div></div>
+    <div class="proofs">{proof}</div>
+  </div>
+</section>
+
+<section id="process" style="padding-top:24px">
+  <div class="container">
+    <div class="section-head"><div><div class="rule"></div><h2 class="h2">How it works</h2></div></div>
+    <ol class="steps">{steps_html}</ol>
+  </div>
+</section>
+
+<section style="padding-top:16px">
+  <div class="container">
+    <div class="band">
+      <div><h2>Tell us what you're building.</h2><p>Share your idea, stage, timeline, and budget. We'll reply with next steps.</p></div>
+      <a class="btn" href="mailto:{EMAIL}?subject=Consulting%20inquiry">{MAIL_SVG}{EMAIL}</a>
+    </div>
+  </div>
+</section>"""
+    return layout(path="/services", title="Startup Product & AI Consulting", current="services",
+                  description="AI product and MVP development, Flutter mobile app development, and AI integration advisory for startups, from a San Jose team that ships its own apps.",
+                  body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
 
 
 def page_apps():
     used = [c for c in REG["categories"] if any(a["category"] == c["id"] for a in APPS)]
-    chips = '<button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>' + "".join(
+    chips = '<button class="chip" type="button" data-filter="all" aria-pressed="true">All</button><button class="chip" type="button" data-filter="ai" aria-pressed="false">AI-powered</button>' + "".join(
         f'<button class="chip" type="button" data-filter="{c["id"]}" aria-pressed="false">{e(c["label"])}</button>' for c in used)
     ld = {
         "@context": "https://schema.org", "@type": "ItemList",
@@ -297,7 +446,7 @@ def page_apps():
   <div class="doc-hero">
     <span class="eyebrow"><span class="dot"></span>{len(APPS)} apps · iOS &amp; Android</span>
     <h1>Our apps</h1>
-    <p class="lead">Every DNNR Tech app is available on the App Store and Google Play.</p>
+    <p class="lead">Apps we design, build, and operate ourselves, {sum(1 for a in APPS if a.get("ai"))} of them with AI features. Every one is available on the App Store and Google Play.</p>
     <div class="stores" style="margin-top:22px">
       <a class="btn btn-ghost btn-sm" href="/ios">{APPLE_SVG}All on the App Store</a>
       <a class="btn btn-ghost btn-sm" href="/android">{PLAY_SVG}All on Google Play</a>
@@ -314,7 +463,7 @@ def page_apps():
         var f = c.dataset.filter;
         chips.forEach(function (x) { x.setAttribute('aria-pressed', x === c ? 'true' : 'false'); });
         document.querySelectorAll('#app-grid .card').forEach(function (card) {
-          card.hidden = f !== 'all' && card.dataset.cat !== f;
+          card.hidden = f === 'ai' ? card.dataset.ai !== '1' : (f !== 'all' && card.dataset.cat !== f);
         });
       });
     });
@@ -402,7 +551,7 @@ def page_404():
 
 
 def sitemap():
-    paths = ["/", "/apps", "/support", "/delete-account", "/privacy-policy", "/academic_cv_support"]
+    paths = ["/", "/services", "/apps", "/support", "/delete-account", "/privacy-policy", "/academic_cv_support"]
     today = date.today().isoformat()
     urls = "".join(f"<url><loc>{SITE}{p}</loc><lastmod>{today}</lastmod></url>" for p in paths)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>\n'
@@ -411,6 +560,7 @@ def sitemap():
 def main():
     pages = {
         "index.html": page_home(),
+        "services.html": page_services(),
         "apps.html": page_apps(),
         "privacy-policy.html": page_privacy(),
         "support.html": page_support(),
