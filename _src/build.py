@@ -5,7 +5,8 @@
 
 Inputs:  _src/apps.json (app registry), _src/content/*.html (long-form copy)
 Outputs: index.html, apps.html, privacy-policy.html, support.html,
-         delete-account.html, academic_cv_support.html, 404.html,
+         delete-account.html, ko/{privacy-policy,support,delete-account}.html
+         (Korean, reachable only by URL), academic_cv_support.html, 404.html,
          sitemap.xml, robots.txt
 
 The repo root is served as-is by Cloudflare Pages (dnnr.us) and GitHub Pages
@@ -68,7 +69,7 @@ def app_card(a):
       </article>"""
 
 
-def layout(*, path, title, description, body, current="", head_extra="", scripts=""):
+def layout(*, path, title, description, body, current="", head_extra="", scripts="", lang="en"):
     canonical = SITE + (path if path != "/index" else "/")
     full_title = title if title.startswith("DNNR Tech") else f"{title} — DNNR Tech"
     nav = [("/services", "Services", "services", ""), ("/apps", "Apps", "apps", ""), ("/support", "Support", "support", "hide-sm")]
@@ -78,7 +79,7 @@ def layout(*, path, title, description, body, current="", head_extra="", scripts
         for href, label, key, cls in nav
     )
     return f"""<!DOCTYPE html>
-<html lang="en">
+<html lang="{lang}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -140,18 +141,6 @@ def layout(*, path, title, description, body, current="", head_extra="", scripts
 """
 
 
-LANG_SCRIPT = """<script>
-  (function () {
-    var q = new URLSearchParams(location.search).get('lang');
-    var lang = q || ((navigator.language || '').toLowerCase().indexOf('ko') === 0 ? 'ko' : 'en');
-    if (lang !== 'ko') lang = 'en';
-    document.querySelectorAll('[data-lang]').forEach(function (el) { el.hidden = el.getAttribute('data-lang') !== lang; });
-    document.querySelectorAll('.lang-switch a').forEach(function (a) { a.setAttribute('aria-current', a.dataset.to === lang ? 'true' : 'false'); });
-    document.documentElement.lang = lang;
-  })();
-</script>"""
-
-
 OPEN_DETAILS_SCRIPT = """<script>
   (function () {
     function open() {
@@ -163,37 +152,26 @@ OPEN_DETAILS_SCRIPT = """<script>
 </script>"""
 
 
-def lang_switch():
-    return '<div class="lang-switch" role="group" aria-label="Language"><a href="?lang=en" data-to="en" aria-current="true">English</a><a href="?lang=ko" data-to="ko" aria-current="false">한국어</a></div>'
-
-
-def doc_page(*, path, title, description, eyebrow, heading_en, heading_ko, meta_en="", meta_ko="", en, ko, toc_en=None, toc_ko=None, current="", extra_scripts=""):
-    def toc(items):
-        if not items:
-            return ""
-        return '<nav class="toc" aria-label="On this page"><b>On this page</b>' + "".join(f'<a href="#{i}">{e(t)}</a>' for i, t in items) + "</nav>"
-
-    layout_cls = "doc-layout" if toc_en else "doc-layout single"
+def doc_page(*, path, title, description, eyebrow, heading, meta="", body_html, toc=None, current="", extra_scripts="", lang="en", alt_link=""):
+    """One single-language document page. English lives at /<page>; Korean at /ko/<page> (not linked from English pages)."""
+    toc_html = ""
+    if toc:
+        label = "목차" if lang == "ko" else "On this page"
+        toc_html = f'<nav class="toc" aria-label="{label}"><b>{label}</b>' + "".join(f'<a href="#{i}">{e(t)}</a>' for i, t in toc) + "</nav>"
+    layout_cls = "doc-layout" if toc else "doc-layout single"
     body = f"""
 <div class="container">
   <div class="doc-hero">
     <span class="eyebrow"><span class="dot"></span>{e(eyebrow)}</span>
-    <h1 data-lang="en">{heading_en}</h1>
-    <h1 data-lang="ko" hidden>{heading_ko}</h1>
-    <p class="meta" data-lang="en">{meta_en}</p>
-    <p class="meta" data-lang="ko" hidden>{meta_ko}</p>
-    {lang_switch()}
+    <h1>{heading}</h1>
+    <p class="meta">{meta}{alt_link}</p>
   </div>
-  <div class="{layout_cls}" data-lang="en">
-    {toc(toc_en)}
-    <article class="prose" lang="en">{en}</article>
-  </div>
-  <div class="{layout_cls}" data-lang="ko" hidden>
-    {toc(toc_ko)}
-    <article class="prose" lang="ko">{ko}</article>
+  <div class="{layout_cls}">
+    {toc_html}
+    <article class="prose" lang="{lang}">{body_html}</article>
   </div>
 </div>"""
-    return layout(path=path, title=title, description=description, body=body, current=current, scripts=LANG_SCRIPT + extra_scripts)
+    return layout(path=path, title=title, description=description, body=body, current=current, scripts=extra_scripts, lang=lang)
 
 
 def content(name):
@@ -393,7 +371,7 @@ def page_services():
     <div class="principles">
       <div class="principle"><div class="num">01</div><h3>We ship our own products</h3><p>{len(APPS)} apps live on the App Store and Google Play. We know what it takes to get from prototype to approved, updated, and used.</p></div>
       <div class="principle"><div class="num">02</div><h3>Hands-on AI experience</h3><p>Vision AI, LLM text generation, AI search, translation, content moderation, and on-device models, all running in production apps.</p></div>
-      <div class="principle"><div class="num">03</div><h3>Silicon Valley, bilingual</h3><p>Based in San Jose and working remotely with teams anywhere. We work in English and Korean.</p></div>
+      <div class="principle"><div class="num">03</div><h3>Based in Silicon Valley</h3><p>Headquartered in San Jose, California, and working remotely with teams anywhere.</p></div>
     </div>
   </div>
 </section>
@@ -474,6 +452,9 @@ def page_apps():
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>', scripts=script)
 
 
+EN_LINK = ' · <a href="{path}">English</a>'
+
+
 def page_privacy():
     en, ko = content("privacy_en.html"), content("privacy_ko.html")
     app_links = {a["slug"]: a for a in APPS}
@@ -485,28 +466,43 @@ def page_privacy():
 
     en, ko = expand(en), expand(ko)
     effective = content("privacy_date.txt").strip()
-    return doc_page(path="/privacy-policy", title="Privacy Policy", current="privacy",
-                    description="How DNNR Tech apps collect, use, and protect your information, app by app.",
-                    eyebrow="Legal", heading_en="Privacy Policy", heading_ko="개인정보처리방침",
-                    meta_en=f"Effective {effective} · Applies to all DNNR Tech apps",
-                    meta_ko=f"시행일 {effective} · DNNR Tech의 모든 앱에 적용",
-                    en=en, ko=ko, toc_en=toc_from(en), toc_ko=toc_from(ko), extra_scripts=OPEN_DETAILS_SCRIPT)
+    en_page = doc_page(path="/privacy-policy", title="Privacy Policy", current="privacy",
+                       description="How DNNR Tech apps collect, use, and protect your information, app by app.",
+                       eyebrow="Legal", heading="Privacy Policy",
+                       meta=f"Effective {effective} · Applies to all DNNR Tech apps",
+                       body_html=en, toc=toc_from(en), extra_scripts=OPEN_DETAILS_SCRIPT)
+    ko_page = doc_page(path="/ko/privacy-policy", title="개인정보처리방침", lang="ko",
+                       description="DNNR Tech 앱의 개인정보 수집·이용·보호 방식과 앱별 상세 내용.",
+                       eyebrow="Legal", heading="개인정보처리방침",
+                       meta=f"시행일 {effective} · DNNR Tech의 모든 앱에 적용", alt_link=EN_LINK.format(path="/privacy-policy"),
+                       body_html=ko, toc=toc_from(ko), extra_scripts=OPEN_DETAILS_SCRIPT)
+    return en_page, ko_page
 
 
 def page_support():
-    return doc_page(path="/support", title="Support", current="support",
-                    description="Get help with DNNR Tech apps and request deletion of your data.",
-                    eyebrow="Help center", heading_en="How can we help?", heading_ko="무엇을 도와드릴까요?",
-                    meta_en="Support for every app published by DNNR Tech.", meta_ko="DNNR Tech의 모든 앱에 대한 지원 페이지입니다.",
-                    en=content("support_en.html"), ko=content("support_ko.html"))
+    en_page = doc_page(path="/support", title="Support", current="support",
+                       description="Get help with DNNR Tech apps and request deletion of your data.",
+                       eyebrow="Help center", heading="How can we help?",
+                       meta="Support for every app published by DNNR Tech.", body_html=content("support_en.html"))
+    ko_page = doc_page(path="/ko/support", title="고객 지원", lang="ko",
+                       description="DNNR Tech 앱 고객 지원 및 데이터 삭제 요청 안내.",
+                       eyebrow="Help center", heading="무엇을 도와드릴까요?",
+                       meta="DNNR Tech의 모든 앱에 대한 지원 페이지입니다.", alt_link=EN_LINK.format(path="/support"),
+                       body_html=content("support_ko.html"))
+    return en_page, ko_page
 
 
 def page_delete():
-    return doc_page(path="/delete-account", title="Data & Account Deletion",
-                    description="How to delete your account and data in DNNR Tech apps.",
-                    eyebrow="Your data", heading_en="Data &amp; account deletion", heading_ko="데이터 및 계정 삭제",
-                    meta_en="Applies to all apps published by DNNR Tech.", meta_ko="DNNR Tech가 출시한 모든 앱에 적용됩니다.",
-                    en=content("delete_en.html"), ko=content("delete_ko.html"))
+    en_page = doc_page(path="/delete-account", title="Data & Account Deletion",
+                       description="How to delete your account and data in DNNR Tech apps.",
+                       eyebrow="Your data", heading="Data &amp; account deletion",
+                       meta="Applies to all apps published by DNNR Tech.", body_html=content("delete_en.html"))
+    ko_page = doc_page(path="/ko/delete-account", title="데이터 및 계정 삭제", lang="ko",
+                       description="DNNR Tech 앱의 계정 및 데이터 삭제 방법.",
+                       eyebrow="Your data", heading="데이터 및 계정 삭제",
+                       meta="DNNR Tech가 출시한 모든 앱에 적용됩니다.", alt_link=EN_LINK.format(path="/delete-account"),
+                       body_html=content("delete_ko.html"))
+    return en_page, ko_page
 
 
 def page_academic_cv():
@@ -558,19 +554,26 @@ def sitemap():
 
 
 def main():
+    privacy_en, privacy_ko = page_privacy()
+    support_en, support_ko = page_support()
+    delete_en, delete_ko = page_delete()
     pages = {
         "index.html": page_home(),
         "services.html": page_services(),
         "apps.html": page_apps(),
-        "privacy-policy.html": page_privacy(),
-        "support.html": page_support(),
-        "delete-account.html": page_delete(),
+        "privacy-policy.html": privacy_en,
+        "support.html": support_en,
+        "delete-account.html": delete_en,
+        "ko/privacy-policy.html": privacy_ko,
+        "ko/support.html": support_ko,
+        "ko/delete-account.html": delete_ko,
         "academic_cv_support.html": page_academic_cv(),
         "404.html": page_404(),
         "sitemap.xml": sitemap(),
         "robots.txt": f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n",
     }
     for name, text in pages.items():
+        (ROOT / name).parent.mkdir(parents=True, exist_ok=True)
         (ROOT / name).write_text(text)
     missing = [a["slug"] for a in APPS if not (ROOT / "static" / "apps" / f"{a['slug']}.png").exists()]
     if missing:
