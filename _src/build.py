@@ -700,13 +700,15 @@ def page_privacy():
         return re.sub(r"\{\{app:([a-z0-9-]+)\}\}",
                       lambda m: f'<img src="/static/apps/{m.group(1)}.png" alt="" width="32" height="32">{e(BY_SLUG[m.group(1)]["name"])}', text)
 
-    en, ko = expand(en), expand(ko)
     eff = content("privacy_date.txt").strip()
+    d = date.fromisoformat(eff)
+    en = expand(en).replace("{{effective}}", f"{d:%B} {d.day}, {d.year}")
+    ko = expand(ko).replace("{{effective}}", f"{d.year}년 {d.month}월 {d.day}일")
     en_page = doc_page(path="/privacy-policy", title="Privacy Policy", eyebrow="Legal", heading="Privacy Policy",
-                       description="How DNNR Tech apps and this website collect, use, and protect your information, app by app.",
+                       description="How DNNR Tech apps and this website collect, use, and protect your information.",
                        meta=f"Effective {eff} · Applies to all DNNR Tech apps and dnnr.us", body_html=en, toc=toc_from(en))
     ko_page = doc_page(path="/ko/privacy-policy", title="개인정보처리방침", lang="ko", eyebrow="Legal", heading="개인정보처리방침",
-                       description="DNNR Tech 앱과 웹사이트의 개인정보 수집·이용·보호 방식과 앱별 상세 내용.",
+                       description="DNNR Tech 앱과 웹사이트의 개인정보 수집·이용·보호 방식.",
                        meta=f'시행일 {eff} · DNNR Tech의 모든 앱과 dnnr.us에 적용 · <a href="/privacy-policy">English</a>', body_html=ko, toc=toc_from(ko))
     return en_page, ko_page
 
@@ -747,7 +749,7 @@ def page_academic_cv():
         <p><a class="btn btn-ink" href="https://docs.google.com/forms/d/e/1FAIpQLSd93aXKlpX-oVZQFGrBTV-Up8HwOm6N-n3ETrGO8LjfgyNn2w/viewform?usp=dialog" rel="noopener">Submit a report</a></p>
       </div>
       <p>For anything else, {contact_btn("send us a message", "support_contact", "App support", cls="")}.</p>
-      <p>See also: <a href="/support">Support</a> · <a href="/privacy-policy#academic-cv-ai">Privacy details for Academic CV AI</a> · <a href="/delete-account">Data deletion</a></p>
+      <p>See also: <a href="/support">Support</a> · <a href="/privacy-policy#ai">Privacy Policy (AI features)</a> · <a href="/delete-account">Data deletion</a></p>
       <div class="stores"><a class="btn btn-ghost btn-sm" href="{ios_url(a)}" rel="noopener">{APPLE}App Store</a><a class="btn btn-ghost btn-sm" href="{play_url(a)}" rel="noopener">{PLAY}Google Play</a></div>
     </article>
   </div>
