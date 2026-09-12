@@ -1,0 +1,6 @@
+# Cloudflare Pages redirects (ignored by GitHub Pages)
+# 302 on purpose: keeps the option to replace these with our own pages later.
+/ios        https://apps.apple.com/developer/id1668952055                    302
+/ios/       https://apps.apple.com/developer/id1668952055                    302
+/android    https://play.google.com/store/apps/dev?id=6001862912587595419    302
+/android/   https://play.google.com/store/apps/dev?id=6001862912587595419    302
