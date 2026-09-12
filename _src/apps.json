@@ -1,0 +1,132 @@
+{
+  "_comment": "Single source of truth for the app list on dnnr.us (home, /apps, sitemap). Edit, then run: python3 _src/build.py",
+  "categories": [
+    {"id": "food", "label": "Food & Dining"},
+    {"id": "travel", "label": "Travel & Outdoors"},
+    {"id": "golf", "label": "Golf"},
+    {"id": "work", "label": "Work & Career"},
+    {"id": "utility", "label": "Everyday Tools"}
+  ],
+  "apps": [
+    {
+      "slug": "tj-near-hot",
+      "name": "TJ Near & Hot",
+      "tagline": "The Trader Joe's finds shoppers love, at the store near you.",
+      "category": "food",
+      "featured": true,
+      "ios_id": "6744344637",
+      "android_id": "tech.dnnr.tjnearhot",
+      "web": "https://tj.dnnr.us"
+    },
+    {
+      "slug": "what-to-eat",
+      "name": "What to Eat",
+      "tagline": "Point your camera at any menu and see what every dish really is.",
+      "category": "food",
+      "featured": true,
+      "ios_id": "6738074847",
+      "android_id": "tech.dnnr.what2eat"
+    },
+    {
+      "slug": "automiles",
+      "name": "AutoMiles",
+      "tagline": "Every drive logged automatically. No monthly cap, no paywall.",
+      "category": "utility",
+      "featured": true,
+      "ios_id": "6757247618",
+      "android_id": "tech.dnnr.triptracker"
+    },
+    {
+      "slug": "stamprescue",
+      "name": "StampRescue",
+      "tagline": "National park stamps nearby, and a park journal that fills itself.",
+      "category": "travel",
+      "featured": true,
+      "ios_id": "6775184084",
+      "android_id": "tech.dnnr.npstamps"
+    },
+    {
+      "slug": "golf-passport",
+      "name": "Golf Passport",
+      "tagline": "Find courses anywhere and let your rounds log themselves.",
+      "category": "golf",
+      "featured": true,
+      "ios_id": "6794523868",
+      "android_id": "tech.dnnr.golfpassport"
+    },
+    {
+      "slug": "charge-and-grab",
+      "name": "Charge&Grab",
+      "tagline": "See the food, coffee, and restrooms near each Supercharger.",
+      "category": "travel",
+      "featured": true,
+      "ios_id": "6775188817",
+      "android_id": "tech.dnnr.evchargerfinder"
+    },
+    {
+      "slug": "swing-like-pro",
+      "name": "Swing Like Pro",
+      "tagline": "Compare your golf swing side by side with the pros.",
+      "category": "golf",
+      "ios_id": "1668952053",
+      "android_id": "tech.dnnr.swing_like_pro"
+    },
+    {
+      "slug": "time-zone-alarm",
+      "name": "Time Zone Alarm",
+      "tagline": "Set an alarm on another city's clock. No mental math.",
+      "category": "utility",
+      "ios_id": "6746064943",
+      "android_id": "tech.dnnr.timezonealarm"
+    },
+    {
+      "slug": "bapmap",
+      "name": "BapMap",
+      "tagline": "Know exactly what to order at Korean restaurants.",
+      "category": "food",
+      "ios_id": "6765604729",
+      "android_id": "tech.dnnr.bapmap"
+    },
+    {
+      "slug": "wagyu-beef-finder",
+      "name": "Wagyu Beef Finder",
+      "tagline": "Find stores and butchers that carry wagyu near you.",
+      "category": "food",
+      "ios_id": "6758656883",
+      "android_id": "tech.dnnr.costco_finder"
+    },
+    {
+      "slug": "secret-menu-super-duper",
+      "name": "Secret Menu for Super Duper",
+      "tagline": "A fan-made guide to favorites and off-menu burger combos.",
+      "category": "food",
+      "ios_id": "6749433235",
+      "android_id": "tech.dnnr.superduperpicks"
+    },
+    {
+      "slug": "snap-and-shake",
+      "name": "Snap & Shake",
+      "tagline": "Snap your ingredients and get a cocktail you can make tonight.",
+      "category": "food",
+      "ios_id": "6745154638",
+      "android_id": "tech.dnnr.snapshake"
+    },
+    {
+      "slug": "targeted-resume-ai",
+      "name": "Targeted Resume AI",
+      "tagline": "Tailor your resume to each job post in minutes.",
+      "category": "work",
+      "ios_id": "6744045802",
+      "android_id": "tech.dnnr.targeted_resume"
+    },
+    {
+      "slug": "academic-cv-ai",
+      "name": "Academic CV AI",
+      "tagline": "Tailor your CV and statement for every grad program.",
+      "category": "work",
+      "ios_id": "6745057918",
+      "android_id": "tech.dnnr.targetedcv",
+      "support": "/academic_cv_support"
+    }
+  ]
+}
