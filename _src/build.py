@@ -243,8 +243,8 @@ def doc_page(*, path, title, description, eyebrow, heading, meta="", body_html, 
 
 # ---------------------------------------------------------------- art
 
-AI_TICKER = ["Large language models", "Computer vision", "AI agents", "RAG", "Speech", "Multimodal", "Embeddings",
-             "On-device ML", "Generative AI", "Translation", "AI search", "Moderation"]
+AI_TICKER = ["Generative AI", "Large language models", "Multimodal AI", "Computer vision", "AI agents", "RAG",
+             "Semantic search", "Vector embeddings", "Speech AI", "On-device ML", "AI data pipelines", "AI trust & safety"]
 
 # Particle scene (static/hero.js): grey particles drift ("daily needs"), rush in and take the logo's colors
 # to form the DNNR mark ("naturally refined"), hold, then burst. Ticker lists the AI we build with.
@@ -334,7 +334,7 @@ SERVICES = [
         "summary": "Turn an idea into a launch-ready product with AI at its core, fast.",
         "tags": ["Prototype", "AI features", "MVP"],
         "points": ["Product scoping and a lean feature plan", "Clickable prototype to validate early",
-                   "AI feature design: vision, text, search, moderation", "MVP build, testing, and launch"],
+                   "AI features: multimodal, generative, semantic search, trust & safety", "MVP build, testing, and launch"],
         "ideal": "Founders validating a new product idea, or teams that need a working MVP to raise or sell.",
         "deliverables": ["Product and feature spec", "Interactive prototype", "Production MVP", "Launch plan"],
     },
@@ -361,7 +361,7 @@ SERVICES = [
             ("How do you make AI features reliable?", "With evaluation sets built from real inputs, guardrails, fallbacks, and monitoring once the feature is live."),
         ],
         "title": "AI integration advisory",
-        "summary": "Add practical LLM and vision features to your product, with costs under control.",
+        "summary": "Bring production-grade generative and multimodal AI into your product, with cost and quality under control.",
         "tags": ["LLMs", "Vision", "Evaluation", "Cost"],
         "points": ["Where AI helps users, and where it doesn't", "Choosing the right models for the job",
                    "Prompt design, evaluation, and guardrails", "Cost, latency, and privacy architecture"],
@@ -371,22 +371,22 @@ SERVICES = [
 ]
 
 CAPABILITIES = [
-    ("eye", "Vision AI", "Understand photos of menus, ingredients, and documents."),
-    ("text", "Language models", "Generate, rewrite, and tailor text with LLMs."),
-    ("search", "AI search", "Semantic search that understands what people mean."),
-    ("translate", "Translation", "Make content readable in the user's language."),
-    ("shield", "Moderation", "Keep community content safe, automatically."),
-    ("cpu", "On-device ML", "Private, fast models that run on the phone."),
+    ("eye", "Multimodal AI", "Vision-language models that understand photos, documents, and the world around the user."),
+    ("text", "Generative AI & LLMs", "Products that write, rewrite, and reason with large language models."),
+    ("search", "Semantic search", "Vector-embedding search and discovery that understands intent, not keywords."),
+    ("shield", "AI trust & safety", "LLM moderation that keeps user-generated content safe, in any language."),
+    ("layers", "AI data pipelines", "Pipelines that gather, clean, and structure live real-world data at scale."),
+    ("cpu", "On-device ML", "Private, low-latency models that run entirely on the phone."),
 ]
 
 # Capability → app where it runs in production (all verified against the apps' code).
 PROOFS = [
-    ("eye", "Vision AI", "what-to-eat", "Reads a photo of a foreign menu and explains every dish."),
-    ("text", "Large language models", "targeted-resume-ai", "Tailors a resume to the exact job post."),
-    ("search", "AI search", "tj-near-hot", "Semantic product search with AI embeddings."),
-    ("translate", "Translation & moderation", "bapmap", "Translates and moderates community posts in four languages."),
-    ("cpu", "On-device vision", "swing-like-pro", "Pose detection that runs entirely on the phone."),
-    ("sparkle", "Multimodal generation", "snap-and-shake", "From a photo of ingredients to a cocktail recipe."),
+    ("eye", "Multimodal AI", "what-to-eat", "Vision-language AI that reads any menu from one photo and explains every dish."),
+    ("text", "Generative AI", "targeted-resume-ai", "Parses a job post and rewrites a resume to match it."),
+    ("search", "Semantic discovery", "tj-near-hot", "Vector-embedding search plus LLM trust & safety for a shopper community."),
+    ("cpu", "On-device computer vision", "swing-like-pro", "Frame-by-frame pose tracking and 3D swing comparison, entirely on the phone."),
+    ("shield", "Privacy-first on-device AI", "golf-passport", "Reconstructs every course a golfer has played from photo data, with no uploads."),
+    ("layers", "AI data pipelines", "charge-and-grab", "Structures live place data around every Supercharger into instant recommendations."),
 ]
 
 ORG_LD = {
@@ -459,7 +459,7 @@ def page_home():
         <div class="content">
           <span class="kicker">Products</span>
           <h3>AI-powered apps for everyday life</h3>
-          <p>We design, build, and operate consumer apps on the App Store and Google Play, from reading foreign menus with vision AI to tailoring resumes with language models.</p>
+          <p>We design, build, and operate consumer apps on the App Store and Google Play, from multimodal AI that reads any menu to generative AI that tailors resumes and on-device AI that turns a photo library into a travel log.</p>
           <span class="more">Explore our apps <span>→</span></span>
         </div>
       </a>
@@ -478,7 +478,7 @@ def page_home():
 
 <section style="padding-top:0">
   <div class="container">
-    {section_head("Capabilities", "AI we put into production.", "The same building blocks power our own apps and the products we build for clients.")}
+    {section_head("Capabilities", "The AI stack we ship to production.", "The same technology powers our own apps and the products we build for startups.")}
     <div class="cap-strip">{caps}</div>
   </div>
 </section>
@@ -582,7 +582,7 @@ def page_services():
     </div>
     <ol class="plist">
       <li><span class="n">01</span><div><h3>We ship our own products</h3><p>Our AI-powered apps are live on the App Store and Google Play. We know what it takes to get from prototype to approved, updated, and used.</p></div></li>
-      <li><span class="n">02</span><div><h3>Production AI experience</h3><p>Vision AI, text generation, AI search, translation, moderation, and on-device models, all running in real products.</p></div></li>
+      <li><span class="n">02</span><div><h3>Production AI experience</h3><p>Multimodal and generative AI, semantic search, AI trust &amp; safety, AI data pipelines, and on-device ML, all running in production apps.</p></div></li>
       <li><span class="n">03</span><div><h3>Based in Silicon Valley</h3><p>Headquartered in San Jose, California, and working remotely with teams anywhere.</p></div></li>
     </ol>
   </div>
@@ -651,7 +651,7 @@ def page_apps():
   <div class="doc-hero">
     <span class="eyebrow"><span class="dot"></span>Portfolio</span>
     <h1>Our apps</h1>
-    <p class="lead">AI-powered products we design, build, and operate ourselves, from vision and language models to on-device intelligence. Available on the App Store and Google Play.</p>
+    <p class="lead">AI-powered products we design, build, and operate ourselves, from multimodal and generative AI to privacy-first on-device intelligence. Available on the App Store and Google Play.</p>
     <div class="stores" style="margin-top:24px">
       <a class="btn btn-ghost btn-sm" href="/ios">{APPLE}App Store</a>
       <a class="btn btn-ghost btn-sm" href="/android">{PLAY}Google Play</a>

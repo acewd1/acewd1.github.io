@@ -30,9 +30,9 @@
       "category": "food",
       "ios_id": "6744344637",
       "android_id": "tech.dnnr.tjnearhot",
-      "ai": "AI search",
+      "ai": "AI discovery engine",
       "featured": true,
-      "ai_story": "Semantic product search with AI embeddings, plus AI moderation for community posts and photos.",
+      "ai_story": "An AI discovery engine: vector-embedding semantic search understands what shoppers mean, while LLM-powered trust & safety moderates community posts and photos.",
       "description": "TJ Near & Hot helps Trader Joe's shoppers find a store nearby, see the grocery finds the community is buzzing about, and build a shopping list. Shoppers swap picks, reviews, and recipes with other fans. It is an independent app and is not affiliated with Trader Joe's.",
       "highlights": [
         "Live community favorites",
@@ -47,9 +47,9 @@
       "category": "food",
       "ios_id": "6738074847",
       "android_id": "tech.dnnr.what2eat",
-      "ai": "Vision AI",
+      "ai": "Multimodal AI",
       "featured": true,
-      "ai_story": "Reads a photo of a foreign menu with vision AI and explains every dish in your language.",
+      "ai_story": "Multimodal vision-language AI reads a photo of a menu in any language, identifies every dish, and explains it with real photos in seconds.",
       "description": "What to Eat turns one photo of a foreign restaurant menu into something you can order from. It finds the dishes on the menu, explains them in your language, and shows real photos so you know what's coming.",
       "highlights": [
         "Menu recognition from a single photo",
@@ -70,8 +70,8 @@
         "Unlimited trips, free",
         "Receipts and expenses"
       ],
-      "ai": "Trip intelligence",
-      "ai_story": "Detects drives automatically and infers each trip from your routes and tagged places, so your mileage log fills itself."
+      "ai": "Context-aware AI",
+      "ai_story": "Context-aware trip intelligence detects every drive in the background and infers its purpose from your routes and tagged places, so the mileage log writes itself."
     },
     {
       "slug": "stamprescue",
@@ -86,8 +86,8 @@
         "Park history from your photos, on device",
         "Trip planning"
       ],
-      "ai": "Photo intelligence",
-      "ai_story": "Analyzes the location data in your photos, on your device, to detect the parks you've visited, with a community for tips on each park and stamp station."
+      "ai": "Private on-device AI",
+      "ai_story": "Privacy-first, on-device intelligence mines the location and time data in your photo library to reconstruct every park you've visited, with no uploads, and connects travelers through a location-based community."
     },
     {
       "slug": "golf-passport",
@@ -102,8 +102,8 @@
         "Rounds logged from your photos, on device",
         "Community leaderboards"
       ],
-      "ai": "Photo intelligence",
-      "ai_story": "Analyzes the location data in your photos, on your device, to find the courses you've played, with a community to comment on each course."
+      "ai": "Private on-device AI",
+      "ai_story": "Privacy-first, on-device intelligence reconstructs every course you've played from the location data in your photos, with no uploads, and connects golfers through a course-by-course community."
     },
     {
       "slug": "charge-and-grab",
@@ -118,8 +118,8 @@
         "Food and coffee within walking distance",
         "Saved chargers"
       ],
-      "ai": "AI-curated data",
-      "ai_story": "Uses AI to gather and organize live place data around each Supercharger, so food, coffee, and restrooms are easy to compare."
+      "ai": "AI data pipeline",
+      "ai_story": "An AI data pipeline aggregates and structures live place data around every Supercharger, turning scattered listings into instant, walkable recommendations."
     },
     {
       "slug": "swing-like-pro",
@@ -128,8 +128,8 @@
       "category": "golf",
       "ios_id": "1668952053",
       "android_id": "tech.dnnr.swing_like_pro",
-      "ai": "On-device vision",
-      "ai_story": "Analyzes golf swings with on-device pose detection, so videos never leave the phone.",
+      "ai": "On-device computer vision",
+      "ai_story": "On-device computer vision tracks body pose frame by frame and compares your swing with a pro's in 3D, with no sensors and no uploads.",
       "description": "Swing Like Pro turns a phone video of your golf swing into a side-by-side lesson with a pro, including a 3D view you can rotate. Your video is analyzed privately on your device.",
       "highlights": [
         "Side-by-side pro comparison",
@@ -144,8 +144,8 @@
       "category": "utility",
       "ios_id": "6746064943",
       "android_id": "tech.dnnr.timezonealarm",
-      "ai": "AI city search",
-      "ai_story": "Understands natural-language city and time-zone searches with a language model.",
+      "ai": "Natural-language AI",
+      "ai_story": "Natural-language AI turns a casual phrase into the right city and time zone, powering alarms that follow any clock in the world.",
       "description": "Time Zone Alarm sets alarms on another city's clock. Pick the city and the time there, and your phone rings at the right moment where you are.",
       "highlights": [
         "Alarms pegged to any time zone",
@@ -160,8 +160,8 @@
       "category": "food",
       "ios_id": "6765604729",
       "android_id": "tech.dnnr.bapmap",
-      "ai": "AI translation",
-      "ai_story": "Translates and moderates community posts across four languages with AI.",
+      "ai": "Multilingual AI",
+      "ai_story": "Multilingual LLMs translate and moderate community content across four languages, turning a local food guide into a global one.",
       "description": "BapMap helps you decide what to order at Korean restaurants, with curated restaurants, signature dishes, and practical ordering tips across major U.S. metro areas.",
       "highlights": [
         "Curated Korean restaurants",
@@ -182,8 +182,8 @@
         "Distance-sorted store list",
         "Directions and call-ahead"
       ],
-      "ai": "AI-curated data",
-      "ai_story": "Uses AI to gather and organize store data, so wagyu near you is easy to find."
+      "ai": "AI data pipeline",
+      "ai_story": "An AI data pipeline gathers and normalizes retailer data nationwide, turning a hard-to-find product into a searchable map."
     },
     {
       "slug": "secret-menu-super-duper",
@@ -198,8 +198,8 @@
         "Share your own secret combo",
         "Ordering tips"
       ],
-      "ai": "AI moderation",
-      "ai_story": "AI moderation keeps fan-submitted combos and comments helpful and safe."
+      "ai": "LLM trust & safety",
+      "ai_story": "LLM-powered trust & safety automatically reviews every fan submission and comment, keeping a user-generated menu helpful and clean."
     },
     {
       "slug": "snap-and-shake",
@@ -208,8 +208,8 @@
       "category": "food",
       "ios_id": "6745154638",
       "android_id": "tech.dnnr.snapshake",
-      "ai": "Vision AI",
-      "ai_story": "Identifies ingredients from a photo and suggests cocktails you can make with them.",
+      "ai": "Multimodal AI",
+      "ai_story": "Multimodal AI recognizes bottles and ingredients from a single photo and generates cocktail recipes tailored to what you have.",
       "description": "Snap & Shake turns a photo of the bottles and ingredients you have into cocktail recipes you can make at home.",
       "highlights": [
         "Ingredient recognition from a photo",
@@ -224,9 +224,9 @@
       "category": "work",
       "ios_id": "6744045802",
       "android_id": "tech.dnnr.targeted_resume",
-      "ai": "LLM",
+      "ai": "Generative AI",
       "featured": true,
-      "ai_story": "Tailors a resume to each job post with a large language model.",
+      "ai_story": "Generative AI parses any job post, as text, a link, or a screenshot, and rewrites your resume to match what the employer is looking for.",
       "description": "Targeted Resume AI reads a job post, understands what the employer is looking for, and helps tailor your resume to match.",
       "highlights": [
         "Tailored to each job post",
@@ -242,8 +242,8 @@
       "ios_id": "6745057918",
       "android_id": "tech.dnnr.targetedcv",
       "support": "/academic_cv_support",
-      "ai": "LLM",
-      "ai_story": "Tailors CVs and statements to each graduate program with LLMs and web search.",
+      "ai": "Search-grounded AI",
+      "ai_story": "Search-grounded generative AI researches each graduate program on the web and tailors your CV and statement of purpose to it.",
       "description": "Academic CV AI helps graduate school applicants tailor their CV and statement of purpose to each master's or PhD program.",
       "highlights": [
         "Tailored to each program",
