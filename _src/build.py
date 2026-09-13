@@ -430,7 +430,7 @@ def page_home():
     caps = "".join(f'<div><div class="icon-tile">{icon(i)}</div><b>{e(t)}</b><span>{e(d)}</span></div>' for i, t, d in CAPABILITIES)
     work = "".join(f"""
       <a class="work-card" href="/apps/{a['slug']}">
-        <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
+        <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="{e(a['name'])} app icon" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
         <h3>{e(a['name'])}</h3>
         <p>{e(a.get('ai_story') or a['tagline'])}</p>
       </a>""" for a in APPS if a.get("featured"))
@@ -537,7 +537,7 @@ def page_services():
         <div class="icon-tile">{icon(ic)}</div>
         <h3>{e(t)}</h3>
         <p>{e(d)}</p>
-        <a class="where" href="/apps/{s}"><img src="/static/apps/{s}.png" alt="" width="28" height="28" loading="lazy">{e(BY_SLUG[s]['name'])} <em>on iOS &amp; Android</em></a>
+        <a class="where" href="/apps/{s}"><img src="/static/apps/{s}.png" alt="{e(BY_SLUG[s]['name'])} app icon" width="28" height="28" loading="lazy">{e(BY_SLUG[s]['name'])} <em>on iOS &amp; Android</em></a>
       </div>""" for ic, t, s, d in PROOFS)
     steps = [
         ("Discovery", "A short call to understand your product, users, and goals."),
@@ -631,7 +631,7 @@ def page_apps():
     cards = "".join(f"""
       <article class="app-card" id="{a['slug']}" data-cat="{a['category']}" data-ai="{'1' if a.get('ai') else '0'}">
         <div class="body">
-          <div class="head"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="64" height="64" loading="lazy">{ai_badge(a)}</div>
+          <div class="head"><img class="icon" src="/static/apps/{a['slug']}.png" alt="{e(a['name'])} app icon" width="64" height="64" loading="lazy">{ai_badge(a)}</div>
           <div><h3><a class="stretch" href="/apps/{a['slug']}">{e(a['name'])}</a></h3><div class="cat">{e(CATS[a['category']])}</div></div>
           <p>{e(a['tagline'])}</p>
         </div>
@@ -681,7 +681,7 @@ def page_service_detail(sv):
     path = f"/services/{sv['slug']}"
     related = "".join(f"""
       <a class="work-card" href="/apps/{a['slug']}">
-        <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
+        <div class="top"><img class="icon" src="/static/apps/{a['slug']}.png" alt="{e(a['name'])} app icon" width="56" height="56" loading="lazy">{ai_badge(a)}</div>
         <h3>{e(a['name'])}</h3>
         <p>{e(a.get('ai_story') or a['description'])}</p>
       </a>""" for a in (BY_SLUG[x] for x in sv["related"]))
@@ -773,7 +773,7 @@ def page_app_detail(a):
         more += [x for x in APPS if x["slug"] != a["slug"] and x not in more][: 3 - len(more)]
     more_html = "".join(f"""
       <a class="work-card" href="/apps/{x['slug']}">
-        <div class="top"><img class="icon" src="/static/apps/{x['slug']}.png" alt="" width="56" height="56" loading="lazy">{ai_badge(x)}</div>
+        <div class="top"><img class="icon" src="/static/apps/{x['slug']}.png" alt="{e(x['name'])} app icon" width="56" height="56" loading="lazy">{ai_badge(x)}</div>
         <h3>{e(x['name'])}</h3><p>{e(x['tagline'])}</p>
       </a>""" for x in more)
     ai_block = f"""
@@ -793,7 +793,7 @@ def page_app_detail(a):
   <div class="doc-hero detail-hero">
     {crumbs(trail)}
     <div class="app-hero">
-      <img class="app-hero-icon" src="/static/apps/{a['slug']}.png" alt="" width="112" height="112">
+      <img class="app-hero-icon" src="/static/apps/{a['slug']}.png" alt="{e(a['name'])} app icon" width="112" height="112">
       <div>
         <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><span class="kicker">{e(CATS[a['category']])}</span>{ai_badge(a)}</div>
         <h1>{e(a['name'])}</h1>
@@ -893,7 +893,7 @@ def page_privacy():
 
     def expand(text):
         return re.sub(r"\{\{app:([a-z0-9-]+)\}\}",
-                      lambda m: f'<img src="/static/apps/{m.group(1)}.png" alt="" width="32" height="32">{e(BY_SLUG[m.group(1)]["name"])}', text)
+                      lambda m: f'<img src="/static/apps/{m.group(1)}.png" alt="{e(BY_SLUG[m.group(1)]["name"])} app icon" width="32" height="32">{e(BY_SLUG[m.group(1)]["name"])}', text)
 
     eff = content("privacy_date.txt").strip()
     d = date.fromisoformat(eff)
@@ -934,7 +934,7 @@ def page_academic_cv():
 <div class="container">
   <div class="doc-hero">
     <span class="eyebrow"><span class="dot"></span>App support</span>
-    <div class="app-head" style="margin-top:20px"><img class="app-icon" src="/static/apps/{a['slug']}.png" alt="" width="60" height="60"><h1 style="margin:0">Academic CV AI Support</h1></div>
+    <div class="app-head" style="margin-top:20px"><img class="app-icon" src="/static/apps/{a['slug']}.png" alt="{e(a['name'])} app icon" width="60" height="60"><h1 style="margin:0">Academic CV AI Support</h1></div>
   </div>
   <div class="doc-layout single">
     <article class="prose">
