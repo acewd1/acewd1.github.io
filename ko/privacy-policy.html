@@ -70,7 +70,7 @@
   <li><strong>계정 정보</strong>: 일부 앱은 익명 계정을 사용하거나 Google·Apple 로그인을 선택적으로 제공하며, 로그인 시 이메일 주소(Apple이 제공하는 경우 이름 포함)를 받습니다.</li>
   <li><strong>자동 수집 정보</strong>: 앱 사용자 ID·설치 ID·푸시 토큰·광고 식별자 등 식별자, 이용 기록과 오류 정보, 기기 모델·운영체제·언어·시간대·앱 버전, IP 주소와 이를 통해 추정한 대략적 위치. 앱에 포함된 분석·광고 도구(SDK)로 수집되며, 웹사이트에서는 보안·운영에 필요한 쿠키가 사용될 수 있으며, 브라우저 설정에서 쿠키 저장을 거부할 수 있습니다(일부 기능이 제한될 수 있음).</li>
   <li><strong>위치정보</strong>: 허용한 경우 주변 장소 검색, 거리·경로 계산 등에 사용합니다. 기기 안에서만 쓰거나, 기능에 필요하면 서버로 보내 처리·저장합니다. 일부 앱은 허용 시 백그라운드 위치와 동작 정보를 사용합니다(예: 주행 자동 기록).</li>
-  <li><strong>사진·카메라·파일</strong>: 해당 기능을 쓸 때만 접근합니다. 사진의 위치·날짜 정보나 영상 분석은 원칙적으로 기기 안에서 처리하며, 이용자가 게시·첨부하거나 AI 기능으로 보낸 사진만 업로드됩니다.</li>
+  <li><strong>사진·카메라·파일</strong>: 해당 기능을 쓸 때만 접근합니다. 사진의 위치·날짜 정보나 영상 분석은 원칙적으로 기기 안에서 처리하며, 일부 앱은 그 결과(예: 사진이 매칭된 도시·장소)를 분석 목적으로 전송합니다. 이용자가 게시·첨부하거나 AI 기능으로 보낸 사진만 업로드됩니다.</li>
   <li><strong>구매 정보</strong>: 결제는 Apple 또는 Google이 처리하며, 회사는 카드 정보를 받지 않고 구매 확인에 필요한 내역만 받습니다.</li>
 </ul>
 <p>일부 앱은 기록(예: 건강·예방접종 기록)을 기기에만 저장하고 회사 서버로 보내지 않습니다.</p>
@@ -101,7 +101,7 @@
 <div class="table-wrap"><table>
   <thead><tr><th>업체</th><th>위탁 업무</th></tr></thead>
   <tbody>
-    <tr><td>Google (Firebase, Google Cloud, Gemini·Vertex AI, Maps Platform, AdMob 등)</td><td>서버·데이터 저장, 로그인, 분석·오류 보고, 푸시 알림, AI 기능, 지도·장소 검색, 광고</td></tr>
+    <tr><td>Google (Google Analytics for Firebase·Crashlytics를 포함한 Firebase, Google Cloud, Gemini·Vertex AI, Maps Platform, AdMob 등)</td><td>서버·데이터 저장, 로그인, 앱 이용 분석·오류 보고, 푸시 알림, AI 기능, 지도·장소 검색, 광고</td></tr>
     <tr><td>광고 미디에이션 파트너</td><td>광고 표시·측정</td></tr>
     <tr><td>RevenueCat (구매가 있는 앱)</td><td>구매·구독 관리</td></tr>
     <tr><td>Apple</td><td>Apple 로그인, 푸시 알림, App Store 구매·광고 성과 측정</td></tr>
