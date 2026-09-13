@@ -827,7 +827,7 @@ def page_app_detail(a):
     <div class="work">{more_html}</div>
   </div>
 </section>"""
-    return layout(path=path, title=f"{a['name']} — {a['tagline'].rstrip('.')}", current="apps",
+    return layout(path=path, title=a.get("seo_title") or f"{a['name']} — {a['tagline'].rstrip('.')}", current="apps",
                   description=f"{a['description']} Free on iPhone and Android.",
                   body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
 
