@@ -69,7 +69,9 @@
         "Automatic drive detection",
         "Unlimited trips, free",
         "Receipts and expenses"
-      ]
+      ],
+      "ai": "Trip intelligence",
+      "ai_story": "Detects drives automatically and infers each trip from your routes and tagged places, so your mileage log fills itself."
     },
     {
       "slug": "stamprescue",
@@ -83,7 +85,9 @@
         "Nearby stamp stations",
         "Park history from your photos, on device",
         "Trip planning"
-      ]
+      ],
+      "ai": "Photo intelligence",
+      "ai_story": "Analyzes the location data in your photos, on your device, to detect the parks you've visited, with a community for tips on each park and stamp station."
     },
     {
       "slug": "golf-passport",
@@ -97,7 +101,9 @@
         "Course finder, worldwide",
         "Rounds logged from your photos, on device",
         "Community leaderboards"
-      ]
+      ],
+      "ai": "Photo intelligence",
+      "ai_story": "Analyzes the location data in your photos, on your device, to find the courses you've played, with a community to comment on each course."
     },
     {
       "slug": "charge-and-grab",
@@ -111,7 +117,9 @@
         "Chargers near you or on your route",
         "Food and coffee within walking distance",
         "Saved chargers"
-      ]
+      ],
+      "ai": "AI-curated data",
+      "ai_story": "Uses AI to gather and organize live place data around each Supercharger, so food, coffee, and restrooms are easy to compare."
     },
     {
       "slug": "swing-like-pro",
@@ -173,7 +181,9 @@
         "Map of wagyu-listed stores",
         "Distance-sorted store list",
         "Directions and call-ahead"
-      ]
+      ],
+      "ai": "AI-curated data",
+      "ai_story": "Uses AI to gather and organize store data, so wagyu near you is easy to find."
     },
     {
       "slug": "secret-menu-super-duper",
@@ -187,7 +197,9 @@
         "Fan-favorite combos",
         "Share your own secret combo",
         "Ordering tips"
-      ]
+      ],
+      "ai": "AI moderation",
+      "ai_story": "AI moderation keeps fan-submitted combos and comments helpful and safe."
     },
     {
       "slug": "snap-and-shake",

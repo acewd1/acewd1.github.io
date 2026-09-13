@@ -624,8 +624,9 @@ def page_services():
 
 def page_apps():
     used = [c for c in REG["categories"] if any(a["category"] == c["id"] for a in APPS)]
+    some_ai = 0 < sum(1 for a in APPS if a.get("ai")) < len(APPS)  # an AI filter only helps if not every app has AI
     chips = ('<button class="chip" type="button" data-filter="all" aria-pressed="true">All</button>'
-             f'<button class="chip" type="button" data-filter="ai" aria-pressed="false">{icon("sparkle")}AI-powered</button>'
+             + (f'<button class="chip" type="button" data-filter="ai" aria-pressed="false">{icon("sparkle")}AI-powered</button>' if some_ai else "")
              + "".join(f'<button class="chip" type="button" data-filter="{c["id"]}" aria-pressed="false">{e(c["label"])}</button>' for c in used))
     cards = "".join(f"""
       <article class="app-card" id="{a['slug']}" data-cat="{a['category']}" data-ai="{'1' if a.get('ai') else '0'}">
@@ -650,7 +651,7 @@ def page_apps():
   <div class="doc-hero">
     <span class="eyebrow"><span class="dot"></span>Portfolio</span>
     <h1>Our apps</h1>
-    <p class="lead">Products we design, build, and operate ourselves, available on the App Store and Google Play.</p>
+    <p class="lead">AI-powered products we design, build, and operate ourselves, from vision and language models to on-device intelligence. Available on the App Store and Google Play.</p>
     <div class="stores" style="margin-top:24px">
       <a class="btn btn-ghost btn-sm" href="/ios">{APPLE}App Store</a>
       <a class="btn btn-ghost btn-sm" href="/android">{PLAY}Google Play</a>
@@ -661,7 +662,7 @@ def page_apps():
 </div>
 {cta("Want to build an app like these?", "We help startups design, build, and launch AI-powered apps.", "apps_cta", "Start a project")}"""
     return layout(path="/apps", title="Apps", current="apps",
-                  description="AI-powered iPhone and Android apps built and operated by DNNR Tech, including What to Eat, TJ Near & Hot, Targeted Resume AI, and more.",
+                  description="AI-powered iPhone and Android apps built and operated by DNNR Tech: What to Eat, TJ Near & Hot, AutoMiles, Golf Passport, StampRescue, Targeted Resume AI, and more.",
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
 
 

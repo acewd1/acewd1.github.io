@@ -44,22 +44,22 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
   - Highlights: Menu recognition from a single photo; Dishes explained in your language; Real photos of each dish.
   - App Store: https://apps.apple.com/app/id6738074847
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.what2eat
-- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall.
+- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall. AI: Detects drives automatically and infers each trip from your routes and tagged places, so your mileage log fills itself.
   - AutoMiles automatically detects and logs every drive for mileage tracking, with no monthly cap, subscription, or paywall. Your trips stay on your device.
   - Highlights: Automatic drive detection; Unlimited trips, free; Receipts and expenses.
   - App Store: https://apps.apple.com/app/id6757247618
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.triptracker
-- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself.
+- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself. AI: Analyzes the location data in your photos, on your device, to detect the parks you've visited, with a community for tips on each park and stamp station.
   - StampRescue finds national parks, monuments, and passport stamp stations near you, and turns the photos you already took into a record of every park you've visited.
   - Highlights: Nearby stamp stations; Park history from your photos, on device; Trip planning.
   - App Store: https://apps.apple.com/app/id6775184084
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.npstamps
-- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves.
+- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves. AI: Analyzes the location data in your photos, on your device, to find the courses you've played, with a community to comment on each course.
   - Golf Passport finds golf courses almost anywhere in the world and turns the photos you already took into a record of every course you've played.
   - Highlights: Course finder, worldwide; Rounds logged from your photos, on device; Community leaderboards.
   - App Store: https://apps.apple.com/app/id6794523868
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.golfpassport
-- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger.
+- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger. AI: Uses AI to gather and organize live place data around each Supercharger, so food, coffee, and restrooms are easy to compare.
   - Charge&Grab finds Superchargers near you or along your route and shows which ones have food, coffee, groceries, and restrooms within an easy walk.
   - Highlights: Chargers near you or on your route; Food and coffee within walking distance; Saved chargers.
   - App Store: https://apps.apple.com/app/id6775188817
@@ -79,12 +79,12 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
   - Highlights: Curated Korean restaurants; Signature dishes and ordering tips; Community posts translated by AI.
   - App Store: https://apps.apple.com/app/id6765604729
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.bapmap
-- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you.
+- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you. AI: Uses AI to gather and organize store data, so wagyu near you is easy to find.
   - Wagyu Beef Finder helps you find stores, butchers, and specialty markets near you that may carry wagyu beef, with a map and a distance-sorted list.
   - Highlights: Map of wagyu-listed stores; Distance-sorted store list; Directions and call-ahead.
   - App Store: https://apps.apple.com/app/id6758656883
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.costco_finder
-- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos.
+- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos. AI: AI moderation keeps fan-submitted combos and comments helpful and safe.
   - Secret Menu for Super Duper is an unofficial fan-made guide to menu favorites and off-menu inspired burger combinations, where fans can share their own combos. It is not affiliated with Super Duper Burgers.
   - Highlights: Fan-favorite combos; Share your own secret combo; Ordering tips.
   - App Store: https://apps.apple.com/app/id6749433235

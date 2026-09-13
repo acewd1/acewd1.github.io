@@ -21,15 +21,15 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
 
 - [TJ Near & Hot](https://dnnr.us/apps/tj-near-hot): The Trader Joe's finds shoppers love, at the store near you. AI: Semantic product search with AI embeddings, plus AI moderation for community posts and photos.
 - [What to Eat](https://dnnr.us/apps/what-to-eat): Point your camera at any menu and see what every dish really is. AI: Reads a photo of a foreign menu with vision AI and explains every dish in your language.
-- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall.
-- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself.
-- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves.
-- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger.
+- [AutoMiles](https://dnnr.us/apps/automiles): Every drive logged automatically. No monthly cap, no paywall. AI: Detects drives automatically and infers each trip from your routes and tagged places, so your mileage log fills itself.
+- [StampRescue](https://dnnr.us/apps/stamprescue): National park stamps nearby, and a park journal that fills itself. AI: Analyzes the location data in your photos, on your device, to detect the parks you've visited, with a community for tips on each park and stamp station.
+- [Golf Passport](https://dnnr.us/apps/golf-passport): Find courses anywhere and let your rounds log themselves. AI: Analyzes the location data in your photos, on your device, to find the courses you've played, with a community to comment on each course.
+- [Charge&Grab](https://dnnr.us/apps/charge-and-grab): See the food, coffee, and restrooms near each Supercharger. AI: Uses AI to gather and organize live place data around each Supercharger, so food, coffee, and restrooms are easy to compare.
 - [Swing Like Pro](https://dnnr.us/apps/swing-like-pro): Compare your golf swing side by side with the pros. AI: Analyzes golf swings with on-device pose detection, so videos never leave the phone.
 - [Time Zone Alarm](https://dnnr.us/apps/time-zone-alarm): Set an alarm on another city's clock. No mental math. AI: Understands natural-language city and time-zone searches with a language model.
 - [BapMap](https://dnnr.us/apps/bapmap): Know exactly what to order at Korean restaurants. AI: Translates and moderates community posts across four languages with AI.
-- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you.
-- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos.
+- [Wagyu Beef Finder](https://dnnr.us/apps/wagyu-beef-finder): Find stores and butchers that carry wagyu near you. AI: Uses AI to gather and organize store data, so wagyu near you is easy to find.
+- [Secret Menu for Super Duper](https://dnnr.us/apps/secret-menu-super-duper): A fan-made guide to favorites and off-menu burger combos. AI: AI moderation keeps fan-submitted combos and comments helpful and safe.
 - [Snap & Shake](https://dnnr.us/apps/snap-and-shake): Snap your ingredients and get a cocktail you can make tonight. AI: Identifies ingredients from a photo and suggests cocktails you can make with them.
 - [Targeted Resume AI](https://dnnr.us/apps/targeted-resume-ai): Tailor your resume to each job post in minutes. AI: Tailors a resume to each job post with a large language model.
 - [Academic CV AI](https://dnnr.us/apps/academic-cv-ai): Tailor your CV and statement for every grad program. AI: Tailors CVs and statements to each graduate program with LLMs and web search.
