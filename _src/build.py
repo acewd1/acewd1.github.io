@@ -618,7 +618,7 @@ def page_services():
   </div>
 </section>"""
     return layout(path="/services", title="Startup Product & AI Consulting", current="services",
-                  description="AI product and MVP development, native iOS and Android app development with backend, and AI integration advisory for startups, from a San Jose team that ships its own AI products.",
+                  description="AI product and MVP development, native iOS and Android apps, and AI integration advisory for startups, from a San Jose team that ships its own AI.",
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
 
 
@@ -662,7 +662,7 @@ def page_apps():
 </div>
 {cta("Want to build an app like these?", "We help startups design, build, and launch AI-powered apps.", "apps_cta", "Start a project")}"""
     return layout(path="/apps", title="Apps", current="apps",
-                  description="AI-powered iPhone and Android apps built and operated by DNNR Tech: What to Eat, TJ Near & Hot, AutoMiles, Golf Passport, StampRescue, Targeted Resume AI, and more.",
+                  description="AI-powered iPhone and Android apps built and run by DNNR Tech, including What to Eat, TJ Near & Hot, AutoMiles, Golf Passport, and more.",
                   body=body, head_extra=f'<script type="application/ld+json">{json.dumps(ld)}</script>')
 
 
@@ -760,7 +760,7 @@ def page_service_detail(sv):
 </section>
 {cta("Ready to talk about your project?", "Tell us what you're building. We'll reply by email with next steps.", "service_" + sv['id'], "Start a conversation")}"""
     return layout(path=path, title=sv["title"], current="services",
-                  description=f"{sv['summary']} {sv['ideal']} From DNNR Tech, a San Jose AI technology company.",
+                  description=f"{sv['summary']} From DNNR Tech, a San Jose AI technology company.",
                   body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
 
 
@@ -828,7 +828,7 @@ def page_app_detail(a):
   </div>
 </section>"""
     return layout(path=path, title=a.get("seo_title") or f"{a['name']} — {a['tagline'].rstrip('.')}", current="apps",
-                  description=f"{a['description']} Free on iPhone and Android.",
+                  description=f"{a.get('seo_description') or a['description']} Free on iPhone and Android.",
                   body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
 
 
