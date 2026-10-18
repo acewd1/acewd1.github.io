@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T16:09:22.118Z",
+  "last_updated": "2026-10-18T15:25:26.563Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -54,16 +54,10 @@
       ],
       "popular": [
         {
-          "name": "Ginger Lemon Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
+          "name": "London Fog Tea Drink Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
           "price": "2.99"
-        },
-        {
-          "name": "Vietnam Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84045.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnam-small-lot-coffee-084045",
-          "price": "11.99"
         },
         {
           "name": "Cold Brew Coffee",
@@ -72,15 +66,15 @@
           "price": "3.49"
         },
         {
-          "name": "London Fog Tea Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
-          "price": "2.99"
+          "name": "Vietnam Small Lot Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84045.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnam-small-lot-coffee-084045",
+          "price": "11.99"
         },
         {
-          "name": "Spiced Chai Black Tea Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "name": "Ginger Lemon Herbal Tea",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
           "price": "2.99"
         },
         {
@@ -90,16 +84,22 @@
           "price": "2.79"
         },
         {
-          "name": "Organic Hot Cocoa Mix",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/50256.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-hot-cocoa-mix-050256",
-          "price": "4.29"
+          "name": "GT's Alive Raspberry Lychee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/86058.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-alive-raspberry-lychee-086058",
+          "price": "3.49"
         },
         {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
+          "name": "Spiced Chai Black Tea Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
+          "price": "2.99"
+        },
+        {
+          "name": "100% Colombian Instant Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/93200.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-colombian-instant-coffee-093200",
+          "price": "5.99"
         }
       ],
       "whats_new": [
@@ -212,16 +212,16 @@
           "price": "2.99"
         },
         {
+          "name": "Retinol Night Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
+          "price": "9.99"
+        },
+        {
           "name": "Milky Hydrating Bi-Phase Face Mist",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85224.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/milky-hydrating-bi-phase-face-mist-085224",
           "price": "6.99"
-        },
-        {
-          "name": "Amber Scented Hand Sanitizer Spray",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85239.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/amber-scented-hand-sanitizer-spray-085239",
-          "price": "2.99"
         },
         {
           "name": "Vitamin C Serum",
@@ -230,16 +230,16 @@
           "price": "9.99"
         },
         {
+          "name": "Amber Scented Hand Sanitizer Spray",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85239.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/amber-scented-hand-sanitizer-spray-085239",
+          "price": "2.99"
+        },
+        {
           "name": "Daily Facial Sunscreen SPF 40",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/73568.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/daily-facial-sunscreen-spf-40-073568",
           "price": "8.99"
-        },
-        {
-          "name": "Retinol Night Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
-          "price": "9.99"
         },
         {
           "name": "Ultra Moisturizing Hand Cream",
@@ -248,10 +248,10 @@
           "price": "4.99"
         },
         {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
+          "price": "8.99"
         }
       ],
       "whats_new": [
@@ -540,22 +540,22 @@
           "price": "2.99"
         },
         {
-          "name": "Swedish Princess Raspberry Cake",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84441.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/swedish-princess-raspberry-cake-084441",
-          "price": "7.99"
+          "name": "Santa Maria Tri-Tip Roast",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/90570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/santa-maria-tri-tip-roast-090570",
+          "price": "13.99"
         },
         {
-          "name": "Teeny Tiny Pumpkin Pies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/85431.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/teeny-tiny-pumpkin-pies-085431",
-          "price": "5.49"
+          "name": "Protein Pancakes",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/82570.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/protein-pancakes-082570",
+          "price": "3.79"
         },
         {
-          "name": "Linguine Nerano",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82463.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/linguine-nerano-082463",
-          "price": "4.79"
+          "name": "Dark Chocolate Chips No Sugar Added",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/79169.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dark-chocolate-chips-no-sugar-added-079169",
+          "price": "3.99"
         }
       ],
       "whats_new": [
