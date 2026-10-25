@@ -32,7 +32,7 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
   - Q: Can you help reduce our AI costs? A: Yes. We review model choices, prompts, caching, and architecture to lower cost and latency while keeping quality.
   - Q: How do you make AI features reliable? A: With evaluation sets built from real inputs, guardrails, fallbacks, and monitoring once the feature is live.
 
-## Apps (free on iOS and Android)
+## Apps (free; iOS and Android unless noted)
 
 - [TJ Near & Hot](https://dnnr.us/apps/tj-near-hot): The Trader Joe's finds shoppers love, at the store near you. AI: An AI discovery engine: vector-embedding semantic search understands what shoppers mean, while LLM-powered trust & safety moderates community posts and photos.
   - TJ Near & Hot helps Trader Joe's shoppers find a store nearby, see the grocery finds the community is buzzing about, and build a shopping list. Shoppers swap picks, reviews, and recipes with other fans. It is an independent app and is not affiliated with Trader Joe's.
@@ -104,6 +104,32 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
   - Highlights: Tailored to each program; CV and statement of purpose; Program research with web search.
   - App Store: https://apps.apple.com/app/id6745057918
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.targetedcv
+- [Wanderlit](https://dnnr.us/apps/wanderlit): A glowing map of everywhere you've been, drawn from your photos. AI: Privacy-first, on-device intelligence reads the location and time data in your photo library and reconstructs your travel history across 29,000+ cities, with no uploads and no account.
+  - Wanderlit turns the photos already on your phone into a glowing world map of everywhere you've traveled. One scan lights up every matching city among 29,000+ worldwide, with travel stats, badges, a yearly recap, and a cinematic replay of your journeys. No account, and your photos never leave your device.
+  - Highlights: 29,000+ cities lit from your photo library, on device; Travel stats, badges, and yearly recaps; Replay your journeys as a video.
+  - App Store: https://apps.apple.com/app/id6806763975
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.travelmap
+- [Next Vaccination](https://dnnr.us/apps/next-vaccination): Your child's vaccine schedule, turned into what to do next. AI: An AI data pipeline gathers and curates each country's official immunization guidance and matches it to your child's actual records, so the schedule reflects local rules without manual lookups.
+  - Next Vaccination organizes what to do now from your child's actual vaccination records, following the CDC child immunization schedule. Home changes with your situation, from ordinary days to vaccination day and the observation days after, and a one-screen visit summary is ready to show your pediatrician.
+  - Highlights: Next doses calculated from the dates actually given; A clinic visit summary to show your pediatrician; After-care mode with a reaction log and family sharing.
+  - App Store: https://apps.apple.com/app/id6811327424
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.nextvaccination
+  - Website: https://nv.dnnr.us
+- [Vibin](https://dnnr.us/apps/vibin): Quick personality tests, love compatibility, and daily polls to share. AI: Generative AI narratives and context-aware translation power result readings, daily fortunes, and multilingual test content through an edge AI pipeline.
+  - Vibin is a personality test and quiz app: quick tests on social style, love style, attachment, communication, and culture, plus daily this-or-that polls. Every result shows how rare your type is worldwide and which celebrities share it, then becomes a poster-style card you can share with friends.
+  - Highlights: 14+ personality, love, and culture tests; World rarity and celebrity matches for every result; Daily polls and shareable result cards.
+  - App Store: https://apps.apple.com/app/id6778024918
+  - Google Play: https://play.google.com/store/apps/details?id=world.vibin.mobile
+  - Website: https://vibin.world
+- [RemoveVoice](https://dnnr.us/apps/removevoice): Mute the voices in a video. Keep the waves, wind, and birdsong. (Android only.) AI: On-device neural source separation and voice activity detection isolate speech from ambience in real video audio, entirely on the phone, with no server and no uploads.
+  - RemoveVoice mutes the human voices in a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.
+  - Highlights: Targets speech only; nature and ambience stay; A fast pass plus a deeper pass for overlapping voices; A slider to keep a murmur of the crowd or go silent.
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.removevoice
+- [Globalist Notes for Hyatt](https://dnnr.us/apps/globalist-notes): Real Hyatt stays, documented: suites, lounges, breakfast, and fees. (Android only.) AI: A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments.
+  - Globalist Notes for Hyatt helps travelers understand what to expect before booking a Hyatt hotel, choosing a premium room, or paying for lounge access. Built from real stays through a Globalist perspective, it documents suite upgrades, lounge food and hours, breakfast, resort fees, parking, pools, and practical stay notes, with photos and videos.
+  - Highlights: Suite upgrades and lounge details from real stays; Breakfast, resort fee, parking, and pool notes; Save hotels and compare before you book.
+  - Google Play: https://play.google.com/store/apps/details?id=com.globalistnotes.mobile
+  - Website: https://globalistnotes.com
 
 ## Policies
 
