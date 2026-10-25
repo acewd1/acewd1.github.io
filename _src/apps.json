@@ -1,5 +1,5 @@
 {
-  "_comment": "Single source of truth for apps on dnnr.us. 'ai' = short badge label and 'ai_story' = one-line description of the real AI feature (set only for apps that have one). 'seo_title' = page <title> for /apps/<slug> (keep under 58 chars; ' — DNNR Tech' is appended); 'seo_description' = meta description (keep under 130 chars; ' Free on iPhone and Android.' is appended). 'featured' = shown in Selected work on the home page. Edit, then run: python3 _src/build.py",
+  "_comment": "Single source of truth for apps on dnnr.us. 'ai' = short badge label and 'ai_story' = one-line description of the real AI feature (set only for apps that have one). 'seo_title' = page <title> for /apps/<slug> (keep under 58 chars; ' — DNNR Tech' is appended); 'seo_description' = meta description (keep under 130 chars; ' Free on iPhone and Android.' is appended). 'featured' = shown in Selected work on the home page. Edit, then run: python3 _src/build.py Apps on one store only: leave out 'ios_id' or 'android_id'. 'site' = the app's own website, shown as a Website button.",
   "categories": [
     {
       "id": "food",
@@ -20,6 +20,14 @@
     {
       "id": "utility",
       "label": "Everyday Tools"
+    },
+    {
+      "id": "family",
+      "label": "Family & Health"
+    },
+    {
+      "id": "fun",
+      "label": "Personality & Fun"
     }
   ],
   "apps": [
@@ -278,6 +286,95 @@
         "CV and statement of purpose",
         "Program research with web search"
       ]
+    },
+    {
+      "slug": "wanderlit",
+      "name": "Wanderlit",
+      "tagline": "A glowing map of everywhere you've been, drawn from your photos.",
+      "seo_title": "Wanderlit: Travel Map From Your Photos",
+      "seo_description": "Light up every city you've visited on a world map, built on device from your photos. Travel stats, badges, and a yearly recap.",
+      "category": "travel",
+      "ios_id": "6806763975",
+      "android_id": "tech.dnnr.travelmap",
+      "description": "Wanderlit turns the photos already on your phone into a glowing world map of everywhere you've traveled. One scan lights up every matching city among 29,000+ worldwide, with travel stats, badges, a yearly recap, and a cinematic replay of your journeys. No account, and your photos never leave your device.",
+      "highlights": [
+        "29,000+ cities lit from your photo library, on device",
+        "Travel stats, badges, and yearly recaps",
+        "Replay your journeys as a video"
+      ],
+      "ai": "Private on-device AI",
+      "ai_story": "Privacy-first, on-device intelligence reads the location and time data in your photo library and reconstructs your travel history across 29,000+ cities, with no uploads and no account."
+    },
+    {
+      "slug": "next-vaccination",
+      "name": "Next Vaccination",
+      "tagline": "Your child's vaccine schedule, turned into what to do next.",
+      "seo_title": "Next Vaccination: Baby Vaccine Schedule & Reminders",
+      "seo_description": "Track your child's vaccines, see next doses calculated from real records, and prepare for each pediatrician visit.",
+      "category": "family",
+      "ios_id": "6811327424",
+      "android_id": "tech.dnnr.nextvaccination",
+      "site": "https://nv.dnnr.us",
+      "description": "Next Vaccination organizes what to do now from your child's actual vaccination records, following the CDC child immunization schedule. Home changes with your situation, from ordinary days to vaccination day and the observation days after, and a one-screen visit summary is ready to show your pediatrician.",
+      "highlights": [
+        "Next doses calculated from the dates actually given",
+        "A clinic visit summary to show your pediatrician",
+        "After-care mode with a reaction log and family sharing"
+      ]
+    },
+    {
+      "slug": "vibin",
+      "name": "Vibin",
+      "tagline": "Quick personality tests, love compatibility, and daily polls to share.",
+      "seo_title": "Vibin: Personality Test, Love Quiz & Polls",
+      "seo_description": "Quick personality and love tests, world rarity for your type, daily this-or-that polls, and a result card to share.",
+      "category": "fun",
+      "ios_id": "6778024918",
+      "android_id": "world.vibin.mobile",
+      "site": "https://vibin.world",
+      "description": "Vibin is a personality test and quiz app: quick tests on social style, love style, attachment, communication, and culture, plus daily this-or-that polls. Every result shows how rare your type is worldwide and which celebrities share it, then becomes a poster-style card you can share with friends.",
+      "highlights": [
+        "14+ personality, love, and culture tests",
+        "World rarity and celebrity matches for every result",
+        "Daily polls and shareable result cards"
+      ],
+      "ai": "Generative AI",
+      "ai_story": "Generative AI narratives and context-aware translation power result readings, daily fortunes, and multilingual test content through an edge AI pipeline."
+    },
+    {
+      "slug": "removevoice",
+      "name": "RemoveVoice",
+      "tagline": "Mute the voices in a video. Keep the waves, wind, and birdsong.",
+      "seo_title": "RemoveVoice: Mute Voices in Video, Keep Nature Sound",
+      "seo_description": "Remove human voices from a video while keeping waves, wind, birds, and street sound. Runs fully on your phone, with a slider to keep a murmur.",
+      "category": "utility",
+      "android_id": "tech.dnnr.removevoice",
+      "description": "RemoveVoice mutes the human voices in a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.",
+      "highlights": [
+        "Targets speech only; nature and ambience stay",
+        "A fast pass plus a deeper pass for overlapping voices",
+        "A slider to keep a murmur of the crowd or go silent"
+      ],
+      "ai": "Private on-device AI",
+      "ai_story": "On-device neural source separation and voice activity detection isolate speech from ambience in real video audio, entirely on the phone, with no server and no uploads."
+    },
+    {
+      "slug": "globalist-notes",
+      "name": "Globalist Notes for Hyatt",
+      "tagline": "Real Hyatt stays, documented: suites, lounges, breakfast, and fees.",
+      "seo_title": "Globalist Notes for Hyatt: Stay Reviews & Lounge Notes",
+      "seo_description": "See what Globalist benefits looked like at real Hyatt stays: suite upgrades, lounge access, breakfast, resort fees, parking, and pools.",
+      "category": "travel",
+      "android_id": "com.globalistnotes.mobile",
+      "site": "https://globalistnotes.com",
+      "description": "Globalist Notes for Hyatt helps travelers understand what to expect before booking a Hyatt hotel, choosing a premium room, or paying for lounge access. Built from real stays through a Globalist perspective, it documents suite upgrades, lounge food and hours, breakfast, resort fees, parking, pools, and practical stay notes, with photos and videos.",
+      "highlights": [
+        "Suite upgrades and lounge details from real stays",
+        "Breakfast, resort fee, parking, and pool notes",
+        "Save hotels and compare before you book"
+      ],
+      "ai": "Multimodal AI",
+      "ai_story": "A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments."
     }
   ]
 }

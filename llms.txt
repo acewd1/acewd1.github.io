@@ -17,7 +17,7 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
 - [Mobile app development](https://dnnr.us/services/mobile-app-development): Native iOS and Android apps, built to production quality and launched on both stores. Ideal for: Startups that need a production-ready app on both platforms, with the backend to run it.
 - [AI integration advisory](https://dnnr.us/services/ai-integration-advisory): Bring production-grade generative and multimodal AI into your product, with cost and quality under control. Ideal for: Products that want to add AI features, or teams whose AI costs and quality need a second look.
 
-## Apps (free on iOS and Android)
+## Apps (free; iOS and Android unless noted)
 
 - [TJ Near & Hot](https://dnnr.us/apps/tj-near-hot): The Trader Joe's finds shoppers love, at the store near you. AI: An AI discovery engine: vector-embedding semantic search understands what shoppers mean, while LLM-powered trust & safety moderates community posts and photos.
 - [What to Eat](https://dnnr.us/apps/what-to-eat): Point your camera at any menu and see what every dish really is. AI: Multimodal vision-language AI reads a photo of a menu in any language, identifies every dish, and explains it with real photos in seconds.
@@ -33,6 +33,11 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
 - [Snap & Shake](https://dnnr.us/apps/snap-and-shake): Snap your ingredients and get a cocktail you can make tonight. AI: Multimodal AI recognizes bottles and ingredients from a single photo and generates cocktail recipes tailored to what you have.
 - [Targeted Resume AI](https://dnnr.us/apps/targeted-resume-ai): Tailor your resume to each job post in minutes. AI: Generative AI parses any job post, as text, a link, or a screenshot, and rewrites your resume to match what the employer is looking for.
 - [Academic CV AI](https://dnnr.us/apps/academic-cv-ai): Tailor your CV and statement for every grad program. AI: Search-grounded generative AI researches each graduate program on the web and tailors your CV and statement of purpose to it.
+- [Wanderlit](https://dnnr.us/apps/wanderlit): A glowing map of everywhere you've been, drawn from your photos. AI: Privacy-first, on-device intelligence reads the location and time data in your photo library and reconstructs your travel history across 29,000+ cities, with no uploads and no account.
+- [Next Vaccination](https://dnnr.us/apps/next-vaccination): Your child's vaccine schedule, turned into what to do next.
+- [Vibin](https://dnnr.us/apps/vibin): Quick personality tests, love compatibility, and daily polls to share. AI: Generative AI narratives and context-aware translation power result readings, daily fortunes, and multilingual test content through an edge AI pipeline.
+- [RemoveVoice](https://dnnr.us/apps/removevoice): Mute the voices in a video. Keep the waves, wind, and birdsong. (Android only.) AI: On-device neural source separation and voice activity detection isolate speech from ambience in real video audio, entirely on the phone, with no server and no uploads.
+- [Globalist Notes for Hyatt](https://dnnr.us/apps/globalist-notes): Real Hyatt stays, documented: suites, lounges, breakfast, and fees. (Android only.) AI: A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments.
 
 ## Policies
 

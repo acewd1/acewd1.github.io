@@ -92,11 +92,40 @@ def ai_badge(a):
 
 
 def ios_url(a):
-    return f"https://apps.apple.com/app/id{a['ios_id']}"
+    return f"https://apps.apple.com/app/id{a['ios_id']}" if a.get("ios_id") else None
 
 
 def play_url(a):
-    return f"https://play.google.com/store/apps/details?id={a['android_id']}"
+    return f"https://play.google.com/store/apps/details?id={a['android_id']}" if a.get("android_id") else None
+
+
+def store_urls(a):
+    return [u for u in (ios_url(a), play_url(a)) if u]
+
+
+def store_names(a):
+    """'the App Store and Google Play' / 'Google Play' — apps.json may list an app on one store only."""
+    n = (["the App Store"] if a.get("ios_id") else []) + (["Google Play"] if a.get("android_id") else [])
+    return " and ".join(n)
+
+
+def os_names(a):
+    n = (["iPhone"] if a.get("ios_id") else []) + (["Android"] if a.get("android_id") else [])
+    return " and ".join(n)
+
+
+def os_list(a):
+    return ", ".join((["iOS"] if a.get("ios_id") else []) + (["Android"] if a.get("android_id") else []))
+
+
+def store_links(a, ios_cls="", play_cls="", label=True):
+    """Store buttons for one app; only the stores it is on."""
+    out = []
+    if ios_url(a):
+        out.append(f'<a{f" class={chr(34)}{ios_cls}{chr(34)}" if ios_cls else ""} href="{ios_url(a)}" rel="noopener" aria-label="{e(a["name"])} on the App Store">{APPLE}App Store</a>')
+    if play_url(a):
+        out.append(f'<a{f" class={chr(34)}{play_cls}{chr(34)}" if play_cls else ""} href="{play_url(a)}" rel="noopener" aria-label="{e(a["name"])} on Google Play">{PLAY}Google Play</a>')
+    return "".join(out)
 
 
 def contact_btn(label, source, topic="", cls="btn btn-ink", with_arrow=False):
@@ -635,16 +664,13 @@ def page_apps():
           <div><h3><a class="stretch" href="/apps/{a['slug']}">{e(a['name'])}</a></h3><div class="cat">{e(CATS[a['category']])}</div></div>
           <p>{e(a['tagline'])}</p>
         </div>
-        <div class="links">
-          <a href="{ios_url(a)}" rel="noopener" aria-label="{e(a['name'])} on the App Store">{APPLE}App Store</a>
-          <a href="{play_url(a)}" rel="noopener" aria-label="{e(a['name'])} on Google Play">{PLAY}Google Play</a>
-        </div>
+        <div class="links">{store_links(a)}</div>
       </article>""" for a in APPS)
     ld = {"@context": "https://schema.org", "@type": "ItemList", "itemListElement": [
         {"@type": "ListItem", "position": i + 1,
-         "item": {"@type": "MobileApplication", "name": a["name"], "description": a["tagline"], "operatingSystem": "iOS, Android",
+         "item": {"@type": "MobileApplication", "name": a["name"], "description": a["tagline"], "operatingSystem": os_list(a),
                   "applicationCategory": CATS[a["category"]], "url": f"{SITE}/apps/{a['slug']}", "image": f"{SITE}/static/apps/{a['slug']}.png",
-                  "sameAs": [ios_url(a), play_url(a)], "author": {"@type": "Organization", "name": "DNNR Tech"}}}
+                  "sameAs": store_urls(a), "author": {"@type": "Organization", "name": "DNNR Tech"}}}
         for i, a in enumerate(APPS)]}
     body = f"""
 <div class="container">
@@ -764,9 +790,22 @@ def page_service_detail(sv):
                   body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
 
 
+def shot_height(slug, i):
+    """Pixel height of a 360px-wide screenshot, read from the JPEG SOF header (no image library needed)."""
+    import struct
+    b = (ROOT / "static" / "apps" / "shots" / f"{slug}-{i}.jpg").read_bytes()
+    p = 2
+    while p < len(b):
+        marker, ln = b[p + 1], struct.unpack(">H", b[p + 2:p + 4])[0]
+        if marker in (0xC0, 0xC1, 0xC2):
+            return struct.unpack(">H", b[p + 5:p + 7])[0]
+        p += 2 + ln
+    return 780
+
+
 def page_app_detail(a):
     path = f"/apps/{a['slug']}"
-    shots = "".join(f'<img src="/static/apps/shots/{a["slug"]}-{i}.jpg" alt="{e(a["name"])} screenshot {i}" width="360" height="780" loading="lazy">'
+    shots = "".join(f'<img src="/static/apps/shots/{a["slug"]}-{i}.jpg" alt="{e(a["name"])} screenshot {i}" width="360" height="{shot_height(a["slug"], i)}" loading="lazy">'
                     for i in (1, 2, 3) if (ROOT / "static" / "apps" / "shots" / f"{a['slug']}-{i}.jpg").exists())
     more = [x for x in APPS if x["slug"] != a["slug"] and x["category"] == a["category"]][:3]
     if len(more) < 3:
@@ -781,12 +820,13 @@ def page_app_detail(a):
     trail = [("Home", "/"), ("Apps", "/apps"), (a["name"], path)]
     ld = [
         {"@context": "https://schema.org", "@type": "MobileApplication", "name": a["name"], "description": a["description"],
-         "url": SITE + path, "image": f"{SITE}/static/apps/{a['slug']}.png", "operatingSystem": "iOS, Android",
+         "url": SITE + path, "image": f"{SITE}/static/apps/{a['slug']}.png", "operatingSystem": os_list(a),
          "applicationCategory": CATS[a["category"]], "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
-         "installUrl": [ios_url(a), play_url(a)], "sameAs": [ios_url(a), play_url(a)],
+         "installUrl": store_urls(a), "sameAs": store_urls(a),
          "author": {"@type": "Organization", "name": "DNNR Tech", "url": SITE}},
         breadcrumbs_ld(trail),
     ]
+    site_link = f'<a class="btn btn-ghost" href="{e(a["site"])}" rel="noopener">Website{ARROW}</a>' if a.get("site") else ""
     extra = '<p><a href="/academic_cv_support">Academic CV AI support and AI content reports</a></p>' if a["slug"] == "academic-cv-ai" else ""
     body = f"""
 <div class="container">
@@ -798,10 +838,7 @@ def page_app_detail(a):
         <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><span class="kicker">{e(CATS[a['category']])}</span>{ai_badge(a)}</div>
         <h1>{e(a['name'])}</h1>
         <p class="lead">{e(a['tagline'])}</p>
-        <div class="stores" style="margin-top:22px">
-          <a class="btn btn-ink" href="{ios_url(a)}" rel="noopener">{APPLE}App Store</a>
-          <a class="btn btn-ghost" href="{play_url(a)}" rel="noopener">{PLAY}Google Play</a>
-        </div>
+        <div class="stores" style="margin-top:22px">{store_links(a, "btn btn-ink", "btn btn-ghost" if ios_url(a) else "btn btn-ink")}{site_link}</div>
       </div>
     </div>
   </div>
@@ -814,7 +851,7 @@ def page_app_detail(a):
       {ai_block}
       <h2>Highlights</h2>
       <ul class="checks" style="grid-template-columns:1fr">{''.join(f'<li>{icon("check")}{e(h)}</li>' for h in a['highlights'])}</ul>
-      <p class="muted-links">Free on the App Store and Google Play. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
+      <p class="muted-links">Free on {store_names(a)}. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
       {extra}
     </div>
     <div class="shots" aria-label="Screenshots">{shots}</div>
@@ -828,7 +865,7 @@ def page_app_detail(a):
   </div>
 </section>"""
     return layout(path=path, title=a.get("seo_title") or f"{a['name']} — {a['tagline'].rstrip('.')}", current="apps",
-                  description=f"{a.get('seo_description') or a['description']} Free on iPhone and Android.",
+                  description=f"{a.get('seo_description') or a['description']} Free on {os_names(a)}.",
                   body=body, head_extra="\n".join(f'<script type="application/ld+json">{json.dumps(x)}</script>' for x in ld))
 
 
@@ -849,13 +886,16 @@ def llms_txt(full=False):
         if full:
             L += [f"  - Includes: {'; '.join(sv['points'])}.", f"  - Typical deliverables: {'; '.join(sv['deliverables'])}."]
             L += [f"  - Q: {q} A: {a}" for q, a in sv["faq"]]
-    L += ["", "## Apps (free on iOS and Android)", ""]
+    L += ["", "## Apps (free; iOS and Android unless noted)", ""]
     for a in APPS:
         ai = f" AI: {a['ai_story']}" if a.get("ai_story") else ""
-        L.append(f"- [{a['name']}]({SITE}/apps/{a['slug']}): {a['tagline']}{ai}")
+        only = "" if ios_url(a) and play_url(a) else f" ({os_list(a)} only.)"
+        L.append(f"- [{a['name']}]({SITE}/apps/{a['slug']}): {a['tagline']}{only}{ai}")
         if full:
-            L += [f"  - {a['description']}", f"  - Highlights: {'; '.join(a['highlights'])}.",
-                  f"  - App Store: {ios_url(a)}", f"  - Google Play: {play_url(a)}"]
+            L += [f"  - {a['description']}", f"  - Highlights: {'; '.join(a['highlights'])}."]
+            L += [f"  - App Store: {ios_url(a)}"] if ios_url(a) else []
+            L += [f"  - Google Play: {play_url(a)}"] if play_url(a) else []
+            L += [f"  - Website: {a['site']}"] if a.get("site") else []
     L += ["", "## Policies", "",
           f"- [Privacy Policy]({SITE}/privacy-policy): How DNNR Tech apps and dnnr.us handle personal information.",
           f"- [Support]({SITE}/support): Help with any DNNR Tech app.",
