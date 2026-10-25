@@ -320,7 +320,9 @@
         "Next doses calculated from the dates actually given",
         "A clinic visit summary to show your pediatrician",
         "After-care mode with a reaction log and family sharing"
-      ]
+      ],
+      "ai": "AI-curated guidance",
+      "ai_story": "An AI data pipeline gathers and curates each country's official immunization guidance and matches it to your child's actual records, so the schedule reflects local rules without manual lookups."
     },
     {
       "slug": "vibin",

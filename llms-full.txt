@@ -109,7 +109,7 @@ Contact: use the form at https://dnnr.us/contact (we reply by email). All apps a
   - Highlights: 29,000+ cities lit from your photo library, on device; Travel stats, badges, and yearly recaps; Replay your journeys as a video.
   - App Store: https://apps.apple.com/app/id6806763975
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.travelmap
-- [Next Vaccination](https://dnnr.us/apps/next-vaccination): Your child's vaccine schedule, turned into what to do next.
+- [Next Vaccination](https://dnnr.us/apps/next-vaccination): Your child's vaccine schedule, turned into what to do next. AI: An AI data pipeline gathers and curates each country's official immunization guidance and matches it to your child's actual records, so the schedule reflects local rules without manual lookups.
   - Next Vaccination organizes what to do now from your child's actual vaccination records, following the CDC child immunization schedule. Home changes with your situation, from ordinary days to vaccination day and the observation days after, and a one-screen visit summary is ready to show your pediatrician.
   - Highlights: Next doses calculated from the dates actually given; A clinic visit summary to show your pediatrician; After-care mode with a reaction log and family sharing.
   - App Store: https://apps.apple.com/app/id6811327424
