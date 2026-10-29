@@ -1,74 +1,30 @@
 {
-  "last_updated": "2026-10-23T19:05:23.465Z",
+  "last_updated": "2026-10-29T14:17:52.721Z",
   "categories": {
     "Beverage": {
       "going_fast": [
         {
-          "name": "Ginger Lemon Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
-          "price": "2.99"
+          "name": "Emma Reichart Dry Riesling",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/61437.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-dry-riesling-061437",
+          "price": "5.99"
         },
         {
-          "name": "Vietnam Small Lot Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84045.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnam-small-lot-coffee-084045",
-          "price": "11.99"
+          "name": "Sparkling Apple Elderflower Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84792.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-apple-elderflower-juice-beverage-084792",
+          "price": "3.99"
         },
         {
-          "name": "Ethiopia Guji Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81315.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ethiopia-guji-coffee-081315",
-          "price": "10.99"
-        },
-        {
-          "name": "Moon X Dark Red Blend",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/54813.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/moon-x-dark-red-blend-054813",
-          "price": "6.99"
-        },
-        {
-          "name": "Moon X Cabernet Sauvignon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/64472.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/moon-x-cabernet-sauvignon-064472",
-          "price": "6.99"
-        },
-        {
-          "name": "London Fog Tea Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
-          "price": "2.99"
-        },
-        {
-          "name": "Organic Colombia Anei Fair Trade Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85040.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-colombia-anei-fair-trade-coffee-085040",
-          "price": "10.99"
-        },
-        {
-          "name": "Sauvigio Sauvignon Blanc & Pinot Grigio",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/85461.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sauvigio-sauvignon-blanc-pinot-grigio-085461",
-          "price": "6.99"
-        }
-      ],
-      "popular": [
-        {
-          "name": "London Fog Tea Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
-          "price": "2.99"
+          "name": "Maple Flavored Bourbon Whiskey",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85057.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-flavored-bourbon-whiskey-085057",
+          "price": "12.99"
         },
         {
           "name": "Ginger Lemon Herbal Tea",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
-          "price": "2.99"
-        },
-        {
-          "name": "Spiced Chai Black Tea Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62044.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spiced-chai-black-tea-concentrate-062044",
           "price": "2.99"
         },
         {
@@ -84,25 +40,49 @@
           "price": "3.49"
         },
         {
+          "name": "Ethiopia Guji Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81315.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ethiopia-guji-coffee-081315",
+          "price": "10.99"
+        },
+        {
+          "name": "Moon X Dark Red Blend",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/54813.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/moon-x-dark-red-blend-054813",
+          "price": "6.99"
+        }
+      ],
+      "popular": [
+        {
+          "name": "Sparkling Apple Elderflower Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84792.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-apple-elderflower-juice-beverage-084792",
+          "price": "3.99"
+        },
+        {
+          "name": "100% Red Tart Cherry Juice",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/41747.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/100-red-tart-cherry-juice-041747",
+          "price": "4.99"
+        },
+        {
+          "name": "Cold Brew Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/cold-brew-coffee-080233",
+          "price": "3.49"
+        },
+        {
+          "name": "London Fog Tea Drink Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
+          "price": "2.99"
+        },
+        {
           "name": "Harvest Blend Herbal Tea",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/51424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/harvest-blend-herbal-tea-051424",
           "price": "2.79"
         },
-        {
-          "name": "Instant Jeju Matcha Latte Packets",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79628.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/instant-jeju-matcha-latte-packets-079628",
-          "price": "4.99"
-        },
-        {
-          "name": "Matcha Green Tea Powder",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
-          "price": "7.99"
-        }
-      ],
-      "whats_new": [
         {
           "name": "Ginger Lemon Herbal Tea",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -116,6 +96,50 @@
           "price": "11.99"
         },
         {
+          "name": "Matcha Green Tea Powder",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/57159.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/matcha-green-tea-powder-057159",
+          "price": "7.99"
+        }
+      ],
+      "whats_new": [
+        {
+          "name": "Sparkling Apple Elderflower Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84792.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-apple-elderflower-juice-beverage-084792",
+          "price": "3.99"
+        },
+        {
+          "name": "Maple Flavored Bourbon Whiskey",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85057.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-flavored-bourbon-whiskey-085057",
+          "price": "12.99"
+        },
+        {
+          "name": "Ginger Lemon Herbal Tea",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
+          "price": "2.99"
+        },
+        {
+          "name": "Vietnam Small Lot Coffee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/84045.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnam-small-lot-coffee-084045",
+          "price": "11.99"
+        },
+        {
+          "name": "Emma Reichart Dry Riesling",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/61437.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/emma-reichart-dry-riesling-061437",
+          "price": "5.99"
+        },
+        {
+          "name": "GT's Alive Raspberry Lychee",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/86058.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-alive-raspberry-lychee-086058",
+          "price": "3.49"
+        },
+        {
           "name": "Ethiopia Guji Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81315.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ethiopia-guji-coffee-081315",
@@ -125,30 +149,6 @@
           "name": "Moon X Dark Red Blend",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/54813.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/moon-x-dark-red-blend-054813",
-          "price": "6.99"
-        },
-        {
-          "name": "Moon X Cabernet Sauvignon",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/64472.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/moon-x-cabernet-sauvignon-064472",
-          "price": "6.99"
-        },
-        {
-          "name": "London Fog Tea Drink Concentrate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85005.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/london-fog-tea-drink-concentrate-085005",
-          "price": "2.99"
-        },
-        {
-          "name": "Organic Colombia Anei Fair Trade Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/85040.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-colombia-anei-fair-trade-coffee-085040",
-          "price": "10.99"
-        },
-        {
-          "name": "Sauvigio Sauvignon Blanc & Pinot Grigio",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/85461.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sauvigio-sauvignon-blanc-pinot-grigio-085461",
           "price": "6.99"
         }
       ]
@@ -206,16 +206,16 @@
       ],
       "popular": [
         {
-          "name": "Milky Hydrating Bi-Phase Face Mist",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85224.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/milky-hydrating-bi-phase-face-mist-085224",
-          "price": "6.99"
-        },
-        {
           "name": "Trick-or-Treat Mini Canvas Totes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m501/81415.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/trick-or-treat-mini-canvas-totes-081415",
           "price": "2.99"
+        },
+        {
+          "name": "Milky Hydrating Bi-Phase Face Mist",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85224.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/milky-hydrating-bi-phase-face-mist-085224",
+          "price": "6.99"
         },
         {
           "name": "Vitamin C Serum",
@@ -224,10 +224,10 @@
           "price": "9.99"
         },
         {
-          "name": "Amber Scented Hand Sanitizer Spray",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85239.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/amber-scented-hand-sanitizer-spray-085239",
-          "price": "2.99"
+          "name": "Retinol Night Serum",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
+          "price": "9.99"
         },
         {
           "name": "Ultra Moisturizing Hand Cream",
@@ -242,16 +242,16 @@
           "price": "8.99"
         },
         {
-          "name": "Retinol Night Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/72228.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/retinol-night-serum-072228",
-          "price": "9.99"
+          "name": "Amber Scented Hand Sanitizer Spray",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/85239.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/amber-scented-hand-sanitizer-spray-085239",
+          "price": "2.99"
         },
         {
-          "name": "Dewy Skin Serum",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/82840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dewy-skin-serum-082840",
-          "price": "9.99"
+          "name": "Ultra Hydrating Gel Moisturizer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m502/64459.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ultra-hydrating-gel-moisturizer-064459",
+          "price": "8.99"
         }
       ],
       "whats_new": [
@@ -358,10 +358,34 @@
       ],
       "popular": [
         {
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
+        },
+        {
+          "name": "Seasonal Bouquet, Medium",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58033.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-medium-058033",
+          "price": "10.99"
+        },
+        {
           "name": "Bare Bones Succulent Garden",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/85369.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/bare-bones-succulent-garden-085369",
           "price": "8.99"
+        },
+        {
+          "name": "Premium Monstera",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/69638.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/premium-monstera-069638",
+          "price": "12.99"
+        },
+        {
+          "name": "Seasonal Bouquet",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
+          "price": "7.99"
         },
         {
           "name": "Dozen Red Roses",
@@ -370,40 +394,16 @@
           "price": "10.99"
         },
         {
-          "name": "Easy Bouquet Wrap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81341.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/easy-bouquet-wrap-081341",
-          "price": "1.49"
-        },
-        {
           "name": "Petite Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/58308.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/petite-bouquet-058308",
           "price": "4.99"
         },
         {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
-        },
-        {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "5.99"
-        },
-        {
           "name": "Dotty Micro Poms Bunch",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
           "price": "4.99"
-        },
-        {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
         }
       ],
       "whats_new": [
@@ -460,60 +460,66 @@
     "Food": {
       "going_fast": [
         {
+          "name": "Sweet Corn Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84584.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-corn-ravioli-084584",
+          "price": "4.49"
+        },
+        {
+          "name": "Spicy Pork Kimbap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85360.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-pork-kimbap-085360",
+          "price": "4.99"
+        },
+        {
+          "name": "Turkey & Stuffing En Croute",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85033.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/turkey-stuffing-en-croute-085033",
+          "price": "16.99"
+        },
+        {
+          "name": "Chicken & Chickpea Tikka Burrito",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/85697-chicken-chickpea-tikka-burrito.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-chickpea-tikka-burrito-085697",
+          "price": "4.99"
+        },
+        {
+          "name": "Wild Hot Smoked Sockeye Salmon",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/84483.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-hot-smoked-sockeye-salmon-084483",
+          "price": "16.99"
+        },
+        {
+          "name": "Spicy Ibérico Uncured Chorizo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84756.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-iberico-uncured-chorizo-084756",
+          "price": "7.99"
+        },
+        {
+          "name": "Sweetened Whipped Heavy Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/84542.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweetened-whipped-heavy-cream-084542",
+          "price": "3.99"
+        },
+        {
           "name": "Huntsman Cheese",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/50036.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/huntsman-cheese-050036",
           "price": "12.99"
-        },
-        {
-          "name": "Sticky Toffee Cheddar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/84924.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sticky-toffee-cheddar-084924",
-          "price": "11.99"
-        },
-        {
-          "name": "Egg Nog",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/47904.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/egg-nog-047904",
-          "price": "3.99"
-        },
-        {
-          "name": "Sausage & Broccolini Rigatoni Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84185.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sausage-broccolini-rigatoni-pasta-084185",
-          "price": "7.99"
-        },
-        {
-          "name": "Freeze-Dried Queen Pineapple",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82196.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-queen-pineapple-082196",
-          "price": "3.79"
-        },
-        {
-          "name": "IPA Beer Uncured Salami Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/85629.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ipa-beer-uncured-salami-bites-085629",
-          "price": "4.99"
-        },
-        {
-          "name": "Tres Leches Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/84919.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tres-leches-cheese-084919",
-          "price": "4.99"
-        },
-        {
-          "name": "A Singular Chocolate Chip Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/a-singular-chocolate-chip-cookie-084887",
-          "price": "1.99"
         }
       ],
       "popular": [
         {
-          "name": "Sausage & Broccolini Rigatoni Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84185.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sausage-broccolini-rigatoni-pasta-084185",
-          "price": "7.99"
+          "name": "Turkey & Stuffing En Croute",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85033.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/turkey-stuffing-en-croute-085033",
+          "price": "16.99"
+        },
+        {
+          "name": "Sweet Corn Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84584.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-corn-ravioli-084584",
+          "price": "4.49"
         },
         {
           "name": "Hane Style Beef Gyoza",
@@ -522,90 +528,84 @@
           "price": "3.69"
         },
         {
+          "name": "Just Like Your Grandma's Stuffing Chicken Sausage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84852.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/just-like-your-grandmas-stuffing-chicken-sausage-084852",
+          "price": "4.99"
+        },
+        {
           "name": "Chino Valley Ranchers The Jammy Egg",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20304/86082.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/chino-valley-ranchers-the-jammy-egg-086082",
           "price": "3.99"
         },
         {
-          "name": "Avocado's Number Guacamole",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20404/65355.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/avocados-number-guacamole-065355",
-          "price": "4.99"
+          "name": "Chili & Lime Flavored Rolled Corn Tortilla Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/61420.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chili-lime-flavored-rolled-corn-tortilla-chips-061420",
+          "price": "2.99"
         },
         {
-          "name": "A Singular Chocolate Chip Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/a-singular-chocolate-chip-cookie-084887",
-          "price": "1.99"
+          "name": "Sweetened Whipped Heavy Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/84542.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweetened-whipped-heavy-cream-084542",
+          "price": "3.99"
         },
         {
-          "name": "Chicken Flautas",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84589.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-flautas-084589",
-          "price": "4.99"
-        },
-        {
-          "name": "Tres Leches Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/84919.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tres-leches-cheese-084919",
-          "price": "4.99"
-        },
-        {
-          "name": "Just Like Your Grandma's Stuffing Chicken Sausage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84852.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/just-like-your-grandmas-stuffing-chicken-sausage-084852",
-          "price": "4.99"
+          "name": "Wild Hot Smoked Sockeye Salmon",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/84483.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-hot-smoked-sockeye-salmon-084483",
+          "price": "16.99"
         }
       ],
       "whats_new": [
         {
-          "name": "Sausage & Broccolini Rigatoni Pasta",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84185.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sausage-broccolini-rigatoni-pasta-084185",
+          "name": "Sweet Corn Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84584.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-corn-ravioli-084584",
+          "price": "4.49"
+        },
+        {
+          "name": "Spicy Pork Kimbap",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85360.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-pork-kimbap-085360",
+          "price": "4.99"
+        },
+        {
+          "name": "Turkey & Stuffing En Croute",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85033.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/turkey-stuffing-en-croute-085033",
+          "price": "16.99"
+        },
+        {
+          "name": "Chicken & Chickpea Tikka Burrito",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20502/85697-chicken-chickpea-tikka-burrito.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chicken-chickpea-tikka-burrito-085697",
+          "price": "4.99"
+        },
+        {
+          "name": "Wild Hot Smoked Sockeye Salmon",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20803/84483.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/wild-hot-smoked-sockeye-salmon-084483",
+          "price": "16.99"
+        },
+        {
+          "name": "Spicy Ibérico Uncured Chorizo",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84756.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-iberico-uncured-chorizo-084756",
           "price": "7.99"
         },
         {
-          "name": "Freeze-Dried Queen Pineapple",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21003/82196.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/freeze-dried-queen-pineapple-082196",
-          "price": "3.79"
-        },
-        {
-          "name": "IPA Beer Uncured Salami Bites",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/85629.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ipa-beer-uncured-salami-bites-085629",
-          "price": "4.99"
-        },
-        {
-          "name": "Tres Leches Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20201/84919.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tres-leches-cheese-084919",
-          "price": "4.99"
-        },
-        {
-          "name": "A Singular Chocolate Chip Cookie",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84887.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/a-singular-chocolate-chip-cookie-084887",
-          "price": "1.99"
-        },
-        {
-          "name": "Peanut Butter Cookies",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/84989.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/peanut-butter-cookies-084989",
-          "price": "4.99"
-        },
-        {
-          "name": "Cornbread Muffins",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20105/85254.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cornbread-muffins-085254",
-          "price": "5.49"
-        },
-        {
-          "name": "Organic Spicy Korean BBQ Seaweed Snack",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21004/82658.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-spicy-korean-bbq-seaweed-snack-082658",
+          "name": "Sweetened Whipped Heavy Cream",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/84542.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweetened-whipped-heavy-cream-084542",
           "price": "3.99"
+        },
+        {
+          "name": "Sticky Toffee Cheddar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/84924.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sticky-toffee-cheddar-084924",
+          "price": "11.99"
         }
       ]
     }
