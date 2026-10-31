@@ -350,6 +350,7 @@
       "seo_title": "RemoveVoice: Mute Voices in Video, Keep Nature Sound",
       "seo_description": "Remove human voices from a video while keeping waves, wind, birds, and street sound. Runs fully on your phone, with a slider to keep a murmur.",
       "category": "utility",
+      "ios_id": "6806716276",
       "android_id": "tech.dnnr.removevoice",
       "description": "RemoveVoice mutes the human voices in a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.",
       "highlights": [
