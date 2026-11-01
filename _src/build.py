@@ -231,7 +231,7 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
       </div>
       <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/contact" data-contact data-source="footer_contact">Contact</a></div>
       <div><b>Help</b><a href="/support">Support</a><a href="/delete-account">Data deletion</a></div>
-      <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a></div>
+      <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a><a href="/terms">Terms of Service</a></div>
     </div>
     <div class="copyright"><span>© {YEAR} DNNR Tech. All rights reserved.</span><span>Our apps are independent and not affiliated with the brands they reference.</span></div>
   </div>
@@ -948,6 +948,13 @@ def page_privacy():
     return en_page, ko_page
 
 
+def page_terms():
+    return doc_page(path="/terms", title="Terms of Service", eyebrow="Legal", heading="Terms of Service",
+                    description="Terms for using DNNR Tech apps and dnnr.us.",
+                    meta="Effective November 1, 2026 · Applies to all DNNR Tech apps and dnnr.us", body_html=content("terms_en.html"),
+                    toc=toc_from(content("terms_en.html")))
+
+
 def page_support():
     en_page = doc_page(path="/support", title="Support", current="support", eyebrow="Help center", heading="How can we help?",
                        description="Get help with DNNR Tech apps and request deletion of your data.",
@@ -1009,7 +1016,7 @@ def page_404():
 
 def sitemap():
     paths = (["/", "/services"] + [f"/services/{sv['slug']}" for sv in SERVICES] + ["/apps"] + [f"/apps/{a['slug']}" for a in APPS]
-             + ["/contact", "/support", "/delete-account", "/privacy-policy", "/academic_cv_support"])
+             + ["/contact", "/support", "/delete-account", "/privacy-policy", "/terms", "/academic_cv_support"])
     today = date.today().isoformat()
     urls = "".join(f"<url><loc>{SITE}{p}</loc><lastmod>{today}</lastmod></url>" for p in paths)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>\n'
@@ -1026,6 +1033,7 @@ def main():
         "contact.html": page_contact(),
         "privacy-policy.html": privacy_en,
         "support.html": support_en,
+        "terms.html": page_terms(),
         "delete-account.html": delete_en,
         "ko/privacy-policy.html": privacy_ko,
         "ko/support.html": support_ko,
