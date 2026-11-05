@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T17:02:58.575Z",
+  "last_updated": "2026-11-05T15:35:30.496Z",
   "categories": {
     "Beverage": {
       "going_fast": [
@@ -364,34 +364,16 @@
           "price": "10.99"
         },
         {
-          "name": "Eucalyptus",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
-          "price": "3.99"
-        },
-        {
           "name": "Waterless Amaryllis",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/76407.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/waterless-amaryllis-076407",
           "price": "10.99"
         },
         {
-          "name": "Dozen Red Roses",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62535.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/dozen-red-roses-062535",
-          "price": "10.99"
-        },
-        {
-          "name": "Hydrangea 3-stem",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
-          "price": "6.99"
-        },
-        {
-          "name": "Seasonal Bouquet, Large",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
-          "price": "14.99"
+          "name": "Eucalyptus",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/81022.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/eucalyptus-081022",
+          "price": "3.99"
         },
         {
           "name": "Petite Bouquet",
@@ -400,10 +382,28 @@
           "price": "4.99"
         },
         {
+          "name": "Hydrangea 3-stem",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/62676.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/hydrangea-3-stem-062676",
+          "price": "6.99"
+        },
+        {
           "name": "Seasonal Bouquet",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67424.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-067424",
           "price": "7.99"
+        },
+        {
+          "name": "Seasonal Bouquet, Large",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/67425.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/seasonal-bouquet-large-067425",
+          "price": "14.99"
+        },
+        {
+          "name": "Dotty Micro Poms Bunch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m4/73731.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/dotty-micro-poms-bunch-073731",
+          "price": "4.99"
         }
       ],
       "whats_new": [
@@ -510,16 +510,16 @@
       ],
       "popular": [
         {
-          "name": "Vietnamese Pho",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/81875.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnamese-pho-081875",
-          "price": "3.99"
-        },
-        {
           "name": "Turkey & Stuffing En Croute",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/85033.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/turkey-stuffing-en-croute-085033",
           "price": "16.99"
+        },
+        {
+          "name": "Vietnamese Pho",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20901/81875.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/vietnamese-pho-081875",
+          "price": "3.99"
         },
         {
           "name": "Chino Valley Ranchers The Jammy Egg",
@@ -528,16 +528,10 @@
           "price": "3.99"
         },
         {
-          "name": "Sweet Corn Ravioli",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84584.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-corn-ravioli-084584",
-          "price": "4.49"
-        },
-        {
-          "name": "Three Cheese Mini Pide",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/83114.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/three-cheese-mini-pide-083114",
-          "price": "3.99"
+          "name": "Just Like Your Grandma's Stuffing Chicken Sausage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84852.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/just-like-your-grandmas-stuffing-chicken-sausage-084852",
+          "price": "4.99"
         },
         {
           "name": "Hane Style Beef Gyoza",
@@ -546,16 +540,22 @@
           "price": "3.69"
         },
         {
-          "name": "Just Like Your Grandma's Stuffing Chicken Sausage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20801/84852.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/just-like-your-grandmas-stuffing-chicken-sausage-084852",
-          "price": "4.99"
+          "name": "Sweet Corn Ravioli",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84584.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-corn-ravioli-084584",
+          "price": "4.49"
         },
         {
-          "name": "Spicy Pork Kimbap",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/82112.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/spicy-pork-kimbap-082112",
-          "price": "4.99"
+          "name": "Milk Chocolate Advent Calendar",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/92797.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/milk-chocolate-advent-calendar-092797",
+          "price": "1.49"
+        },
+        {
+          "name": "Jingle Jangle",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
+          "price": "9.99"
         }
       ],
       "whats_new": [
