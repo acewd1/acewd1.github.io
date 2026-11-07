@@ -28,6 +28,10 @@
     {
       "id": "fun",
       "label": "Personality & Fun"
+    },
+    {
+      "id": "learn",
+      "label": "Reference & Learning"
     }
   ],
   "apps": [
@@ -378,6 +382,21 @@
       ],
       "ai": "Multimodal AI",
       "ai_story": "A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments."
+    },
+    {
+      "slug": "godsip",
+      "name": "Godsip",
+      "tagline": "Which brand, film and game names really come from Greek myth, with sources.",
+      "seo_title": "Godsip: The Greek Myth Behind Brand Names",
+      "seo_description": "Type a brand, film, game or everyday word and see the god or story behind the name, how solid the link is, and where it comes from.",
+      "category": "learn",
+      "android_id": "tech.dnnr.mythorigins",
+      "description": "Nike, Amazon, Oracle, Atlas, Titan, Pandora's box… many of the names around us go back to Greek and Roman myth. Godsip tells you which ones really do, and which only sound like they do. Type a brand, film, game, science term or everyday word and get a one-screen card: the god or story behind the name, what actually happened, and a clear verdict on how solid the link is.",
+      "highlights": [
+        "Four kinds of verdict: official, widely held, indirect, or misconception",
+        "Every card shows its sources",
+        "Family tree of the Greek gods, today's card, quizzes, and collections"
+      ]
     }
   ]
 }
