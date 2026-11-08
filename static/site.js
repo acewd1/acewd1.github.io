@@ -18,6 +18,35 @@
   openHashDetails();
   window.addEventListener('hashchange', openHashDetails);
 
+  // Campaign pass-through: /apps?ct=ula_bio_tiktok tags every store button with
+  // Apple pt/ct/mt and Google Play referrer UTMs. Kept in sessionStorage so app
+  // detail pages opened from the list are tagged too. No param = plain links.
+  (function () {
+    var ct = null;
+    try {
+      var q = new URLSearchParams(location.search).get('ct');
+      if (q && /^[A-Za-z0-9_-]{1,64}$/.test(q)) { ct = q; sessionStorage.setItem('dnnr_ct', q); }
+      else { ct = sessionStorage.getItem('dnnr_ct'); }
+    } catch (e) { return; }
+    if (!ct || !/^[A-Za-z0-9_-]{1,64}$/.test(ct)) return;
+    var platform = 'social';
+    ['tiktok', 'instagram', 'youtube', 'threads', 'facebook', 'x'].some(function (p) {
+      if (ct.split('_').indexOf(p) >= 0) { platform = p; return true; }
+    });
+    var referrer = 'utm_source%3D' + platform + '%26utm_medium%3Dsocial%26utm_campaign%3D' + ct;
+    document.querySelectorAll('a[href^="https://apps.apple.com/app/id"], a[href^="https://play.google.com/store/apps/details?id="]').forEach(function (a) {
+      var h = a.getAttribute('href');
+      if (h.indexOf('apps.apple.com') > 0) {
+        a.href = h.replace('/app/id', '/app/apple-store/id') + '?pt=125825893&ct=' + ct + '&mt=8';
+      } else {
+        a.href = h + '&referrer=' + referrer;
+      }
+    });
+    document.querySelectorAll('a[href^="/apps/"]').forEach(function (a) {
+      if (a.getAttribute('href').indexOf('?') < 0) a.href = a.getAttribute('href') + '?ct=' + ct;
+    });
+  })();
+
   // App filter chips (/apps)
   var chips = document.querySelectorAll('.chip[data-filter]');
   chips.forEach(function (c) {
