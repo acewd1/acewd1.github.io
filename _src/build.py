@@ -245,7 +245,7 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
 
 
 def app_list_html():
-    return "<ul>" + "".join(f'<li><a href="/apps/{a["slug"]}">{e(a["name"])}</a></li>' for a in APPS) + "</ul>"
+    return "<p>" + ", ".join(f'<a href="/apps/{a["slug"]}">{e(a["name"])}</a>' for a in APPS) + ".</p>"
 
 
 def content(name):
