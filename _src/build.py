@@ -23,6 +23,8 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "_src"
 SITE = "https://dnnr.us"
 EMAIL = "hello@dnnr.us"
+# Plain-text email wrapped so Cloudflare's email obfuscation leaves it alone (store reviewers and crawlers must read it).
+EMAIL_HTML = f'<!--email_off--><a href="mailto:{EMAIL}">{EMAIL}</a><!--/email_off-->'
 CITY = "San Jose, California"
 YEAR = date.today().year
 
@@ -229,7 +231,7 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
         <a class="brand" href="/"><img src="/static/dnnr-mark.png" alt="" width="34" height="19">DNNR Tech</a>
         <p>Daily needs, naturally refined. AI products and startup consulting from {CITY}.</p>
       </div>
-      <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/contact" data-contact data-source="footer_contact">Contact</a></div>
+      <div><b>Company</b><a href="/services">Services</a><a href="/apps">Apps</a><a href="/contact" data-contact data-source="footer_contact">Contact</a>{EMAIL_HTML}</div>
       <div><b>Help</b><a href="/support">Support</a><a href="/delete-account">Data deletion</a></div>
       <div><b>Legal</b><a href="/privacy-policy">Privacy Policy</a><a href="/terms">Terms of Service</a></div>
     </div>
@@ -242,8 +244,14 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
 """
 
 
+def app_list_html():
+    return "<ul>" + "".join(f'<li><a href="/apps/{a["slug"]}">{e(a["name"])}</a></li>' for a in APPS) + "</ul>"
+
+
 def content(name):
-    return (SRC / "content" / name).read_text()
+    text = (SRC / "content" / name).read_text()
+    assert EMAIL not in text, f"{name}: write {{{{email}}}} instead of the bare address"
+    return text.replace("{{email}}", EMAIL_HTML).replace("{{app_list}}", app_list_html())
 
 
 def toc_from(html_text):
@@ -874,7 +882,7 @@ def llms_txt(full=False):
          "> DNNR Tech is a technology company based in San Jose, California (Silicon Valley). It builds AI-powered consumer apps "
          "for iOS and Android and provides startup consulting: AI product and MVP development, mobile app development, and AI "
          "integration advisory. Motto: \"Daily Needs, Naturally Refined.\"", "",
-         "Contact: use the form at https://dnnr.us/contact (we reply by email). All apps are free on the App Store and Google Play.", ""]
+         "Contact: hello@dnnr.us or the form at https://dnnr.us/contact. All apps are free on the App Store and Google Play.", ""]
     L += ["## Company", "",
           f"- [Home]({SITE}/): What DNNR Tech does — AI products and startup consulting.",
           f"- [Services]({SITE}/services): Consulting services, process, and AI we've shipped.",
@@ -920,6 +928,7 @@ def page_contact():
         <li><div class="icon-tile">{icon("users")}</div><div><b>Partnerships</b><span>Distribution, co-marketing, and collaboration.</span></div></li>
         <li><div class="icon-tile">{icon("message")}</div><div><b>App support</b><span>Help with any of our apps. See also <a href="/support">Support</a>.</span></div></li>
         <li><div class="icon-tile">{icon("clock")}</div><div><b>Response time</b><span>Usually within a few business days.</span></div></li>
+        <li><div class="icon-tile">{icon("message")}</div><div><b>Email</b><span>{EMAIL_HTML}</span></div></li>
       </ul>
     </div>
     <div class="form-card">{contact_form("contact_page", idp="cp")}</div>
