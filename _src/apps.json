@@ -406,11 +406,12 @@
       "seo_description": "Open Snappy and it is already recording. Stop after the moment, scrub back, and save the exact frame as a photo.",
       "category": "utility",
       "ios_id": "6804452910",
-      "description": "Snappy is the camera for moments that are over before you can react. Open it, or press its Lock Screen button, and it is already recording, keeping the last 30 seconds as it goes. When the jump, the smile or the splash has happened, press stop, scrub back, and pick the exact frame you wanted. Save it as a photo, or keep the whole clip as a video. There is no account, and your captures stay on your iPhone.",
+      "android_id": "tech.dnnr.snappy",
+      "description": "Snappy is the camera for moments that are over before you can react. Open it and it is already recording, keeping the last 30 seconds as it goes. When the jump, the smile or the splash has happened, press stop, scrub back, and pick the exact frame you wanted. Save it as a photo, or keep the whole clip as a video. There is no account, and your captures stay on your phone.",
       "highlights": [
         "Already recording when it opens, so there is nothing to time",
         "Scrub back through the take and save the exact frame",
-        "Starts from the Lock Screen, Control Center, or the Action Button"
+        "One press to start: Lock Screen or Control Center on iPhone, Quick Settings on Android"
       ]
     }
   ]

@@ -135,10 +135,11 @@ Contact: hello@dnnr.us or the form at https://dnnr.us/contact. All apps are free
   - Nike, Amazon, Oracle, Atlas, Titan, Pandora's box… many of the names around us go back to Greek and Roman myth. Godsip tells you which ones really do, and which only sound like they do. Type a brand, film, game, science term or everyday word and get a one-screen card: the god or story behind the name, what actually happened, and a clear verdict on how solid the link is.
   - Highlights: Four kinds of verdict: official, widely held, indirect, or misconception; Every card shows its sources; Family tree of the Greek gods, today's card, quizzes, and collections.
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.mythorigins
-- [Snappy](https://dnnr.us/apps/snappy): The camera that is already recording. Stop after the moment, then pick the frame. (iOS only.)
-  - Snappy is the camera for moments that are over before you can react. Open it, or press its Lock Screen button, and it is already recording, keeping the last 30 seconds as it goes. When the jump, the smile or the splash has happened, press stop, scrub back, and pick the exact frame you wanted. Save it as a photo, or keep the whole clip as a video. There is no account, and your captures stay on your iPhone.
-  - Highlights: Already recording when it opens, so there is nothing to time; Scrub back through the take and save the exact frame; Starts from the Lock Screen, Control Center, or the Action Button.
+- [Snappy](https://dnnr.us/apps/snappy): The camera that is already recording. Stop after the moment, then pick the frame.
+  - Snappy is the camera for moments that are over before you can react. Open it and it is already recording, keeping the last 30 seconds as it goes. When the jump, the smile or the splash has happened, press stop, scrub back, and pick the exact frame you wanted. Save it as a photo, or keep the whole clip as a video. There is no account, and your captures stay on your phone.
+  - Highlights: Already recording when it opens, so there is nothing to time; Scrub back through the take and save the exact frame; One press to start: Lock Screen or Control Center on iPhone, Quick Settings on Android.
   - App Store: https://apps.apple.com/app/id6804452910
+  - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.snappy
 
 ## Policies
 
