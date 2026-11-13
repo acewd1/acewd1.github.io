@@ -131,7 +131,7 @@ Contact: hello@dnnr.us or the form at https://dnnr.us/contact. All apps are free
   - Highlights: Suite upgrades and lounge details from real stays; Breakfast, resort fee, parking, and pool notes; Save hotels and compare before you book.
   - Google Play: https://play.google.com/store/apps/details?id=com.globalistnotes.mobile
   - Website: https://globalistnotes.com
-- [Godsip](https://dnnr.us/apps/godsip): Which brand, film and game names really come from Greek myth, with sources. (Android only.)
+- [Godsip](https://dnnr.us/apps/godsip): Greek mythology behind brand, film and game names. Origins, sources and a quiz. (Android only.)
   - Nike, Amazon, Oracle, Atlas, Titan, Pandora's box… many of the names around us go back to Greek and Roman myth. Godsip tells you which ones really do, and which only sound like they do. Type a brand, film, game, science term or everyday word and get a one-screen card: the god or story behind the name, what actually happened, and a clear verdict on how solid the link is.
   - Highlights: Four kinds of verdict: official, widely held, indirect, or misconception; Every card shows its sources; Family tree of the Greek gods, today's card, quizzes, and collections.
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.mythorigins
