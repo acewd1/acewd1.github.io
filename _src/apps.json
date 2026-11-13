@@ -397,6 +397,21 @@
         "Every card shows its sources",
         "Family tree of the Greek gods, today's card, quizzes, and collections"
       ]
+    },
+    {
+      "slug": "snappy",
+      "name": "Snappy",
+      "tagline": "The camera that is already recording. Stop after the moment, then pick the frame.",
+      "seo_title": "Snappy: The Camera That Is Already Recording",
+      "seo_description": "Open Snappy and it is already recording. Stop after the moment, scrub back, and save the exact frame as a photo.",
+      "category": "utility",
+      "ios_id": "6804452910",
+      "description": "Snappy is the camera for moments that are over before you can react. Open it, or press its Lock Screen button, and it is already recording, keeping the last 30 seconds as it goes. When the jump, the smile or the splash has happened, press stop, scrub back, and pick the exact frame you wanted. Save it as a photo, or keep the whole clip as a video. There is no account, and your captures stay on your iPhone.",
+      "highlights": [
+        "Already recording when it opens, so there is nothing to time",
+        "Scrub back through the take and save the exact frame",
+        "Starts from the Lock Screen, Control Center, or the Action Button"
+      ]
     }
   ]
 }
