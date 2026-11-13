@@ -40,6 +40,7 @@ Contact: hello@dnnr.us or the form at https://dnnr.us/contact. All apps are free
 - [Globalist Notes for Hyatt](https://dnnr.us/apps/globalist-notes): Real Hyatt stays, documented: suites, lounges, breakfast, and fees. (Android only.) AI: A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments.
 - [Godsip](https://dnnr.us/apps/godsip): Greek gods and myths behind brand, film and game names. Word origins and a quiz. (Android only.)
 - [Snappy](https://dnnr.us/apps/snappy): The camera that is already recording. Stop after the moment, then pick the frame.
+- [Mozzi](https://dnnr.us/apps/mozzi): Toddler photo play: wipe the mist, peek, listen, draw. No ads, no accounts. (Android only.)
 
 ## Policies
 

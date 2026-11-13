@@ -799,14 +799,15 @@ def page_service_detail(sv):
 
 
 def shot_height(slug, i):
-    """Pixel height of a 360px-wide screenshot, read from the JPEG SOF header (no image library needed)."""
+    """Height of a screenshot when shown 360px wide, read from the JPEG SOF header (no image library needed)."""
     import struct
     b = (ROOT / "static" / "apps" / "shots" / f"{slug}-{i}.jpg").read_bytes()
     p = 2
     while p < len(b):
         marker, ln = b[p + 1], struct.unpack(">H", b[p + 2:p + 4])[0]
         if marker in (0xC0, 0xC1, 0xC2):
-            return struct.unpack(">H", b[p + 5:p + 7])[0]
+            h, w = struct.unpack(">HH", b[p + 5:p + 9])
+            return round(h * 360 / w)
         p += 2 + ln
     return 780
 
@@ -862,7 +863,7 @@ def page_app_detail(a):
       <p class="muted-links">Free on {store_names(a)}. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
       {extra}
     </div>
-    <div class="shots" aria-label="Screenshots">{shots}</div>
+    <div class="shots{' wide' if shots and shot_height(a['slug'], 1) < 360 else ''}" aria-label="Screenshots">{shots}</div>
   </div>
 </section>
 

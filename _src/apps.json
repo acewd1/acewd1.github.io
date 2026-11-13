@@ -413,6 +413,21 @@
         "Scrub back through the take and save the exact frame",
         "One press to start: Lock Screen or Control Center on iPhone, Quick Settings on Android"
       ]
+    },
+    {
+      "slug": "mozzi",
+      "name": "Mozzi",
+      "tagline": "Toddler photo play: wipe the mist, peek, listen, draw. No ads, no accounts.",
+      "seo_title": "Mozzi: Quiet Photo Play for Toddlers",
+      "seo_description": "A quiet photo app for ages 2 to 5: wipe away the mist, look, listen, and draw. No ads, no accounts.",
+      "category": "family",
+      "android_id": "us.dnnr.mozzi",
+      "description": "Mozzi is a small, quiet photo app for toddlers, about ages 2 to 5. Your child wipes away a soft mist to find a photo underneath, listens to a short sentence about it, and scribbles on a playground screen. You choose the photos: your own family pictures, plus 27 photo themes such as dogs, baby animals, trains, and dinosaurs. There are no ads, no purchases, and no accounts, and photos and drawings stay on your device.",
+      "highlights": [
+        "No words to read on the child screen: pictures, sounds, and motion",
+        "One play session at a time, then the album closes. No rewards, no streaks",
+        "Parent screen behind a gate, for photos, themes, and session length"
+      ]
     }
   ]
 }

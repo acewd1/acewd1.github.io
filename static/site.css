@@ -465,7 +465,10 @@ tr:last-child td { border-bottom: 0; }
 .shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .shots img { width: 100%; height: auto; border-radius: 22px; border: 1px solid var(--border); box-shadow: var(--shadow-lg); background: var(--surface-2); }
 .shots img:nth-child(2) { transform: translateY(24px); }
+.shots.wide { grid-template-columns: 1fr; }
+.shots.wide img:nth-child(2) { transform: none; }
 @media (max-width: 560px) { .shots { grid-template-columns: repeat(3, 70%); overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; } .shots img { scroll-snap-align: start; } .shots img:nth-child(2) { transform: none; } }
+@media (max-width: 560px) { .shots.wide { grid-template-columns: 1fr; overflow-x: visible; } }
 .faq { border-top: 1px solid var(--border); }
 .faq-item { border-bottom: 1px solid var(--border); }
 .faq-item summary { cursor: pointer; list-style: none; padding: 22px 36px 22px 0; font-weight: 600; font-size: 17px; position: relative; }
