@@ -18,15 +18,46 @@
   openHashDetails();
   window.addEventListener('hashchange', openHashDetails);
 
-  // Campaign pass-through: /apps?ct=ula_bio_tiktok tags every store button with
-  // Apple pt/ct/mt and Google Play referrer UTMs. Kept in sessionStorage so app
-  // detail pages opened from the list are tagged too. No param = plain links.
+  // Campaign pass-through: tags every store button with Apple pt/ct/mt and
+  // Google Play referrer UTMs. The campaign comes from /apps?ct=<value>, or,
+  // with no ct, from where a visit to /apps came from: the in-app browser's
+  // User-Agent (Instagram, TikTok) or document.referrer (instagram.com,
+  // tiktok.com, youtube.com, or the Android app that opened the link).
+  // Kept in sessionStorage so app detail pages opened from the list are tagged
+  // too. Unknown source = plain links.
+  function detectSource(ua, ref, path) {
+    if (!/^\/apps\/?$/.test(path)) return null;
+    if (/\bInstagram/i.test(ua)) return 'instagram';
+    if (/musical_ly|Bytedance/i.test(ua)) return 'tiktok';
+    var m = /^https?:\/\/([^\/?#]+)/i.exec(ref || '');
+    if (m) {
+      var host = m[1].toLowerCase();
+      if (/(^|\.)instagram\.com$/.test(host)) return 'instagram';
+      if (/(^|\.)tiktok\.com$/.test(host)) return 'tiktok';
+      if (/(^|\.)(youtube\.com|youtu\.be)$/.test(host)) return 'youtube';
+    }
+    m = /^android-app:\/\/([^\/?#]+)/i.exec(ref || '');
+    if (m) {
+      var pkg = m[1].toLowerCase();
+      if (pkg === 'com.instagram.android') return 'instagram';
+      if (pkg === 'com.zhiliaoapp.musically' || pkg === 'com.ss.android.ugc.trill') return 'tiktok';
+      if (pkg === 'com.google.android.youtube') return 'youtube';
+    }
+    return null;
+  }
   (function () {
-    var ct = null;
+    var ct = null, auto = false;
     try {
       var q = new URLSearchParams(location.search).get('ct');
-      if (q && /^[A-Za-z0-9_-]{1,64}$/.test(q)) { ct = q; sessionStorage.setItem('dnnr_ct', q); }
-      else { ct = sessionStorage.getItem('dnnr_ct'); }
+      if (q && /^[A-Za-z0-9_-]{1,64}$/.test(q)) { ct = q; sessionStorage.setItem('dnnr_ct', q); sessionStorage.removeItem('dnnr_ct_auto'); }
+      else {
+        ct = sessionStorage.getItem('dnnr_ct');
+        auto = sessionStorage.getItem('dnnr_ct_auto') === '1';
+        if (!ct) {
+          var src = detectSource(navigator.userAgent || '', document.referrer, location.pathname);
+          if (src) { ct = 'ula_bio_' + src; auto = true; sessionStorage.setItem('dnnr_ct', ct); sessionStorage.setItem('dnnr_ct_auto', '1'); }
+        }
+      }
     } catch (e) { return; }
     if (!ct || !/^[A-Za-z0-9_-]{1,64}$/.test(ct)) return;
     var platform = 'social';
@@ -42,7 +73,7 @@
         a.href = h + '&referrer=' + referrer;
       }
     });
-    document.querySelectorAll('a[href^="/apps/"]').forEach(function (a) {
+    if (!auto) document.querySelectorAll('a[href^="/apps/"]').forEach(function (a) {
       if (a.getAttribute('href').indexOf('?') < 0) a.href = a.getAttribute('href') + '?ct=' + ct;
     });
   })();
