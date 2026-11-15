@@ -45,7 +45,7 @@
     }
     return null;
   }
-  (function () {
+  var campaign = (function () {
     var ct = null, auto = false;
     try {
       var q = new URLSearchParams(location.search).get('ct');
@@ -58,8 +58,8 @@
           if (src) { ct = 'ula_bio_' + src; auto = true; sessionStorage.setItem('dnnr_ct', ct); sessionStorage.setItem('dnnr_ct_auto', '1'); }
         }
       }
-    } catch (e) { return; }
-    if (!ct || !/^[A-Za-z0-9_-]{1,64}$/.test(ct)) return;
+    } catch (e) { return null; }
+    if (!ct || !/^[A-Za-z0-9_-]{1,64}$/.test(ct)) return null;
     var platform = 'social';
     ['tiktok', 'instagram', 'youtube', 'threads', 'facebook', 'x'].some(function (p) {
       if (ct.split('_').indexOf(p) >= 0) { platform = p; return true; }
@@ -76,7 +76,38 @@
     if (!auto) document.querySelectorAll('a[href^="/apps/"]').forEach(function (a) {
       if (a.getAttribute('href').indexOf('?') < 0) a.href = a.getAttribute('href') + '?ct=' + ct;
     });
+    return { ct: ct, platform: platform };
   })();
+
+  // Google Analytics 4. Visitors in the EEA, the UK and Switzerland are counted
+  // without analytics cookies (consent mode, denied by default there). Ad
+  // storage is off everywhere. A visit with a campaign (above) is attributed to
+  // it, and every store button click is sent as a store_click event.
+  var GA_ID = 'G-NMF8QQS1ZT';
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { window.dataLayer.push(arguments); }
+  gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'granted' });
+  gtag('consent', 'default', {
+    analytics_storage: 'denied',
+    region: ['AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO', 'GB', 'CH']
+  });
+  gtag('js', new Date());
+  gtag('config', GA_ID, campaign ? { campaign_source: campaign.platform, campaign_medium: 'social', campaign_name: campaign.ct } : {});
+  var ga = document.createElement('script');
+  ga.async = true;
+  ga.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+  document.head.appendChild(ga);
+  document.addEventListener('click', function (ev) {
+    var a = ev.target && ev.target.closest ? ev.target.closest('a[href^="https://apps.apple.com/"], a[href^="https://play.google.com/store/apps/"]') : null;
+    if (!a) return;
+    var h = a.getAttribute('href'), ios = h.indexOf('apps.apple.com') > 0;
+    var id = ios ? /\/id(\d+)/.exec(h) : /[?&]id=([^&]+)/.exec(h);
+    gtag('event', 'store_click', {
+      store: ios ? 'app_store' : 'google_play',
+      app_id: id ? id[1] : '',
+      campaign: campaign ? campaign.ct : '(none)'
+    });
+  });
 
   // App filter chips (/apps)
   var chips = document.querySelectorAll('.chip[data-filter]');
