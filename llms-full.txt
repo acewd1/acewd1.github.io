@@ -126,8 +126,8 @@ Contact: hello@dnnr.us or the form at https://dnnr.us/contact. All apps are free
   - Highlights: Targets speech only; nature and ambience stay; A fast pass plus a deeper pass for overlapping voices; A slider to keep a murmur of the crowd or go silent.
   - App Store: https://apps.apple.com/app/id6806716276
   - Google Play: https://play.google.com/store/apps/details?id=tech.dnnr.removevoice
-- [Globalist Notes for Hyatt](https://dnnr.us/apps/globalist-notes): Real Hyatt stays, documented: suites, lounges, breakfast, and fees. (Android only.) AI: A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments.
-  - Globalist Notes for Hyatt helps travelers understand what to expect before booking a Hyatt hotel, choosing a premium room, or paying for lounge access. Built from real stays through a Globalist perspective, it documents suite upgrades, lounge food and hours, breakfast, resort fees, parking, pools, and practical stay notes, with photos and videos.
+- [Globalist Notes](https://dnnr.us/apps/globalist-notes): Real Hyatt stays, documented: suites, lounges, breakfast, and fees. (Android only.) AI: A multimodal AI content pipeline describes stay photos and videos, indexes every hotel note for semantic search, and applies LLM trust & safety to community comments.
+  - Globalist Notes helps travelers understand what to expect before booking a Hyatt hotel, choosing a premium room, or paying for lounge access. Built from real stays through a Globalist perspective, it documents suite upgrades, lounge food and hours, breakfast, resort fees, parking, pools, and practical stay notes, with photos and videos.
   - Highlights: Suite upgrades and lounge details from real stays; Breakfast, resort fee, parking, and pool notes; Save hotels and compare before you book.
   - Google Play: https://play.google.com/store/apps/details?id=com.globalistnotes.mobile
   - Website: https://globalistnotes.com
