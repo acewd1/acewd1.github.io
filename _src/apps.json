@@ -365,13 +365,14 @@
       ],
       "how_to": [
         "Choose a video from your photo library, or try the built-in sample clip.",
-        "Wait while the app finds and removes the voices on your phone. Long videos take a few minutes.",
+        "Wait while the app finds and removes the voices on your phone. Long videos can take a while, so keep the app open.",
         "Listen to the result. Each voice is its own track with a Remove switch, so you can keep a voice you want. \"Find more voices\" runs a stronger second pass for children's and overlapping voices.",
         "Save the video (picture quality untouched), save the sound only, or share it."
       ],
       "good_to_know": [
         "Free with ads. An optional Ad-Free subscription turns the ads off; every feature is free without it.",
         "iPhone (iOS 15 or later) and Android (7.0 or later). Available in 8 languages: English, Korean, Japanese, Chinese, Spanish, French, German, Portuguese.",
+        "Processing time depends on your phone. On older phones it can take about 2.5 times the video's length (a 10-minute video ≈ 25 minutes). The stronger second pass, Find more voices, can take about 11 times the video's length. Keep the app open and the screen on while it runs.",
         "Works offline with no account. Videos never leave the phone.",
         "Made for talking in real-world footage such as travel, nature and city walks. It does not edit music tracks."
       ],
