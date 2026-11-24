@@ -836,6 +836,8 @@ def page_app_detail(a):
         breadcrumbs_ld(trail),
     ]
     site_link = f'<a class="btn btn-ghost" href="{e(a["site"])}" rel="noopener">Website{ARROW}</a>' if a.get("site") else ""
+    how_to = (f"<h2>How to use</h2><ol>{''.join(f'<li>{e(x)}</li>' for x in a['how_to'])}</ol>" if a.get("how_to") else "") + \
+             (f"<h2>Good to know</h2><ul>{''.join(f'<li>{e(x)}</li>' for x in a['good_to_know'])}</ul>" if a.get("good_to_know") else "")
     extra = '<p><a href="/academic_cv_support">Academic CV AI support and AI content reports</a></p>' if a["slug"] == "academic-cv-ai" else ""
     body = f"""
 <div class="container">
@@ -859,7 +861,7 @@ def page_app_detail(a):
       <p>{e(a['description'])}</p>
       {ai_block}
       <h2>Highlights</h2>
-      <ul class="checks" style="grid-template-columns:1fr">{''.join(f'<li>{icon("check")}{e(h)}</li>' for h in a['highlights'])}</ul>
+      <ul class="checks" style="grid-template-columns:1fr">{''.join(f'<li>{icon("check")}{e(h)}</li>' for h in a['highlights'])}</ul>{how_to}
       <p class="muted-links">Free on {store_names(a)}. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
       {extra}
     </div>
@@ -902,6 +904,8 @@ def llms_txt(full=False):
         L.append(f"- [{a['name']}]({SITE}/apps/{a['slug']}): {a['tagline']}{only}{ai}")
         if full:
             L += [f"  - {a['description']}", f"  - Highlights: {'; '.join(a['highlights'])}."]
+            L += [f"  - How to use: {' '.join(f'{i}. {x}' for i, x in enumerate(a['how_to'], 1))}"] if a.get("how_to") else []
+            L += [f"  - Good to know: {' '.join(a['good_to_know'])}"] if a.get("good_to_know") else []
             L += [f"  - App Store: {ios_url(a)}"] if ios_url(a) else []
             L += [f"  - Google Play: {play_url(a)}"] if play_url(a) else []
             L += [f"  - Website: {a['site']}"] if a.get("site") else []

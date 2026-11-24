@@ -352,15 +352,27 @@
       "name": "RemoveVoice",
       "tagline": "Mute the voices in a video. Keep the waves, wind, and birdsong.",
       "seo_title": "RemoveVoice: Mute Voices in Video, Keep Nature Sound",
-      "seo_description": "Remove human voices from a video while keeping waves, wind, birds, and street sound. Runs fully on your phone, with a slider to keep a murmur.",
+      "seo_description": "Remove people's voices from a video and keep waves, wind and birdsong. Choose a video, wait, save. Free for iPhone and Android, runs on your phone.",
       "category": "utility",
       "ios_id": "6806716276",
       "android_id": "tech.dnnr.removevoice",
-      "description": "RemoveVoice mutes the human voices in a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.",
+      "description": "RemoveVoice removes people's voices from a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.",
       "highlights": [
         "Targets speech only; nature and ambience stay",
         "A fast pass plus a deeper pass for overlapping voices",
-        "A slider to keep a murmur of the crowd or go silent"
+        "Each voice is its own track: remove it or keep it with one switch"
+      ],
+      "how_to": [
+        "Choose a video from your photo library, or try the built-in sample clip.",
+        "Wait while the app finds and removes the voices on your phone. Long videos take a few minutes.",
+        "Listen to the result. Each voice is its own track with a Remove switch, so you can keep a voice you want. \"Find more voices\" runs a stronger second pass for children's and overlapping voices.",
+        "Save the video (picture quality untouched), save the sound only, or share it."
+      ],
+      "good_to_know": [
+        "Free with ads. An optional Ad-Free subscription turns the ads off; every feature is free without it.",
+        "iPhone (iOS 15 or later) and Android (7.0 or later). Available in 8 languages: English, Korean, Japanese, Chinese, Spanish, French, German, Portuguese.",
+        "Works offline with no account. Videos never leave the phone.",
+        "Made for talking in real-world footage such as travel, nature and city walks. It does not edit music tracks."
       ],
       "ai": "Private on-device AI",
       "ai_story": "On-device neural source separation and voice activity detection isolate speech from ambience in real video audio, entirely on the phone, with no server and no uploads."
