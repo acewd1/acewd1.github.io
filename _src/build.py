@@ -814,7 +814,7 @@ def shot_height(slug, i):
 
 def page_app_detail(a):
     path = f"/apps/{a['slug']}"
-    shots = "".join(f'<img src="/static/apps/shots/{a["slug"]}-{i}.jpg" alt="{e(a["name"])} screenshot {i}" width="360" height="{shot_height(a["slug"], i)}" loading="lazy">'
+    shots = "".join(f'<img src="/static/apps/shots/{a["slug"]}-{i}.jpg{'?v=' + a['shots_v'] if a.get('shots_v') else ''}" alt="{e(a["name"])} screenshot {i}" width="360" height="{shot_height(a["slug"], i)}" loading="lazy">'
                     for i in (1, 2, 3) if (ROOT / "static" / "apps" / "shots" / f"{a['slug']}-{i}.jpg").exists())
     more = [x for x in APPS if x["slug"] != a["slug"] and x["category"] == a["category"]][:3]
     if len(more) < 3:

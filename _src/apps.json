@@ -356,6 +356,7 @@
       "category": "utility",
       "ios_id": "6806716276",
       "android_id": "tech.dnnr.removevoice",
+      "shots_v": "2026-11-24",
       "description": "RemoveVoice removes people's voices from a video and leaves everything else the way you heard it: waves, wind, birdsong, rain, footsteps, the hum of a street. Because it targets speech instead of muting the whole track, the place still sounds like the place. Everything runs on your phone, with nothing uploaded.",
       "highlights": [
         "Targets speech only; nature and ambience stay",
