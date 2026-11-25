@@ -1,8 +1,20 @@
 {
-  "last_updated": "2026-11-22T16:39:31.537Z",
+  "last_updated": "2026-11-25T14:00:41.814Z",
   "categories": {
     "Beverage": {
       "going_fast": [
+        {
+          "name": "Diamond Reserve Cabernet Sauvignon Howell Mountain Napa Valley",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/85366.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-howell-mountain-napa-valley-085366",
+          "price": "19.99"
+        },
+        {
+          "name": "Everything But The Bartender Peppermint Coffee Cream Cocktail",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/83137.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-peppermint-coffee-cream-cocktail-183137",
+          "price": "9.99"
+        },
         {
           "name": "Organic Pomegranate Twist Drink Mixer",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84839.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -34,49 +46,13 @@
           "price": "3.99"
         },
         {
-          "name": "Maple Flavored Bourbon Whiskey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85057.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-flavored-bourbon-whiskey-085057",
-          "price": "12.99"
-        },
-        {
           "name": "Ginger Lemon Herbal Tea",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
           "price": "2.99"
-        },
-        {
-          "name": "GT's Alive Raspberry Lychee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/86058.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-alive-raspberry-lychee-086058",
-          "price": "3.49"
         }
       ],
       "popular": [
-        {
-          "name": "Winter Wassail Punch",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/55354.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wassail-punch-055354",
-          "price": "4.99"
-        },
-        {
-          "name": "Sparkling Apple Elderflower Juice Beverage",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84792.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-apple-elderflower-juice-beverage-084792",
-          "price": "3.99"
-        },
-        {
-          "name": "Organic Pomegranate Twist Drink Mixer",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84839.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-pomegranate-twist-drink-mixer-084839",
-          "price": "3.99"
-        },
-        {
-          "name": "Drinking Chocolate",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/81518.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/drinking-chocolate-081518",
-          "price": "5.99"
-        },
         {
           "name": "Cold Brew Coffee",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/80233.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -84,25 +60,55 @@
           "price": "3.49"
         },
         {
-          "name": "Winter Wake Up Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/61176.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wake-up-tea-061176",
-          "price": "2.79"
+          "name": "Organic Pomegranate Twist Drink Mixer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84839.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-pomegranate-twist-drink-mixer-084839",
+          "price": "3.99"
+        },
+        {
+          "name": "Winter Wassail Punch",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/55354.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/winter-wassail-punch-055354",
+          "price": "4.99"
+        },
+        {
+          "name": "Non-Dairy Oat Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m303/65148.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/non-dairy-oat-beverage-065148",
+          "price": "2.99"
+        },
+        {
+          "name": "Pumpkin Spice Cold Brew Coffee Concentrate",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/79207.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pumpkin-spice-cold-brew-coffee-concentrate-079207",
+          "price": "9.99"
+        },
+        {
+          "name": "Organic Cold Pressed Green Juice Beverage",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/62841.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-cold-pressed-green-juice-beverage-062841",
+          "price": "5.99"
+        },
+        {
+          "name": "Organic Low Calorie Lemonade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/73084.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-low-calorie-lemonade-073084",
+          "price": "3.49"
         },
         {
           "name": "Sparkling Cranberry Ginger Brew Beverage",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m305/81782.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/sparkling-cranberry-ginger-brew-beverage-181782",
           "price": "4.99"
-        },
-        {
-          "name": "Ready To Drink Cold Brew Coffee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/62611.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ready-to-drink-cold-brew-coffee-062611",
-          "price": "5.49"
         }
       ],
       "whats_new": [
+        {
+          "name": "Everything But The Bartender Peppermint Coffee Cream Cocktail",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/83137.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/everything-but-the-bartender-peppermint-coffee-cream-cocktail-183137",
+          "price": "9.99"
+        },
         {
           "name": "Organic Pomegranate Twist Drink Mixer",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/84839.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -122,16 +128,10 @@
           "price": "3.99"
         },
         {
-          "name": "Maple Flavored Bourbon Whiskey",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/liquor/85057.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/maple-flavored-bourbon-whiskey-085057",
-          "price": "12.99"
-        },
-        {
-          "name": "Ginger Lemon Herbal Tea",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
-          "price": "2.99"
+          "name": "Diamond Reserve Cabernet Sauvignon Howell Mountain Napa Valley",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m306/wine/85366.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/diamond-reserve-cabernet-sauvignon-howell-mountain-napa-valley-085366",
+          "price": "19.99"
         },
         {
           "name": "Belgian Vintage Ale 2026",
@@ -146,10 +146,10 @@
           "price": "5.99"
         },
         {
-          "name": "GT's Alive Raspberry Lychee",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m301/86058.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/gts-alive-raspberry-lychee-086058",
-          "price": "3.49"
+          "name": "Ginger Lemon Herbal Tea",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m304/83901.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/ginger-lemon-herbal-tea-083901",
+          "price": "2.99"
         }
       ]
     },
@@ -460,105 +460,141 @@
     "Food": {
       "going_fast": [
         {
-          "name": "Fig & Chili Soft Sheep Milk Cheese",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/84917.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fig-chili-soft-sheep-milk-cheese-084917",
-          "price": "3.49"
+          "name": "California Extra Virgin Olive Oil",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20904/66521.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/california-extra-virgin-olive-oil-066521",
+          "price": "8.99"
         },
         {
-          "name": "Mini Saltine Crackers",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85561.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-saltine-crackers-085561",
-          "price": "2.99"
-        },
-        {
-          "name": "Tiny Grain Cinnamon Sugar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/85505.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tiny-grain-cinnamon-sugar-085505",
-          "price": "1.99"
-        },
-        {
-          "name": "Just a Handful of Spicy Chili Manzanilla Olives",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/83735.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/just-a-handful-of-spicy-chili-manzanilla-olives-083735",
-          "price": "1.09"
-        },
-        {
-          "name": "Cocktail Shrimp with Cocktail Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/84784.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cocktail-shrimp-with-cocktail-sauce-084784",
-          "price": "13.99"
-        },
-        {
-          "name": "Duchess Potatoes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84764.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/duchess-potatoes-084764",
+          "name": "Pretzel Thins",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85690.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pretzel-thins-085690",
           "price": "2.49"
         },
         {
-          "name": "Pinwheel Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/84841.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pinwheel-cookie-dough-084841",
-          "price": "4.49"
+          "name": "Sweet Potato Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85931.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-chips-085931",
+          "price": "2.99"
         },
         {
-          "name": "Bone In Pork Chop with Applesauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84898.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bone-in-pork-chop-with-applesauce-084898",
-          "price": "8.99"
+          "name": "Tangerine Marmalade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/83909.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tangerine-marmalade-083909",
+          "price": "3.49"
+        },
+        {
+          "name": "Mini Stroopwafel Ice Cream Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85202.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-stroopwafel-ice-cream-sandwiches-085202",
+          "price": "3.99"
+        },
+        {
+          "name": "A Pretty Big Dark Chocolate Peanut Butter Cup",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85272.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/a-pretty-big-dark-chocolate-peanut-butter-cup-085272",
+          "price": "2.99"
+        },
+        {
+          "name": "Creamy Toscano Cheese Soaked in Syrah",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20203/97196.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/creamy-toscano-cheese-soaked-in-syrah-097196",
+          "price": "11.99"
+        },
+        {
+          "name": "Chocolate Peppermint Cold Foam Creamer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/84742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-peppermint-cold-foam-creamer-084742",
+          "price": "4.49"
         }
       ],
       "popular": [
         {
+          "name": "A Pretty Big Dark Chocolate Peanut Butter Cup",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85272.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/a-pretty-big-dark-chocolate-peanut-butter-cup-085272",
+          "price": "2.99"
+        },
+        {
+          "name": "Mini Stroopwafel Ice Cream Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85202.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-stroopwafel-ice-cream-sandwiches-085202",
+          "price": "3.99"
+        },
+        {
+          "name": "Pretzel Thins",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85690.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pretzel-thins-085690",
+          "price": "2.49"
+        },
+        {
+          "name": "Chocolat Glacé Frozen Dessert",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20604/84783.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolat-glace-frozen-dessert-084783",
+          "price": "3.99"
+        },
+        {
+          "name": "Tangerine Marmalade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/83909.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tangerine-marmalade-083909",
+          "price": "3.49"
+        },
+        {
+          "name": "Sweet Potato Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85931.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-chips-085931",
+          "price": "2.99"
+        },
+        {
           "name": "Duchess Potatoes",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84764.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/duchess-potatoes-084764",
           "price": "2.49"
         },
         {
-          "name": "Organic Young Turkey Free Range",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/57035.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/organic-young-turkey-free-range-157035",
-          "price": "3.99"
-        },
-        {
-          "name": "Brined Bone-In Half Turkey Breast Fully Cooked",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/60840.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/brined-bone-in-half-turkey-breast-fully-cooked-060840",
-          "price": "9.99"
-        },
-        {
-          "name": "Pinwheel Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/84841.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pinwheel-cookie-dough-084841",
-          "price": "4.49"
-        },
-        {
-          "name": "All Natural Brined Young Turkey (12-16 lbs)",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20802/90351.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/all-natural-brined-young-turkey-12-16-lbs-190351",
-          "price": "2.49"
-        },
-        {
-          "name": "Jingle Jangle",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/51324.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/jingle-jangle-051324",
-          "price": "9.99"
-        },
-        {
-          "name": "Fig & Brie Galette",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/84808.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/fig-brie-galette-084808",
-          "price": "6.49"
-        },
-        {
-          "name": "Sweet & Tangy Pepper Drops",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/84907.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-tangy-pepper-drops-084907",
-          "price": "4.49"
+          "name": "Holiday Joe-Joe's",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85091.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/holiday-joe-joes-085091",
+          "price": "7.99"
         }
       ],
       "whats_new": [
+        {
+          "name": "Pretzel Thins",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85690.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/pretzel-thins-085690",
+          "price": "2.49"
+        },
+        {
+          "name": "Sweet Potato Chips",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85931.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/sweet-potato-chips-085931",
+          "price": "2.99"
+        },
+        {
+          "name": "Tangerine Marmalade",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20903/83909.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/tangerine-marmalade-083909",
+          "price": "3.49"
+        },
+        {
+          "name": "Mini Stroopwafel Ice Cream Sandwiches",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85202.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/mini-stroopwafel-ice-cream-sandwiches-085202",
+          "price": "3.99"
+        },
+        {
+          "name": "A Pretty Big Dark Chocolate Peanut Butter Cup",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21002/85272.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/a-pretty-big-dark-chocolate-peanut-butter-cup-085272",
+          "price": "2.99"
+        },
+        {
+          "name": "Chocolate Peppermint Cold Foam Creamer",
+          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20301/84742.png/jcr:content/renditions/cq5dam.web.1280.1280",
+          "product_url": "https://www.traderjoes.com/home/products/pdp/chocolate-peppermint-cold-foam-creamer-084742",
+          "price": "4.49"
+        },
         {
           "name": "Fig & Chili Soft Sheep Milk Cheese",
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20204/84917.png/jcr:content/renditions/cq5dam.web.1280.1280",
@@ -570,42 +606,6 @@
           "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m21001/85561.png/jcr:content/renditions/cq5dam.web.1280.1280",
           "product_url": "https://www.traderjoes.com/home/products/pdp/mini-saltine-crackers-085561",
           "price": "2.99"
-        },
-        {
-          "name": "Tiny Grain Cinnamon Sugar",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20906/85505.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/tiny-grain-cinnamon-sugar-085505",
-          "price": "1.99"
-        },
-        {
-          "name": "Just a Handful of Spicy Chili Manzanilla Olives",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20902/83735.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/just-a-handful-of-spicy-chili-manzanilla-olives-083735",
-          "price": "1.09"
-        },
-        {
-          "name": "Cocktail Shrimp with Cocktail Sauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20601/84784.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/cocktail-shrimp-with-cocktail-sauce-084784",
-          "price": "13.99"
-        },
-        {
-          "name": "Duchess Potatoes",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20602/84764.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/duchess-potatoes-084764",
-          "price": "2.49"
-        },
-        {
-          "name": "Pinwheel Cookie Dough",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20504/84841.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/pinwheel-cookie-dough-084841",
-          "price": "4.49"
-        },
-        {
-          "name": "Bone In Pork Chop with Applesauce",
-          "image_url": "https://www.traderjoes.com/content/dam/trjo/products/m20503/84898.png/jcr:content/renditions/cq5dam.web.1280.1280",
-          "product_url": "https://www.traderjoes.com/home/products/pdp/bone-in-pork-chop-with-applesauce-084898",
-          "price": "8.99"
         }
       ]
     }
