@@ -245,7 +245,7 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
 
 
 def app_list_html():
-    return "<p>" + ", ".join(f'<a href="/apps/{a["slug"]}">{e(a["name"])}</a>' for a in APPS if not a.get("own_privacy_policy")) + ".</p>"
+    return "<p>" + ", ".join(f'<a href="/apps/{a["slug"]}">{e(a["name"])}</a>' for a in APPS if not a.get("privacy_url")) + ".</p>"
 
 
 def content(name):
@@ -862,7 +862,7 @@ def page_app_detail(a):
       {ai_block}
       <h2>Highlights</h2>
       <ul class="checks" style="grid-template-columns:1fr">{''.join(f'<li>{icon("check")}{e(h)}</li>' for h in a['highlights'])}</ul>{how_to}
-      <p class="muted-links">Free on {store_names(a)}. <a href="/support">Support</a> · <a href="/privacy-policy">Privacy Policy</a> · <a href="/delete-account">Data deletion</a></p>
+      <p class="muted-links">Free on {store_names(a)}. <a href="/support">Support</a> · <a href="{a.get('privacy_url', '/privacy-policy')}">Privacy Policy</a> · <a href="{a.get('deletion_url', '/delete-account')}">Data deletion</a></p>
       {extra}
     </div>
     <div class="shots{' wide' if shots and shot_height(a['slug'], 1) < 360 else ''}" aria-label="Screenshots">{shots}</div>
