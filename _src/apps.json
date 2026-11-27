@@ -337,6 +337,7 @@
       "category": "fun",
       "ios_id": "6778024918",
       "android_id": "world.vibin.mobile",
+      "own_privacy_policy": true,
       "site": "https://vibin.world",
       "description": "Vibin is a personality test and quiz app: quick tests on social style, love style, attachment, communication, and culture, plus daily this-or-that polls. Every result shows how rare your type is worldwide and which celebrities share it, then becomes a poster-style card you can share with friends.",
       "highlights": [
@@ -387,6 +388,7 @@
       "seo_description": "See what Globalist benefits looked like at real Hyatt stays: suite upgrades, lounge access, breakfast, resort fees, parking, and pools.",
       "category": "travel",
       "android_id": "com.globalistnotes.mobile",
+      "own_privacy_policy": true,
       "site": "https://globalistnotes.com",
       "description": "Globalist Notes helps travelers understand what to expect before booking a Hyatt hotel, choosing a premium room, or paying for lounge access. Built from real stays through a Globalist perspective, it documents suite upgrades, lounge food and hours, breakfast, resort fees, parking, pools, and practical stay notes, with photos and videos.",
       "highlights": [

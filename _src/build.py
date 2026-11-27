@@ -245,7 +245,7 @@ def layout(*, path, title, description, body, current="", head_extra="", lang="e
 
 
 def app_list_html():
-    return "<p>" + ", ".join(f'<a href="/apps/{a["slug"]}">{e(a["name"])}</a>' for a in APPS) + ".</p>"
+    return "<p>" + ", ".join(f'<a href="/apps/{a["slug"]}">{e(a["name"])}</a>' for a in APPS if not a.get("own_privacy_policy")) + ".</p>"
 
 
 def content(name):
