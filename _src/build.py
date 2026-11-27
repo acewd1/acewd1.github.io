@@ -942,8 +942,25 @@ def page_contact():
     return layout(path="/contact", title="Contact", description="Contact DNNR Tech about consulting, partnerships, or app support.", body=body, dialog=False)
 
 
+def check_own_policy_paragraph(text, marker, name):
+    """Apps with privacy_url leave the covered list automatically; the paragraph that names them is
+    hand-written legal text. Fail the build when the two disagree."""
+    paras = [p for p in re.findall(r"<p>.*?</p>", text, re.S) if marker in p]
+    assert len(paras) == 1, f"{name}: expected one paragraph containing {marker!r}, found {len(paras)}"
+    para = re.sub(r"<[^>]+>", "", paras[0])
+    named = {a["name"] for a in APPS if re.search(r"(?<![\w&])" + re.escape(a["name"]) + r"(?![\w])", para)}
+    own = {a["name"] for a in APPS if a.get("privacy_url")}
+    assert named == own, f"{name}: own-policy paragraph names {sorted(named)} but apps with privacy_url are {sorted(own)}"
+    for a in APPS:
+        if a.get("privacy_url"):
+            host = re.sub(r"^https?://", "", a["privacy_url"]).split("/")[0]
+            assert host in para, f"{name}: own-policy paragraph has no link text for {a['name']} ({host})"
+
+
 def page_privacy():
     en, ko = content("privacy_en.html"), content("privacy_ko.html")
+    check_own_policy_paragraph(en, "have their own websites and privacy policies", "privacy_en.html")
+    check_own_policy_paragraph(ko, "자체 웹사이트에 개인정보처리방침이 있으며", "privacy_ko.html")
 
     def expand(text):
         return re.sub(r"\{\{app:([a-z0-9-]+)\}\}",
