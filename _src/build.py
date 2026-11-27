@@ -955,10 +955,10 @@ def page_privacy():
     ko = expand(ko).replace("{{effective}}", f"{d.year}년 {d.month}월 {d.day}일")
     en_page = doc_page(path="/privacy-policy", title="Privacy Policy", eyebrow="Legal", heading="Privacy Policy",
                        description="How DNNR Tech apps and this website collect, use, and protect your information.",
-                       meta=f"Effective {eff} · Applies to all DNNR Tech apps and dnnr.us", body_html=en, toc=toc_from(en))
+                       meta=f"Effective {eff} · Applies to DNNR Tech apps and dnnr.us", body_html=en, toc=toc_from(en))
     ko_page = doc_page(path="/ko/privacy-policy", title="개인정보처리방침", lang="ko", eyebrow="Legal", heading="개인정보처리방침",
                        description="DNNR Tech 앱과 웹사이트의 개인정보 수집·이용·보호 방식.",
-                       meta=f'시행일 {eff} · DNNR Tech의 모든 앱과 dnnr.us에 적용 · <a href="/privacy-policy">English</a>', body_html=ko, toc=toc_from(ko))
+                       meta=f'시행일 {eff} · DNNR Tech의 앱과 dnnr.us에 적용 · <a href="/privacy-policy">English</a>', body_html=ko, toc=toc_from(ko))
     return en_page, ko_page
 
 
