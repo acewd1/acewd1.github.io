@@ -404,6 +404,8 @@
     {
       "slug": "godsip",
       "name": "Godsip",
+      "privacy_url": "https://godsip.web.app/privacy",
+      "deletion_url": "https://godsip.web.app/privacy",
       "tagline": "Greek gods and myths behind brand, film and game names. Word origins and a quiz.",
       "seo_title": "Godsip: The Greek Myth Behind Brand Names",
       "seo_description": "Type a brand, film, game or everyday word and see the god or story behind the name, how solid the link is, and where it comes from.",
